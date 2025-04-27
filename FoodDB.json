@@ -162,9 +162,33 @@
     {
         "id": "21",
         "name": "Uvas",
-        "regularDoses": [25],
+        "regularDoses": [100],
         "units": ["g"],
         "calsPerUnit": 0.69,
         "satietyIdx": 162
+    },
+    {
+        "id": "22",
+        "name": "Batatas Fritas (air fryer)",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 1.5,
+        "satietyIdx": 117
+    },
+    {
+        "id": "23",
+        "name": "Batatas Fritas",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 3.12,
+        "satietyIdx": 116
+    },
+    {
+        "id": "24",
+        "name": "Arroz",
+        "regularDoses": [100, 6],
+        "units": ["g", "cs"],
+        "calsPerUnit": 1.3,
+        "satietyIdx": 138
     }
 ]
