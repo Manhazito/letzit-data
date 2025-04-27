@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Leite (s\\ açúcar)",
+        "regularDoses": [200],
+        "units": ["ml"],
+        "calsPerUnit": 0.25,
+        "satietyIdx": 110
+    },
+    {
+        "id": "2",
+        "name": "Iogurte (s\\ açúcar)",
+        "regularDoses": [155],
+        "units": ["ml"],
+        "calsPerUnit": 0.3226,
+        "satietyIdx": 75
+    },
+    {
+        "id": "3",
+        "name": "Pão (branco)",
+        "regularDoses": [40],
+        "units": ["g"],
+        "calsPerUnit": 2.5,
+        "satietyIdx": 100
+    },
+    {
+        "id": "4",
+        "name": "Bolachas de água e sal",
+        "regularDoses": [4],
+        "units": ["unit"],
+        "calsPerUnit": 10,
+        "satietyIdx": 127
+    },
+    {
+        "id": "5",
+        "name": "Bolachas Maria",
+        "regularDoses": [3],
+        "units": ["unit"],
+        "calsPerUnit": 26.4,
+        "satietyIdx": 120
+    }
+]
