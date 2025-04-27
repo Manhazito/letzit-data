@@ -304,7 +304,7 @@
         "satietyIdx": 115
     },
     {
-        "id": "38",
+        "id": "39",
         "name": "Salsichas de soja",
         "regularDoses": [2],
         "units": ["unit"],
@@ -312,7 +312,7 @@
         "satietyIdx": 122
     },
     {
-        "id": "39",
+        "id": "40",
         "name": "Batatas cozidas",
         "regularDoses": [200],
         "units": ["g"],
@@ -320,7 +320,7 @@
         "satietyIdx": 323
     },
     {
-        "id": "40",
+        "id": "41",
         "name": "Heineken",
         "regularDoses": [355, 1],
         "units": ["ml", "unit"],
