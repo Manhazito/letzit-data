@@ -310,5 +310,21 @@
         "units": ["unit"],
         "calsPerUnit": 77,
         "satietyIdx": 122
+    },
+    {
+        "id": "39",
+        "name": "Batatas cozidas",
+        "regularDoses": [200],
+        "units": ["g"],
+        "calsPerUnit": 0.86,
+        "satietyIdx": 323
+    },
+    {
+        "id": "40",
+        "name": "Heineken",
+        "regularDoses": [355, 1],
+        "units": ["ml", "unit"],
+        "calsPerUnit": 150,
+        "satietyIdx": 40
     }
 ]
