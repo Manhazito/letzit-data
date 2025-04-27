@@ -238,5 +238,77 @@
         "units": ["g"],
         "calsPerUnit": 1.36,
         "satietyIdx": 220
+    },
+    {
+        "id": "31",
+        "name": "Heura (picada)",
+        "regularDoses": [90],
+        "units": ["g"],
+        "calsPerUnit": 1.69,
+        "satietyIdx": 225
+    },
+    {
+        "id": "32",
+        "name": "Heura (hamburger)",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": 2.07,
+        "satietyIdx": 225
+    },
+    {
+        "id": "33",
+        "name": "Heura (chouriço)",
+        "regularDoses": [2],
+        "units": ["unit"],
+        "calsPerUnit": 70,
+        "satietyIdx": 225
+    },
+    {
+        "id": "34",
+        "name": "Seitan",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 1.16,
+        "satietyIdx": 121
+    },
+    {
+        "id": "35",
+        "name": "Tofu",
+        "regularDoses": [200],
+        "units": ["g"],
+        "calsPerUnit": 1.34,
+        "satietyIdx": 115
+    },
+    {
+        "id": "36",
+        "name": "Gyozas de vegetais",
+        "regularDoses": [6],
+        "units": ["unit"],
+        "calsPerUnit": 30,
+        "satietyIdx": 115
+    },
+    {
+        "id": "37",
+        "name": "Tempura de vegetais",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 1.5,
+        "satietyIdx": 115
+    },
+    {
+        "id": "38",
+        "name": "Bacon vegan",
+        "regularDoses": [3],
+        "units": ["slice"],
+        "calsPerUnit": 60,
+        "satietyIdx": 115
+    },
+    {
+        "id": "38",
+        "name": "Salsichas de soja",
+        "regularDoses": [2],
+        "units": ["unit"],
+        "calsPerUnit": 77,
+        "satietyIdx": 122
     }
 ]
