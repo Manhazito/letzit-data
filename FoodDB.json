@@ -20,11 +20,19 @@
         "name": "Pão (branco)",
         "regularDoses": [40],
         "units": ["g"],
-        "calsPerUnit": 2.5,
+        "calsPerUnit": 2.65,
         "satietyIdx": 100
     },
     {
         "id": "4",
+        "name": "Pão (integral)",
+        "regularDoses": [40],
+        "units": ["g"],
+        "calsPerUnit": 2.47,
+        "satietyIdx": 157
+    },
+    {
+        "id": "5",
         "name": "Bolachas de água e sal",
         "regularDoses": [4],
         "units": ["unit"],
@@ -32,11 +40,131 @@
         "satietyIdx": 127
     },
     {
-        "id": "5",
+        "id": "6",
         "name": "Bolachas Maria",
         "regularDoses": [3],
         "units": ["unit"],
         "calsPerUnit": 26.4,
         "satietyIdx": 120
+    },
+    {
+        "id": "7",
+        "name": "Aveia",
+        "regularDoses": [50, 4],
+        "units": ["g", "cs"],
+        "calsPerUnit": 183,
+        "satietyIdx": 209
+    },
+    {
+        "id": "8",
+        "name": "Sobremesa Chocolate",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 89,
+        "satietyIdx": 45
+    },
+    {
+        "id": "9",
+        "name": "Mini Tostas",
+        "regularDoses": [10],
+        "units": ["unit"],
+        "calsPerUnit": 10,
+        "satietyIdx": 100
+    },
+    {
+        "id": "10",
+        "name": "Tremoços",
+        "regularDoses": [120],
+        "units": ["g"],
+        "calsPerUnit": 1.25,
+        "satietyIdx": 140
+    },
+    {
+        "id": "11",
+        "name": "Maçã",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.5,
+        "satietyIdx": 197
+    },
+    {
+        "id": "12",
+        "name": "Laranja",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.5,
+        "satietyIdx": 202
+    },
+    {
+        "id": "13",
+        "name": "Pêssego",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.39,
+        "satietyIdx": 130
+    },
+    {
+        "id": "14",
+        "name": "Melão",
+        "regularDoses": [100, 2],
+        "units": ["g", "slice"],
+        "calsPerUnit": 0.34,
+        "satietyIdx": 111
+    },
+    {
+        "id": "15",
+        "name": "Melancia",
+        "regularDoses": [100, 2],
+        "units": ["g", "slice"],
+        "calsPerUnit": 0.30,
+        "satietyIdx": 100
+    },
+    {
+        "id": "16",
+        "name": "Pêra",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.57,
+        "satietyIdx": 150
+    },
+    {
+        "id": "17",
+        "name": "Tangerina",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.53,
+        "satietyIdx": 170
+    },
+    {
+        "id": "18",
+        "name": "Ananás",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.5,
+        "satietyIdx": 110
+    },
+    {
+        "id": "19",
+        "name": "Morangos",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.32,
+        "satietyIdx": 160
+    },
+    {
+        "id": "20",
+        "name": "Banana",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": 0.89,
+        "satietyIdx": 118
+    },
+    {
+        "id": "21",
+        "name": "Uvas",
+        "regularDoses": [25],
+        "units": ["g"],
+        "calsPerUnit": 0.69,
+        "satietyIdx": 162
     }
 ]
