@@ -326,5 +326,21 @@
         "units": ["ml", "unit"],
         "calsPerUnit": [1.5, 532.5],
         "satietyIdx": 40
+    },
+    {
+        "id": "42",
+        "name": "Bebida de Soja (sem açúcar)",
+        "regularDoses": [200],
+        "units": ["ml"],
+        "calsPerUnit": [0.25],
+        "satietyIdx": 40
+    },
+    {
+        "id": "43",
+        "name": "Bebida de Soja",
+        "regularDoses": [200],
+        "units": ["ml"],
+        "calsPerUnit": [0.61],
+        "satietyIdx": 40
     }
 ]
