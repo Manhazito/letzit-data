@@ -358,5 +358,13 @@
         "units": ["ml"],
         "calsPerUnit": [1.3],
         "satietyIdx": 40
+    },
+    {
+        "id": "46",
+        "name": "Castanhas",
+        "regularDoses": [10],
+        "units": ["unit"],
+        "calsPerUnit": [20],
+        "satietyIdx": 155
     }
 ]
