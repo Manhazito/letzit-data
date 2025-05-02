@@ -540,7 +540,7 @@
         "name": "Gelatina (sem açúcar)",
         "regularDoses": [220],
         "units": ["ml"],
-        "calsPerUnit": [0.03]
+        "calsPerUnit": [0.03],
         "satietyIdx": 25
     },
     {
@@ -548,7 +548,7 @@
         "name": "Nutella",
         "regularDoses": [15],
         "units": ["g"],
-        "calsPerUnit": [5.39]
+        "calsPerUnit": [5.39],
         "satietyIdx": 45
     },
     {
@@ -556,7 +556,7 @@
         "name": "Manteiga de Amendoim",
         "regularDoses": [20],
         "units": ["g"],
-        "calsPerUnit": [6.51]
+        "calsPerUnit": [6.51],
         "satietyIdx": 70
     },
     {
@@ -564,7 +564,7 @@
         "name": "Pasta (fresca)",
         "regularDoses": [120],
         "units": ["g"],
-        "calsPerUnit": [2.72]
+        "calsPerUnit": [2.72],
         "satietyIdx": 119
     },
     {
@@ -572,7 +572,7 @@
         "name": "Cavala (em azeite)",
         "regularDoses": [85],
         "units": ["g"],
-        "calsPerUnit": [1.89]
+        "calsPerUnit": [1.89],
         "satietyIdx": 200
     },
     {
@@ -580,7 +580,7 @@
         "name": "Sardinhas (em azeite)",
         "regularDoses": [85],
         "units": ["g"],
-        "calsPerUnit": [2.28]
+        "calsPerUnit": [2.28],
         "satietyIdx": 200
     },
     {
@@ -588,7 +588,7 @@
         "name": "Sardinhas (em azeite)",
         "regularDoses": [85],
         "units": ["g"],
-        "calsPerUnit": [2.28]
+        "calsPerUnit": [2.28],
         "satietyIdx": 200
     },
     {
@@ -596,7 +596,7 @@
         "name": "Hamburger (Continente)",
         "regularDoses": [80],
         "units": ["g"],
-        "calsPerUnit": [2.26]
+        "calsPerUnit": [2.26],
         "satietyIdx": 225
     },
     {
@@ -604,7 +604,7 @@
         "name": "Queijo Triângulo",
         "regularDoses": [1],
         "units": ["unit"],
-        "calsPerUnit": [28]
+        "calsPerUnit": [28],
         "satietyIdx": 146
     },
     {
@@ -612,7 +612,7 @@
         "name": "Manteiga",
         "regularDoses": [10],
         "units": ["g"],
-        "calsPerUnit": [7.43]
+        "calsPerUnit": [7.43],
         "satietyIdx": 40
     },
     {
@@ -620,7 +620,7 @@
         "name": "Tulicreme",
         "regularDoses": [20],
         "units": ["g"],
-        "calsPerUnit": [5.73]
+        "calsPerUnit": [5.73],
         "satietyIdx": 45
     },
     {
@@ -628,7 +628,7 @@
         "name": "Tulicreme",
         "regularDoses": [20],
         "units": ["g"],
-        "calsPerUnit": [5.73]
+        "calsPerUnit": [5.73],
         "satietyIdx": 45
     },
     {
