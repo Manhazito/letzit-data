@@ -180,7 +180,7 @@
         "name": "Batatas Fritas",
         "regularDoses": [100],
         "units": ["g"],
-        "calsPerUnit": [3.12],
+        "calsPerUnit": [2.7],
         "satietyIdx": 116
     },
     {
@@ -220,7 +220,7 @@
         "name": "Queijo",
         "regularDoses": [22, 1],
         "units": ["g", "slice"],
-        "calsPerUnit": [3.5, 77],
+        "calsPerUnit": [3.5, 78],
         "satietyIdx": 146
     },
     {
@@ -233,7 +233,7 @@
     },
     {
         "id": "30",
-        "name": "Heura (pedaços)",
+        "name": "Pedaços Frango (Heura)",
         "regularDoses": [110],
         "units": ["g"],
         "calsPerUnit": [1.36],
@@ -241,7 +241,7 @@
     },
     {
         "id": "31",
-        "name": "Heura (picada)",
+        "name": "Carne Picada (Heura)",
         "regularDoses": [90],
         "units": ["g"],
         "calsPerUnit": [1.69],
@@ -249,7 +249,7 @@
     },
     {
         "id": "32",
-        "name": "Heura (hamburger)",
+        "name": "Hamburger (Heura)",
         "regularDoses": [1],
         "units": ["unit"],
         "calsPerUnit": [2.07],
@@ -257,7 +257,7 @@
     },
     {
         "id": "33",
-        "name": "Heura (chouriço)",
+        "name": "Chouriço (Heura)",
         "regularDoses": [2],
         "units": ["unit"],
         "calsPerUnit": [70],
@@ -366,5 +366,237 @@
         "units": ["unit"],
         "calsPerUnit": [20],
         "satietyIdx": 155
+    },
+    {
+        "id": "47",
+        "name": "Stacker Vegetal",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [676],
+        "satietyIdx": 110
+    },
+    {
+        "id": "48",
+        "name": "Big King Vegetal",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [722],
+        "satietyIdx": 110
+    },
+    {
+        "id": "49",
+        "name": "Whopper Vegetal",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [588],
+        "satietyIdx": 110
+    },
+    {
+        "id": "50",
+        "name": "Long Vegetal",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [598],
+        "satietyIdx": 110
+    },
+    {
+        "id": "51",
+        "name": "Batata Frita (média, BK)",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [386],
+        "satietyIdx": 116
+    },
+    {
+        "id": "52",
+        "name": "Nuggets Vegetais (BK)",
+        "regularDoses": [5],
+        "units": ["unit"],
+        "calsPerUnit": [40.6],
+        "satietyIdx": 116
+    },
+    {
+        "id": "53",
+        "name": "Belgas de Chocolate",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [54],
+        "satietyIdx": 70
+    },
+    {
+        "id": "54",
+        "name": "Chocolate Lindt",
+        "regularDoses": [1],
+        "units": ["slice"],
+        "calsPerUnit": [52],
+        "satietyIdx": 70
+    },
+    {
+        "id": "55",
+        "name": "Requeijão",
+        "regularDoses": [85],
+        "units": ["g"],
+        "calsPerUnit": [1.17],
+        "satietyIdx": 165
+    },
+    {
+        "id": "56",
+        "name": "Iogurte líquido",
+        "regularDoses": [160],
+        "units": ["g"],
+        "calsPerUnit": [0.32],
+        "satietyIdx": 135
+    },
+    {
+        "id": "57",
+        "name": "Iogurte líquido",
+        "regularDoses": [160],
+        "units": ["g"],
+        "calsPerUnit": [0.32],
+        "satietyIdx": 135
+    },
+    {
+        "id": "58",
+        "name": "Leite Chocolatado",
+        "regularDoses": [250],
+        "units": ["ml"],
+        "calsPerUnit": [0.61],
+        "satietyIdx": 100
+    },
+    {
+        "id": "59",
+        "name": "Leite Chocolatado",
+        "regularDoses": [250],
+        "units": ["ml"],
+        "calsPerUnit": [0.61],
+        "satietyIdx": 100
+    },
+    {
+        "id": "60",
+        "name": "Alheira",
+        "regularDoses": [200],
+        "units": ["g"],
+        "calsPerUnit": [1.98],
+        "satietyIdx": 120
+    },
+    {
+        "id": "61",
+        "name": "Ketchup",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [0.86],
+        "satietyIdx": 45
+    },
+    {
+        "id": "62",
+        "name": "Molho Agridoce",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [1.93],
+        "satietyIdx": 50
+    },
+    {
+        "id": "63",
+        "name": "Maionese",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [2.64],
+        "satietyIdx": 55
+    },
+    {
+        "id": "64",
+        "name": "Mostarda",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [2.69],
+        "satietyIdx": 35
+    },
+    {
+        "id": "65",
+        "name": "Chocapic",
+        "regularDoses": [15, 1],
+        "units": ["g", "handful"],
+        "calsPerUnit": [3.89, 58.35],
+        "satietyIdx": 60
+    },
+    {
+        "id": "66",
+        "name": "Estrelitas",
+        "regularDoses": [15, 1],
+        "units": ["g", "handful"],
+        "calsPerUnit": [3.94, 59.1],
+        "satietyIdx": 60
+    },
+    {
+        "id": "67",
+        "name": "Gelatina",
+        "regularDoses": [220],
+        "units": ["ml"],
+        "calsPerUnit": [0.57],
+        "satietyIdx": 25
+    },
+    {
+        "id": "68",
+        "name": "Gelatina (sem açúcar)",
+        "regularDoses": [220],
+        "units": ["ml"],
+        "calsPerUnit": [0.03]
+        "satietyIdx": 25
+    },
+    {
+        "id": "69",
+        "name": "Nutella",
+        "regularDoses": [15],
+        "units": ["g"],
+        "calsPerUnit": [5.39]
+        "satietyIdx": 45
+    },
+    {
+        "id": "70",
+        "name": "Manteiga de Amendoim",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [6.51]
+        "satietyIdx": 70
+    },
+    {
+        "id": "71",
+        "name": "Pasta (fresca)",
+        "regularDoses": [120],
+        "units": ["g"],
+        "calsPerUnit": [2.72]
+        "satietyIdx": 119
+    },
+    {
+        "id": "72",
+        "name": "Cavala (em azeite)",
+        "regularDoses": [85],
+        "units": ["g"],
+        "calsPerUnit": [1.89]
+        "satietyIdx": 200
+    },
+    {
+        "id": "73",
+        "name": "Sardinhas (em azeite)",
+        "regularDoses": [85],
+        "units": ["g"],
+        "calsPerUnit": [2.28]
+        "satietyIdx": 200
+    },
+    {
+        "id": "73",
+        "name": "Sardinhas (em azeite)",
+        "regularDoses": [85],
+        "units": ["g"],
+        "calsPerUnit": [2.28]
+        "satietyIdx": 200
+    },
+    {
+        "id": "74",
+        "name": "Hamburger Continente",
+        "regularDoses": [80],
+        "units": ["g"],
+        "calsPerUnit": [2.26]
+        "satietyIdx": 225
     }
 ]
