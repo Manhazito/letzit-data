@@ -717,6 +717,6 @@
         "regularDoses": [150],
         "units": ["g"],
         "calsPerUnit": [2.2],
-        "satietyIdx": 110
+        "satietyIdx": 80
     }
 ]
