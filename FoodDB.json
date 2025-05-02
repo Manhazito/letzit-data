@@ -227,7 +227,7 @@
         "id": "29",
         "name": "Queijo fresco",
         "regularDoses": [30, 0.5],
-        "units": ["g", "slice"],
+        "units": ["g", "unit"],
         "calsPerUnit": [1.88, 113],
         "satietyIdx": 88
     },
@@ -329,7 +329,7 @@
     },
     {
         "id": "42",
-        "name": "Bebida de Soja (sem açúcar)",
+        "name": "Leite (sem açúcar)",
         "regularDoses": [200],
         "units": ["ml"],
         "calsPerUnit": [0.25],
@@ -337,10 +337,10 @@
     },
     {
         "id": "43",
-        "name": "Bebida de Soja",
+        "name": "Leite",
         "regularDoses": [200],
         "units": ["ml"],
-        "calsPerUnit": [0.61],
+        "calsPerUnit": [0.46],
         "satietyIdx": 40
     },
     {
@@ -593,10 +593,82 @@
     },
     {
         "id": "74",
-        "name": "Hamburger Continente",
+        "name": "Hamburger (Continente)",
         "regularDoses": [80],
         "units": ["g"],
         "calsPerUnit": [2.26]
         "satietyIdx": 225
+    },
+    {
+        "id": "75",
+        "name": "Queijo Triângulo",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [28]
+        "satietyIdx": 146
+    },
+    {
+        "id": "76",
+        "name": "Manteiga",
+        "regularDoses": [10],
+        "units": ["g"],
+        "calsPerUnit": [7.43]
+        "satietyIdx": 40
+    },
+    {
+        "id": "77",
+        "name": "Tulicreme",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [5.73]
+        "satietyIdx": 45
+    },
+    {
+        "id": "77",
+        "name": "Tulicreme",
+        "regularDoses": [20],
+        "units": ["g"],
+        "calsPerUnit": [5.73]
+        "satietyIdx": 45
+    },
+    {
+        "id": "78",
+        "name": "Natas Culinária",
+        "regularDoses": [20],
+        "units": ["ml"],
+        "calsPerUnit": [0.61],
+        "satietyIdx": 50
+    },
+    {
+        "id": "79",
+        "name": "Queijo Philadelphia",
+        "regularDoses": [30],
+        "units": ["g"],
+        "calsPerUnit": [2.49],
+        "satietyIdx": 60
+    },
+    {
+        "id": "80",
+        "name": "Queijo Mozzarella",
+        "regularDoses": [125],
+        "units": ["g"],
+        "calsPerUnit": [2.25],
+        "satietyIdx": 120
+    },
+    {
+        "id": "81",
+        "name": "Salmão fumado",
+        "regularDoses": [50],
+        "units": ["g"],
+        "calsPerUnit": [1.7],
+        "satietyIdx": 180
+    },
+    {
+        "id": "82",
+        "name": "Fiambre Peru",
+        "regularDoses": [2],
+        "units": ["slice"],
+        "calsPerUnit": [26],
+        "satietyIdx": 95
     }
 ]
