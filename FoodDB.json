@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Leite (s\\ açúcar)",
+        "name": "Leite (sem açúcar)",
         "regularDoses": [200],
         "units": ["ml"],
         "calsPerUnit": [0.25],
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "name": "Iogurte (s\\ açúcar)",
+        "name": "Iogurte (sem açúcar)",
         "regularDoses": [155],
         "units": ["ml"],
         "calsPerUnit": [0.3226],
@@ -328,14 +328,6 @@
         "satietyIdx": 40
     },
     {
-        "id": "42",
-        "name": "Leite (sem açúcar)",
-        "regularDoses": [200],
-        "units": ["ml"],
-        "calsPerUnit": [0.25],
-        "satietyIdx": 40
-    },
-    {
         "id": "43",
         "name": "Leite",
         "regularDoses": [200],
@@ -457,14 +449,6 @@
     },
     {
         "id": "58",
-        "name": "Leite Chocolatado",
-        "regularDoses": [250],
-        "units": ["ml"],
-        "calsPerUnit": [0.61],
-        "satietyIdx": 100
-    },
-    {
-        "id": "59",
         "name": "Leite Chocolatado",
         "regularDoses": [250],
         "units": ["ml"],
