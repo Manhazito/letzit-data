@@ -710,5 +710,13 @@
         "units": ["unit"],
         "calsPerUnit": [417],
         "satietyIdx": 110
+    },
+    {
+        "id": "89",
+        "name": "Feijoada",
+        "regularDoses": [160, 6],
+        "units": ["g", "cs"],
+        "calsPerUnit": [1.5, 40],
+        "satietyIdx": 110
     }
 ]
