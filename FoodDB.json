@@ -568,14 +568,6 @@
         "satietyIdx": 200
     },
     {
-        "id": "73",
-        "name": "Sardinhas (em azeite)",
-        "regularDoses": [85],
-        "units": ["g"],
-        "calsPerUnit": [2.28],
-        "satietyIdx": 200
-    },
-    {
         "id": "74",
         "name": "Hamburger (Continente)",
         "regularDoses": [80],
@@ -598,14 +590,6 @@
         "units": ["g"],
         "calsPerUnit": [7.43],
         "satietyIdx": 40
-    },
-    {
-        "id": "77",
-        "name": "Tulicreme",
-        "regularDoses": [20],
-        "units": ["g"],
-        "calsPerUnit": [5.73],
-        "satietyIdx": 45
     },
     {
         "id": "77",
@@ -704,7 +688,7 @@
         "satietyIdx": 110
     },
     {
-        "id": "89",
+        "id": "59",
         "name": "Sandes Queijo Fresco",
         "regularDoses": [1],
         "units": ["unit"],
@@ -712,7 +696,7 @@
         "satietyIdx": 110
     },
     {
-        "id": "89",
+        "id": "42",
         "name": "Feijoada",
         "regularDoses": [160, 6],
         "units": ["g", "cs"],
