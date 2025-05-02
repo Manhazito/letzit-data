@@ -670,5 +670,61 @@
         "units": ["slice"],
         "calsPerUnit": [26],
         "satietyIdx": 95
+    },
+    {
+        "id": "83",
+        "name": "Queijo Burrata",
+        "regularDoses": [100],
+        "units": ["g"],
+        "calsPerUnit": [2.38],
+        "satietyIdx": 100
+    },
+    {
+        "id": "84",
+        "name": "Sandes Heura Classic",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [751],
+        "satietyIdx": 110
+    },
+    {
+        "id": "85",
+        "name": "Sandes Heura Crocante",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [846],
+        "satietyIdx": 110
+    },
+    {
+        "id": "86",
+        "name": "Sandes Pasta de Vuna",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [804],
+        "satietyIdx": 110
+    },
+    {
+        "id": "87",
+        "name": "Sandes Pasta de Atum",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [665],
+        "satietyIdx": 110
+    },
+    {
+        "id": "88",
+        "name": "Sandes Mozzarella Pesto",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [643],
+        "satietyIdx": 110
+    },
+    {
+        "id": "89",
+        "name": "Sandes Queijo Fresco",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [417],
+        "satietyIdx": 110
     }
 ]
