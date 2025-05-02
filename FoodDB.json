@@ -702,5 +702,21 @@
         "units": ["g", "cs"],
         "calsPerUnit": [1.5, 40],
         "satietyIdx": 110
+    },
+    {
+        "id": "89",
+        "name": "Froyo",
+        "regularDoses": [150],
+        "units": ["g"],
+        "calsPerUnit": [1.5],
+        "satietyIdx": 80
+    },
+    {
+        "id": "90",
+        "name": "Froyo com Nutella",
+        "regularDoses": [150],
+        "units": ["g"],
+        "calsPerUnit": [2.2],
+        "satietyIdx": 110
     }
 ]
