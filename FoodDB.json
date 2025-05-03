@@ -718,5 +718,29 @@
         "units": ["g"],
         "calsPerUnit": [2.2],
         "satietyIdx": 80
+    },
+    {
+        "id": "91",
+        "name": "Ovo",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [80],
+        "satietyIdx": 150
+    },
+    {
+        "id": "92",
+        "name": "Tomate",
+        "regularDoses": [150, 1],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.18, 27],
+        "satietyIdx": 210
+    },
+    {
+        "id": "93",
+        "name": "Tomate Cherry",
+        "regularDoses": [6],
+        "units": ["unit"],
+        "calsPerUnit": [4],
+        "satietyIdx": 210
     }
 ]
