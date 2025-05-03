@@ -116,7 +116,7 @@
         "name": "Melancia",
         "regularDoses": [100, 2],
         "units": ["g", "slice"],
-        "calsPerUnit": [0.30, 150],
+        "calsPerUnit": [0.3, 150],
         "satietyIdx": 100
     },
     {
@@ -742,5 +742,13 @@
         "units": ["unit"],
         "calsPerUnit": [4],
         "satietyIdx": 210
+    },
+    {
+        "id": "94",
+        "name": "Salada",
+        "regularDoses": [1],
+        "units": ["unit"],
+        "calsPerUnit": [180],
+        "satietyIdx": 200
     }
 ]
