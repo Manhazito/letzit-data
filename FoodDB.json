@@ -1094,5 +1094,32 @@
         "calsPerUnit": [0.61, 73.2],
         "satietyIdx": 90,
         "keywords": ["alho", "francês", "frances", "leek"]
+    },
+    {
+        "id": "102",
+        "name": "Queijo Brie",
+        "regularDoses": [50, 1],
+        "units": ["g", "slice"],
+        "calsPerUnit": [3.34, 167],
+        "satietyIdx": 65,
+        "keywords": ["queijo", "cheese", "brie"]
+    },
+    {
+        "id": "103",
+        "name": "Fermento",
+        "regularDoses": [8, 1],
+        "units": ["g", "cs"],
+        "calsPerUnit": [3.25, 26],
+        "satietyIdx": 45,
+        "keywords": ["fermento", "yeast", "padeiro"]
+    },
+    {
+        "id": "104",
+        "name": "Azeitona",
+        "regularDoses": [4, 1],
+        "units": ["g", "unit"],
+        "calsPerUnit": [1.15, 4.6],
+        "satietyIdx": 65,
+        "keywords": ["azeitonas", "olives"]
     }
 ]

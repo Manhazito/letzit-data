@@ -2,55 +2,34 @@
     {
         "id": "1",
         "name": "Salada",
-        "regularDoses": [1],
-        "units": ["unit"],
+        "servings": 1,
         "satietyIdx": 200,
         "keywords": ["salada", "salad"],
         "ingredients": [
             {
                 "id": "57",
-                "name": "Tomate Cherry",
-                "regularDoses": [12],
-                "units": ["unit"],
-                "calsPerUnit": [4],
-                "satietyIdx": 210,
-                "keywords": ["tomates", "tomatoes", "cereja", "cherry"]
+                "dose": 12,
+                "unit": "unit"
             },
             {
                 "id": "92",
-                "name": "Pepino",
-                "regularDoses": [200, 1],
-                "units": ["g", "unit"],
-                "calsPerUnit": [0.15, 30],
-                "satietyIdx": 200,
-                "keywords": ["pepino", "cucumber"]
+                "dose": 200,
+                "unit": "g"
             },
             {
                 "id": "93",
-                "name": "Pimento",
-                "regularDoses": [50, 0.25],
-                "units": ["g", "unit"],
-                "calsPerUnit": [0.2, 10],
-                "satietyIdx": 175,
-                "keywords": ["pimento", "bell", "pepper"]
+                "dose": 50,
+                "unit": "g"
             },
             {
                 "id": "94",
-                "name": "Rabanete",
-                "regularDoses": [80, 4],
-                "units": ["g", "unit"],
-                "calsPerUnit": [0.15, 12],
-                "satietyIdx": 175,
-                "keywords": ["rabanete", "radish"]
+                "dose": 80,
+                "unit": "g"
             },
             {
                 "id": "95",
-                "name": "Azeite",
-                "regularDoses": [10, 1],
-                "units": ["g", "ts"],
-                "calsPerUnit": [9, 90],
-                "satietyIdx": 100,
-                "keywords": ["azeite", "olive", "oil"]
+                "dose": 10,
+                "unit": "g"
             }
         ]
     }
