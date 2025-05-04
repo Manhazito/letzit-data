@@ -994,5 +994,14 @@
         "calsPerUnit": [80],
         "satietyIdx": 150,
         "keywords": ["ovo", "egg", "cozido", "boiled", "estrelado", "fryed"]
+    },
+    {
+        "id": "43",
+        "name": "Leite",
+        "regularDoses": [200],
+        "units": ["ml"],
+        "calsPerUnit": [0.46],
+        "satietyIdx": 40,
+        "keywords": ["leite", "milk", "bebida", "drink", "soja", "soy"]
     }
 ]
