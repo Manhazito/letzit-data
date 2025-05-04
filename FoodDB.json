@@ -27,8 +27,8 @@
         "calsPerUnit": [0.3226],
         "satietyIdx": 75,
         "keywords": [
-            "iogurte",
-            "yogurt",
+            "iogurtes",
+            "yogurts",
             "líquido",
             "liquido",
             "liquid",
@@ -47,7 +47,17 @@
         "units": ["g"],
         "calsPerUnit": [2.65],
         "satietyIdx": 100,
-        "keywords": ["pao", "bread", "branco", "white", "trigo", "wheat"]
+        "keywords": [
+            "pão",
+            "pao",
+            "pães",
+            "paes",
+            "bread",
+            "branco",
+            "white",
+            "trigo",
+            "wheat"
+        ]
     },
     {
         "id": "4",
@@ -57,7 +67,10 @@
         "calsPerUnit": [2.47],
         "satietyIdx": 157,
         "keywords": [
+            "pão",
             "pao",
+            "pães",
+            "paes",
             "bread",
             "integral",
             "wholemeal",
@@ -109,7 +122,7 @@
         "units": ["g"],
         "calsPerUnit": [0.89],
         "satietyIdx": 45,
-        "keywords": ["sobremesa", "desert", "iogurte", "yogurt", "chocolate"]
+        "keywords": ["sobremesa", "desert", "iogurtes", "yogurts", "chocolate"]
     },
     {
         "id": "9",
@@ -124,6 +137,8 @@
             "toasts",
             "pão",
             "pao",
+            "pães",
+            "paes",
             "bread",
             "trigo",
             "wheat"
@@ -145,7 +160,7 @@
         "units": ["g"],
         "calsPerUnit": [0.5],
         "satietyIdx": 197,
-        "keywords": ["maçã", "maca", "maça", "macã", "apple"]
+        "keywords": ["maçãs", "macas", "maças", "macãs", "apples"]
     },
     {
         "id": "12",
@@ -154,7 +169,7 @@
         "units": ["g"],
         "calsPerUnit": [0.5],
         "satietyIdx": 202,
-        "keywords": ["laranja", "orange"]
+        "keywords": ["laranjas", "oranges"]
     },
     {
         "id": "13",
@@ -163,7 +178,7 @@
         "units": ["g"],
         "calsPerUnit": [0.39],
         "satietyIdx": 130,
-        "keywords": ["pêssego", "pessego", "peach"]
+        "keywords": ["pêssegos", "pessegos", "peaches"]
     },
     {
         "id": "14",
@@ -172,7 +187,7 @@
         "units": ["g", "slice"],
         "calsPerUnit": [0.34, 170],
         "satietyIdx": 111,
-        "keywords": ["melão", "melao", "melon"]
+        "keywords": ["melão", "melao", "melões", "meloes", "melons"]
     },
     {
         "id": "15",
@@ -181,7 +196,7 @@
         "units": ["g", "slice"],
         "calsPerUnit": [0.3, 150],
         "satietyIdx": 100,
-        "keywords": ["melancia", "watermelon"]
+        "keywords": ["melancias", "watermelons"]
     },
     {
         "id": "16",
@@ -190,7 +205,7 @@
         "units": ["g"],
         "calsPerUnit": [0.57],
         "satietyIdx": 150,
-        "keywords": ["pêra", "pera", "pear"]
+        "keywords": ["pêras", "peras", "pears"]
     },
     {
         "id": "17",
@@ -199,7 +214,7 @@
         "units": ["g"],
         "calsPerUnit": [0.53],
         "satietyIdx": 170,
-        "keywords": ["tangerina", "tangerine"]
+        "keywords": ["tangerinas", "tangerines"]
     },
     {
         "id": "18",
@@ -208,7 +223,7 @@
         "units": ["g"],
         "calsPerUnit": [0.5],
         "satietyIdx": 110,
-        "keywords": ["ananás", "ananas", "pineapple"]
+        "keywords": ["ananáses", "ananases", "pineapples"]
     },
     {
         "id": "19",
@@ -217,7 +232,7 @@
         "units": ["g"],
         "calsPerUnit": [0.32],
         "satietyIdx": 160,
-        "keywords": ["morangos", "strawberry"]
+        "keywords": ["morangos", "strawberry", "strawberries"]
     },
     {
         "id": "20",
@@ -226,7 +241,7 @@
         "units": ["g"],
         "calsPerUnit": [0.89],
         "satietyIdx": 118,
-        "keywords": ["banana"]
+        "keywords": ["bananas"]
     },
     {
         "id": "21",
@@ -272,8 +287,8 @@
         "calsPerUnit": [1.31],
         "satietyIdx": 119,
         "keywords": [
-            "pasta",
-            "massa",
+            "pastas",
+            "massas",
             "esparguete",
             "spaghetti",
             "tagliatelle",
@@ -289,7 +304,7 @@
         "units": ["g", "cs"],
         "calsPerUnit": [0.94, 14.1],
         "satietyIdx": 168,
-        "keywords": ["feijão", "feijao", "beans"]
+        "keywords": ["feijão", "feijao", "feijões", "feijoes", "beans"]
     },
     {
         "id": "27",
@@ -298,7 +313,7 @@
         "units": ["g", "cs"],
         "calsPerUnit": [1.64, 20.5],
         "satietyIdx": 131,
-        "keywords": ["grão de bico", "chickpeas"]
+        "keywords": ["grão", "bico", "chickpeas"]
     },
     {
         "id": "28",
@@ -307,7 +322,7 @@
         "units": ["g", "slice"],
         "calsPerUnit": [3.5, 78],
         "satietyIdx": 146,
-        "keywords": ["queijo", "cheese"]
+        "keywords": ["queijos", "cheeses"]
     },
     {
         "id": "29",
@@ -316,7 +331,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [1.88, 113],
         "satietyIdx": 88,
-        "keywords": ["queijo", "cheese", "fresco", "fresh"]
+        "keywords": ["queijos", "cheeses", "frescos", "fresh"]
     },
     {
         "id": "30",
@@ -341,7 +356,7 @@
         "units": ["g"],
         "calsPerUnit": [1.69],
         "satietyIdx": 225,
-        "keywords": ["carne", "meat", "picada", "minced", "heura"]
+        "keywords": ["carnes", "meats", "picadas", "minced", "heura"]
     },
     {
         "id": "32",
@@ -350,7 +365,7 @@
         "units": ["unit"],
         "calsPerUnit": [2.07],
         "satietyIdx": 225,
-        "keywords": ["carne", "meat", "hamburger", "heura"]
+        "keywords": ["carnes", "meats", "hamburgers", "heura"]
     },
     {
         "id": "33",
@@ -359,7 +374,7 @@
         "units": ["unit"],
         "calsPerUnit": [70],
         "satietyIdx": 225,
-        "keywords": ["carne", "meat", "chouriço", "chourico", "chorizo"]
+        "keywords": ["carnes", "meats", "chouriços", "chouricos", "chorizos"]
     },
     {
         "id": "34",
@@ -368,7 +383,7 @@
         "units": ["g"],
         "calsPerUnit": [1.16],
         "satietyIdx": 121,
-        "keywords": ["seitan"]
+        "keywords": ["seitans"]
     },
     {
         "id": "35",
@@ -377,7 +392,7 @@
         "units": ["g"],
         "calsPerUnit": [1.34],
         "satietyIdx": 115,
-        "keywords": ["tofu"]
+        "keywords": ["tofus"]
     },
     {
         "id": "36",
@@ -395,7 +410,7 @@
         "units": ["g"],
         "calsPerUnit": [1.5],
         "satietyIdx": 115,
-        "keywords": ["tempura", "vegetais"]
+        "keywords": ["tempuras", "vegetais"]
     },
     {
         "id": "38",
@@ -404,7 +419,7 @@
         "units": ["slice"],
         "calsPerUnit": [60],
         "satietyIdx": 115,
-        "keywords": ["bacon", "toucinho", "fumado", "panceta"]
+        "keywords": ["bacons", "toucinhos", "fumados", "pancetas"]
     },
     {
         "id": "39",
@@ -431,7 +446,7 @@
         "units": ["ml", "unit"],
         "calsPerUnit": [1.5, 532.5],
         "satietyIdx": 40,
-        "keywords": ["heineken", "cerveja", "beer"]
+        "keywords": ["heinekens", "cervejas", "beers"]
     },
     {
         "id": "44",
@@ -449,7 +464,7 @@
         "units": ["ml"],
         "calsPerUnit": [1.3],
         "satietyIdx": 40,
-        "keywords": ["vinho", "wine", "branco", "white", "tinto", "red"]
+        "keywords": ["vinhos", "wines", "branco", "white", "tinto", "red"]
     },
     {
         "id": "46",
@@ -467,7 +482,7 @@
         "units": ["unit"],
         "calsPerUnit": [676],
         "satietyIdx": 110,
-        "keywords": ["hamburger", "stacker", "vegetal", "king", "bk"]
+        "keywords": ["hamburgers", "stacker", "vegetal", "king", "bk"]
     },
     {
         "id": "48",
@@ -476,7 +491,7 @@
         "units": ["unit"],
         "calsPerUnit": [722],
         "satietyIdx": 110,
-        "keywords": ["hamburger", "big", "vegetal", "king", "bk"]
+        "keywords": ["hamburgers", "big", "vegetal", "king", "bk"]
     },
     {
         "id": "49",
@@ -485,7 +500,7 @@
         "units": ["unit"],
         "calsPerUnit": [588],
         "satietyIdx": 110,
-        "keywords": ["hamburger", "whopper", "vegetal", "king", "bk"]
+        "keywords": ["hamburgers", "whopper", "vegetal", "king", "bk"]
     },
     {
         "id": "50",
@@ -494,7 +509,7 @@
         "units": ["unit"],
         "calsPerUnit": [598],
         "satietyIdx": 110,
-        "keywords": ["hamburger", "long", "vegetal", "king", "bk"]
+        "keywords": ["hamburgers", "long", "vegetal", "king", "bk"]
     },
     {
         "id": "51",
@@ -538,7 +553,7 @@
         "units": ["slice"],
         "calsPerUnit": [52],
         "satietyIdx": 70,
-        "keywords": ["lindt", "chocolate"]
+        "keywords": ["lindt", "chocolates"]
     },
     {
         "id": "55",
@@ -550,8 +565,10 @@
         "keywords": [
             "requeijão",
             "requeijao",
-            "queijo",
-            "cheese",
+            "requeijões",
+            "requeijoes",
+            "queijos",
+            "cheeses",
             "cream",
             "cottage"
         ]
@@ -572,7 +589,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [1.98],
         "satietyIdx": 120,
-        "keywords": ["alheira"]
+        "keywords": ["alheiras"]
     },
     {
         "id": "61",
@@ -590,7 +607,7 @@
         "units": ["g"],
         "calsPerUnit": [1.93],
         "satietyIdx": 50,
-        "keywords": ["molho", "sauce", "agridoce", "sweet", "chilli"]
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"]
     },
     {
         "id": "63",
@@ -635,7 +652,7 @@
         "units": ["ml"],
         "calsPerUnit": [0.57],
         "satietyIdx": 25,
-        "keywords": ["gelatina", "gelly"]
+        "keywords": ["gelatinas", "gelly"]
     },
     {
         "id": "68",
@@ -644,7 +661,7 @@
         "units": ["ml"],
         "calsPerUnit": [0.03],
         "satietyIdx": 25,
-        "keywords": ["gelatina", "gelly", "magra", "light", "sugar", "free"]
+        "keywords": ["gelatinas", "gelly", "magra", "light", "sugar", "free"]
     },
     {
         "id": "69",
@@ -653,7 +670,7 @@
         "units": ["g"],
         "calsPerUnit": [5.39],
         "satietyIdx": 45,
-        "keywords": ["nutella", "chocolate", "spread"]
+        "keywords": ["nutella", "chocolates", "spread"]
     },
     {
         "id": "70",
@@ -662,7 +679,7 @@
         "units": ["g"],
         "calsPerUnit": [6.51],
         "satietyIdx": 70,
-        "keywords": ["manteiga", "butter", "amendoim", "peanut", "spread"]
+        "keywords": ["manteigas", "butters", "amendoim", "peanut", "spread"]
     },
     {
         "id": "71",
@@ -672,8 +689,8 @@
         "calsPerUnit": [2.72],
         "satietyIdx": 119,
         "keywords": [
-            "pasta",
-            "massa",
+            "pastas",
+            "massas",
             "fresca",
             "fresco",
             "fresh",
@@ -691,7 +708,7 @@
         "satietyIdx": 200,
         "keywords": [
             "cavalas",
-            "mackerel",
+            "mackerels",
             "azeite",
             "olive",
             "oil",
@@ -723,7 +740,7 @@
         "units": ["g"],
         "calsPerUnit": [2.26],
         "satietyIdx": 225,
-        "keywords": ["hamburger", "continente"]
+        "keywords": ["hamburgers", "continente"]
     },
     {
         "id": "75",
@@ -732,7 +749,13 @@
         "units": ["unit"],
         "calsPerUnit": [28],
         "satietyIdx": 146,
-        "keywords": ["queijo", "cheese", "triângulo", "triangulo", "triangular"]
+        "keywords": [
+            "queijos",
+            "cheeses",
+            "triângulos",
+            "triangulos",
+            "triangular"
+        ]
     },
     {
         "id": "76",
@@ -741,7 +764,13 @@
         "units": ["g"],
         "calsPerUnit": [7.43],
         "satietyIdx": 40,
-        "keywords": ["manteiga", "butter", "margarina", "margarine", "spread"]
+        "keywords": [
+            "manteigas",
+            "butters",
+            "margarinas",
+            "margarines",
+            "spread"
+        ]
     },
     {
         "id": "77",
@@ -750,7 +779,7 @@
         "units": ["g"],
         "calsPerUnit": [5.73],
         "satietyIdx": 45,
-        "keywords": ["tulicreme", "chocolate", "spread"]
+        "keywords": ["tulicreme", "chocolates", "spread"]
     },
     {
         "id": "78",
@@ -761,7 +790,7 @@
         "satietyIdx": 50,
         "keywords": [
             "natas",
-            "cream",
+            "creams",
             "culinária",
             "culinaria",
             "cooking",
@@ -778,10 +807,10 @@
         "satietyIdx": 60,
         "keywords": [
             "philadelphia",
-            "queijo",
-            "cheese",
-            "cream",
-            "creme",
+            "queijos",
+            "cheeses",
+            "creams",
+            "cremes",
             "spread"
         ]
     },
@@ -792,7 +821,7 @@
         "units": ["g"],
         "calsPerUnit": [2.25],
         "satietyIdx": 120,
-        "keywords": ["queijo", "cheese", "mozzarella"]
+        "keywords": ["queijos", "cheeses", "mozzarella"]
     },
     {
         "id": "81",
@@ -801,7 +830,15 @@
         "units": ["g"],
         "calsPerUnit": [1.7],
         "satietyIdx": 180,
-        "keywords": ["salmão", "salmao", "salmon", "fumado", "smoked"]
+        "keywords": [
+            "salmão",
+            "salmao",
+            "salmon",
+            "salmões",
+            "salmoes",
+            "fumado",
+            "smoked"
+        ]
     },
     {
         "id": "82",
@@ -810,7 +847,7 @@
         "units": ["slice"],
         "calsPerUnit": [26],
         "satietyIdx": 95,
-        "keywords": ["fiambre", "peru", "cold", "cuts", "turkey"]
+        "keywords": ["fiambres", "perus", "cold", "cuts", "turkey"]
     },
     {
         "id": "83",
@@ -819,7 +856,7 @@
         "units": ["g"],
         "calsPerUnit": [2.38],
         "satietyIdx": 100,
-        "keywords": ["queijo", "cheese", "burrata"]
+        "keywords": ["queijos", "cheeses", "burrata"]
     },
     {
         "id": "84",
@@ -830,7 +867,7 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
+            "sandwiches",
             "heura",
             "classic",
             "pans",
@@ -846,7 +883,7 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
+            "sandwiches",
             "heura",
             "crocante",
             "crunchy",
@@ -863,9 +900,9 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
-            "pasta",
-            "paste",
+            "sandwiches",
+            "pastas",
+            "pastes",
             "vuna",
             "atum",
             "tuna",
@@ -882,9 +919,9 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
-            "pasta",
-            "paste",
+            "sandwiches",
+            "pastas",
+            "pastes",
             "atum",
             "tuna",
             "pans",
@@ -900,7 +937,7 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
+            "sandwiches",
             "mozzarella",
             "pesto",
             "pans",
@@ -916,11 +953,11 @@
         "satietyIdx": 110,
         "keywords": [
             "sandes",
-            "sandwich",
-            "queijo",
-            "fresco",
-            "cheese",
-            "fresh",
+            "sandwiches",
+            "queijos",
+            "frescos",
+            "cheeses",
+            "freshes",
             "pans",
             "company"
         ]
@@ -932,7 +969,15 @@
         "units": ["g", "cs"],
         "calsPerUnit": [1.5, 40],
         "satietyIdx": 110,
-        "keywords": ["feijoadad", "feijão", "feijao", "beans", "baked"]
+        "keywords": [
+            "feijoada",
+            "feijão",
+            "feijao",
+            "feijões",
+            "feijoes",
+            "beans",
+            "baked"
+        ]
     },
     {
         "id": "89",
@@ -941,7 +986,7 @@
         "units": ["g"],
         "calsPerUnit": [1.5],
         "satietyIdx": 80,
-        "keywords": ["froyo", "frozen", "yogurt"]
+        "keywords": ["froyos", "frozen", "yogurts"]
     },
     {
         "id": "90",
@@ -951,12 +996,12 @@
         "calsPerUnit": [2.2],
         "satietyIdx": 80,
         "keywords": [
-            "froyo",
+            "froyos",
             "frozen",
-            "yogurt",
+            "yogurts",
             "nutella",
-            "chocolate",
-            "topping"
+            "chocolates",
+            "toppings"
         ]
     },
     {
@@ -975,7 +1020,7 @@
         "units": ["unit"],
         "calsPerUnit": [4],
         "satietyIdx": 210,
-        "keywords": ["tomates", "tomatoes", "cereja", "cherry"]
+        "keywords": ["tomates", "tomatoes", "cerejas", "cherry", "cherries"]
     },
     {
         "id": "43",
@@ -984,7 +1029,7 @@
         "units": ["ml"],
         "calsPerUnit": [0.46],
         "satietyIdx": 40,
-        "keywords": ["leite", "milk", "bebida", "drink", "soja", "soy"]
+        "keywords": ["leites", "milks", "bebidas", "drinks", "soja", "soy"]
     },
     {
         "id": "91",
@@ -993,7 +1038,7 @@
         "units": ["unit"],
         "calsPerUnit": [80],
         "satietyIdx": 150,
-        "keywords": ["ovo", "egg", "cozido", "boiled", "estrelado", "fryed"]
+        "keywords": ["ovos", "eggs", "cozidos", "boiled", "estrelados", "fryed"]
     },
     {
         "id": "92",
@@ -1002,7 +1047,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [0.15, 30],
         "satietyIdx": 200,
-        "keywords": ["pepino", "cucumber"]
+        "keywords": ["pepinos", "cucumbers"]
     },
     {
         "id": "93",
@@ -1011,7 +1056,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [0.2, 10],
         "satietyIdx": 175,
-        "keywords": ["pimento", "bell", "pepper"]
+        "keywords": ["pimentos", "bells", "peppers"]
     },
     {
         "id": "94",
@@ -1020,7 +1065,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [0.15, 12],
         "satietyIdx": 175,
-        "keywords": ["rabanete", "radish"]
+        "keywords": ["rabanetes", "radishes"]
     },
     {
         "id": "95",
@@ -1029,7 +1074,7 @@
         "units": ["g", "cs"],
         "calsPerUnit": [9, 90],
         "satietyIdx": 100,
-        "keywords": ["azeite", "olive", "oil"]
+        "keywords": ["azeites", "olive", "oil"]
     },
     {
         "id": "96",
@@ -1038,7 +1083,13 @@
         "units": ["ml", "cs"],
         "calsPerUnit": [1, 15],
         "satietyIdx": 100,
-        "keywords": ["vinagre", "balsâmico", "balsamico", "vinegar", "balsamic"]
+        "keywords": [
+            "vinagres",
+            "balsâmicos",
+            "balsamicos",
+            "vinegars",
+            "balsamics"
+        ]
     },
     {
         "id": "97",
@@ -1048,15 +1099,15 @@
         "calsPerUnit": [0.333333, 5],
         "satietyIdx": 100,
         "keywords": [
-            "vinagre",
-            "maçã",
-            "maça",
-            "macã",
-            "maca",
-            "vinegar",
-            "apple",
-            "cidra",
-            "cider"
+            "vinagres",
+            "maçãs",
+            "maças",
+            "macãs",
+            "macas",
+            "vinegars",
+            "apples",
+            "cidras",
+            "ciders"
         ]
     },
     {
@@ -1066,7 +1117,7 @@
         "units": ["ml", "cs"],
         "calsPerUnit": [0.2, 3],
         "satietyIdx": 100,
-        "keywords": ["vinagre", "vinho", "vinegar", "wine"]
+        "keywords": ["vinagres", "vinho", "vinegars", "wine"]
     },
     {
         "id": "99",
@@ -1075,7 +1126,7 @@
         "units": ["g"],
         "calsPerUnit": [3.64],
         "satietyIdx": 55,
-        "keywords": ["farinha", "flour", "trigo", "wheat"]
+        "keywords": ["farinhas", "flours", "trigo", "wheat"]
     },
     {
         "id": "100",
@@ -1084,7 +1135,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [1.49, 3.73],
         "satietyIdx": 35,
-        "keywords": ["alho", "garlic"]
+        "keywords": ["alhos", "garlics"]
     },
     {
         "id": "101",
@@ -1093,7 +1144,7 @@
         "units": ["g", "unit"],
         "calsPerUnit": [0.61, 73.2],
         "satietyIdx": 90,
-        "keywords": ["alho", "francês", "frances", "leek"]
+        "keywords": ["alhos", "francêses", "franceses", "leeks"]
     },
     {
         "id": "102",
@@ -1102,7 +1153,7 @@
         "units": ["g", "slice"],
         "calsPerUnit": [3.34, 167],
         "satietyIdx": 65,
-        "keywords": ["queijo", "cheese", "brie"]
+        "keywords": ["queijos", "cheeses", "brie"]
     },
     {
         "id": "103",
@@ -1111,7 +1162,7 @@
         "units": ["g", "cs"],
         "calsPerUnit": [3.25, 26],
         "satietyIdx": 45,
-        "keywords": ["fermento", "yeast", "padeiro"]
+        "keywords": ["fermentos", "yeasts", "padeiros"]
     },
     {
         "id": "104",
