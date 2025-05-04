@@ -313,7 +313,7 @@
         "units": ["g", "cs"],
         "calsPerUnit": [1.64, 20.5],
         "satietyIdx": 131,
-        "keywords": ["grão", "bico", "chickpeas"]
+        "keywords": ["grão", "grao", "bico", "chickpeas"]
     },
     {
         "id": "28",
