@@ -979,12 +979,12 @@
     },
     {
         "id": "43",
-        "name": "Salada",
-        "regularDoses": [1],
-        "units": ["unit"],
-        "calsPerUnit": [180],
-        "satietyIdx": 200,
-        "keywords": ["salada", "salad"]
+        "name": "Leite",
+        "regularDoses": [200],
+        "units": ["ml"],
+        "calsPerUnit": [0.46],
+        "satietyIdx": 40,
+        "keywords": ["leite", "milk", "bebida", "drink", "soja", "soy"]
     },
     {
         "id": "91",
@@ -996,12 +996,103 @@
         "keywords": ["ovo", "egg", "cozido", "boiled", "estrelado", "fryed"]
     },
     {
-        "id": "43",
-        "name": "Leite",
+        "id": "92",
+        "name": "Pepino",
+        "regularDoses": [200, 1],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.15, 30],
+        "satietyIdx": 200,
+        "keywords": ["pepino", "cucumber"]
+    },
+    {
+        "id": "93",
+        "name": "Pimento",
+        "regularDoses": [50, 0.25],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.2, 10],
+        "satietyIdx": 175,
+        "keywords": ["pimento", "bell", "pepper"]
+    },
+    {
+        "id": "94",
+        "name": "Rabanete",
+        "regularDoses": [80, 4],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.15, 12],
+        "satietyIdx": 175,
+        "keywords": ["rabanete", "radish"]
+    },
+    {
+        "id": "95",
+        "name": "Azeite",
+        "regularDoses": [10, 1],
+        "units": ["g", "ts"],
+        "calsPerUnit": [9, 90],
+        "satietyIdx": 100,
+        "keywords": ["azeite", "olive", "oil"]
+    },
+    {
+        "id": "96",
+        "name": "Vinagre Balsâmico",
+        "regularDoses": [15, 1],
+        "units": ["ml", "ts"],
+        "calsPerUnit": [1, 15],
+        "satietyIdx": 100,
+        "keywords": ["vinagre", "balsâmico", "balsamico", "vinegar", "balsamic"]
+    },
+    {
+        "id": "97",
+        "name": "Vinagre de Maçã",
+        "regularDoses": [15, 1],
+        "units": ["ml", "ts"],
+        "calsPerUnit": [0.333333, 5],
+        "satietyIdx": 100,
+        "keywords": [
+            "vinagre",
+            "maçã",
+            "maça",
+            "macã",
+            "maca",
+            "vinegar",
+            "apple",
+            "cidra",
+            "cider"
+        ]
+    },
+    {
+        "id": "98",
+        "name": "Vinagre de Vinho",
+        "regularDoses": [15, 1],
+        "units": ["ml", "ts"],
+        "calsPerUnit": [0.2, 3],
+        "satietyIdx": 100,
+        "keywords": ["vinagre", "vinho", "vinegar", "wine"]
+    },
+    {
+        "id": "99",
+        "name": "Farinha de Trigo",
         "regularDoses": [200],
-        "units": ["ml"],
-        "calsPerUnit": [0.46],
-        "satietyIdx": 40,
-        "keywords": ["leite", "milk", "bebida", "drink", "soja", "soy"]
+        "units": ["g"],
+        "calsPerUnit": [3.64],
+        "satietyIdx": 55,
+        "keywords": ["farinha", "flour", "trigo", "wheat"]
+    },
+    {
+        "id": "100",
+        "name": "Alho",
+        "regularDoses": [100, 0.5],
+        "units": ["g", "unit"],
+        "calsPerUnit": [1.49, 3.73],
+        "satietyIdx": 35,
+        "keywords": ["alho", "garlic"]
+    },
+    {
+        "id": "101",
+        "name": "Alho francês",
+        "regularDoses": [120, 1],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.61, 73.2],
+        "satietyIdx": 90,
+        "keywords": ["alho", "francês", "frances", "leek"]
     }
 ]
