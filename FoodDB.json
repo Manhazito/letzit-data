@@ -1026,7 +1026,7 @@
         "id": "95",
         "name": "Azeite",
         "regularDoses": [10, 1],
-        "units": ["g", "ts"],
+        "units": ["g", "cs"],
         "calsPerUnit": [9, 90],
         "satietyIdx": 100,
         "keywords": ["azeite", "olive", "oil"]
@@ -1035,7 +1035,7 @@
         "id": "96",
         "name": "Vinagre Balsâmico",
         "regularDoses": [15, 1],
-        "units": ["ml", "ts"],
+        "units": ["ml", "cs"],
         "calsPerUnit": [1, 15],
         "satietyIdx": 100,
         "keywords": ["vinagre", "balsâmico", "balsamico", "vinegar", "balsamic"]
@@ -1044,7 +1044,7 @@
         "id": "97",
         "name": "Vinagre de Maçã",
         "regularDoses": [15, 1],
-        "units": ["ml", "ts"],
+        "units": ["ml", "cs"],
         "calsPerUnit": [0.333333, 5],
         "satietyIdx": 100,
         "keywords": [
@@ -1063,7 +1063,7 @@
         "id": "98",
         "name": "Vinagre de Vinho",
         "regularDoses": [15, 1],
-        "units": ["ml", "ts"],
+        "units": ["ml", "cs"],
         "calsPerUnit": [0.2, 3],
         "satietyIdx": 100,
         "keywords": ["vinagre", "vinho", "vinegar", "wine"]
