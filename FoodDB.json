@@ -1201,5 +1201,14 @@
         "calsPerUnit": [1.15, 4.6],
         "satietyIdx": 65,
         "keywords": ["azeitonas", "olives"]
+    },
+    {
+        "id": "105",
+        "name": "Manga",
+        "regularDoses": [500, 1],
+        "units": ["g", "unit"],
+        "calsPerUnit": [0.63, 315],
+        "satietyIdx": 135,
+        "keywords": ["mangas", "mangos"]
     }
 ]
