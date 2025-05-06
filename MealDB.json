@@ -3,7 +3,6 @@
         "id": "1",
         "name": "Salada",
         "servings": 1,
-        "satietyIdx": 200,
         "keywords": ["salada", "salad"],
         "ingredients": [
             {
@@ -55,13 +54,17 @@
         "recipeSteps": [
             {
                 "type": "regular",
-                "steps": [
-                    "Cut the cherry tomatoes in halves",
-                    "Peal the cucumber, and cut it into rounded slices",
-                    "Remove the seeds from the Bell Pepper, and cut it into strips",
-                    "Cut the Radishes into slices",
-                    "Mix them all in a bowl",
-                    "Add the Olive Oil and Balsamin Vinegar and mix again"
+                "group": [
+                    {
+                        "steps": [
+                            "Cut the cherry tomatoes in halves",
+                            "Peal the cucumber, and cut it into rounded slices",
+                            "Remove the seeds from the Bell Pepper, and cut it into strips",
+                            "Cut the Radishes into slices",
+                            "Mix them all in a bowl",
+                            "Add the Olive Oil and Balsamin Vinegar and mix again"
+                        ]
+                    }
                 ]
             }
         ]
