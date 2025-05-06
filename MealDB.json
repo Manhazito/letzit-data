@@ -8,33 +8,43 @@
         "ingredients": [
             {
                 "id": "57",
-                "dose": 12,
-                "unit": "unit",
-                "calories": 48
+                "dose": {
+                    "quantity": 12,
+                    "unit": "unit",
+                    "calsPerUnit": 4
+                }
             },
             {
                 "id": "92",
-                "dose": 200,
-                "unit": "g",
-                "calories": 30
+                "dose": {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 0.15
+                }
             },
             {
                 "id": "93",
-                "dose": 50,
-                "unit": "g",
-                "calories": 10
+                "dose": {
+                    "quantity": 50,
+                    "unit": "g",
+                    "calsPerUnit": 0.2
+                }
             },
             {
                 "id": "94",
-                "dose": 80,
-                "unit": "g",
-                "calories": 12
+                "dose": {
+                    "quantity": 80,
+                    "unit": "g",
+                    "calsPerUnit": 0.15
+                }
             },
             {
                 "id": "95",
-                "dose": 10,
-                "unit": "g",
-                "calories": 90
+                "dose": {
+                    "quantity": 10,
+                    "unit": "g",
+                    "calsPerUnit": 9
+                }
             }
         ],
         "recipeSteps": [
