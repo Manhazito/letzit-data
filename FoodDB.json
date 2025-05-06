@@ -1772,5 +1772,38 @@
                 "calsPerUnit": 315
             }
         ]
+    },
+    {
+        "id": "106",
+        "name": "Iogurte",
+        "satietyIdx": 75,
+        "keywords": [
+            "iogurtes de soja",
+            "iogurte de soja",
+            "iogurtes",
+            "liquid soy yogurts",
+            "iogurtes líquidos",
+            "iogurte líquido"
+        ],
+        "doses": [
+            {
+                "quantity": 151,
+                "unit": "ml",
+                "calsPerUnit": 0.52
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "name": "Sardinha assada",
+        "satietyIdx": 170,
+        "keywords": ["sardinhas assadas", "sardinha assada"],
+        "doses": [
+            {
+                "quantity": 3,
+                "unit": "unit",
+                "calsPerUnit": 120
+            }
+        ]
     }
 ]
