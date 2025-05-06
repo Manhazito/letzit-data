@@ -12,7 +12,8 @@
                     "quantity": 12,
                     "unit": "unit",
                     "calsPerUnit": 4
-                }
+                },
+                "satietyIdx": 210
             },
             {
                 "id": "92",
@@ -20,7 +21,8 @@
                     "quantity": 200,
                     "unit": "g",
                     "calsPerUnit": 0.15
-                }
+                },
+                "satietyIdx": 200
             },
             {
                 "id": "93",
@@ -28,7 +30,8 @@
                     "quantity": 50,
                     "unit": "g",
                     "calsPerUnit": 0.2
-                }
+                },
+                "satietyIdx": 175
             },
             {
                 "id": "94",
@@ -36,7 +39,8 @@
                     "quantity": 80,
                     "unit": "g",
                     "calsPerUnit": 0.15
-                }
+                },
+                "satietyIdx": 175
             },
             {
                 "id": "95",
@@ -44,7 +48,8 @@
                     "quantity": 10,
                     "unit": "g",
                     "calsPerUnit": 9
-                }
+                },
+                "satietyIdx": 100
             }
         ],
         "recipeSteps": [
