@@ -68,5 +68,91 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "2",
+        "name": "Sopa de Legumes",
+        "servings": 6,
+        "keywords": [
+            "sopa de legumes",
+            "creme de legumes",
+            "legume cream",
+            "legume soup"
+        ],
+        "ingredients": [
+            {
+                "id": "40",
+                "dose": {
+                    "quantity": 400,
+                    "unit": "g",
+                    "calsPerUnit": 0.86
+                },
+                "satietyIdx": 323
+            },
+            {
+                "id": "108",
+                "dose": {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 0.43
+                },
+                "satietyIdx": 110
+            },
+            {
+                "id": "109",
+                "dose": {
+                    "quantity": 700,
+                    "unit": "g",
+                    "calsPerUnit": 0.25
+                },
+                "satietyIdx": 145
+            },
+            {
+                "id": "110",
+                "dose": {
+                    "quantity": 800,
+                    "unit": "g",
+                    "calsPerUnit": 0.35
+                },
+                "satietyIdx": 200
+            },
+            {
+                "id": "111",
+                "dose": {
+                    "quantity": 1000,
+                    "unit": "g",
+                    "calsPerUnit": 0.25
+                },
+                "satietyIdx": 170
+            },
+            {
+                "id": "100",
+                "dose": {
+                    "quantity": 2,
+                    "unit": "unit",
+                    "calsPerUnit": 1.49
+                },
+                "satietyIdx": 35
+            },
+            {
+                "id": "112",
+                "dose": {
+                    "quantity": 2,
+                    "unit": "unit",
+                    "calsPerUnit": 52
+                },
+                "satietyIdx": 100
+            },
+            {
+                "id": "113",
+                "dose": {
+                    "quantity": 2,
+                    "unit": "unit",
+                    "calsPerUnit": 42.5
+                },
+                "satietyIdx": 150
+            }
+        ],
+        "recipeSteps": []
     }
 ]

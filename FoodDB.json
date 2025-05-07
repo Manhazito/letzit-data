@@ -1805,5 +1805,113 @@
                 "calsPerUnit": 120
             }
         ]
+    },
+    {
+        "id": "108",
+        "name": "Beterraba",
+        "satietyIdx": 110,
+        "keywords": ["beterraba", "beet"],
+        "doses": [
+            {
+                "quantity": 150,
+                "unit": "g",
+                "calsPerUnit": 0.43
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 64.5
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "name": "Beringela",
+        "satietyIdx": 145,
+        "keywords": ["beringela", "eggplant", "aubergine"],
+        "doses": [
+            {
+                "quantity": 350,
+                "unit": "g",
+                "calsPerUnit": 0.25
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 87.5
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "name": "Bróculos",
+        "satietyIdx": 200,
+        "keywords": ["broculos", "bróculos", "brocolli"],
+        "doses": [
+            {
+                "quantity": 400,
+                "unit": "g",
+                "calsPerUnit": 0.35
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 140
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "name": "Couve",
+        "satietyIdx": 170,
+        "keywords": ["couve", "cabbage"],
+        "doses": [
+            {
+                "quantity": 500,
+                "unit": "g",
+                "calsPerUnit": 0.25
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 125
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "name": "Cebola",
+        "satietyIdx": 100,
+        "keywords": ["cebola", "onion"],
+        "doses": [
+            {
+                "quantity": 130,
+                "unit": "g",
+                "calsPerUnit": 0.4
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 52
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "name": "Courgette",
+        "satietyIdx": 150,
+        "keywords": ["courgette", "zucchini"],
+        "doses": [
+            {
+                "quantity": 250,
+                "unit": "g",
+                "calsPerUnit": 0.17
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 42.5
+            }
+        ]
     }
 ]
