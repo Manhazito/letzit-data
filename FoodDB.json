@@ -2019,5 +2019,28 @@
                 "calsPerUnit": 60.3
             }
         ]
+    },
+    {
+        "id": "121",
+        "name": "Truta frita",
+        "satietyIdx": 205,
+        "keywords": [
+            "truta frita",
+            "trutas fritas",
+            "fried trouts",
+            "pan fried trouts"
+        ],
+        "doses": [
+            {
+                "quantity": 150,
+                "unit": "g",
+                "calsPerUnit": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 270
+            }
+        ]
     }
 ]
