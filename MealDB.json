@@ -154,5 +154,83 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "3",
+        "name": "Esparguete de Cogumelos e Salsichas",
+        "servings": 2,
+        "keywords": [
+            "esparguete de cogumelos e salsichas",
+            "esparguete de salsichas e cogumelos",
+            "esparguete cogumelos salsichas",
+            "esparguete salsichas cogumelos",
+            "mushroom and sausage spaghetti",
+            "sausage and mushroom spaghetti",
+            "mushrooms sausages spaghetti",
+            "sausages mushrooms spaghetti"
+        ],
+        "ingredients": [
+            {
+                "id": "25",
+                "name": "esparguete",
+                "dose": {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.35
+                },
+                "satietyIdx": 323
+            },
+            {
+                "id": "95",
+                "name": "azeite",
+                "dose": {
+                    "quantity": 25,
+                    "unit": "g",
+                    "calsPerUnit": 9
+                },
+                "satietyIdx": 110
+            },
+            {
+                "id": "112",
+                "name": "cebola",
+                "dose": {
+                    "quantity": 50,
+                    "unit": "g",
+                    "calsPerUnit": 0.4
+                },
+                "satietyIdx": 145
+            },
+            {
+                "id": "118",
+                "name": "Cogumelo Marron",
+                "dose": {
+                    "quantity": 300,
+                    "unit": "g",
+                    "calsPerUnit": 0.22
+                },
+                "satietyIdx": 145
+            },
+            {
+                "id": "78",
+                "name": "Natas Culinária",
+                "dose": {
+                    "quantity": 15,
+                    "unit": "ml",
+                    "calsPerUnit": 0.61
+                },
+                "satietyIdx": 50
+            },
+            {
+                "id": "39",
+                "name": "Salsichas de soja",
+                "dose": {
+                    "quantity": 2,
+                    "unit": "unit",
+                    "calsPerUnit": 775
+                },
+                "satietyIdx": 122
+            }
+        ],
+        "recipeSteps": []
     }
 ]

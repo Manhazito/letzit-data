@@ -403,28 +403,6 @@
         ]
     },
     {
-        "id": "25",
-        "name": "Pasta",
-        "satietyIdx": 119,
-        "keywords": [
-            "pastas",
-            "massas",
-            "esparguete",
-            "spaghetti",
-            "tagliatelle",
-            "cotovelos",
-            "cotovelinhos",
-            "fusilli"
-        ],
-        "doses": [
-            {
-                "quantity": 120,
-                "unit": "g",
-                "calsPerUnit": 1.31
-            }
-        ]
-    },
-    {
         "id": "26",
         "name": "Feijão",
         "satietyIdx": 168,
@@ -1911,6 +1889,111 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 42.5
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Esparguete",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "esparguete", "spaghetti"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "name": "Tagliatelle",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "tagliatelle"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31
+            }
+        ]
+    },
+    {
+        "id": "115",
+        "name": "Cotovelos",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "cotovelos", "cotovelinhos"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31
+            }
+        ]
+    },
+    {
+        "id": "116",
+        "name": "Fusilli",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "fusilli"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31
+            }
+        ]
+    },
+    {
+        "id": "117",
+        "name": "Macarrão",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "macarrão", "macarron"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31
+            }
+        ]
+    },
+    {
+        "id": "118",
+        "name": "Cogumelo Marron",
+        "satietyIdx": 145,
+        "keywords": ["cogumelos marron", "cogumelo marron", "marron mushroom"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 0.22
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 6.6
+            }
+        ]
+    },
+    {
+        "id": "119",
+        "name": "Cogumelo Portobello",
+        "satietyIdx": 145,
+        "keywords": [
+            "cogumelos portobello",
+            "cogumelo portobello",
+            "portobello mushroom"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 0.22
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 22
             }
         ]
     }
