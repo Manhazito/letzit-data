@@ -172,7 +172,7 @@
         "ingredients": [
             {
                 "id": "25",
-                "name": "esparguete",
+                "name": "Esparguete",
                 "dose": {
                     "quantity": 100,
                     "unit": "g",
@@ -182,7 +182,7 @@
             },
             {
                 "id": "95",
-                "name": "azeite",
+                "name": "Azeite",
                 "dose": {
                     "quantity": 25,
                     "unit": "g",
@@ -192,7 +192,7 @@
             },
             {
                 "id": "112",
-                "name": "cebola",
+                "name": "Cebola",
                 "dose": {
                     "quantity": 50,
                     "unit": "g",
@@ -229,6 +229,45 @@
                     "calsPerUnit": 77
                 },
                 "satietyIdx": 122
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "4",
+        "name": "Leite com Aveia",
+        "servings": 1,
+        "keywords": [
+            "leite com aveia",
+            "leite aveia",
+            "aveia com leite",
+            "aveia leite",
+            "oat with milk",
+            "oat milk",
+            "milk with oat",
+            "milk oat",
+            "oatmeal"
+        ],
+        "ingredients": [
+            {
+                "id": "1",
+                "name": "Leite (sem açúcar)",
+                "dose": {
+                    "quantity": 200,
+                    "unit": "ml",
+                    "calsPerUnit": 0.25
+                },
+                "satietyIdx": 200
+            },
+            {
+                "id": "7",
+                "name": "Aveia",
+                "dose": {
+                    "quantity": 4,
+                    "unit": "cs",
+                    "calsPerUnit": 22.88
+                },
+                "satietyIdx": 209
             }
         ],
         "recipeSteps": []

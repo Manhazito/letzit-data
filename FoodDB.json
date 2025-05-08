@@ -1996,5 +1996,28 @@
                 "calsPerUnit": 22
             }
         ]
+    },
+    {
+        "id": "120",
+        "name": "Queijo Parmesão",
+        "satietyIdx": 100,
+        "keywords": [
+            "queijo parmesão",
+            "queijo parmesao",
+            "queijo parmigiano",
+            "parmigiano cheese"
+        ],
+        "doses": [
+            {
+                "quantity": 150,
+                "unit": "g",
+                "calsPerUnit": 4.02
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 60.3
+            }
+        ]
     }
 ]
