@@ -2032,7 +2032,7 @@
         ],
         "doses": [
             {
-                "quantity": 150,
+                "quantity": 45,
                 "unit": "g",
                 "calsPerUnit": 1.8
             },
