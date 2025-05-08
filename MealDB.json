@@ -7,6 +7,7 @@
         "ingredients": [
             {
                 "id": "57",
+                "name": "Tomate Cherry",
                 "dose": {
                     "quantity": 12,
                     "unit": "unit",
@@ -16,6 +17,7 @@
             },
             {
                 "id": "92",
+                "name": "Pepino",
                 "dose": {
                     "quantity": 200,
                     "unit": "g",
@@ -25,6 +27,7 @@
             },
             {
                 "id": "93",
+                "name": "Pimento",
                 "dose": {
                     "quantity": 50,
                     "unit": "g",
@@ -34,6 +37,7 @@
             },
             {
                 "id": "94",
+                "name": "Rabanete",
                 "dose": {
                     "quantity": 80,
                     "unit": "g",
@@ -43,6 +47,7 @@
             },
             {
                 "id": "95",
+                "name": "Azeite",
                 "dose": {
                     "quantity": 10,
                     "unit": "g",
@@ -57,12 +62,12 @@
                 "group": [
                     {
                         "steps": [
-                            "Cut the cherry tomatoes in halves",
-                            "Peal the cucumber, and cut it into rounded slices",
-                            "Remove the seeds from the Bell Pepper, and cut it into strips",
-                            "Cut the Radishes into slices",
+                            "Cut the {57} cherry tomatoes in halves",
+                            "Peal the {92} of cucumber, and cut it into rounded slices",
+                            "Remove the seeds from the {93} of Bell Pepper, and cut it into strips",
+                            "Cut the {94} of Radishes into slices",
                             "Mix them all in a bowl",
-                            "Add the Olive Oil and Balsamin Vinegar and mix again"
+                            "Add the {95} of Olive Oil and Balsamin Vinegar and mix again"
                         ]
                     }
                 ]
@@ -82,6 +87,7 @@
         "ingredients": [
             {
                 "id": "40",
+                "name": "Batatas cozidas",
                 "dose": {
                     "quantity": 400,
                     "unit": "g",
@@ -91,6 +97,7 @@
             },
             {
                 "id": "108",
+                "name": "Beterraba",
                 "dose": {
                     "quantity": 200,
                     "unit": "g",
@@ -100,6 +107,7 @@
             },
             {
                 "id": "109",
+                "name": "Beringela",
                 "dose": {
                     "quantity": 700,
                     "unit": "g",
@@ -109,6 +117,7 @@
             },
             {
                 "id": "110",
+                "name": "Bróculos",
                 "dose": {
                     "quantity": 800,
                     "unit": "g",
@@ -118,6 +127,7 @@
             },
             {
                 "id": "111",
+                "name": "Couve",
                 "dose": {
                     "quantity": 1000,
                     "unit": "g",
@@ -127,6 +137,7 @@
             },
             {
                 "id": "100",
+                "name": "Alho",
                 "dose": {
                     "quantity": 2,
                     "unit": "unit",
@@ -136,6 +147,7 @@
             },
             {
                 "id": "112",
+                "name": "Cebola",
                 "dose": {
                     "quantity": 2,
                     "unit": "unit",
@@ -145,6 +157,7 @@
             },
             {
                 "id": "113",
+                "name": "Courgette",
                 "dose": {
                     "quantity": 2,
                     "unit": "unit",
