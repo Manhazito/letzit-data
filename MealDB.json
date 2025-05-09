@@ -6,54 +6,58 @@
         "keywords": ["salada", "salad"],
         "ingredients": [
             {
-                "id": "57",
-                "name": "Tomate Cherry",
-                "dose": {
-                    "quantity": 12,
-                    "unit": "unit",
-                    "calsPerUnit": 4
-                },
-                "satietyIdx": 210
-            },
-            {
-                "id": "92",
-                "name": "Pepino",
-                "dose": {
-                    "quantity": 200,
-                    "unit": "g",
-                    "calsPerUnit": 0.15
-                },
-                "satietyIdx": 200
-            },
-            {
-                "id": "93",
-                "name": "Pimento",
-                "dose": {
-                    "quantity": 50,
-                    "unit": "g",
-                    "calsPerUnit": 0.2
-                },
-                "satietyIdx": 175
-            },
-            {
-                "id": "94",
-                "name": "Rabanete",
-                "dose": {
-                    "quantity": 80,
-                    "unit": "g",
-                    "calsPerUnit": 0.15
-                },
-                "satietyIdx": 175
-            },
-            {
-                "id": "95",
-                "name": "Azeite",
-                "dose": {
-                    "quantity": 10,
-                    "unit": "g",
-                    "calsPerUnit": 9
-                },
-                "satietyIdx": 100
+                "ingredients": [
+                    {
+                        "id": "57",
+                        "name": "Tomate Cherry",
+                        "dose": {
+                            "quantity": 12,
+                            "unit": "unit",
+                            "calsPerUnit": 4
+                        },
+                        "satietyIdx": 210
+                    },
+                    {
+                        "id": "92",
+                        "name": "Pepino",
+                        "dose": {
+                            "quantity": 200,
+                            "unit": "g",
+                            "calsPerUnit": 0.15
+                        },
+                        "satietyIdx": 200
+                    },
+                    {
+                        "id": "93",
+                        "name": "Pimento",
+                        "dose": {
+                            "quantity": 50,
+                            "unit": "g",
+                            "calsPerUnit": 0.2
+                        },
+                        "satietyIdx": 175
+                    },
+                    {
+                        "id": "94",
+                        "name": "Rabanete",
+                        "dose": {
+                            "quantity": 80,
+                            "unit": "g",
+                            "calsPerUnit": 0.15
+                        },
+                        "satietyIdx": 175
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "dose": {
+                            "quantity": 10,
+                            "unit": "g",
+                            "calsPerUnit": 9
+                        },
+                        "satietyIdx": 100
+                    }
+                ]
             }
         ],
         "recipeSteps": [
@@ -86,84 +90,88 @@
         ],
         "ingredients": [
             {
-                "id": "40",
-                "name": "Batatas cozidas",
-                "dose": {
-                    "quantity": 400,
-                    "unit": "g",
-                    "calsPerUnit": 0.86
-                },
-                "satietyIdx": 323
-            },
-            {
-                "id": "108",
-                "name": "Beterraba",
-                "dose": {
-                    "quantity": 200,
-                    "unit": "g",
-                    "calsPerUnit": 0.43
-                },
-                "satietyIdx": 110
-            },
-            {
-                "id": "109",
-                "name": "Beringela",
-                "dose": {
-                    "quantity": 700,
-                    "unit": "g",
-                    "calsPerUnit": 0.25
-                },
-                "satietyIdx": 145
-            },
-            {
-                "id": "110",
-                "name": "Bróculos",
-                "dose": {
-                    "quantity": 800,
-                    "unit": "g",
-                    "calsPerUnit": 0.35
-                },
-                "satietyIdx": 200
-            },
-            {
-                "id": "111",
-                "name": "Couve",
-                "dose": {
-                    "quantity": 1000,
-                    "unit": "g",
-                    "calsPerUnit": 0.25
-                },
-                "satietyIdx": 170
-            },
-            {
-                "id": "100",
-                "name": "Alho",
-                "dose": {
-                    "quantity": 2,
-                    "unit": "unit",
-                    "calsPerUnit": 1.49
-                },
-                "satietyIdx": 35
-            },
-            {
-                "id": "112",
-                "name": "Cebola",
-                "dose": {
-                    "quantity": 2,
-                    "unit": "unit",
-                    "calsPerUnit": 52
-                },
-                "satietyIdx": 100
-            },
-            {
-                "id": "113",
-                "name": "Courgette",
-                "dose": {
-                    "quantity": 2,
-                    "unit": "unit",
-                    "calsPerUnit": 42.5
-                },
-                "satietyIdx": 150
+                "ingredients": [
+                    {
+                        "id": "40",
+                        "name": "Batatas cozidas",
+                        "dose": {
+                            "quantity": 400,
+                            "unit": "g",
+                            "calsPerUnit": 0.86
+                        },
+                        "satietyIdx": 323
+                    },
+                    {
+                        "id": "108",
+                        "name": "Beterraba",
+                        "dose": {
+                            "quantity": 200,
+                            "unit": "g",
+                            "calsPerUnit": 0.43
+                        },
+                        "satietyIdx": 110
+                    },
+                    {
+                        "id": "109",
+                        "name": "Beringela",
+                        "dose": {
+                            "quantity": 700,
+                            "unit": "g",
+                            "calsPerUnit": 0.25
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "110",
+                        "name": "Bróculos",
+                        "dose": {
+                            "quantity": 800,
+                            "unit": "g",
+                            "calsPerUnit": 0.35
+                        },
+                        "satietyIdx": 200
+                    },
+                    {
+                        "id": "111",
+                        "name": "Couve",
+                        "dose": {
+                            "quantity": 1000,
+                            "unit": "g",
+                            "calsPerUnit": 0.25
+                        },
+                        "satietyIdx": 170
+                    },
+                    {
+                        "id": "100",
+                        "name": "Alho",
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 1.49
+                        },
+                        "satietyIdx": 35
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 52
+                        },
+                        "satietyIdx": 100
+                    },
+                    {
+                        "id": "113",
+                        "name": "Courgette",
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 42.5
+                        },
+                        "satietyIdx": 150
+                    }
+                ]
             }
         ],
         "recipeSteps": []
@@ -184,64 +192,68 @@
         ],
         "ingredients": [
             {
-                "id": "25",
-                "name": "Esparguete",
-                "dose": {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 1.35
-                },
-                "satietyIdx": 323
-            },
-            {
-                "id": "95",
-                "name": "Azeite",
-                "dose": {
-                    "quantity": 25,
-                    "unit": "g",
-                    "calsPerUnit": 9
-                },
-                "satietyIdx": 110
-            },
-            {
-                "id": "112",
-                "name": "Cebola",
-                "dose": {
-                    "quantity": 50,
-                    "unit": "g",
-                    "calsPerUnit": 0.4
-                },
-                "satietyIdx": 145
-            },
-            {
-                "id": "118",
-                "name": "Cogumelo Marron",
-                "dose": {
-                    "quantity": 300,
-                    "unit": "g",
-                    "calsPerUnit": 0.22
-                },
-                "satietyIdx": 145
-            },
-            {
-                "id": "78",
-                "name": "Natas Culinária",
-                "dose": {
-                    "quantity": 15,
-                    "unit": "ml",
-                    "calsPerUnit": 0.61
-                },
-                "satietyIdx": 50
-            },
-            {
-                "id": "39",
-                "name": "Salsichas de soja",
-                "dose": {
-                    "quantity": 2,
-                    "unit": "unit",
-                    "calsPerUnit": 77
-                },
-                "satietyIdx": 122
+                "ingredients": [
+                    {
+                        "id": "25",
+                        "name": "Esparguete",
+                        "dose": {
+                            "quantity": 100,
+                            "unit": "g",
+                            "calsPerUnit": 1.35
+                        },
+                        "satietyIdx": 323
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "dose": {
+                            "quantity": 25,
+                            "unit": "g",
+                            "calsPerUnit": 9
+                        },
+                        "satietyIdx": 110
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "dose": {
+                            "quantity": 50,
+                            "unit": "g",
+                            "calsPerUnit": 0.4
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "118",
+                        "name": "Cogumelo Marron",
+                        "dose": {
+                            "quantity": 300,
+                            "unit": "g",
+                            "calsPerUnit": 0.22
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "78",
+                        "name": "Natas Culinária",
+                        "dose": {
+                            "quantity": 15,
+                            "unit": "ml",
+                            "calsPerUnit": 0.61
+                        },
+                        "satietyIdx": 50
+                    },
+                    {
+                        "id": "39",
+                        "name": "Salsichas de soja",
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 77
+                        },
+                        "satietyIdx": 122
+                    }
+                ]
             }
         ],
         "recipeSteps": []
@@ -263,24 +275,28 @@
         ],
         "ingredients": [
             {
-                "id": "1",
-                "name": "Leite (sem açúcar)",
-                "dose": {
-                    "quantity": 200,
-                    "unit": "ml",
-                    "calsPerUnit": 0.25
-                },
-                "satietyIdx": 200
-            },
-            {
-                "id": "7",
-                "name": "Aveia",
-                "dose": {
-                    "quantity": 4,
-                    "unit": "cs",
-                    "calsPerUnit": 22.88
-                },
-                "satietyIdx": 209
+                "ingredients": [
+                    {
+                        "id": "1",
+                        "name": "Leite (sem açúcar)",
+                        "dose": {
+                            "quantity": 200,
+                            "unit": "ml",
+                            "calsPerUnit": 0.25
+                        },
+                        "satietyIdx": 200
+                    },
+                    {
+                        "id": "7",
+                        "name": "Aveia",
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "cs",
+                            "calsPerUnit": 22.88
+                        },
+                        "satietyIdx": 209
+                    }
+                ]
             }
         ],
         "recipeSteps": []
