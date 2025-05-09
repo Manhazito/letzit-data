@@ -201,7 +201,7 @@
                             "unit": "g",
                             "calsPerUnit": 1.35
                         },
-                        "satietyIdx": 323
+                        "satietyIdx": 119
                     },
                     {
                         "id": "95",
@@ -237,11 +237,21 @@
                         "id": "78",
                         "name": "Natas Culinária",
                         "dose": {
-                            "quantity": 15,
-                            "unit": "ml",
-                            "calsPerUnit": 0.61
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 36.6
                         },
                         "satietyIdx": 50
+                    },
+                    {
+                        "id": "122",
+                        "name": "Tomate picado",
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 8.64
+                        },
+                        "satietyIdx": 125
                     },
                     {
                         "id": "39",
@@ -295,6 +305,102 @@
                             "calsPerUnit": 22.88
                         },
                         "satietyIdx": 209
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "5",
+        "name": "Arroz de Cogumelos e Salsichas",
+        "servings": 2,
+        "keywords": [
+            "arroz de cogumelos e salsichas",
+            "arroz de salsichas e cogumelos",
+            "arroz com cogumelos e salsichas",
+            "arroz com salsichas e cogumelos",
+            "arroz cogumelos salsichas",
+            "arroz salsichas cogumelos",
+            "mushroom and sausage rice",
+            "sausage and mushroom rice",
+            "rice with mushrooms and sausage",
+            "rice with sausage and mushrooms",
+            "mushrooms sausages rice",
+            "sausages mushrooms rice"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "24",
+                        "name": "Arroz",
+                        "dose": {
+                            "quantity": 100,
+                            "unit": "g",
+                            "calsPerUnit": 1.3
+                        },
+                        "satietyIdx": 138
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "dose": {
+                            "quantity": 25,
+                            "unit": "g",
+                            "calsPerUnit": 9
+                        },
+                        "satietyIdx": 110
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "dose": {
+                            "quantity": 50,
+                            "unit": "g",
+                            "calsPerUnit": 0.4
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "118",
+                        "name": "Cogumelo Marron",
+                        "dose": {
+                            "quantity": 300,
+                            "unit": "g",
+                            "calsPerUnit": 0.22
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "78",
+                        "name": "Natas Culinária",
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 36.6
+                        },
+                        "satietyIdx": 50
+                    },
+                    {
+                        "id": "122",
+                        "name": "Tomate picado",
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 8.64
+                        },
+                        "satietyIdx": 125
+                    },
+                    {
+                        "id": "39",
+                        "name": "Salsichas de soja",
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 77
+                        },
+                        "satietyIdx": 122
                     }
                 ]
             }

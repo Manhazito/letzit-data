@@ -1163,9 +1163,14 @@
         ],
         "doses": [
             {
-                "quantity": 20,
+                "quantity": 60,
                 "unit": "ml",
                 "calsPerUnit": 0.61
+            },
+            {
+                "quantity": 4,
+                "unit": "unit",
+                "calsPerUnit": 36.6
             }
         ]
     },
@@ -2040,6 +2045,31 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 81
+            }
+        ]
+    },
+    {
+        "id": "122",
+        "name": "Tomate picado",
+        "satietyIdx": 125,
+        "keywords": [
+            "tomate picado",
+            "tomates picados",
+            "tomate triturado",
+            "tomates triturados",
+            "chopped tomatoes",
+            "crushed tomatoes"
+        ],
+        "doses": [
+            {
+                "quantity": 48,
+                "unit": "g",
+                "calsPerUnit": 0.18
+            },
+            {
+                "quantity": 4,
+                "unit": "unit",
+                "calsPerUnit": 8.64
             }
         ]
     }
