@@ -1650,19 +1650,19 @@
     },
     {
         "id": "100",
-        "name": "Alho",
-        "satietyIdx": 35,
-        "keywords": ["alhos", "garlics"],
+        "name": "Alho (dente)",
+        "satietyIdx": 90,
+        "keywords": ["dente de alhos", "garlic cloves"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 6,
                 "unit": "g",
-                "calsPerUnit": 1.49
+                "calsPerUnit": 1.67
             },
             {
-                "quantity": 0.5,
+                "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 3.73
+                "calsPerUnit": 5
             }
         ]
     },
