@@ -2072,5 +2072,48 @@
                 "calsPerUnit": 8.64
             }
         ]
+    },
+    {
+        "id": "123",
+        "name": "Cerejas",
+        "satietyIdx": 145,
+        "keywords": ["cerejas", "cherry", "cherries"],
+        "doses": [
+            {
+                "quantity": 500,
+                "unit": "g",
+                "calsPerUnit": 0.58
+            },
+            {
+                "quantity": 55,
+                "unit": "unit",
+                "calsPerUnit": 31.9
+            }
+        ]
+    },
+    {
+        "id": "124",
+        "name": "Hummus",
+        "satietyIdx": 160,
+        "keywords": [
+            "húmus",
+            "humus",
+            "hummus",
+            "grão de bico",
+            "grao de bico",
+            "chickpeas"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 2.1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 60
+            }
+        ]
     }
 ]
