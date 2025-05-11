@@ -2216,7 +2216,12 @@
             {
                 "quantity": 406,
                 "unit": "g",
-                "calsPerUnit": 1108.38
+                "calsPerUnit": 2.73
+            },
+            {
+                "quantity": 72,
+                "unit": "g",
+                "calsPerUnit": 1.98
             }
         ]
     },
