@@ -2115,5 +2115,99 @@
                 "calsPerUnit": 60
             }
         ]
+    },
+    {
+        "id": "125",
+        "name": "Gema de Ovo",
+        "satietyIdx": 120,
+        "keywords": [
+            "ovos",
+            "eggs",
+            "cozidos",
+            "boiled",
+            "estrelados",
+            "fryed"
+        ],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "g",
+                "calsPerUnit": 3.24
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 48.6
+            }
+        ]
+    },
+    {
+        "id": "126",
+        "name": "Clara de Ovo",
+        "satietyIdx": 180,
+        "keywords": [
+            "ovos",
+            "eggs",
+            "cozidos",
+            "boiled",
+            "estrelados",
+            "fryed"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 0.52
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 15.6
+            }
+        ]
+    },
+    {
+        "id": "127",
+        "name": "Pimenta preta",
+        "satietyIdx": 40,
+        "keywords": ["pimenta preta", "black pepper"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "g",
+                "calsPerUnit": 2.5
+            }
+        ]
+    },
+    {
+        "id": "128",
+        "name": "Sal",
+        "satietyIdx": 5,
+        "keywords": ["sal", "salt"],
+        "doses": [
+            {
+                "quantity": 5,
+                "unit": "g",
+                "calsPerUnit": 0
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "name": "Ben & Jerry's Cookie Dough",
+        "satietyIdx": 55,
+        "keywords": [
+            "gelado ben & jerry's",
+            "gelado ben and jerry's",
+            "ben & jerry's ice cream",
+            "ben and jerry's ice cream"
+        ],
+        "doses": [
+            {
+                "quantity": 406,
+                "unit": "g",
+                "calsPerUnit": 1108.38
+            }
+        ]
     }
 ]
