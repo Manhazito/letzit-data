@@ -607,7 +607,7 @@
     },
     {
         "id": "38",
-        "name": "Bacon vegan",
+        "name": "Bacon vegan (Vegana by Tentugal)",
         "satietyIdx": 115,
         "keywords": [
             "bacon vegan",
@@ -617,9 +617,14 @@
         ],
         "doses": [
             {
-                "quantity": 3,
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 2.36
+            },
+            {
+                "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 60
+                "calsPerUnit": 118
             }
         ]
     },
@@ -806,7 +811,7 @@
         "id": "54",
         "name": "Chocolate Lindt",
         "satietyIdx": 70,
-        "keywords": ["chocolates lindt", "chocolate lindt"],
+        "keywords": ["chocolates lindt", "chocolats lindt"],
         "doses": [
             {
                 "quantity": 1,
@@ -992,7 +997,7 @@
         "id": "69",
         "name": "Nutella",
         "satietyIdx": 45,
-        "keywords": ["nutella", "chocolates", "spreads"],
+        "keywords": ["nutella", "chocolates", "chocolats", "spreads"],
         "doses": [
             {
                 "quantity": 15,
@@ -1142,7 +1147,7 @@
         "id": "77",
         "name": "Tulicreme",
         "satietyIdx": 45,
-        "keywords": ["tulicreme", "chocolates", "spreads"],
+        "keywords": ["tulicreme", "chocolates", "chocolats", "spreads"],
         "doses": [
             {
                 "quantity": 20,
@@ -1562,6 +1567,11 @@
                 "quantity": 10,
                 "unit": "g",
                 "calsPerUnit": 9
+            },
+            {
+                "quantity": 100,
+                "unit": "spray",
+                "calsPerUnit": 0.1
             },
             {
                 "quantity": 1,
@@ -2207,6 +2217,55 @@
                 "quantity": 406,
                 "unit": "g",
                 "calsPerUnit": 1108.38
+            }
+        ]
+    },
+    {
+        "id": "130",
+        "name": "Bacon vegan (AlterVego)",
+        "satietyIdx": 115,
+        "keywords": [
+            "bacon vegan",
+            "bacon vegetariano",
+            "toucinho fumado",
+            "panceta"
+        ],
+        "doses": [
+            {
+                "quantity": 36,
+                "unit": "g",
+                "calsPerUnit": 1.85
+            },
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 66.6
+            }
+        ]
+    },
+    {
+        "id": "131",
+        "name": "Schoko Bons",
+        "satietyIdx": 115,
+        "keywords": ["schoko bons", "chocolates", "chocolats"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 33
+            }
+        ]
+    },
+    {
+        "id": "132",
+        "name": "Manjericão fresco",
+        "satietyIdx": 70,
+        "keywords": ["manjericão fresco", "manjericao fresco", "fresh basil"],
+        "doses": [
+            {
+                "quantity": 2.5,
+                "unit": "g",
+                "calsPerUnit": 0.23
             }
         ]
     }

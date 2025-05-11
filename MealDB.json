@@ -426,7 +426,7 @@
                         "name": "Queijo Parmesão",
                         "satietyIdx": 100,
                         "dose": {
-                            "quantity": 40,
+                            "quantity": 30,
                             "unit": "g",
                             "calsPerUnit": 4.02
                         }
@@ -456,7 +456,7 @@
                         "name": "Pasta (fresca)",
                         "satietyIdx": 119,
                         "dose": {
-                            "quantity": 120,
+                            "quantity": 100,
                             "unit": "g",
                             "calsPerUnit": 2.72
                         }
@@ -466,9 +466,9 @@
                         "name": "Azeite",
                         "satietyIdx": 100,
                         "dose": {
-                            "quantity": 1,
-                            "unit": "cs",
-                            "calsPerUnit": 90
+                            "quantity": 40,
+                            "unit": "spray",
+                            "calsPerUnit": 0.1
                         }
                     },
                     {
@@ -492,13 +492,23 @@
                         }
                     },
                     {
-                        "id": "38",
-                        "name": "Bacon vegan",
+                        "id": "130",
+                        "name": "Bacon vegan (AlterVego)",
                         "satietyIdx": 115,
                         "dose": {
-                            "quantity": 4,
+                            "quantity": 5,
                             "unit": "slice",
-                            "calsPerUnit": 60
+                            "calsPerUnit": 66.6
+                        }
+                    },
+                    {
+                        "id": "132",
+                        "name": "Manjericão fresco",
+                        "satietyIdx": 70,
+                        "dose": {
+                            "quantity": 2.5,
+                            "unit": "g",
+                            "calsPerUnit": 0.23
                         }
                     }
                 ]
