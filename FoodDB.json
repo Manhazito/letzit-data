@@ -2268,5 +2268,23 @@
                 "calsPerUnit": 0.23
             }
         ]
+    },
+    {
+        "id": "133",
+        "name": "Pizza Ristorante (Dr. Oetker)",
+        "satietyIdx": 65,
+        "keywords": ["pizza ristorante", "pizza dr. oetker"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 810
+            },
+            {
+                "quantity": 8,
+                "unit": "slice",
+                "calsPerUnit": 101.25
+            }
+        ]
     }
 ]
