@@ -2337,23 +2337,6 @@
         ]
     },
     {
-        "id": "135",
-        "name": "American Donut",
-        "satietyIdx": 65,
-        "keywords": [
-            "donuts americanos",
-            "american donuts",
-            "american doughnuts"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 364.08
-            }
-        ]
-    },
-    {
         "id": "136",
         "name": "Broa de Milho",
         "satietyIdx": 110,
@@ -2443,6 +2426,23 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 200
+            }
+        ]
+    },
+    {
+        "id": "141",
+        "name": "American Donut",
+        "satietyIdx": 65,
+        "keywords": [
+            "donuts americanos",
+            "american donuts",
+            "american doughnuts"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 364.08
             }
         ]
     }
