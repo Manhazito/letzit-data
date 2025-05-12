@@ -648,9 +648,14 @@
         "keywords": ["batatas cozidas", "baked potatoes"],
         "doses": [
             {
-                "quantity": 200,
+                "quantity": 260,
                 "unit": "g",
                 "calsPerUnit": 0.86
+            },
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 223.6
             }
         ]
     },
@@ -2289,6 +2294,155 @@
                 "quantity": 8,
                 "unit": "slice",
                 "calsPerUnit": 101.25
+            }
+        ]
+    },
+    {
+        "id": "134",
+        "name": "Barra de Cereais (Nakd)",
+        "satietyIdx": 70,
+        "keywords": [
+            "barra the cereais",
+            "barrita de cereais",
+            "barra crua",
+            "barrita crua",
+            "raw bar",
+            "raw nuts bar",
+            "raw fruits and nuts bar"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 128
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "name": "Donut",
+        "satietyIdx": 68,
+        "keywords": [
+            "donuts clássicos",
+            "donuts classicos",
+            "classic donuts",
+            "classic doughnuts"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 197.5
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "name": "American Donut",
+        "satietyIdx": 65,
+        "keywords": [
+            "donuts americanos",
+            "american donuts",
+            "american doughnuts"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 364.08
+            }
+        ]
+    },
+    {
+        "id": "136",
+        "name": "Broa de Milho",
+        "satietyIdx": 110,
+        "keywords": [
+            "broa de milho",
+            "pão de milho",
+            "pao de milho",
+            "cornbread"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 2.48
+            }
+        ]
+    },
+    {
+        "id": "137",
+        "name": "Espinafres",
+        "satietyIdx": 140,
+        "keywords": ["espinafres", "spinach"],
+        "doses": [
+            {
+                "quantity": 250,
+                "unit": "g",
+                "calsPerUnit": 0.23
+            }
+        ]
+    },
+    {
+        "id": "138",
+        "name": "Cenoura",
+        "satietyIdx": 142,
+        "keywords": ["cenouras", "carrots"],
+        "doses": [
+            {
+                "quantity": 80,
+                "unit": "g",
+                "calsPerUnit": 0.41
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 32.8
+            }
+        ]
+    },
+    {
+        "id": "139",
+        "name": "Levedura de Cerveja",
+        "satietyIdx": 142,
+        "keywords": ["levedura de cerveja", "brewer's yeast", "brewer yeast"],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "g",
+                "calsPerUnit": 4
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 60
+            }
+        ]
+    },
+    {
+        "id": "140",
+        "name": "Pastel de Nata",
+        "satietyIdx": 65,
+        "keywords": [
+            "pastel de natas",
+            "pastel de belém",
+            "pastel de belem",
+            "pasteis de natas",
+            "pasteis de belém",
+            "pasteis de belem",
+            "custard tarts"
+        ],
+        "doses": [
+            {
+                "quantity": 65,
+                "unit": "g",
+                "calsPerUnit": 3.077
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 200
             }
         ]
     }
