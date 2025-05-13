@@ -628,5 +628,137 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "8",
+        "name": "Spaghetti Bolognese",
+        "servings": 4,
+        "keywords": [
+            "pasta bolognese",
+            "esparguete bolonhesa",
+            "tagliatelle bolonhesa",
+            "bolonhesa de esparguete",
+            "bolonhesa de tagliatelle",
+            "pasta bolonhesa",
+            "spaghetti bolognese",
+            "tagliatelle bolognese"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "100",
+                        "name": "Alho (dente)",
+                        "satietyIdx": 90,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 5
+                        }
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 52
+                        }
+                    },
+                    {
+                        "id": "31",
+                        "name": "Carne Picada (Heura)",
+                        "satietyIdx": 225,
+                        "dose": {
+                            "quantity": 500,
+                            "unit": "g",
+                            "calsPerUnit": 1.69
+                        }
+                    },
+                    {
+                        "id": "45",
+                        "name": "Vinho tinto",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 125,
+                            "unit": "ml",
+                            "calsPerUnit": 1.3
+                        }
+                    },
+                    {
+                        "id": "122",
+                        "name": "Tomate picado",
+                        "satietyIdx": 125,
+                        "dose": {
+                            "quantity": 800,
+                            "unit": "g",
+                            "calsPerUnit": 0.18
+                        }
+                    },
+                    {
+                        "id": "143",
+                        "name": "Açúcar",
+                        "satietyIdx": 60,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "cs",
+                            "calsPerUnit": 46.44
+                        }
+                    },
+                    {
+                        "id": "25",
+                        "name": "Esparguete",
+                        "satietyIdx": 119,
+                        "dose": {
+                            "quantity": 400,
+                            "unit": "g",
+                            "calsPerUnit": 1.31
+                        }
+                    },
+                    {
+                        "id": "120",
+                        "name": "Queijo Parmesão",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "cs",
+                            "calsPerUnit": 60.3
+                        }
+                    },
+                    {
+                        "id": "128",
+                        "name": "Sal",
+                        "satietyIdx": 5,
+                        "dose": {
+                            "quantity": 5,
+                            "unit": "g",
+                            "calsPerUnit": 0
+                        }
+                    },
+                    {
+                        "id": "127",
+                        "name": "Pimenta preta",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "g",
+                            "calsPerUnit": 2.5
+                        }
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]
