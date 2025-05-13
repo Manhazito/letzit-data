@@ -630,7 +630,7 @@
         "recipeSteps": []
     },
     {
-        "id": "8",
+        "id": "2",
         "name": "Pasta Bolognese",
         "servings": 4,
         "keywords": [
@@ -651,7 +651,7 @@
                         "name": "Alho (dente)",
                         "satietyIdx": 90,
                         "dose": {
-                            "quantity": 2,
+                            "quantity": 1,
                             "unit": "unit",
                             "calsPerUnit": 5
                         }
@@ -661,7 +661,7 @@
                         "name": "Cebola",
                         "satietyIdx": 100,
                         "dose": {
-                            "quantity": 1,
+                            "quantity": 0.5,
                             "unit": "unit",
                             "calsPerUnit": 52
                         }
@@ -671,19 +671,9 @@
                         "name": "Carne Picada (Heura)",
                         "satietyIdx": 225,
                         "dose": {
-                            "quantity": 400,
+                            "quantity": 180,
                             "unit": "g",
                             "calsPerUnit": 1.69
-                        }
-                    },
-                    {
-                        "id": "45",
-                        "name": "Vinho tinto",
-                        "satietyIdx": 40,
-                        "dose": {
-                            "quantity": 100,
-                            "unit": "ml",
-                            "calsPerUnit": 1.3
                         }
                     },
                     {
@@ -691,19 +681,9 @@
                         "name": "Tomate picado",
                         "satietyIdx": 125,
                         "dose": {
-                            "quantity": 800,
+                            "quantity": 250,
                             "unit": "g",
                             "calsPerUnit": 0.18
-                        }
-                    },
-                    {
-                        "id": "143",
-                        "name": "Açúcar",
-                        "satietyIdx": 60,
-                        "dose": {
-                            "quantity": 2,
-                            "unit": "cs",
-                            "calsPerUnit": 46.44
                         }
                     },
                     {
@@ -711,7 +691,7 @@
                         "name": "Pasta (fresca)",
                         "satietyIdx": 119,
                         "dose": {
-                            "quantity": 400,
+                            "quantity": 100,
                             "unit": "g",
                             "calsPerUnit": 2.72
                         }
@@ -721,7 +701,7 @@
                         "name": "Queijo Parmesão",
                         "satietyIdx": 100,
                         "dose": {
-                            "quantity": 3,
+                            "quantity": 2,
                             "unit": "cs",
                             "calsPerUnit": 60.3
                         }
