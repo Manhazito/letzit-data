@@ -740,5 +740,143 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "9",
+        "name": "Pasta com Heura e Cogumelos",
+        "servings": 2,
+        "keywords": [
+            "pasta com heura e cogumelos",
+            "pasta heura cogumelos",
+            "pasta com cogumelos e heura",
+            "pasta cogumelos heura",
+            "esparguete com heura e cogumelos",
+            "esparguete heura cogumelos",
+            "esparguete com cogumelos e heura",
+            "esparguete cogumelos heura",
+            "tagliatelle com heura e cogumelos",
+            "tagliatelle heura cogumelos",
+            "tagliatelle com cogumelos e heura",
+            "tagliatelle cogumelos heura",
+            "pasta with heura and mushrooms",
+            "pasta heura cogumelos",
+            "pasta with cogumelos and heura",
+            "pasta cogumelos heura",
+            "esparguete with heura and mushrooms",
+            "esparguete heura mushrooms",
+            "esparguete with mushrooms and heura",
+            "esparguete mushrooms heura",
+            "tagliatelle with heura and mushrooms",
+            "tagliatelle heura mushrooms",
+            "tagliatelle with mushrooms and heura",
+            "tagliatelle mushrooms heura"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "100",
+                        "name": "Alho (dente)",
+                        "satietyIdx": 90,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 5
+                        }
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 0.5,
+                            "unit": "unit",
+                            "calsPerUnit": 52
+                        }
+                    },
+                    {
+                        "id": "30",
+                        "name": "Pedaços Frango (Heura)",
+                        "satietyIdx": 220,
+                        "dose": {
+                            "quantity": 200,
+                            "unit": "g",
+                            "calsPerUnit": 1.36
+                        }
+                    },
+                    {
+                        "id": "118",
+                        "name": "Cogumelo Marron",
+                        "satietyIdx": 145,
+                        "dose": {
+                            "quantity": 200,
+                            "unit": "g",
+                            "calsPerUnit": 0.22
+                        }
+                    },
+                    {
+                        "id": "71",
+                        "name": "Pasta (fresca)",
+                        "satietyIdx": 119,
+                        "dose": {
+                            "quantity": 100,
+                            "unit": "g",
+                            "calsPerUnit": 2.72
+                        }
+                    },
+                    {
+                        "id": "120",
+                        "name": "Queijo Parmesão",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "cs",
+                            "calsPerUnit": 60.3
+                        }
+                    },
+                    {
+                        "id": "128",
+                        "name": "Sal",
+                        "satietyIdx": 5,
+                        "dose": {
+                            "quantity": 5,
+                            "unit": "g",
+                            "calsPerUnit": 0
+                        }
+                    },
+                    {
+                        "id": "127",
+                        "name": "Pimenta preta",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "g",
+                            "calsPerUnit": 2.5
+                        }
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    },
+                    {
+                        "id": "78",
+                        "name": "Natas Culinária",
+                        "satietyIdx": 50,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 36.6
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]
