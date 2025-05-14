@@ -799,7 +799,7 @@
                         "name": "Pedaços Frango (Heura)",
                         "satietyIdx": 220,
                         "dose": {
-                            "quantity": 200,
+                            "quantity": 180,
                             "unit": "g",
                             "calsPerUnit": 1.36
                         }
@@ -809,7 +809,7 @@
                         "name": "Cogumelo Marron",
                         "satietyIdx": 145,
                         "dose": {
-                            "quantity": 200,
+                            "quantity": 180,
                             "unit": "g",
                             "calsPerUnit": 0.22
                         }
@@ -829,7 +829,7 @@
                         "name": "Queijo Parmesão",
                         "satietyIdx": 100,
                         "dose": {
-                            "quantity": 2,
+                            "quantity": 1.5,
                             "unit": "cs",
                             "calsPerUnit": 60.3
                         }
