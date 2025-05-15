@@ -660,24 +660,6 @@
         ]
     },
     {
-        "id": "41",
-        "name": "Heineken",
-        "satietyIdx": 40,
-        "keywords": ["cerveja heineken", "cervejas heineken", "heineken beers"],
-        "doses": [
-            {
-                "quantity": 355,
-                "unit": "ml",
-                "calsPerUnit": 1.5
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 532.5
-            }
-        ]
-    },
-    {
         "id": "44",
         "name": "Legumes estufados",
         "satietyIdx": 150,
@@ -2474,6 +2456,81 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 46.44
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "name": "Poke Bowl (sushi rice and soy meat",
+        "satietyIdx": 60,
+        "keywords": ["boke bowls"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 565
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Heineken",
+        "satietyIdx": 40,
+        "keywords": ["cerveja heineken", "cervejas heineken", "heineken beers"],
+        "doses": [
+            {
+                "quantity": 250,
+                "unit": "ml",
+                "calsPerUnit": 0.45
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 112.5
+            }
+        ]
+    },
+    {
+        "id": "145",
+        "name": "Super Bock",
+        "satietyIdx": 40,
+        "keywords": [
+            "cerveja super bock",
+            "cervejas super bock",
+            "super bock beers"
+        ],
+        "doses": [
+            {
+                "quantity": 330,
+                "unit": "ml",
+                "calsPerUnit": 0.4
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 132
+            }
+        ]
+    },
+    {
+        "id": "146",
+        "name": "Estrella Damm",
+        "satietyIdx": 40,
+        "keywords": [
+            "cerveja estrella damm",
+            "cervejas estrella damm",
+            "estrella damm beers"
+        ],
+        "doses": [
+            {
+                "quantity": 330,
+                "unit": "ml",
+                "calsPerUnit": 0.42
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 138.6
             }
         ]
     }
