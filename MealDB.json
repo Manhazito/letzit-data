@@ -932,5 +932,41 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "10",
+        "name": "Torrada com manteiga (café)",
+        "servings": 1,
+        "keywords": [
+            "torrada com manteiga",
+            "toast with butter"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "3",
+                        "name": "Pão (branco)",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 130,
+                            "unit": "g",
+                            "calsPerUnit": 2.9
+                        }
+                    },
+                    {
+                        "id": "76",
+                        "name": "Manteiga",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 10,
+                            "unit": "g",
+                            "calsPerUnit": 7.43
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]
