@@ -2010,29 +2010,6 @@
         ]
     },
     {
-        "id": "121",
-        "name": "Truta frita",
-        "satietyIdx": 205,
-        "keywords": [
-            "truta frita",
-            "trutas fritas",
-            "fried trouts",
-            "pan fried trouts"
-        ],
-        "doses": [
-            {
-                "quantity": 45,
-                "unit": "g",
-                "calsPerUnit": 1.8
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 81
-            }
-        ]
-    },
-    {
         "id": "122",
         "name": "Tomate picado",
         "satietyIdx": 125,
@@ -2531,6 +2508,56 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 138.6
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "name": "Truta frita",
+        "satietyIdx": 205,
+        "keywords": [
+            "peixe frito",
+            "fried fish",
+            "truta frita",
+            "trutas fritas",
+            "fried trouts",
+            "pan fried trouts"
+        ],
+        "doses": [
+            {
+                "quantity": 45,
+                "unit": "g",
+                "calsPerUnit": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 81
+            }
+        ]
+    },
+    {
+        "id": "147",
+        "name": "Lúcio frito",
+        "satietyIdx": 170,
+        "keywords": [
+            "peixe frito",
+            "fried fish",
+            "lúcio frito",
+            "lucio frito",
+            "fried spikes",
+            "pan fried spikes"
+        ],
+        "doses": [
+            {
+                "quantity": 60,
+                "unit": "g",
+                "calsPerUnit": 2.93
+            },
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 175.8
             }
         ]
     }
