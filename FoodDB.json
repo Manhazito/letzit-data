@@ -2048,7 +2048,7 @@
             {
                 "quantity": 55,
                 "unit": "unit",
-                "calsPerUnit": 31.9
+                "calsPerUnit": 5.273
             }
         ]
     },
@@ -2558,6 +2558,31 @@
                 "quantity": 2,
                 "unit": "slice",
                 "calsPerUnit": 87.9
+            }
+        ]
+    },
+    {
+        "id": "148",
+        "name": "Filete de Pescada",
+        "satietyIdx": 110,
+        "keywords": [
+            "peixe frito",
+            "fried fish",
+            "filetes de pescada fritas",
+            "filetes pescada fritas",
+            "fried hake filets",
+            "pan fried hake filets"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 2.2
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 220
             }
         ]
     }
