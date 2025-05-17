@@ -2617,7 +2617,7 @@
         ],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 50,
                 "unit": "g",
                 "calsPerUnit": 3.9
             },
