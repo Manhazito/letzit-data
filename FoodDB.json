@@ -2603,5 +2603,29 @@
                 "calsPerUnit": 16
             }
         ]
+    },
+    {
+        "id": "150",
+        "name": "Torta de Chocolate",
+        "satietyIdx": 60,
+        "keywords": [
+            "torta de chocolate",
+            "torta chocolate",
+            "chocolate swiss roll",
+            "chocolate roulade",
+            "chocolate roll"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 3.9
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 195
+            }
+        ]
     }
 ]
