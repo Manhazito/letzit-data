@@ -965,5 +965,48 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "12",
+        "name": "Omelete de Queijo",
+        "servings": 1,
+        "keywords": ["omelete de queijo", "omelete queijo", "cheese omelet"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "91",
+                        "name": "Ovo",
+                        "satietyIdx": 150,
+                        "dose": {
+                            "quantity": 3,
+                            "unit": "unit",
+                            "calsPerUnit": 80
+                        }
+                    },
+                    {
+                        "id": "28",
+                        "name": "Queijo",
+                        "satietyIdx": 146,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "slice",
+                            "calsPerUnit": 78
+                        }
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]
