@@ -2585,5 +2585,23 @@
                 "calsPerUnit": 220
             }
         ]
+    },
+    {
+        "id": "149",
+        "name": "Alface",
+        "satietyIdx": 175,
+        "keywords": ["alface", "lettuce"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 0.16
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 16
+            }
+        ]
     }
 ]
