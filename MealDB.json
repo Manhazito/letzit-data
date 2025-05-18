@@ -1008,5 +1008,74 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "13",
+        "name": "Hamburger no pão",
+        "servings": 1,
+        "keywords": [
+            "hamburger no pão",
+            "hamburger no pao",
+            "hamburger pão",
+            "hamburger pao",
+            "hamburger on bread"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "3",
+                        "name": "Pão (branco)",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 80,
+                            "unit": "g",
+                            "calsPerUnit": 2.9
+                        }
+                    },
+                    {
+                        "id": "74",
+                        "name": "Hamburger (Continente)",
+                        "satietyIdx": 225,
+                        "dose": {
+                            "quantity": 80,
+                            "unit": "g",
+                            "calsPerUnit": 2.26
+                        }
+                    },
+                    {
+                        "id": "28",
+                        "name": "Queijo",
+                        "satietyIdx": 146,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "slice",
+                            "calsPerUnit": 78
+                        }
+                    },
+                    {
+                        "id": "56",
+                        "name": "Tomate",
+                        "satietyIdx": 60,
+                        "dose": {
+                            "quantity": 50,
+                            "unit": "g",
+                            "calsPerUnit": 0.18
+                        }
+                    },
+                    {
+                        "id": "63",
+                        "name": "Maionese",
+                        "satietyIdx": 55,
+                        "dose": {
+                            "quantity": 20,
+                            "unit": "g",
+                            "calsPerUnit": 2.64
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]

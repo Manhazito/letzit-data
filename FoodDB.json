@@ -2627,5 +2627,118 @@
                 "calsPerUnit": 195
             }
         ]
+    },
+    {
+        "id": "151",
+        "name": "Ice Tea",
+        "satietyIdx": 60,
+        "keywords": [
+            "ice tea",
+            "iced tea",
+            "lipton ice tea",
+            "lipton iced tea"
+        ],
+        "doses": [
+            {
+                "quantity": 330,
+                "unit": "ml",
+                "calsPerUnit": 0.136
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 45
+            }
+        ]
+    },
+    {
+        "id": "152",
+        "name": "Crepes Chineses (Continente)",
+        "satietyIdx": 50,
+        "keywords": [
+            "crepes chineses",
+            "crepes primavera",
+            "spring rolls",
+            "chinese rolls"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 1.29
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 64.5
+            }
+        ]
+    },
+    {
+        "id": "153",
+        "name": "Bolo de Aniversário",
+        "satietyIdx": 65,
+        "keywords": [
+            "bolo de aniversário",
+            "bolo de aniversario",
+            "bolo genérico",
+            "bolo generico",
+            "birthday cake",
+            "generic cake"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 3.75
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 375
+            }
+        ]
+    },
+    {
+        "id": "154",
+        "name": "Bolo de Chocolate",
+        "satietyIdx": 65,
+        "keywords": ["bolo de chocolate", "chocolate cake"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 4.25
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 425
+            }
+        ]
+    },
+    {
+        "id": "155",
+        "name": "Bolo de Manteiga (mini)",
+        "satietyIdx": 58,
+        "keywords": [
+            "bolo de manteiga",
+            "bolo manteiga",
+            "bolinho de manteiga",
+            "bolinho manteiga",
+            "matulos"
+        ],
+        "doses": [
+            {
+                "quantity": 45,
+                "unit": "g",
+                "calsPerUnit": 4
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 180
+            }
+        ]
     }
 ]
