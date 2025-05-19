@@ -306,7 +306,7 @@
         "id": "18",
         "name": "Ananás",
         "satietyIdx": 110,
-        "keywords": ["ananáses", "ananases", "pineapples"],
+        "keywords": ["ananáses", "ananases", "abacaxis", "pineapples"],
         "doses": [
             {
                 "quantity": 100,
