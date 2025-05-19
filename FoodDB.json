@@ -2740,5 +2740,29 @@
                 "calsPerUnit": 180
             }
         ]
+    },
+    {
+        "id": "156",
+        "name": "Patanisca de Bacalhau",
+        "satietyIdx": 120,
+        "keywords": [
+            "patanisca de bacalhau",
+            "pataniscas de bacalhau",
+            "codfish fritters",
+            "salt cod fritters",
+            "salt cod pancakes"
+        ],
+        "doses": [
+            {
+                "quantity": 55,
+                "unit": "g",
+                "calsPerUnit": 2.46
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 135
+            }
+        ]
     }
 ]
