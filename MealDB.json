@@ -1081,7 +1081,7 @@
     {
         "id": "14",
         "name": "Esparguete com legumes",
-        "servings": 1,
+        "servings": 2,
         "keywords": [
             "esparguete com legumes",
             "esparguete legumes",
@@ -1153,6 +1153,16 @@
                             "quantity": 100,
                             "unit": "g",
                             "calsPerUnit": 2.72
+                        }
+                    },
+                    {
+                        "id": "78",
+                        "name": "Natas Culinária",
+                        "satietyIdx": 50,
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 36.6
                         }
                     },
                     {
