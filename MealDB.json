@@ -1086,7 +1086,11 @@
             "esparguete com legumes",
             "esparguete legumes",
             "spaghetti with vegetables",
-            "spaghetti vegetables"
+            "spaghetti vegetables",
+            "pasta com legumes",
+            "pasta legumes",
+            "pasta with vegetables",
+            "pasta vegetables"
         ],
         "ingredients": [
             {
@@ -1142,13 +1146,23 @@
                         }
                     },
                     {
+                        "id": "71",
+                        "name": "Pasta (fresca)",
+                        "satietyIdx": 119,
+                        "dose": {
+                            "quantity": 100,
+                            "unit": "g",
+                            "calsPerUnit": 2.72
+                        }
+                    },
+                    {
                         "id": "120",
                         "name": "Queijo Parmesão",
                         "satietyIdx": 100,
                         "dose": {
                             "quantity": 1,
                             "unit": "cs",
-                            "calsPerUnit": 90
+                            "calsPerUnit": 60.3
                         }
                     }
                 ]
