@@ -2764,5 +2764,27 @@
                 "calsPerUnit": 135
             }
         ]
+    },
+    {
+        "id": "157",
+        "name": "Espargos grelhados",
+        "satietyIdx": 130,
+        "keywords": [
+            "espargos grelhados",
+            "espargo grelhado",
+            "grilled aspargus"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 0.6
+            },
+            {
+                "quantity": 5,
+                "unit": "unit",
+                "calsPerUnit": 30
+            }
+        ]
     }
 ]

@@ -1077,5 +1077,83 @@
             }
         ],
         "recipeSteps": []
+    },
+    {
+        "id": "14",
+        "name": "Esparguete com legumes",
+        "servings": 1,
+        "keywords": [
+            "esparguete com legumes",
+            "esparguete legumes",
+            "spaghetti with vegetables",
+            "spaghetti vegetables"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 0.5,
+                            "unit": "unit",
+                            "calsPerUnit": 52
+                        }
+                    },
+                    {
+                        "id": "138",
+                        "name": "Cenoura",
+                        "satietyIdx": 142,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 32.8
+                        }
+                    },
+                    {
+                        "id": "113",
+                        "name": "Courgette",
+                        "satietyIdx": 150,
+                        "dose": {
+                            "quantity": 0.5,
+                            "unit": "unit",
+                            "calsPerUnit": 42.5
+                        }
+                    },
+                    {
+                        "id": "118",
+                        "name": "Cogumelo Marron",
+                        "satietyIdx": 145,
+                        "dose": {
+                            "quantity": 150,
+                            "unit": "g",
+                            "calsPerUnit": 0.22
+                        }
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    },
+                    {
+                        "id": "120",
+                        "name": "Queijo Parmesão",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
     }
 ]
