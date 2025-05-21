@@ -2041,5 +2041,28 @@
                 "calsPerUnit": 6.5
             }
         ]
+    },
+    {
+        "id": "160",
+        "name": "Folha de Louro",
+        "satietyIdx": 85,
+        "keywords": [
+            "folha de louro",
+            "folha de loureiro",
+            "bay leaf",
+            "bay leaves"
+        ],
+        "doses": [
+            {
+                "quantity": 0.3,
+                "unit": "g",
+                "calsPerUnit": 3.13
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 1
+            }
+        ]
     }
 ]

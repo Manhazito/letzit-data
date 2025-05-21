@@ -1502,7 +1502,7 @@
     {
         "id": "30",
         "name": "Batatas Assadas no forno",
-        "servings": 6,
+        "servings": 8,
         "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
         "ingredients": [
             {
@@ -1575,6 +1575,16 @@
                             "quantity": 1,
                             "unit": "cs",
                             "calsPerUnit": 6.5
+                        }
+                    },
+                    {
+                        "id": "160",
+                        "name": "Folha de Louro",
+                        "satietyIdx": 135,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 1
                         }
                     },
                     {
