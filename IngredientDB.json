@@ -147,25 +147,6 @@
         ]
     },
     {
-        "id": "8",
-        "name": "Sobremesa Chocolate",
-        "satietyIdx": 45,
-        "keywords": [
-            "sobremesa de chocolate",
-            "chocolat desert",
-            "iogurte de chocolate",
-            "iogurtes de chocolate",
-            "chocolate yogurts"
-        ],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 0.89
-            }
-        ]
-    },
-    {
         "id": "9",
         "name": "Mini Tostas",
         "satietyIdx": 100,
@@ -355,50 +336,15 @@
         ]
     },
     {
-        "id": "22",
-        "name": "Batatas Fritas (air fryer)",
-        "satietyIdx": 117,
-        "keywords": [
-            "batatas fritas na air fryer",
-            "batatas fritas em air fryer",
-            "air fryed potatoes"
-        ],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 1.5
-            }
-        ]
-    },
-    {
-        "id": "23",
-        "name": "Batatas Fritas",
-        "satietyIdx": 116,
-        "keywords": ["batatas fritas", "deep fryed potatoes"],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 2.7
-            }
-        ]
-    },
-    {
         "id": "24",
         "name": "Arroz",
         "satietyIdx": 138,
-        "keywords": ["arroz branco", "white rice"],
+        "keywords": ["arroz", "rice", "branco", "white"],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 1.3
-            },
-            {
-                "quantity": 6,
-                "unit": "cs",
-                "calsPerUnit": 21.67
             }
         ]
     },
@@ -412,11 +358,6 @@
                 "quantity": 120,
                 "unit": "g",
                 "calsPerUnit": 0.94
-            },
-            {
-                "quantity": 8,
-                "unit": "cs",
-                "calsPerUnit": 14.1
             }
         ]
     },
@@ -430,11 +371,6 @@
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 1.64
-            },
-            {
-                "quantity": 8,
-                "unit": "cs",
-                "calsPerUnit": 20.5
             }
         ]
     },
@@ -580,32 +516,6 @@
         ]
     },
     {
-        "id": "36",
-        "name": "Gyozas de vegetais",
-        "satietyIdx": 115,
-        "keywords": ["gyozas de vegetais"],
-        "doses": [
-            {
-                "quantity": 6,
-                "unit": "unit",
-                "calsPerUnit": 30
-            }
-        ]
-    },
-    {
-        "id": "37",
-        "name": "Tempura de vegetais",
-        "satietyIdx": 115,
-        "keywords": ["tempura de vegetais"],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 1.5
-            }
-        ]
-    },
-    {
         "id": "38",
         "name": "Bacon vegan (Vegana by Tentugal)",
         "satietyIdx": 115,
@@ -643,32 +553,19 @@
     },
     {
         "id": "40",
-        "name": "Batatas cozidas",
+        "name": "Batatas",
         "satietyIdx": 323,
-        "keywords": ["batatas cozidas", "baked potatoes"],
+        "keywords": ["batatas", "potatoes"],
         "doses": [
             {
                 "quantity": 260,
                 "unit": "g",
-                "calsPerUnit": 0.93
+                "calsPerUnit": 0.77
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 242
-            }
-        ]
-    },
-    {
-        "id": "44",
-        "name": "Legumes estufados",
-        "satietyIdx": 150,
-        "keywords": ["legumes estufados", "stewed legumes"],
-        "doses": [
-            {
-                "quantity": 200,
-                "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 200
             }
         ]
     },
@@ -682,115 +579,6 @@
                 "quantity": 10,
                 "unit": "unit",
                 "calsPerUnit": 20
-            }
-        ]
-    },
-    {
-        "id": "47",
-        "name": "Stacker Vegetal",
-        "satietyIdx": 110,
-        "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 676
-            }
-        ]
-    },
-    {
-        "id": "48",
-        "name": "Big King Vegetal",
-        "satietyIdx": 110,
-        "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 722
-            }
-        ]
-    },
-    {
-        "id": "49",
-        "name": "Whopper Vegetal",
-        "satietyIdx": 110,
-        "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 588
-            }
-        ]
-    },
-    {
-        "id": "50",
-        "name": "Long Vegetal",
-        "satietyIdx": 110,
-        "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 598
-            }
-        ]
-    },
-    {
-        "id": "51",
-        "name": "Batata Frita (média, BK)",
-        "satietyIdx": 116,
-        "keywords": [
-            "batatas fritas",
-            "deep fryed potatoes",
-            "burger king",
-            "bk"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 386
-            }
-        ]
-    },
-    {
-        "id": "52",
-        "name": "Nuggets Vegetais (BK)",
-        "satietyIdx": 116,
-        "keywords": ["nuggets vegetais", "burger king", "bk"],
-        "doses": [
-            {
-                "quantity": 5,
-                "unit": "unit",
-                "calsPerUnit": 40.6
-            }
-        ]
-    },
-    {
-        "id": "53",
-        "name": "Belgas de Chocolate",
-        "satietyIdx": 70,
-        "keywords": ["bolachas belgas de chocolate", "cookies"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 54
-            }
-        ]
-    },
-    {
-        "id": "54",
-        "name": "Chocolate Lindt",
-        "satietyIdx": 70,
-        "keywords": ["chocolates lindt", "chocolats lindt"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "slice",
-                "calsPerUnit": 52
             }
         ]
     },
@@ -902,42 +690,6 @@
                 "quantity": 20,
                 "unit": "g",
                 "calsPerUnit": 2.69
-            }
-        ]
-    },
-    {
-        "id": "65",
-        "name": "Chocapic",
-        "satietyIdx": 60,
-        "keywords": ["chocapic", "cereais", "cereals", "chocolate"],
-        "doses": [
-            {
-                "quantity": 15,
-                "unit": "g",
-                "calsPerUnit": 3.89
-            },
-            {
-                "quantity": 1,
-                "unit": "handful",
-                "calsPerUnit": 58.35
-            }
-        ]
-    },
-    {
-        "id": "66",
-        "name": "Estrelitas",
-        "satietyIdx": 60,
-        "keywords": ["estrelitas", "cereais", "cereals"],
-        "doses": [
-            {
-                "quantity": 15,
-                "unit": "g",
-                "calsPerUnit": 3.94
-            },
-            {
-                "quantity": 1,
-                "unit": "handful",
-                "calsPerUnit": 59.1
             }
         ]
     },
@@ -1220,190 +972,6 @@
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 2.38
-            }
-        ]
-    },
-    {
-        "id": "84",
-        "name": "Sandes Heura Classic",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes heura classic",
-            "sandes de heura classic",
-            "heura classic sandwich",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 751
-            }
-        ]
-    },
-    {
-        "id": "85",
-        "name": "Sandes Heura Crocante",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes heura crocante",
-            "sandes de heura crocante",
-            "crunchy heura sandwich",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 846
-            }
-        ]
-    },
-    {
-        "id": "86",
-        "name": "Sandes Pasta de Vuna",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes de pasta de atum",
-            "sandes de pasta de vuna",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "sandes de vuna",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 804
-            }
-        ]
-    },
-    {
-        "id": "87",
-        "name": "Sandes Pasta de Atum",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes de pasta de atum",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 665
-            }
-        ]
-    },
-    {
-        "id": "88",
-        "name": "Sandes Mozzarella Pesto",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes de mozzarella e pesto",
-            "sandes de mozzarella pesto",
-            "sandes mozzarella e pesto",
-            "sandes mozzarella pesto",
-            "mozzarella pesto sandwiches",
-            "mozzarella and pesto sandwiches",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 643
-            }
-        ]
-    },
-    {
-        "id": "59",
-        "name": "Sandes Queijo Fresco",
-        "satietyIdx": 110,
-        "keywords": [
-            "sandes de queijo fresco",
-            "sandes queijo fresco",
-            "fresh cheese sandwich",
-            "pans & company",
-            "pans and company"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 417
-            }
-        ]
-    },
-    {
-        "id": "42",
-        "name": "Feijoada",
-        "satietyIdx": 110,
-        "keywords": [
-            "feijoada",
-            "feijão",
-            "feijao",
-            "feijões",
-            "feijoes",
-            "beans",
-            "baked"
-        ],
-        "doses": [
-            {
-                "quantity": 160,
-                "unit": "g",
-                "calsPerUnit": 1.5
-            },
-            {
-                "quantity": 6,
-                "unit": "cs",
-                "calsPerUnit": 40
-            }
-        ]
-    },
-    {
-        "id": "89",
-        "name": "Froyo",
-        "satietyIdx": 80,
-        "keywords": ["froyos", "frozen", "yogurts"],
-        "doses": [
-            {
-                "quantity": 150,
-                "unit": "g",
-                "calsPerUnit": 1.5
-            }
-        ]
-    },
-    {
-        "id": "90",
-        "name": "Froyo com Nutella",
-        "satietyIdx": 80,
-        "keywords": [
-            "froyos de nutella",
-            "froyo de nutella",
-            "froyos com nutella",
-            "froyo com nutella",
-            "nutella frozen yogurts",
-            "froyos de chocolate",
-            "froyo de chocolate",
-            "froyos com chocolate",
-            "froyo com chocolate",
-            "chocolate frozen yogurts"
-        ],
-        "doses": [
-            {
-                "quantity": 150,
-                "unit": "g",
-                "calsPerUnit": 2.2
             }
         ]
     },
@@ -2053,31 +1621,6 @@
         ]
     },
     {
-        "id": "124",
-        "name": "Hummus",
-        "satietyIdx": 160,
-        "keywords": [
-            "húmus",
-            "humus",
-            "hummus",
-            "grão de bico",
-            "grao de bico",
-            "chickpeas"
-        ],
-        "doses": [
-            {
-                "quantity": 30,
-                "unit": "g",
-                "calsPerUnit": 2.1
-            },
-            {
-                "quantity": 1,
-                "unit": "cs",
-                "calsPerUnit": 60
-            }
-        ]
-    },
-    {
         "id": "125",
         "name": "Gema de Ovo",
         "satietyIdx": 120,
@@ -2134,9 +1677,14 @@
         "keywords": ["pimenta preta", "black pepper"],
         "doses": [
             {
-                "quantity": 1,
+                "quantity": 2.3,
                 "unit": "g",
                 "calsPerUnit": 2.5
+            },
+            {
+                "quantity": 1,
+                "unit": "cc",
+                "calsPerUnit": 5.75
             }
         ]
     },
@@ -2150,29 +1698,6 @@
                 "quantity": 5,
                 "unit": "g",
                 "calsPerUnit": 0
-            }
-        ]
-    },
-    {
-        "id": "129",
-        "name": "Ben & Jerry's Cookie Dough",
-        "satietyIdx": 55,
-        "keywords": [
-            "gelado ben & jerry's",
-            "gelado ben and jerry's",
-            "ben & jerry's ice cream",
-            "ben and jerry's ice cream"
-        ],
-        "doses": [
-            {
-                "quantity": 406,
-                "unit": "g",
-                "calsPerUnit": 2.75
-            },
-            {
-                "quantity": 72,
-                "unit": "g",
-                "calsPerUnit": 2.75
             }
         ]
     },
@@ -2200,19 +1725,6 @@
         ]
     },
     {
-        "id": "131",
-        "name": "Schoko Bons",
-        "satietyIdx": 115,
-        "keywords": ["schoko bons", "chocolates", "chocolats"],
-        "doses": [
-            {
-                "quantity": 2,
-                "unit": "unit",
-                "calsPerUnit": 33
-            }
-        ]
-    },
-    {
         "id": "132",
         "name": "Manjericão fresco",
         "satietyIdx": 70,
@@ -2222,63 +1734,6 @@
                 "quantity": 2.5,
                 "unit": "g",
                 "calsPerUnit": 0.23
-            }
-        ]
-    },
-    {
-        "id": "133",
-        "name": "Pizza Ristorante (Dr. Oetker)",
-        "satietyIdx": 65,
-        "keywords": ["pizza ristorante", "pizza dr. oetker"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 810
-            },
-            {
-                "quantity": 8,
-                "unit": "slice",
-                "calsPerUnit": 101.25
-            }
-        ]
-    },
-    {
-        "id": "134",
-        "name": "Barra de Cereais (Nakd)",
-        "satietyIdx": 70,
-        "keywords": [
-            "barra the cereais",
-            "barrita de cereais",
-            "barra crua",
-            "barrita crua",
-            "raw bar",
-            "raw nuts bar",
-            "raw fruits and nuts bar"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 128
-            }
-        ]
-    },
-    {
-        "id": "135",
-        "name": "Donut",
-        "satietyIdx": 68,
-        "keywords": [
-            "donuts clássicos",
-            "donuts classicos",
-            "classic donuts",
-            "classic doughnuts"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 197.5
             }
         ]
     },
@@ -2350,49 +1805,6 @@
         ]
     },
     {
-        "id": "140",
-        "name": "Pastel de Nata",
-        "satietyIdx": 65,
-        "keywords": [
-            "pastel de natas",
-            "pastel de belém",
-            "pastel de belem",
-            "pasteis de natas",
-            "pasteis de belém",
-            "pasteis de belem",
-            "custard tarts"
-        ],
-        "doses": [
-            {
-                "quantity": 65,
-                "unit": "g",
-                "calsPerUnit": 3.077
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 200
-            }
-        ]
-    },
-    {
-        "id": "141",
-        "name": "American Donut",
-        "satietyIdx": 65,
-        "keywords": [
-            "donuts americanos",
-            "american donuts",
-            "american doughnuts"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 364.08
-            }
-        ]
-    },
-    {
         "id": "45",
         "name": "Vinho tinto",
         "satietyIdx": 40,
@@ -2433,19 +1845,6 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 46.44
-            }
-        ]
-    },
-    {
-        "id": "144",
-        "name": "Poke Bowl (sushi rice and soy meat",
-        "satietyIdx": 60,
-        "keywords": ["boke bowls"],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 565
             }
         ]
     },
@@ -2513,76 +1912,61 @@
     },
     {
         "id": "121",
-        "name": "Truta frita",
-        "satietyIdx": 205,
-        "keywords": [
-            "peixe frito",
-            "fried fish",
-            "truta frita",
-            "trutas fritas",
-            "fried trouts",
-            "pan fried trouts"
-        ],
+        "name": "Truta",
+        "satietyIdx": 190,
+        "keywords": ["peixe", "fish", "trutas", "trouts"],
         "doses": [
             {
                 "quantity": 45,
                 "unit": "g",
-                "calsPerUnit": 2
+                "calsPerUnit": 1.33
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 90
+                "calsPerUnit": 59.9
             }
         ]
     },
     {
         "id": "147",
-        "name": "Lúcio frito",
-        "satietyIdx": 170,
-        "keywords": [
-            "peixe frito",
-            "fried fish",
-            "lúcio frito",
-            "lucio frito",
-            "fried pikes",
-            "pan fried pikes"
-        ],
+        "name": "Lúcio",
+        "satietyIdx": 215,
+        "keywords": ["peixe", "fish", "lúcio", "lucio", "pikes"],
         "doses": [
             {
                 "quantity": 60,
                 "unit": "g",
-                "calsPerUnit": 1.45
+                "calsPerUnit": 0.88
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 87
+                "calsPerUnit": 52.8
             }
         ]
     },
     {
         "id": "148",
         "name": "Filete de Pescada",
-        "satietyIdx": 110,
+        "satietyIdx": 240,
         "keywords": [
-            "peixe frito",
-            "fried fish",
-            "filetes de pescada fritas",
-            "filetes pescada fritas",
-            "fried hake filets",
-            "pan fried hake filets"
+            "peixe",
+            "fish",
+            "filetes de pescada",
+            "filetes pescada",
+            "hake filets"
         ],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 2.2
+                "calsPerUnit": 0.75
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 220
+                "calsPerUnit": 75
             }
         ]
     },
@@ -2605,185 +1989,20 @@
         ]
     },
     {
-        "id": "150",
-        "name": "Torta de Chocolate",
-        "satietyIdx": 60,
-        "keywords": [
-            "torta de chocolate",
-            "torta chocolate",
-            "chocolate swiss roll",
-            "chocolate roulade",
-            "chocolate roll"
-        ],
-        "doses": [
-            {
-                "quantity": 50,
-                "unit": "g",
-                "calsPerUnit": 3.9
-            },
-            {
-                "quantity": 1,
-                "unit": "slice",
-                "calsPerUnit": 195
-            }
-        ]
-    },
-    {
-        "id": "151",
-        "name": "Ice Tea",
-        "satietyIdx": 60,
-        "keywords": [
-            "ice tea",
-            "iced tea",
-            "lipton ice tea",
-            "lipton iced tea"
-        ],
-        "doses": [
-            {
-                "quantity": 330,
-                "unit": "ml",
-                "calsPerUnit": 0.136
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 45
-            }
-        ]
-    },
-    {
-        "id": "152",
-        "name": "Crepes Chineses (Continente)",
-        "satietyIdx": 50,
-        "keywords": [
-            "crepes chineses",
-            "crepes primavera",
-            "spring rolls",
-            "chinese rolls"
-        ],
-        "doses": [
-            {
-                "quantity": 50,
-                "unit": "g",
-                "calsPerUnit": 1.29
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 64.5
-            }
-        ]
-    },
-    {
-        "id": "153",
-        "name": "Bolo de Aniversário",
-        "satietyIdx": 65,
-        "keywords": [
-            "bolo de aniversário",
-            "bolo de aniversario",
-            "bolo genérico",
-            "bolo generico",
-            "birthday cake",
-            "generic cake"
-        ],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 3.75
-            },
-            {
-                "quantity": 1,
-                "unit": "slice",
-                "calsPerUnit": 375
-            }
-        ]
-    },
-    {
-        "id": "154",
-        "name": "Bolo de Chocolate",
-        "satietyIdx": 65,
-        "keywords": ["bolo de chocolate", "chocolate cake"],
-        "doses": [
-            {
-                "quantity": 100,
-                "unit": "g",
-                "calsPerUnit": 4.25
-            },
-            {
-                "quantity": 1,
-                "unit": "slice",
-                "calsPerUnit": 425
-            }
-        ]
-    },
-    {
-        "id": "155",
-        "name": "Bolo de Manteiga (mini)",
-        "satietyIdx": 58,
-        "keywords": [
-            "bolo de manteiga",
-            "bolo manteiga",
-            "bolinho de manteiga",
-            "bolinho manteiga",
-            "matulos"
-        ],
-        "doses": [
-            {
-                "quantity": 45,
-                "unit": "g",
-                "calsPerUnit": 4
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 180
-            }
-        ]
-    },
-    {
-        "id": "156",
-        "name": "Patanisca de Bacalhau",
-        "satietyIdx": 120,
-        "keywords": [
-            "patanisca de bacalhau",
-            "pataniscas de bacalhau",
-            "codfish fritters",
-            "salt cod fritters",
-            "salt cod pancakes"
-        ],
-        "doses": [
-            {
-                "quantity": 55,
-                "unit": "g",
-                "calsPerUnit": 2.46
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 135
-            }
-        ]
-    },
-    {
         "id": "157",
-        "name": "Espargos grelhados",
-        "satietyIdx": 130,
-        "keywords": [
-            "espargos grelhados",
-            "espargo grelhado",
-            "grilled aspargus"
-        ],
+        "name": "Espargos",
+        "satietyIdx": 145,
+        "keywords": ["espargos", "aspargus"],
         "doses": [
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 0.6
+                "calsPerUnit": 0.2
             },
             {
                 "quantity": 5,
                 "unit": "unit",
-                "calsPerUnit": 6
+                "calsPerUnit": 20
             }
         ]
     },

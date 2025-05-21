@@ -97,7 +97,7 @@
                         "dose": {
                             "quantity": 400,
                             "unit": "g",
-                            "calsPerUnit": 0.86
+                            "calsPerUnit": 0.77
                         },
                         "satietyIdx": 323
                     },
@@ -566,12 +566,12 @@
                     },
                     {
                         "id": "40",
-                        "name": "Batatas cozidas",
+                        "name": "Batatas",
                         "satietyIdx": 323,
                         "dose": {
                             "quantity": 2,
-                            "unit": "g",
-                            "calsPerUnit": 223.6
+                            "unit": "unit",
+                            "calsPerUnit": 200
                         }
                     },
                     {
@@ -1173,6 +1173,418 @@
                             "quantity": 1,
                             "unit": "cs",
                             "calsPerUnit": 60.3
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "15",
+        "name": "Stacker Vegetal",
+        "servings": 1,
+        "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "47",
+                        "name": "Stacker Vegetal",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 676
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "16",
+        "name": "Big King Vegetal",
+        "servings": 1,
+        "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "48",
+                        "name": "Big King Vegetal",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 722
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "17",
+        "name": "Whopper Vegetal",
+        "servings": 1,
+        "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "49",
+                        "name": "Whopper Vegetal",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 588
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "18",
+        "name": "Long Vegetal",
+        "servings": 1,
+        "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "50",
+                        "name": "Long Vegetal",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 598
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "19",
+        "name": "Sandes Heura Classic",
+        "servings": 1,
+        "keywords": [
+            "sandes heura classic",
+            "sandes de heura classic",
+            "heura classic sandwich",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "84",
+                        "name": "Sandes Heura Classic",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 751
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "20",
+        "name": "Sandes Heura Crocante",
+        "servings": 1,
+        "keywords": [
+            "sandes heura crocante",
+            "sandes de heura crocante",
+            "crunchy heura sandwich",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "85",
+                        "name": "Sandes Heura Crocante",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 846
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "21",
+        "name": "Sandes Pasta de Vuna",
+        "servings": 1,
+        "keywords": [
+            "sandes de pasta de atum",
+            "sandes de pasta de vuna",
+            "tuna paste sandwich",
+            "sandes de atum",
+            "sandes de vuna",
+            "tuna sandwich",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "86",
+                        "name": "Sandes Pasta de Vuna",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 804
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "22",
+        "name": "Sandes Pasta de Atum",
+        "servings": 1,
+        "keywords": [
+            "sandes de pasta de atum",
+            "tuna paste sandwich",
+            "sandes de atum",
+            "tuna sandwich",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "87",
+                        "name": "Sandes Pasta de Atum",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 665
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "23",
+        "name": "Sandes Mozzarella Pesto",
+        "servings": 1,
+        "keywords": [
+            "sandes de mozzarella e pesto",
+            "sandes de mozzarella pesto",
+            "sandes mozzarella e pesto",
+            "sandes mozzarella pesto",
+            "mozzarella pesto sandwiches",
+            "mozzarella and pesto sandwiches",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "88",
+                        "name": "Sandes Mozzarella Pesto",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 643
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "24",
+        "name": "Sandes Queijo Fresco",
+        "servings": 1,
+        "keywords": [
+            "sandes de queijo fresco",
+            "sandes queijo fresco",
+            "fresh cheese sandwich",
+            "pans & company",
+            "pans and company"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "59",
+                        "name": "Sandes Queijo Fresco",
+                        "satietyIdx": 110,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 417
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "28",
+        "name": "Pizza Ristorante (Dr. Oetker)",
+        "servings": 1,
+        "keywords": ["pizza ristorante", "pizza dr. oetker"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "133",
+                        "name": "Pizza Ristorante (Dr. Oetker)",
+                        "satietyIdx": 65,
+                        "dose": {
+                            "quantity": 8,
+                            "unit": "slice",
+                            "calsPerUnit": 101.25
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "29",
+        "name": "Poke Bowl (sushi rice and soy meat)",
+        "servings": 1,
+        "keywords": ["boke bowls"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "144",
+                        "name": "Poke Bowl (sushi rice and soy meat)",
+                        "satietyIdx": 60,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "unit",
+                            "calsPerUnit": 565
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "30",
+        "name": "Batatas Assadas no forno",
+        "servings": 6,
+        "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "40",
+                        "name": "Batatas",
+                        "satietyIdx": 323,
+                        "dose": {
+                            "quantity": 3000,
+                            "unit": "g",
+                            "calsPerUnit": 0.77
+                        }
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 3,
+                            "unit": "cs",
+                            "calsPerUnit": 90
+                        }
+                    },
+                    {
+                        "id": "45",
+                        "name": "Vinho tinto",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 250,
+                            "unit": "ml",
+                            "calsPerUnit": 1.3
+                        }
+                    },
+                    {
+                        "id": "128",
+                        "name": "Sal",
+                        "satietyIdx": 5,
+                        "dose": {
+                            "quantity": 15,
+                            "unit": "g",
+                            "calsPerUnit": 0
+                        }
+                    },
+                    {
+                        "id": "158",
+                        "name": "Orégãos",
+                        "satietyIdx": 90,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 6.8
+                        }
+                    },
+                    {
+                        "id": "127",
+                        "name": "Pimenta preta",
+                        "satietyIdx": 40,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 17.5
+                        }
+                    },
+                    {
+                        "id": "159",
+                        "name": "Pimentão Doce",
+                        "satietyIdx": 85,
+                        "dose": {
+                            "quantity": 1,
+                            "unit": "cs",
+                            "calsPerUnit": 6.5
+                        }
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "satietyIdx": 100,
+                        "dose": {
+                            "quantity": 2,
+                            "unit": "unit",
+                            "calsPerUnit": 52
                         }
                     }
                 ]
