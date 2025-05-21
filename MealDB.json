@@ -244,14 +244,14 @@
                         "satietyIdx": 50
                     },
                     {
-                        "id": "122",
-                        "name": "Tomate picado",
+                        "id": "56",
+                        "name": "Tomate",
+                        "satietyIdx": 210,
                         "dose": {
-                            "quantity": 4,
+                            "quantity": 1.5,
                             "unit": "unit",
-                            "calsPerUnit": 8.64
-                        },
-                        "satietyIdx": 125
+                            "calsPerUnit": 27
+                        }
                     },
                     {
                         "id": "39",
@@ -383,14 +383,14 @@
                         "satietyIdx": 50
                     },
                     {
-                        "id": "122",
-                        "name": "Tomate picado",
+                        "id": "56",
+                        "name": "Tomate",
+                        "satietyIdx": 210,
                         "dose": {
-                            "quantity": 4,
+                            "quantity": 1.5,
                             "unit": "unit",
-                            "calsPerUnit": 8.64
-                        },
-                        "satietyIdx": 125
+                            "calsPerUnit": 27
+                        }
                     },
                     {
                         "id": "39",
@@ -1595,6 +1595,74 @@
                             "quantity": 2,
                             "unit": "unit",
                             "calsPerUnit": 52
+                        }
+                    }
+                ]
+            }
+        ],
+        "recipeSteps": []
+    },
+    {
+        "id": "31",
+        "name": "Esparguete da Carla",
+        "servings": 2,
+        "keywords": [
+            "esparguete ca carla",
+            "esparguete de tomate",
+            "carla's spaghetti",
+            "carlas spaghetti"
+        ],
+        "ingredients": [
+            {
+                "ingredients": [
+                    {
+                        "id": "25",
+                        "name": "Esparguete",
+                        "dose": {
+                            "quantity": 100,
+                            "unit": "g",
+                            "calsPerUnit": 1.35
+                        },
+                        "satietyIdx": 119
+                    },
+                    {
+                        "id": "95",
+                        "name": "Azeite",
+                        "dose": {
+                            "quantity": 25,
+                            "unit": "g",
+                            "calsPerUnit": 9
+                        },
+                        "satietyIdx": 110
+                    },
+                    {
+                        "id": "112",
+                        "name": "Cebola",
+                        "dose": {
+                            "quantity": 50,
+                            "unit": "g",
+                            "calsPerUnit": 0.4
+                        },
+                        "satietyIdx": 145
+                    },
+                    {
+                        "id": "78",
+                        "name": "Natas Culinária",
+                        "dose": {
+                            "quantity": 4,
+                            "unit": "unit",
+                            "calsPerUnit": 36.6
+                        },
+                        "satietyIdx": 50
+                    },
+                    {
+                        "id": "56",
+                        "name": "Tomate",
+                        "satietyIdx": 210,
+                        "dose": {
+                            "quantity": 1.5,
+                            "unit": "unit",
+                            "calsPerUnit": 27
                         }
                     }
                 ]
