@@ -356,7 +356,7 @@
     },
     {
         "id": "22",
-        "name": "Batatas Fritas (air fryer)",
+        "name": "Batatas fritas (air fryer)",
         "satietyIdx": 117,
         "keywords": [
             "batatas fritas na air fryer",
@@ -373,7 +373,7 @@
     },
     {
         "id": "23",
-        "name": "Batatas Fritas",
+        "name": "Batatas fritas",
         "satietyIdx": 116,
         "keywords": ["batatas fritas", "deep fryed potatoes"],
         "doses": [
@@ -2820,6 +2820,24 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 6.5
+            }
+        ]
+    },
+    {
+        "id": "160",
+        "name": "Batatas assadas",
+        "satietyIdx": 262,
+        "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
+        "doses": [
+            {
+                "quantity": 130,
+                "unit": "g",
+                "calsPerUnit": 2.92
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 379.6
             }
         ]
     }
