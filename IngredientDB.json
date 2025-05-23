@@ -1030,6 +1030,11 @@
         "keywords": ["fiambre de peru", "turkey cold cuts"],
         "doses": [
             {
+                "quantity": 20,
+                "unit": "g",
+                "calsPerUnit": 2.6
+            },
+            {
                 "quantity": 2,
                 "unit": "slice",
                 "calsPerUnit": 26
@@ -1345,24 +1350,6 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 26
-            }
-        ]
-    },
-    {
-        "id": "104",
-        "name": "Azeitona",
-        "satietyIdx": 65,
-        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
-        "doses": [
-            {
-                "quantity": 4,
-                "unit": "g",
-                "calsPerUnit": 1.15
-            },
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 4.6
             }
         ]
     },
@@ -2159,6 +2146,42 @@
                 "quantity": 200,
                 "unit": "g",
                 "calsPerUnit": 3.65
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Azeitona",
+        "satietyIdx": 90,
+        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
+        "doses": [
+            {
+                "quantity": 4,
+                "unit": "g",
+                "calsPerUnit": 1.3
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 4.6
+            }
+        ]
+    },
+    {
+        "id": "162",
+        "name": "Azeitona sem caroço",
+        "satietyIdx": 90,
+        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
+        "doses": [
+            {
+                "quantity": 2.5,
+                "unit": "g",
+                "calsPerUnit": 1.87
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 4.675
             }
         ]
     }

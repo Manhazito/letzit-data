@@ -1908,6 +1908,46 @@
                                     "unit": "cc",
                                     "calsPerUnit": 5.75
                                 }
+                            },
+                            {
+                                "id": "82",
+                                "name": "Fiambre Peru",
+                                "satietyIdx": 95,
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.6
+                                }
+                            },
+                            {
+                                "id": "28",
+                                "name": "Queijo",
+                                "satietyIdx": 146,
+                                "dose": {
+                                    "quantity": 150,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.5
+                                }
+                            },
+                            {
+                                "id": "162",
+                                "name": "Azeitona sem caroço",
+                                "satietyIdx": 90,
+                                "dose": {
+                                    "quantity": 85,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.87
+                                }
+                            },
+                            {
+                                "id": "34",
+                                "name": "Seitan",
+                                "satietyIdx": 121,
+                                "dose": {
+                                    "quantity": 80,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.16
+                                }
                             }
                         ],
                         "steps": []
