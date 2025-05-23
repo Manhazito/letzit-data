@@ -368,7 +368,7 @@
             },
             {
                 "quantity": 10,
-                "unit": "units",
+                "unit": "unit",
                 "calsPerUnit": 4.8
             }
         ]
@@ -386,7 +386,7 @@
             },
             {
                 "quantity": 0.5,
-                "unit": "units",
+                "unit": "unit",
                 "calsPerUnit": 97.9
             }
         ]
@@ -404,7 +404,7 @@
             },
             {
                 "quantity": 15,
-                "unit": "units",
+                "unit": "unit",
                 "calsPerUnit": 4.14
             }
         ]
