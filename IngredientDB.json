@@ -2140,5 +2140,26 @@
                 "calsPerUnit": 1
             }
         ]
+    },
+    {
+        "id": "161",
+        "name": "Farinha de trigo com fermento",
+        "satietyIdx": 55,
+        "keywords": [
+            "farinha de trigo",
+            "farinha com fermento",
+            "farinha de trigo com fermento",
+            "farinha branca de neve",
+            "self-rising flour",
+            "self-rising wheat flour",
+            "wheat flour"
+        ],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 3.65
+            }
+        ]
     }
 ]
