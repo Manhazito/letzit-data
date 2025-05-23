@@ -132,7 +132,7 @@
         "id": "7",
         "name": "Aveia",
         "satietyIdx": 209,
-        "keywords": ["aveia", "oats", "oatmeal"],
+        "keywords": ["aveia", "oats", "oatmeal", "cereais", "cereals"],
         "doses": [
             {
                 "quantity": 50,
@@ -205,12 +205,25 @@
         "id": "11",
         "name": "Maçã",
         "satietyIdx": 197,
-        "keywords": ["maçãs", "macas", "maças", "macãs", "apples"],
+        "keywords": [
+            "fruta",
+            "fruit",
+            "maçãs",
+            "macas",
+            "maças",
+            "macãs",
+            "apples"
+        ],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.5
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 50
             }
         ]
     },
@@ -218,12 +231,17 @@
         "id": "12",
         "name": "Laranja",
         "satietyIdx": 202,
-        "keywords": ["laranjas", "oranges"],
+        "keywords": ["fruta", "fruit", "laranjas", "oranges"],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.5
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 50
             }
         ]
     },
@@ -231,12 +249,17 @@
         "id": "13",
         "name": "Pêssego",
         "satietyIdx": 130,
-        "keywords": ["pêssegos", "pessegos", "peaches"],
+        "keywords": ["fruta", "fruit", "pêssegos", "pessegos", "peaches"],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.39
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 39
             }
         ]
     },
@@ -244,7 +267,15 @@
         "id": "14",
         "name": "Melão",
         "satietyIdx": 111,
-        "keywords": ["melão", "melao", "melões", "meloes", "melons"],
+        "keywords": [
+            "fruta",
+            "fruit",
+            "melão",
+            "melao",
+            "melões",
+            "meloes",
+            "melons"
+        ],
         "doses": [
             {
                 "quantity": 100,
@@ -262,7 +293,7 @@
         "id": "15",
         "name": "Melancia",
         "satietyIdx": 100,
-        "keywords": ["melancias", "watermelons"],
+        "keywords": ["fruta", "fruit", "melancias", "watermelons"],
         "doses": [
             {
                 "quantity": 100,
@@ -280,12 +311,17 @@
         "id": "16",
         "name": "Pêra",
         "satietyIdx": 150,
-        "keywords": ["pêras", "peras", "pears"],
+        "keywords": ["fruta", "fruit", "pêras", "peras", "pears"],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.57
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 57
             }
         ]
     },
@@ -293,12 +329,17 @@
         "id": "17",
         "name": "Tangerina",
         "satietyIdx": 170,
-        "keywords": ["tangerinas", "tangerines"],
+        "keywords": ["fruta", "fruit", "tangerinas", "tangerines"],
         "doses": [
             {
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.53
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 53
             }
         ]
     },
@@ -306,12 +347,24 @@
         "id": "18",
         "name": "Ananás",
         "satietyIdx": 110,
-        "keywords": ["ananáses", "ananases", "abacaxis", "pineapples"],
+        "keywords": [
+            "fruta",
+            "fruit",
+            "ananáses",
+            "ananases",
+            "abacaxis",
+            "pineapples"
+        ],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 135,
                 "unit": "g",
                 "calsPerUnit": 0.5
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 67.5
             }
         ]
     },
@@ -319,12 +372,23 @@
         "id": "19",
         "name": "Morangos",
         "satietyIdx": 160,
-        "keywords": ["morangos", "strawberry", "strawberries"],
+        "keywords": [
+            "fruta",
+            "fruit",
+            "morangos",
+            "strawberry",
+            "strawberries"
+        ],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 150,
                 "unit": "g",
                 "calsPerUnit": 0.32
+            },
+            {
+                "quantity": 10,
+                "unit": "units",
+                "calsPerUnit": 4.8
             }
         ]
     },
@@ -332,12 +396,17 @@
         "id": "20",
         "name": "Banana",
         "satietyIdx": 118,
-        "keywords": ["bananas"],
+        "keywords": ["fruta", "fruit", "bananas"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 55,
                 "unit": "g",
                 "calsPerUnit": 0.89
+            },
+            {
+                "quantity": 0.5,
+                "unit": "units",
+                "calsPerUnit": 97.9
             }
         ]
     },
@@ -345,12 +414,17 @@
         "id": "21",
         "name": "Uvas",
         "satietyIdx": 162,
-        "keywords": ["uvas", "grapes"],
+        "keywords": ["fruta", "fruit", "uvas", "grapes"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 90,
                 "unit": "g",
                 "calsPerUnit": 0.69
+            },
+            {
+                "quantity": 15,
+                "unit": "units",
+                "calsPerUnit": 4.14
             }
         ]
     },
@@ -676,7 +750,7 @@
         "id": "46",
         "name": "Castanhas",
         "satietyIdx": 155,
-        "keywords": ["castanhas", "chestnuts"],
+        "keywords": ["fruta", "fruit", "castanhas", "chestnuts"],
         "doses": [
             {
                 "quantity": 10,
@@ -1411,7 +1485,7 @@
         "id": "56",
         "name": "Tomate",
         "satietyIdx": 210,
-        "keywords": ["tomates", "tomatoes"],
+        "keywords": ["fruta", "fruit", "tomates", "tomatoes"],
         "doses": [
             {
                 "quantity": 150,
@@ -1430,6 +1504,8 @@
         "name": "Tomate Cherry",
         "satietyIdx": 210,
         "keywords": [
+            "fruta",
+            "fruit",
             "tomates cherry",
             "tomates cereja",
             "tomate cherry",
@@ -1708,7 +1784,7 @@
         "id": "104",
         "name": "Azeitona",
         "satietyIdx": 65,
-        "keywords": ["azeitonas", "olives"],
+        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
         "doses": [
             {
                 "quantity": 4,
@@ -1726,7 +1802,7 @@
         "id": "105",
         "name": "Manga",
         "satietyIdx": 135,
-        "keywords": ["mangas", "mangos"],
+        "keywords": ["fruta", "fruit", "mangas", "mangos"],
         "doses": [
             {
                 "quantity": 500,
@@ -2038,7 +2114,7 @@
         "id": "123",
         "name": "Cerejas",
         "satietyIdx": 145,
-        "keywords": ["cerejas", "cherry", "cherries"],
+        "keywords": ["fruta", "fruit", "cerejas", "cherry", "cherries"],
         "doses": [
             {
                 "quantity": 500,
