@@ -6,7 +6,7 @@
         "keywords": ["salada", "salad"],
         "recipes": [
             {
-                "id": "1",
+                "id": "1.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -63,12 +63,12 @@
                             }
                         ],
                         "steps": [
-                            "Cut the {57} cherry tomatoes in halves",
-                            "Peal the {92} of cucumber, and cut it into rounded slices",
-                            "Remove the seeds from the {93} of Bell Pepper, and cut it into strips",
-                            "Cut the {94} of Radishes into slices",
-                            "Mix them all in a bowl",
-                            "Add the {95} of Olive Oil and Balsamin Vinegar and mix again"
+                            "Corte {57} de tomate cherry em metades;",
+                            "Descasque {92} de pepino, e corte em fatias redondas;",
+                            "Retire as sementes de {93} de pimento, e corte em tiras finas;",
+                            "Corte {94} de rabanetes em fatias;",
+                            "Misture tudo numa tijela grande;",
+                            "Adicione {95} de azeite e de vinagre balsâmico e misture de novo."
                         ]
                     }
                 ]
@@ -87,7 +87,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "2.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -195,7 +195,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "3.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -294,7 +294,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "4.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -302,25 +302,49 @@
                             {
                                 "id": "1",
                                 "name": "Leite (sem açúcar)",
+                                "satietyIdx": 200,
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "ml",
                                     "calsPerUnit": 0.25
-                                },
-                                "satietyIdx": 200
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0
+                                }
                             },
                             {
                                 "id": "7",
                                 "name": "Aveia",
+                                "satietyIdx": 209,
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "cs",
                                     "calsPerUnit": 22.88
-                                },
-                                "satietyIdx": 209
+                                }
+                            },
+                            {
+                                "id": "165",
+                                "name": "Dextrose",
+                                "satietyIdx": 10,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 4
+                                }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Adicionar a aveia a uma tijela;",
+                            "Adicionar à aveia a água, de preferência aqucida. Deixe repousar durante 5min;",
+                            "Adicione o leite e o adoçante, e mexa bem."
+                        ]
                     }
                 ]
             }
@@ -346,7 +370,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "5.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -441,7 +465,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "6.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -537,7 +561,16 @@
                                 }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Cozer a pasta em água com sal até ficar al dente;",
+                            "Numa frigideira grande, refogar o bacon em azeite com os dentes de alho esmagados durante 5min, ou até o bacon ficar tostado. Descartar os dentes de alho e mantenha a frigideira em lume baixo;",
+                            "Misture a maior parte do queijo com os ovos mexidos;",
+                            "Quando a pasta estiver quase cozida reserve uma gadanha da água de cozedura, e deixe a arrefecer;",
+                            "Assim que a pasta esteja cozida adicionar ao bacon na frigideira usando umas pinças;",
+                            "Misture a água que reservou à mistura de ovos e queijo;",
+                            "Retire a frigideira do lume e despeje por cima a mistura de ovos e queijo. Envolva bem;",
+                            "Polvilhe o restante queijo, a pimenta, e o manjericão, por cima da pasta, e sirva de imediato."
+                        ]
                     }
                 ]
             }
@@ -550,7 +583,7 @@
         "keywords": ["tofu com broa", "tofu with cornbread"],
         "recipes": [
             {
-                "id": "1",
+                "id": "7.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -678,7 +711,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "8.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -812,7 +845,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "9.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -942,7 +975,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "10.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -991,7 +1024,7 @@
         "keywords": ["torrada com manteiga", "toast with butter"],
         "recipes": [
             {
-                "id": "1",
+                "id": "11.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1030,7 +1063,7 @@
         "keywords": ["omelete de queijo", "omelete queijo", "cheese omelet"],
         "recipes": [
             {
-                "id": "1",
+                "id": "12.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1085,7 +1118,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "13.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1163,7 +1196,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "14.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1262,7 +1295,7 @@
         "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
         "recipes": [
             {
-                "id": "1",
+                "id": "15.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1291,7 +1324,7 @@
         "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
         "recipes": [
             {
-                "id": "1",
+                "id": "16.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1320,7 +1353,7 @@
         "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
         "recipes": [
             {
-                "id": "1",
+                "id": "17.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1349,7 +1382,7 @@
         "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
         "recipes": [
             {
-                "id": "1",
+                "id": "18.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1384,7 +1417,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "19.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1419,7 +1452,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "20.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1457,7 +1490,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "21.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1493,7 +1526,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "22.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1531,7 +1564,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "23.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1566,7 +1599,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "24.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1595,7 +1628,7 @@
         "keywords": ["pizza ristorante", "pizza dr. oetker"],
         "recipes": [
             {
-                "id": "1",
+                "id": "28.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1624,7 +1657,7 @@
         "keywords": ["boke bowls"],
         "recipes": [
             {
-                "id": "1",
+                "id": "29.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1653,7 +1686,7 @@
         "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
         "recipes": [
             {
-                "id": "1",
+                "id": "30.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1767,7 +1800,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "31.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -1849,7 +1882,7 @@
         ],
         "recipes": [
             {
-                "id": "1",
+                "id": "32.1",
                 "type": "regular",
                 "parts": [
                     {

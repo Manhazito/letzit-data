@@ -2916,5 +2916,44 @@
                 "calsPerUnit": 379.6
             }
         ]
+    },
+    {
+        "id": "163",
+        "name": "Água",
+        "satietyIdx": 55,
+        "keywords": ["água", "agua", "water"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "ml",
+                "calsPerUnit": 0
+            }
+        ]
+    },
+    {
+        "id": "164",
+        "name": "Stevia",
+        "satietyIdx": 10,
+        "keywords": ["adoçante", "adocante", "sweetener", "stevia"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "g",
+                "calsPerUnit": 0
+            }
+        ]
+    },
+    {
+        "id": "165",
+        "name": "Dextrose",
+        "satietyIdx": 10,
+        "keywords": ["adoçante", "adocante", "sweetener", "dextrose"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "g",
+                "calsPerUnit": 4
+            }
+        ]
     }
 ]
