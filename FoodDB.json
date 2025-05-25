@@ -2,6 +2,7 @@
     {
         "id": "1",
         "name": "Leite (sem açúcar)",
+        "brand": "Continente",
         "satietyIdx": 110,
         "keywords": [
             "leite de soja",
@@ -26,7 +27,8 @@
     },
     {
         "id": "2",
-        "name": "Iogurte (sem açúcar)",
+        "name": "Iogurte líquido (sem açúcar)",
+        "brand": "Continente",
         "satietyIdx": 75,
         "keywords": [
             "iogurtes de soja",
@@ -101,6 +103,7 @@
     {
         "id": "5",
         "name": "Bolachas de água e sal",
+        "brand": "Vieira",
         "satietyIdx": 127,
         "keywords": [
             "bolachas de água e sal",
@@ -118,6 +121,7 @@
     {
         "id": "6",
         "name": "Bolachas Maria",
+        "brand": "Continente",
         "satietyIdx": 120,
         "keywords": ["bolachas maria", "maria cookies"],
         "doses": [
@@ -131,6 +135,7 @@
     {
         "id": "7",
         "name": "Aveia",
+        "brand": "Continente",
         "satietyIdx": 209,
         "keywords": ["aveia", "oats", "oatmeal", "cereais", "cereals"],
         "doses": [
@@ -149,6 +154,7 @@
     {
         "id": "8",
         "name": "Sobremesa Chocolate",
+        "brand": "Continente",
         "satietyIdx": 45,
         "keywords": [
             "sobremesa de chocolate",
@@ -168,6 +174,7 @@
     {
         "id": "9",
         "name": "Mini Tostas",
+        "brand": "Continente",
         "satietyIdx": 100,
         "keywords": [
             "mini tostas",
@@ -191,6 +198,7 @@
     {
         "id": "10",
         "name": "Tremoços",
+        "brand": "Continente",
         "satietyIdx": 140,
         "keywords": ["tremoços", "lupins"],
         "doses": [
@@ -515,6 +523,7 @@
     {
         "id": "28",
         "name": "Queijo",
+        "brand": "Limiano",
         "satietyIdx": 146,
         "keywords": ["queijos", "cheeses"],
         "doses": [
@@ -533,6 +542,7 @@
     {
         "id": "29",
         "name": "Queijo fresco",
+        "brand": "Continente",
         "satietyIdx": 88,
         "keywords": ["queijos frescos", "queijo fresco", "fresh cheeses"],
         "doses": [
@@ -550,7 +560,8 @@
     },
     {
         "id": "30",
-        "name": "Pedaços Frango (Heura)",
+        "name": "Pedaços de Frango",
+        "brand": "Heura",
         "satietyIdx": 220,
         "keywords": [
             "pedaços de frango heura",
@@ -567,7 +578,8 @@
     },
     {
         "id": "31",
-        "name": "Carne Picada (Heura)",
+        "name": "Carne Picada",
+        "brand": "Heura",
         "satietyIdx": 225,
         "keywords": [
             "carne picada heura",
@@ -584,7 +596,8 @@
     },
     {
         "id": "32",
-        "name": "Hamburger (Heura)",
+        "name": "Hamburger",
+        "brand": "Heura",
         "satietyIdx": 225,
         "keywords": [
             "carnes",
@@ -603,7 +616,8 @@
     },
     {
         "id": "33",
-        "name": "Chouriço (Heura)",
+        "name": "Chouriço",
+        "brand": "Heura",
         "satietyIdx": 225,
         "keywords": [
             "carnes",
@@ -630,6 +644,7 @@
     {
         "id": "34",
         "name": "Seitan",
+        "brand": "Shambhala",
         "satietyIdx": 121,
         "keywords": ["seitans"],
         "doses": [
@@ -643,6 +658,7 @@
     {
         "id": "35",
         "name": "Tofu",
+        "brand": "Shambhala",
         "satietyIdx": 115,
         "keywords": ["tofus"],
         "doses": [
@@ -656,6 +672,7 @@
     {
         "id": "36",
         "name": "Gyozas de vegetais",
+        "brand": "Continente",
         "satietyIdx": 115,
         "keywords": ["gyozas de vegetais"],
         "doses": [
@@ -669,6 +686,7 @@
     {
         "id": "37",
         "name": "Tempura de vegetais",
+        "brand": "Continente",
         "satietyIdx": 115,
         "keywords": ["tempura de vegetais"],
         "doses": [
@@ -681,7 +699,8 @@
     },
     {
         "id": "38",
-        "name": "Bacon vegan (Vegana by Tentugal)",
+        "name": "Bacon",
+        "brand": "Vegana by Tentugal",
         "satietyIdx": 115,
         "keywords": [
             "bacon vegan",
@@ -705,6 +724,7 @@
     {
         "id": "39",
         "name": "Salsichas de soja",
+        "brand": "Nobre",
         "satietyIdx": 122,
         "keywords": ["salsichas de soja", "soy sausages"],
         "doses": [
@@ -762,6 +782,7 @@
     {
         "id": "47",
         "name": "Stacker Vegetal",
+        "brand": "Burger King",
         "satietyIdx": 110,
         "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
         "doses": [
@@ -775,6 +796,7 @@
     {
         "id": "48",
         "name": "Big King Vegetal",
+        "brand": "Burger King",
         "satietyIdx": 110,
         "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
         "doses": [
@@ -788,6 +810,7 @@
     {
         "id": "49",
         "name": "Whopper Vegetal",
+        "brand": "Burger King",
         "satietyIdx": 110,
         "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
         "doses": [
@@ -801,6 +824,7 @@
     {
         "id": "50",
         "name": "Long Vegetal",
+        "brand": "Burger King",
         "satietyIdx": 110,
         "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
         "doses": [
@@ -813,7 +837,8 @@
     },
     {
         "id": "51",
-        "name": "Batata Frita (média, BK)",
+        "name": "Batata Frita",
+        "brand": "Burger King",
         "satietyIdx": 116,
         "keywords": [
             "batatas fritas",
@@ -831,7 +856,8 @@
     },
     {
         "id": "52",
-        "name": "Nuggets Vegetais (BK)",
+        "name": "Nuggets Vegetais",
+        "brand": "Burger King",
         "satietyIdx": 116,
         "keywords": ["nuggets vegetais", "burger king", "bk"],
         "doses": [
@@ -845,6 +871,7 @@
     {
         "id": "53",
         "name": "Belgas de Chocolate",
+        "brand": "Saborosa",
         "satietyIdx": 70,
         "keywords": ["bolachas belgas de chocolate", "cookies"],
         "doses": [
@@ -857,7 +884,8 @@
     },
     {
         "id": "54",
-        "name": "Chocolate Lindt",
+        "name": "Chocolate de leite",
+        "brand": "Lindt",
         "satietyIdx": 70,
         "keywords": ["chocolates lindt", "chocolats lindt"],
         "doses": [
@@ -871,6 +899,7 @@
     {
         "id": "55",
         "name": "Requeijão",
+        "brand": "Santiago",
         "satietyIdx": 165,
         "keywords": [
             "requeijão",
@@ -893,10 +922,12 @@
     {
         "id": "58",
         "name": "Leite Chocolatado",
+        "brand": "Alpro",
         "satietyIdx": 100,
         "keywords": [
             "leite de soja chocolatado",
             "leite chocolatado",
+            "bebida de chocolate",
             "chocolate soy milk",
             "leite de soja com chocolate",
             "leite com chocolate"
@@ -912,6 +943,7 @@
     {
         "id": "60",
         "name": "Alheira",
+        "brand": "Eurofumeiro",
         "satietyIdx": 120,
         "keywords": ["alheiras"],
         "doses": [
@@ -925,6 +957,7 @@
     {
         "id": "61",
         "name": "Ketchup",
+        "brand": "Calvé",
         "satietyIdx": 45,
         "keywords": ["ketchup"],
         "doses": [
@@ -938,6 +971,7 @@
     {
         "id": "62",
         "name": "Molho Agridoce",
+        "brand": "Paladin",
         "satietyIdx": 50,
         "keywords": [
             "molhos",
@@ -956,6 +990,7 @@
     {
         "id": "63",
         "name": "Maionese",
+        "brand": "Calvé",
         "satietyIdx": 55,
         "keywords": ["maionese", "mayonnaise"],
         "doses": [
@@ -969,6 +1004,7 @@
     {
         "id": "64",
         "name": "Mostarda",
+        "brand": "Paladin",
         "satietyIdx": 35,
         "keywords": ["mostarda", "mustard"],
         "doses": [
@@ -1018,6 +1054,7 @@
     {
         "id": "67",
         "name": "Gelatina",
+        "brand": "Alsa",
         "satietyIdx": 25,
         "keywords": ["gelatinas", "gelly"],
         "doses": [
@@ -1031,6 +1068,7 @@
     {
         "id": "68",
         "name": "Gelatina (sem açúcar)",
+        "brand": "Alsa",
         "satietyIdx": 25,
         "keywords": ["gelatinas", "gelly", "magra", "light", "sugar free"],
         "doses": [
@@ -1057,6 +1095,7 @@
     {
         "id": "70",
         "name": "Manteiga de Amendoim",
+        "brand": "Calvé",
         "satietyIdx": 70,
         "keywords": [
             "manteigas",
@@ -1076,6 +1115,7 @@
     {
         "id": "71",
         "name": "Pasta (fresca)",
+        "brand": "Continente",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
@@ -1101,6 +1141,7 @@
     {
         "id": "72",
         "name": "Cavala (em azeite)",
+        "brand": "Continente",
         "satietyIdx": 200,
         "keywords": [
             "cavalas enlatadas em azeite",
@@ -1121,6 +1162,7 @@
     {
         "id": "73",
         "name": "Sardinhas (em azeite)",
+        "brand": "Continente",
         "satietyIdx": 200,
         "keywords": [
             "sardinhas enlatadas em azeite",
@@ -1140,9 +1182,13 @@
     },
     {
         "id": "74",
-        "name": "Hamburger (Continente)",
+        "name": "Hamburger de frango",
+        "brand": "Continente",
         "satietyIdx": 225,
-        "keywords": ["hamburgers continente", "hamburger continente"],
+        "keywords": [
+            "hamburgers frango continente",
+            "chicken burger continente"
+        ],
         "doses": [
             {
                 "quantity": 80,
@@ -1154,6 +1200,7 @@
     {
         "id": "75",
         "name": "Queijo Triângulo",
+        "brand": "A Vaca que ri",
         "satietyIdx": 146,
         "keywords": [
             "queijos de triângulo",
@@ -1175,6 +1222,7 @@
     {
         "id": "76",
         "name": "Manteiga",
+        "brand": "Mimosa",
         "satietyIdx": 40,
         "keywords": [
             "manteigas",
@@ -1207,6 +1255,7 @@
     {
         "id": "78",
         "name": "Natas Culinária",
+        "brand": "Alpro",
         "satietyIdx": 50,
         "keywords": [
             "natas de culinária",
@@ -1222,7 +1271,7 @@
             },
             {
                 "quantity": 4,
-                "unit": "unit",
+                "unit": "cube",
                 "calsPerUnit": 36.6
             }
         ]
@@ -1248,6 +1297,7 @@
     {
         "id": "80",
         "name": "Queijo Mozzarella",
+        "brand": "Continente",
         "satietyIdx": 120,
         "keywords": ["queijo mozzarella", "mozzarella cheese"],
         "doses": [
@@ -1261,19 +1311,21 @@
     {
         "id": "81",
         "name": "Salmão fumado",
+        "brand": "Continente",
         "satietyIdx": 180,
         "keywords": ["salmão fumado", "salmao fumado", "smoked salmon"],
         "doses": [
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.7
+                "calsPerUnit": 1.77
             }
         ]
     },
     {
         "id": "82",
-        "name": "Fiambre Peru",
+        "name": "Fiambre de Peru",
+        "brand": "Viodeli",
         "satietyIdx": 95,
         "keywords": ["fiambre de peru", "turkey cold cuts"],
         "doses": [
@@ -1287,6 +1339,7 @@
     {
         "id": "83",
         "name": "Queijo Burrata",
+        "brand": "Continente",
         "satietyIdx": 100,
         "keywords": ["queijo burrata", "burrata cheese"],
         "doses": [
@@ -1300,6 +1353,7 @@
     {
         "id": "84",
         "name": "Sandes Heura Classic",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes heura classic",
@@ -1319,6 +1373,7 @@
     {
         "id": "85",
         "name": "Sandes Heura Crocante",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes heura crocante",
@@ -1338,6 +1393,7 @@
     {
         "id": "86",
         "name": "Sandes Pasta de Vuna",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes de pasta de atum",
@@ -1360,6 +1416,7 @@
     {
         "id": "87",
         "name": "Sandes Pasta de Atum",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes de pasta de atum",
@@ -1380,6 +1437,7 @@
     {
         "id": "88",
         "name": "Sandes Mozzarella Pesto",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes de mozzarella e pesto",
@@ -1402,6 +1460,7 @@
     {
         "id": "59",
         "name": "Sandes Queijo Fresco",
+        "brand": "Pans & Company",
         "satietyIdx": 110,
         "keywords": [
             "sandes de queijo fresco",
@@ -1447,19 +1506,21 @@
     {
         "id": "89",
         "name": "Froyo",
+        "brand": "Weeel",
         "satietyIdx": 80,
         "keywords": ["froyos", "frozen", "yogurts"],
         "doses": [
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 1.6
             }
         ]
     },
     {
         "id": "90",
         "name": "Froyo com Nutella",
+        "brand": "Weeel",
         "satietyIdx": 80,
         "keywords": [
             "froyos de nutella",
@@ -1477,7 +1538,7 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 2.2
+                "calsPerUnit": 3.6
             }
         ]
     },
@@ -1523,6 +1584,7 @@
     {
         "id": "43",
         "name": "Leite",
+        "brand": "Continente",
         "satietyIdx": 40,
         "keywords": ["leites", "milks", "bebidas", "drinks", "soja", "soy"],
         "doses": [
@@ -1747,6 +1809,7 @@
     {
         "id": "102",
         "name": "Queijo Brie",
+        "brand": "Continente",
         "satietyIdx": 65,
         "keywords": ["queijo brie", "brie cheese"],
         "doses": [
@@ -1818,7 +1881,8 @@
     },
     {
         "id": "106",
-        "name": "Iogurte",
+        "name": "Iogurte líquido",
+        "brand": "Continente",
         "satietyIdx": 75,
         "keywords": [
             "iogurtes de soja",
@@ -2087,7 +2151,8 @@
     },
     {
         "id": "122",
-        "name": "Tomate picado",
+        "name": "Tomate triturado",
+        "brand": "Continente",
         "satietyIdx": 125,
         "keywords": [
             "tomate picado",
@@ -2099,14 +2164,9 @@
         ],
         "doses": [
             {
-                "quantity": 48,
+                "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.18
-            },
-            {
-                "quantity": 4,
-                "unit": "unit",
-                "calsPerUnit": 8.64
+                "calsPerUnit": 0.25
             }
         ]
     },
@@ -2131,6 +2191,7 @@
     {
         "id": "124",
         "name": "Hummus",
+        "brand": "Continente",
         "satietyIdx": 160,
         "keywords": [
             "húmus",
@@ -2231,7 +2292,8 @@
     },
     {
         "id": "129",
-        "name": "Ben & Jerry's Cookie Dough",
+        "name": "Gelado Cookie Dough",
+        "brand": "Ben & Jerry's",
         "satietyIdx": 55,
         "keywords": [
             "gelado ben & jerry's",
@@ -2254,7 +2316,8 @@
     },
     {
         "id": "130",
-        "name": "Bacon vegan (AlterVego)",
+        "name": "Bacon",
+        "brand": "AlterVego",
         "satietyIdx": 115,
         "keywords": [
             "bacon vegan",
@@ -2278,6 +2341,7 @@
     {
         "id": "131",
         "name": "Schoko Bons",
+        "brand": "Kinder",
         "satietyIdx": 115,
         "keywords": ["schoko bons", "chocolates", "chocolats"],
         "doses": [
@@ -2303,7 +2367,8 @@
     },
     {
         "id": "133",
-        "name": "Pizza Ristorante (Dr. Oetker)",
+        "name": "Pizza Ristorante",
+        "brand": "Dr. Oetker",
         "satietyIdx": 65,
         "keywords": ["pizza ristorante", "pizza dr. oetker"],
         "doses": [
@@ -2321,7 +2386,8 @@
     },
     {
         "id": "134",
-        "name": "Barra de Cereais (Nakd)",
+        "name": "Barra de Cereais",
+        "brand": "Nakd",
         "satietyIdx": 70,
         "keywords": [
             "barra the cereais",
@@ -2729,7 +2795,8 @@
     },
     {
         "id": "152",
-        "name": "Crepes Chineses (Continente)",
+        "name": "Crepes Chineses",
+        "brand": "Continente",
         "satietyIdx": 50,
         "keywords": [
             "crepes chineses",
@@ -2953,6 +3020,186 @@
                 "quantity": 1,
                 "unit": "g",
                 "calsPerUnit": 4
+            }
+        ]
+    },
+    {
+        "id": "165",
+        "name": "Sardinhas (em azeite)",
+        "brand": "Ramirez",
+        "satietyIdx": 200,
+        "keywords": [
+            "sardinhas enlatadas em azeite",
+            "sardinhas em azeite",
+            "sardinha enlatada em azeite",
+            "sardinha em azeite",
+            "canned sardines",
+            "olive oil"
+        ],
+        "doses": [
+            {
+                "quantity": 88,
+                "unit": "g",
+                "calsPerUnit": 2.59
+            }
+        ]
+    },
+    {
+        "id": "167",
+        "name": "Manteiga",
+        "brand": "Planta",
+        "satietyIdx": 40,
+        "keywords": [
+            "manteigas",
+            "butters",
+            "margarinas",
+            "margarines",
+            "spreads"
+        ],
+        "doses": [
+            {
+                "quantity": 10,
+                "unit": "g",
+                "calsPerUnit": 5.31
+            }
+        ]
+    },
+    {
+        "id": "168",
+        "name": "Lombo de Salmão fumado",
+        "brand": "Ubago",
+        "satietyIdx": 180,
+        "keywords": ["lombo salmão fumado", "smoked salmon loin"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 1.77
+            }
+        ]
+    },
+    {
+        "id": "169",
+        "name": "Azeitona sem caroço",
+        "satietyIdx": 90,
+        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
+        "doses": [
+            {
+                "quantity": 2.5,
+                "unit": "g",
+                "calsPerUnit": 1.84
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 4.6
+            }
+        ]
+    },
+    {
+        "id": "170",
+        "name": "Passata de Tomate com Manjerição e Oregãos",
+        "brand": "Guloso",
+        "satietyIdx": 125,
+        "keywords": [
+            "tomate picado",
+            "tomates picados",
+            "tomate triturado",
+            "tomates triturados",
+            "passata",
+            "majericão",
+            "majericao",
+            "orégãos",
+            "polpa",
+            "oreganos",
+            "chopped tomatoes",
+            "crushed tomatoes"
+        ],
+        "doses": [
+            {
+                "quantity": 48,
+                "unit": "g",
+                "calsPerUnit": 0.23
+            },
+            {
+                "quantity": 4,
+                "unit": "cube",
+                "calsPerUnit": 11
+            }
+        ]
+    },
+    {
+        "id": "171",
+        "name": "Tomate frito",
+        "brand": "Guloso",
+        "satietyIdx": 125,
+        "keywords": [
+            "tomate picado",
+            "tomates picados",
+            "tomate triturado",
+            "tomates triturados",
+            "polpa",
+            "tomates triturados",
+            "chopped tomatoes",
+            "crushed tomatoes"
+        ],
+        "doses": [
+            {
+                "quantity": 48,
+                "unit": "g",
+                "calsPerUnit": 0.57
+            },
+            {
+                "quantity": 4,
+                "unit": "cube",
+                "calsPerUnit": 27.36
+            }
+        ]
+    },
+    {
+        "id": "172",
+        "name": "Fiambre de Frango",
+        "brand": "Viodeli",
+        "satietyIdx": 95,
+        "keywords": ["fiambre de frango", "chicken cold cuts"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 27.6
+            }
+        ]
+    },
+    {
+        "id": "173",
+        "name": "Fiambre de Frango",
+        "brand": "Nobre",
+        "satietyIdx": 95,
+        "keywords": ["fiambre de frango", "chicken cold cuts"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 23.13
+            }
+        ]
+    },
+    {
+        "id": "174",
+        "name": "Fiambre com Ervas Mediterrâneas",
+        "brand": "Nobre",
+        "satietyIdx": 95,
+        "keywords": [
+            "fiambre",
+            "cold cuts",
+            "ervas mediterrâneas",
+            "mediterranean herbs"
+        ],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 20.13
             }
         ]
     }
