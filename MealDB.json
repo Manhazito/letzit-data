@@ -243,6 +243,8 @@
                             {
                                 "id": "78",
                                 "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
@@ -263,6 +265,8 @@
                             {
                                 "id": "39",
                                 "name": "Salsichas de soja",
+                                "brand": "Nobre",
+                                "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
@@ -302,6 +306,8 @@
                             {
                                 "id": "1",
                                 "name": "Leite (sem açúcar)",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 200,
                                 "dose": {
                                     "quantity": 200,
@@ -322,6 +328,8 @@
                             {
                                 "id": "7",
                                 "name": "Aveia",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 209,
                                 "dose": {
                                     "quantity": 4,
@@ -418,6 +426,8 @@
                             {
                                 "id": "78",
                                 "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
@@ -438,6 +448,8 @@
                             {
                                 "id": "39",
                                 "name": "Salsichas de soja",
+                                "brand": "Nobre",
+                                "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
@@ -542,7 +554,9 @@
                             },
                             {
                                 "id": "130",
-                                "name": "Bacon vegan (AlterVego)",
+                                "name": "Bacon vegan",
+                                "brand": "AlterVego",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 115,
                                 "dose": {
                                     "quantity": 5,
@@ -661,6 +675,8 @@
                             {
                                 "id": "35",
                                 "name": "Tofu",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 115,
                                 "dose": {
                                     "quantity": 400,
@@ -738,7 +754,9 @@
                             },
                             {
                                 "id": "31",
-                                "name": "Carne Picada (Heura)",
+                                "name": "Carne Picada",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 225,
                                 "dose": {
                                     "quantity": 180,
@@ -748,12 +766,14 @@
                             },
                             {
                                 "id": "122",
-                                "name": "Tomate picado",
+                                "name": "Tomate triturado",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 125,
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "g",
-                                    "calsPerUnit": 0.18
+                                    "calsPerUnit": 0.25
                                 }
                             },
                             {
@@ -815,9 +835,10 @@
     },
     {
         "id": "9",
-        "name": "Pasta com Heura e Cogumelos",
+        "name": "Pasta com Frango e Cogumelos",
         "servings": 2,
         "keywords": [
+            "pasta com frango e cogumelos",
             "pasta com heura e cogumelos",
             "pasta heura cogumelos",
             "pasta com cogumelos e heura",
@@ -835,6 +856,7 @@
             "pasta with cogumelos and heura",
             "pasta cogumelos heura",
             "esparguete with heura and mushrooms",
+            "esparguete with chicken and mushrooms",
             "esparguete heura mushrooms",
             "esparguete with mushrooms and heura",
             "esparguete mushrooms heura",
@@ -872,7 +894,9 @@
                             },
                             {
                                 "id": "30",
-                                "name": "Pedaços Frango (Heura)",
+                                "name": "Pedaços de Frango",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 220,
                                 "dose": {
                                     "quantity": 180,
@@ -943,6 +967,8 @@
                             {
                                 "id": "78",
                                 "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 2,
@@ -1042,6 +1068,8 @@
                             {
                                 "id": "76",
                                 "name": "Manteiga",
+                                "brand": "Mimosa",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 40,
                                 "dose": {
                                     "quantity": 10,
@@ -1081,6 +1109,8 @@
                             {
                                 "id": "28",
                                 "name": "Queijo",
+                                "brand": "Limiano",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 146,
                                 "dose": {
                                     "quantity": 2,
@@ -1135,17 +1165,21 @@
                             },
                             {
                                 "id": "74",
-                                "name": "Hamburger (Continente)",
+                                "name": "Hamburger",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 225,
                                 "dose": {
-                                    "quantity": 80,
-                                    "unit": "g",
-                                    "calsPerUnit": 2.26
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 207
                                 }
                             },
                             {
                                 "id": "28",
                                 "name": "Queijo",
+                                "brand": "Limiano",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 146,
                                 "dose": {
                                     "quantity": 2,
@@ -1166,6 +1200,8 @@
                             {
                                 "id": "63",
                                 "name": "Maionese",
+                                "brand": "Calvé",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 55,
                                 "dose": {
                                     "quantity": 20,
@@ -1264,6 +1300,8 @@
                             {
                                 "id": "78",
                                 "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 4,
@@ -1303,6 +1341,8 @@
                             {
                                 "id": "47",
                                 "name": "Stacker Vegetal",
+                                "brand": "Burger King",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1332,6 +1372,8 @@
                             {
                                 "id": "48",
                                 "name": "Big King Vegetal",
+                                "brand": "Burger King",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1361,6 +1403,8 @@
                             {
                                 "id": "49",
                                 "name": "Whopper Vegetal",
+                                "brand": "Burger King",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1390,6 +1434,8 @@
                             {
                                 "id": "50",
                                 "name": "Long Vegetal",
+                                "brand": "Burger King",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1425,6 +1471,8 @@
                             {
                                 "id": "84",
                                 "name": "Sandes Heura Classic",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1460,6 +1508,8 @@
                             {
                                 "id": "85",
                                 "name": "Sandes Heura Crocante",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1498,6 +1548,8 @@
                             {
                                 "id": "86",
                                 "name": "Sandes Pasta de Vuna",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1534,6 +1586,8 @@
                             {
                                 "id": "87",
                                 "name": "Sandes Pasta de Atum",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1572,6 +1626,8 @@
                             {
                                 "id": "88",
                                 "name": "Sandes Mozzarella Pesto",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1607,6 +1663,8 @@
                             {
                                 "id": "59",
                                 "name": "Sandes Queijo Fresco",
+                                "brand": "Pans & Company",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 1,
@@ -1623,7 +1681,7 @@
     },
     {
         "id": "28",
-        "name": "Pizza Ristorante (Dr. Oetker)",
+        "name": "Pizza Ristorante",
         "servings": 1,
         "keywords": ["pizza ristorante", "pizza dr. oetker"],
         "recipes": [
@@ -1635,7 +1693,9 @@
                         "ingredients": [
                             {
                                 "id": "133",
-                                "name": "Pizza Ristorante (Dr. Oetker)",
+                                "name": "Pizza Ristorante",
+                                "brand": "Dr. Oetker",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 65,
                                 "dose": {
                                     "quantity": 8,
@@ -1665,6 +1725,8 @@
                             {
                                 "id": "144",
                                 "name": "Poke Bowl (sushi rice and soy meat)",
+                                "brand": "Honu",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 60,
                                 "dose": {
                                     "quantity": 1,
@@ -1838,6 +1900,8 @@
                             {
                                 "id": "78",
                                 "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
@@ -1920,6 +1984,8 @@
                             {
                                 "id": "1",
                                 "name": "Leite (sem açúcar)",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 110,
                                 "dose": {
                                     "quantity": 150,
@@ -1949,7 +2015,9 @@
                             },
                             {
                                 "id": "82",
-                                "name": "Fiambre Peru",
+                                "name": "Fiambre de Peru",
+                                "brand": "Viodeli",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 95,
                                 "dose": {
                                     "quantity": 100,
@@ -1960,6 +2028,8 @@
                             {
                                 "id": "28",
                                 "name": "Queijo",
+                                "brand": "Limiano",
+                                "isBrandRelevant": true,
                                 "satietyIdx": 146,
                                 "dose": {
                                     "quantity": 150,
@@ -1980,6 +2050,8 @@
                             {
                                 "id": "34",
                                 "name": "Seitan",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
                                 "satietyIdx": 121,
                                 "dose": {
                                     "quantity": 80,

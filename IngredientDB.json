@@ -466,7 +466,7 @@
         "id": "28",
         "name": "Queijo",
         "brand": "Limiano",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 146,
         "keywords": ["queijos", "cheeses"],
         "doses": [
@@ -506,7 +506,7 @@
         "id": "30",
         "name": "Pedaços de Frango",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 220,
         "keywords": [
             "pedaços de frango heura",
@@ -525,7 +525,7 @@
         "id": "31",
         "name": "Carne Picada",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carne picada heura",
@@ -544,7 +544,7 @@
         "id": "32",
         "name": "Hamburger",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carnes",
@@ -565,7 +565,7 @@
         "id": "33",
         "name": "Chouriço",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carnes",

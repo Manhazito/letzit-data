@@ -532,7 +532,7 @@
         "id": "28",
         "name": "Queijo",
         "brand": "Limiano",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 146,
         "keywords": ["queijos", "cheeses"],
         "doses": [
@@ -572,7 +572,7 @@
         "id": "30",
         "name": "Pedaços de Frango",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 220,
         "keywords": [
             "pedaços de frango heura",
@@ -591,7 +591,7 @@
         "id": "31",
         "name": "Carne Picada",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carne picada heura",
@@ -610,7 +610,7 @@
         "id": "32",
         "name": "Hamburger",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carnes",
@@ -631,7 +631,7 @@
         "id": "33",
         "name": "Chouriço",
         "brand": "Heura",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
         "keywords": [
             "carnes",
@@ -803,7 +803,7 @@
         "id": "47",
         "name": "Stacker Vegetal",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
         "doses": [
@@ -818,7 +818,7 @@
         "id": "48",
         "name": "Big King Vegetal",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
         "doses": [
@@ -833,7 +833,7 @@
         "id": "49",
         "name": "Whopper Vegetal",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
         "doses": [
@@ -848,7 +848,7 @@
         "id": "50",
         "name": "Long Vegetal",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
         "doses": [
@@ -863,7 +863,7 @@
         "id": "51",
         "name": "Batata Frita",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 116,
         "keywords": [
             "batatas fritas",
@@ -883,7 +883,7 @@
         "id": "52",
         "name": "Nuggets Vegetais",
         "brand": "Burger King",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 116,
         "keywords": ["nuggets vegetais", "burger king", "bk"],
         "doses": [
@@ -1403,7 +1403,7 @@
         "id": "84",
         "name": "Sandes Heura Classic",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes heura classic",
@@ -1424,7 +1424,7 @@
         "id": "85",
         "name": "Sandes Heura Crocante",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes heura crocante",
@@ -1445,7 +1445,7 @@
         "id": "86",
         "name": "Sandes Pasta de Vuna",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes de pasta de atum",
@@ -1469,7 +1469,7 @@
         "id": "87",
         "name": "Sandes Pasta de Atum",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes de pasta de atum",
@@ -1491,7 +1491,7 @@
         "id": "88",
         "name": "Sandes Mozzarella Pesto",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes de mozzarella e pesto",
@@ -1515,7 +1515,7 @@
         "id": "59",
         "name": "Sandes Queijo Fresco",
         "brand": "Pans & Company",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
             "sandes de queijo fresco",
@@ -2434,7 +2434,7 @@
         "id": "133",
         "name": "Pizza Ristorante",
         "brand": "Dr. Oetker",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 65,
         "keywords": ["pizza ristorante", "pizza dr. oetker"],
         "doses": [
@@ -2648,6 +2648,8 @@
     {
         "id": "144",
         "name": "Poke Bowl (sushi rice and soy meat)",
+        "brand": "Honu",
+        "isBrandRelevant": false,
         "satietyIdx": 60,
         "keywords": ["boke bowls"],
         "doses": [
