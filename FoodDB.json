@@ -3266,5 +3266,59 @@
                 "calsPerUnit": 20.13
             }
         ]
+    },
+    {
+        "id": "175",
+        "name": "Rissol de camarão",
+        "satietyIdx": 70,
+        "keywords": ["rissol", "camarão", "shrimp"],
+        "doses": [
+            {
+                "quantity": 60,
+                "unit": "g",
+                "calsPerUnit": 1.38
+            },
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 83
+            }
+        ]
+    },
+    {
+        "id": "176",
+        "name": "Rissol de bacalhau",
+        "satietyIdx": 75,
+        "keywords": ["rissol", "bacalhau", "codfish"],
+        "doses": [
+            {
+                "quantity": 60,
+                "unit": "g",
+                "calsPerUnit": 1.3
+            },
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 78
+            }
+        ]
+    },
+    {
+        "id": "177",
+        "name": "Eclair (miniatura)",
+        "satietyIdx": 70,
+        "keywords": ["rissol", "bacalhau", "codfish"],
+        "doses": [
+            {
+                "quantity": 26,
+                "unit": "g",
+                "calsPerUnit": 2.23
+            },
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 58
+            }
+        ]
     }
 ]
