@@ -919,7 +919,7 @@
         "doses": [
             {
                 "quantity": 100,
-                "unit": "slice",
+                "unit": "g",
                 "calsPerUnit": 5.74
             },
             {
