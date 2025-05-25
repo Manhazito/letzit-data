@@ -1770,14 +1770,7 @@
         "id": "125",
         "name": "Gema de Ovo",
         "satietyIdx": 120,
-        "keywords": [
-            "ovos",
-            "eggs",
-            "cozidos",
-            "boiled",
-            "estrelados",
-            "fryed"
-        ],
+        "keywords": ["ovos", "gema", "yolk", "eggs"],
         "doses": [
             {
                 "quantity": 15,
@@ -1795,14 +1788,7 @@
         "id": "126",
         "name": "Clara de Ovo",
         "satietyIdx": 180,
-        "keywords": [
-            "ovos",
-            "eggs",
-            "cozidos",
-            "boiled",
-            "estrelados",
-            "fryed"
-        ],
+        "keywords": ["ovos", "clara", "white", "eggs"],
         "doses": [
             {
                 "quantity": 30,
