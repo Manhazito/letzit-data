@@ -2238,14 +2238,14 @@
         "keywords": ["fruta", "fruit", "cerejas", "cherry", "cherries"],
         "doses": [
             {
-                "quantity": 500,
+                "quantity": 200,
                 "unit": "g",
                 "calsPerUnit": 0.58
             },
             {
-                "quantity": 55,
+                "quantity": 30,
                 "unit": "unit",
-                "calsPerUnit": 5.273
+                "calsPerUnit": 3.87
             }
         ]
     },
