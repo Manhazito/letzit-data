@@ -2443,7 +2443,7 @@
         "isBrandRelevant": false,
         "satietyIdx": 70,
         "keywords": [
-            "barra the cereais",
+            "barra de cereais",
             "barrita de cereais",
             "barra crua",
             "barrita crua",
@@ -3318,6 +3318,24 @@
                 "quantity": 2,
                 "unit": "unit",
                 "calsPerUnit": 58
+            }
+        ]
+    },
+    {
+        "id": "178",
+        "name": "Bacalhau assads no forno",
+        "satietyIdx": 200,
+        "keywords": ["bacalhau", "assado", "codfish", "roasted"],
+        "doses": [
+            {
+                "quantity": 250,
+                "unit": "g",
+                "calsPerUnit": 1.05
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 262.5
             }
         ]
     }
