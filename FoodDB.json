@@ -911,16 +911,21 @@
     },
     {
         "id": "54",
-        "name": "Chocolate de leite",
+        "name": "Chocolate com avelã",
         "brand": "Lindt",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 70,
         "keywords": ["chocolates lindt", "chocolats lindt"],
         "doses": [
             {
+                "quantity": 100,
+                "unit": "slice",
+                "calsPerUnit": 5.74
+            },
+            {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 52
+                "calsPerUnit": 28.7
             }
         ]
     },
