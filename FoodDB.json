@@ -6,17 +6,18 @@
         "isBrandRelevant": false,
         "satietyIdx": 110,
         "keywords": [
-            "leite de soja",
-            "soy milk",
-            "bebida de soja",
-            "soy drink",
-            "sem açúcar",
-            "sem acucar",
-            "sem açucar",
-            "sem acúcar",
+            "leite",
+            "soja",
+            "soy",
+            "milk",
+            "bebida",
+            "drink",
+            "sem",
+            "açúcar",
             "magro",
             "light",
-            "sugar free"
+            "sugar",
+            "free"
         ],
         "doses": [
             {
@@ -33,15 +34,16 @@
         "isBrandRelevant": false,
         "satietyIdx": 75,
         "keywords": [
-            "iogurtes de soja",
-            "iogurte de soja",
             "iogurtes",
-            "liquid soy yogurts",
-            "iogurtes líquidos",
-            "iogurte líquido",
+            "soja",
+            "liquidos",
+            "liquid",
+            "soy",
+            "yogurts",
             "magro",
             "light",
-            "sugar free"
+            "sugar",
+            "free"
         ],
         "doses": [
             {
@@ -57,9 +59,7 @@
         "satietyIdx": 100,
         "keywords": [
             "pão",
-            "pao",
             "pães",
-            "paes",
             "bread",
             "branco",
             "white",
@@ -71,6 +71,11 @@
                 "quantity": 40,
                 "unit": "g",
                 "calsPerUnit": 2.9
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 116
             }
         ]
     },
@@ -79,18 +84,13 @@
         "name": "Pão (integral)",
         "satietyIdx": 157,
         "keywords": [
-            "pão integral",
-            "pao integral",
-            "pão de trigo integral",
-            "pao de trigo integral",
-            "pães integrais",
-            "paes integrais",
-            "pães de trigo integrais",
-            "paes de trigo integrais",
-            "wholemeal bread",
-            "whole grain bread",
-            "wholemeal wheat bread",
-            "whole grain wheat bread",
+            "pão",
+            "integral",
+            "pães",
+            "integrais",
+            "wholemeal",
+            "grain",
+            "bread",
             "trigo",
             "wheat"
         ],
@@ -99,6 +99,11 @@
                 "quantity": 40,
                 "unit": "g",
                 "calsPerUnit": 2.32
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 92.8
             }
         ]
     },
@@ -108,11 +113,7 @@
         "brand": "Vieira",
         "isBrandRelevant": false,
         "satietyIdx": 127,
-        "keywords": [
-            "bolachas de água e sal",
-            "bolachas de agua e sal",
-            "water and salt cookies"
-        ],
+        "keywords": ["bolachas", "água", "sal", "water", "salt", "cookies"],
         "doses": [
             {
                 "quantity": 4,
@@ -127,7 +128,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 120,
-        "keywords": ["bolachas maria", "maria cookies"],
+        "keywords": ["bolachas", "maria", "cookies"],
         "doses": [
             {
                 "quantity": 3,
@@ -163,11 +164,12 @@
         "isBrandRelevant": false,
         "satietyIdx": 45,
         "keywords": [
-            "sobremesa de chocolate",
-            "chocolat desert",
-            "iogurte de chocolate",
-            "iogurtes de chocolate",
-            "chocolate yogurts"
+            "sobremesa",
+            "chocolate",
+            "chocolat",
+            "desert",
+            "iogurtes",
+            "yogurts"
         ],
         "doses": [
             {
@@ -184,12 +186,11 @@
         "isBrandRelevant": false,
         "satietyIdx": 100,
         "keywords": [
-            "mini tostas",
-            "mini toasts",
+            "mini",
+            "tostas",
+            "toasts",
             "pão",
-            "pao",
             "pães",
-            "paes",
             "bread",
             "trigo",
             "wheat"
@@ -221,15 +222,7 @@
         "id": "11",
         "name": "Maçã",
         "satietyIdx": 197,
-        "keywords": [
-            "fruta",
-            "fruit",
-            "maçãs",
-            "macas",
-            "maças",
-            "macãs",
-            "apples"
-        ],
+        "keywords": ["fruta", "fruit", "maçãs", "apples"],
         "doses": [
             {
                 "quantity": 100,
@@ -265,7 +258,7 @@
         "id": "13",
         "name": "Pêssego",
         "satietyIdx": 130,
-        "keywords": ["fruta", "fruit", "pêssegos", "pessegos", "peaches"],
+        "keywords": ["fruta", "fruit", "pêssegos", "peaches"],
         "doses": [
             {
                 "quantity": 100,
@@ -283,15 +276,7 @@
         "id": "14",
         "name": "Melão",
         "satietyIdx": 111,
-        "keywords": [
-            "fruta",
-            "fruit",
-            "melão",
-            "melao",
-            "melões",
-            "meloes",
-            "melons"
-        ],
+        "keywords": ["fruta", "fruit", "melão", "melões", "melons"],
         "doses": [
             {
                 "quantity": 100,
@@ -327,7 +312,7 @@
         "id": "16",
         "name": "Pêra",
         "satietyIdx": 150,
-        "keywords": ["fruta", "fruit", "pêras", "peras", "pears"],
+        "keywords": ["fruta", "fruit", "pêras", "pears"],
         "doses": [
             {
                 "quantity": 100,
@@ -363,14 +348,7 @@
         "id": "18",
         "name": "Ananás",
         "satietyIdx": 110,
-        "keywords": [
-            "fruta",
-            "fruit",
-            "ananáses",
-            "ananases",
-            "abacaxis",
-            "pineapples"
-        ],
+        "keywords": ["fruta", "fruit", "ananáses", "abacaxis", "pineapples"],
         "doses": [
             {
                 "quantity": 135,
@@ -448,11 +426,7 @@
         "id": "22",
         "name": "Batatas fritas (air fryer)",
         "satietyIdx": 117,
-        "keywords": [
-            "batatas fritas na air fryer",
-            "batatas fritas em air fryer",
-            "air fryed potatoes"
-        ],
+        "keywords": ["batatas", "fritas", "air", "fryer", "fryed", "potatoes"],
         "doses": [
             {
                 "quantity": 100,
@@ -465,7 +439,7 @@
         "id": "23",
         "name": "Batatas fritas",
         "satietyIdx": 116,
-        "keywords": ["batatas fritas", "deep fryed potatoes"],
+        "keywords": ["batatas", "fritas", "deep", "fryed", "potatoes"],
         "doses": [
             {
                 "quantity": 100,
@@ -478,7 +452,7 @@
         "id": "24",
         "name": "Arroz",
         "satietyIdx": 138,
-        "keywords": ["arroz branco", "white rice"],
+        "keywords": ["arroz", "branco", "white", "rice"],
         "doses": [
             {
                 "quantity": 100,
@@ -496,7 +470,7 @@
         "id": "26",
         "name": "Feijão",
         "satietyIdx": 168,
-        "keywords": ["feijão", "feijao", "feijões", "feijoes", "beans"],
+        "keywords": ["feijão", "feijões", "beans"],
         "doses": [
             {
                 "quantity": 120,
@@ -514,7 +488,7 @@
         "id": "27",
         "name": "Grão de Bico",
         "satietyIdx": 131,
-        "keywords": ["grão de bico", "grao de bico", "chickpeas"],
+        "keywords": ["grão", "grãos", "bico", "chickpeas"],
         "doses": [
             {
                 "quantity": 100,
@@ -554,7 +528,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 88,
-        "keywords": ["queijos frescos", "queijo fresco", "fresh cheeses"],
+        "keywords": ["queijos", "frescos", "fresh", "cheeses"],
         "doses": [
             {
                 "quantity": 30,
@@ -574,11 +548,7 @@
         "brand": "Heura",
         "isBrandRelevant": true,
         "satietyIdx": 220,
-        "keywords": [
-            "pedaços de frango heura",
-            "heura pedaços de frango",
-            "heura chicken peaces"
-        ],
+        "keywords": ["pedaços", "frango", "heura", "chicken", "peaces"],
         "doses": [
             {
                 "quantity": 110,
@@ -593,11 +563,7 @@
         "brand": "Heura",
         "isBrandRelevant": true,
         "satietyIdx": 225,
-        "keywords": [
-            "carne picada heura",
-            "heura carne picada",
-            "heura minced meat"
-        ],
+        "keywords": ["carne", "picada", "heura", "minced", "meat"],
         "doses": [
             {
                 "quantity": 90,
@@ -612,13 +578,7 @@
         "brand": "Heura",
         "isBrandRelevant": true,
         "satietyIdx": 225,
-        "keywords": [
-            "carnes",
-            "meats",
-            "hamburgers heura",
-            "hamburger heura",
-            "heura hamburgers"
-        ],
+        "keywords": ["hambúrgueres", "hamburgers", "heura"],
         "doses": [
             {
                 "quantity": 1,
@@ -633,20 +593,7 @@
         "brand": "Heura",
         "isBrandRelevant": true,
         "satietyIdx": 225,
-        "keywords": [
-            "carnes",
-            "meats",
-            "chouriço heura",
-            "chourico heura",
-            "chouriços heura",
-            "chouricos heura",
-            "heura chouriço",
-            "heura chourico",
-            "heura chouriços",
-            "heura chouricos",
-            "chorizos heura",
-            "heura chorizos"
-        ],
+        "keywords": ["chouriços", "heura", "chorizos"],
         "doses": [
             {
                 "quantity": 2,
@@ -691,7 +638,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 115,
-        "keywords": ["gyozas de vegetais"],
+        "keywords": ["gyozas", "vegetais"],
         "doses": [
             {
                 "quantity": 6,
@@ -706,7 +653,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 115,
-        "keywords": ["tempura de vegetais"],
+        "keywords": ["tempura", "vegetais"],
         "doses": [
             {
                 "quantity": 100,
@@ -722,9 +669,11 @@
         "isBrandRelevant": true,
         "satietyIdx": 115,
         "keywords": [
-            "bacon vegan",
-            "bacon vegetariano",
-            "toucinho fumado",
+            "bacon",
+            "vegan",
+            "vegetariano",
+            "toucinho",
+            "fumado",
             "panceta"
         ],
         "doses": [
@@ -746,7 +695,7 @@
         "brand": "Nobre",
         "isBrandRelevant": false,
         "satietyIdx": 122,
-        "keywords": ["salsichas de soja", "soy sausages"],
+        "keywords": ["salsichas", "soja", "soy", "sausages"],
         "doses": [
             {
                 "quantity": 2,
@@ -759,7 +708,7 @@
         "id": "40",
         "name": "Batatas cozidas",
         "satietyIdx": 323,
-        "keywords": ["batatas cozidas", "baked potatoes"],
+        "keywords": ["batatas", "cozidas", "baked", "potatoes"],
         "doses": [
             {
                 "quantity": 260,
@@ -777,7 +726,7 @@
         "id": "44",
         "name": "Legumes estufados",
         "satietyIdx": 150,
-        "keywords": ["legumes estufados", "stewed legumes"],
+        "keywords": ["legumes", "estufados", "stewed", "legumes"],
         "doses": [
             {
                 "quantity": 200,
@@ -805,7 +754,15 @@
         "brand": "Burger King",
         "isBrandRelevant": true,
         "satietyIdx": 110,
-        "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "stacker",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "doses": [
             {
                 "quantity": 1,
@@ -820,7 +777,16 @@
         "brand": "Burger King",
         "isBrandRelevant": true,
         "satietyIdx": 110,
-        "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "big",
+            "king",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "doses": [
             {
                 "quantity": 1,
@@ -835,7 +801,15 @@
         "brand": "Burger King",
         "isBrandRelevant": true,
         "satietyIdx": 110,
-        "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "whopper",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "doses": [
             {
                 "quantity": 1,
@@ -850,7 +824,15 @@
         "brand": "Burger King",
         "isBrandRelevant": true,
         "satietyIdx": 110,
-        "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "long",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "doses": [
             {
                 "quantity": 1,
@@ -866,9 +848,13 @@
         "isBrandRelevant": true,
         "satietyIdx": 116,
         "keywords": [
-            "batatas fritas",
-            "deep fryed potatoes",
-            "burger king",
+            "batatas",
+            "fritas",
+            "deep",
+            "fryed",
+            "potatoes",
+            "burger",
+            "king",
             "bk"
         ],
         "doses": [
@@ -885,7 +871,7 @@
         "brand": "Burger King",
         "isBrandRelevant": true,
         "satietyIdx": 116,
-        "keywords": ["nuggets vegetais", "burger king", "bk"],
+        "keywords": ["nuggets", "vegetais", "burger", "king", "bk"],
         "doses": [
             {
                 "quantity": 5,
@@ -900,7 +886,7 @@
         "brand": "Saborosa",
         "isBrandRelevant": false,
         "satietyIdx": 70,
-        "keywords": ["bolachas belgas de chocolate", "cookies"],
+        "keywords": ["bolachas", "belgas", "chocolate", "cookies"],
         "doses": [
             {
                 "quantity": 1,
@@ -915,7 +901,7 @@
         "brand": "Lindt",
         "isBrandRelevant": true,
         "satietyIdx": 70,
-        "keywords": ["chocolates lindt", "chocolats lindt"],
+        "keywords": ["chocolates", "avelã", "lindt", "hazelnut"],
         "doses": [
             {
                 "quantity": 100,
@@ -937,9 +923,7 @@
         "satietyIdx": 165,
         "keywords": [
             "requeijão",
-            "requeijao",
             "requeijões",
-            "requeijoes",
             "queijos",
             "cheeses",
             "cream",
@@ -960,12 +944,13 @@
         "isBrandRelevant": false,
         "satietyIdx": 100,
         "keywords": [
-            "leite de soja chocolatado",
-            "leite chocolatado",
-            "bebida de chocolate",
-            "chocolate soy milk",
-            "leite de soja com chocolate",
-            "leite com chocolate"
+            "leite",
+            "soja",
+            "chocolatado",
+            "bebida",
+            "chocolate",
+            "soy",
+            "milk"
         ],
         "doses": [
             {
@@ -1011,12 +996,7 @@
         "brand": "Paladin",
         "isBrandRelevant": false,
         "satietyIdx": 50,
-        "keywords": [
-            "molhos",
-            "sauces",
-            "molho agridoce",
-            "sweet chilli sauce"
-        ],
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
         "doses": [
             {
                 "quantity": 20,
@@ -1077,7 +1057,7 @@
         "id": "66",
         "name": "Estrelitas",
         "satietyIdx": 60,
-        "keywords": ["estrelitas", "cereais", "cereals"],
+        "keywords": ["estrelitas", "cereais", "cereals", "honey"],
         "doses": [
             {
                 "quantity": 15,
@@ -1125,7 +1105,7 @@
         "id": "69",
         "name": "Nutella",
         "satietyIdx": 45,
-        "keywords": ["nutella", "chocolates", "chocolats", "spreads"],
+        "keywords": ["nutella", "chocolates", "spreads"],
         "doses": [
             {
                 "quantity": 15,
@@ -1233,7 +1213,7 @@
         "isBrandRelevant": false,
         "satietyIdx": 225,
         "keywords": [
-            "hamburgers frango continente",
+            "hambúrgueres hamburgers frango continente",
             "chicken burger continente"
         ],
         "doses": [
@@ -1292,7 +1272,7 @@
         "id": "77",
         "name": "Tulicreme",
         "satietyIdx": 45,
-        "keywords": ["tulicreme", "chocolates", "chocolats", "spreads"],
+        "keywords": ["tulicreme", "chocolates", "spreads"],
         "doses": [
             {
                 "quantity": 20,
@@ -2399,7 +2379,7 @@
         "brand": "Kinder",
         "isBrandRelevant": false,
         "satietyIdx": 115,
-        "keywords": ["schoko bons", "chocolates", "chocolats"],
+        "keywords": ["schoko bons", "chocolates"],
         "doses": [
             {
                 "quantity": 2,
@@ -3335,12 +3315,12 @@
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 1.05
+                "calsPerUnit": 1.36
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 262.5
+                "calsPerUnit": 340
             }
         ]
     }
