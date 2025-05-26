@@ -1123,8 +1123,9 @@
         "keywords": [
             "manteigas",
             "butters",
-            "manteiga de amendoim",
-            "peanut butter",
+            "amendoim",
+            "peanut",
+            "butter",
             "spreads"
         ],
         "doses": [
@@ -1144,15 +1145,13 @@
         "keywords": [
             "pastas",
             "massas",
-            "pasta fresca",
-            "pastas frescas",
-            "massa fresca",
-            "massas frescas",
-            "fresh pasta",
-            "esparguete fresco",
-            "fresh spaghetti",
-            "tagliatelle fresco",
-            "fresh tagliatelle"
+            "frescas",
+            "fresh",
+            "pasta",
+            "esparguete",
+            "spaghetti",
+            "tagliatelle",
+            "tagliatelle"
         ],
         "doses": [
             {
@@ -1169,12 +1168,13 @@
         "isBrandRelevant": false,
         "satietyIdx": 200,
         "keywords": [
-            "cavalas enlatadas em azeite",
-            "cavalas em azeite",
-            "cavala enlatada em azeite",
-            "cavala em azeite",
-            "canned mackerels",
-            "olive oil"
+            "cavalas",
+            "enlatadas",
+            "azeite",
+            "canned",
+            "mackerels",
+            "olive",
+            "oil"
         ],
         "doses": [
             {
@@ -1191,12 +1191,13 @@
         "isBrandRelevant": true,
         "satietyIdx": 200,
         "keywords": [
-            "sardinhas enlatadas em azeite",
-            "sardinhas em azeite",
-            "sardinha enlatada em azeite",
-            "sardinha em azeite",
-            "canned sardines",
-            "olive oil"
+            "sardinhas",
+            "enlatadas",
+            "azeite",
+            "canned",
+            "sardines",
+            "olive",
+            "oil"
         ],
         "doses": [
             {
@@ -1213,8 +1214,12 @@
         "isBrandRelevant": false,
         "satietyIdx": 225,
         "keywords": [
-            "hambúrgueres hamburgers frango continente",
-            "chicken burger continente"
+            "hambúrgueres",
+            "hamburgers",
+            "frango",
+            "continente",
+            "chicken",
+            "burger"
         ],
         "doses": [
             {
@@ -1230,15 +1235,7 @@
         "brand": "A Vaca que ri",
         "isBrandRelevant": false,
         "satietyIdx": 146,
-        "keywords": [
-            "queijos de triângulo",
-            "queijos de triangulo",
-            "queijo de triângulo",
-            "queijo de triangulo",
-            "queijos triangulares",
-            "queijo triangular",
-            "triangular cheeses"
-        ],
+        "keywords": ["queijos", "triângulos", "triangulares", "cheeses"],
         "doses": [
             {
                 "quantity": 1,
@@ -1287,12 +1284,7 @@
         "brand": "Alpro",
         "isBrandRelevant": false,
         "satietyIdx": 50,
-        "keywords": [
-            "natas de culinária",
-            "natas para culinária",
-            "natas de soja para culinária",
-            "soy cooking creams"
-        ],
+        "keywords": ["natas", "culinária", "soja", "soy", "cooking", "creams"],
         "doses": [
             {
                 "quantity": 60,
@@ -1310,12 +1302,7 @@
         "id": "79",
         "name": "Queijo Philadelphia",
         "satietyIdx": 60,
-        "keywords": [
-            "queijo philadelphia",
-            "philadelphia cheese",
-            "cream cheese",
-            "spreads"
-        ],
+        "keywords": ["queijo", "philadelphia", "cheese", "cream", "spreads"],
         "doses": [
             {
                 "quantity": 30,
@@ -1330,7 +1317,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 120,
-        "keywords": ["queijo mozzarella", "mozzarella cheese"],
+        "keywords": ["queijo", "mozzarella", "cheese"],
         "doses": [
             {
                 "quantity": 125,
@@ -1345,7 +1332,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 180,
-        "keywords": ["salmão fumado", "salmao fumado", "smoked salmon"],
+        "keywords": ["salmão", "fumado", "smoked", "salmon"],
         "doses": [
             {
                 "quantity": 50,
@@ -1360,7 +1347,7 @@
         "brand": "Viodeli",
         "isBrandRelevant": false,
         "satietyIdx": 95,
-        "keywords": ["fiambre de peru", "turkey cold cuts"],
+        "keywords": ["fiambre", "peru", "turkey", "cold", "cuts"],
         "doses": [
             {
                 "quantity": 2,
@@ -1375,7 +1362,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 100,
-        "keywords": ["queijo burrata", "burrata cheese"],
+        "keywords": ["queijo", "burrata", "cheese"],
         "doses": [
             {
                 "quantity": 100,
@@ -1391,11 +1378,12 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes heura classic",
-            "sandes de heura classic",
-            "heura classic sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "heura",
+            "classic",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1412,11 +1400,13 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes heura crocante",
-            "sandes de heura crocante",
-            "crunchy heura sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "heura",
+            "crocante",
+            "crunchy",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1433,14 +1423,15 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes de pasta de atum",
-            "sandes de pasta de vuna",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "sandes de vuna",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "pasta",
+            "atum",
+            "vuna",
+            "tuna",
+            "paste",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1457,12 +1448,14 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes de pasta de atum",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "pasta",
+            "atum",
+            "tuna",
+            "paste",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1479,14 +1472,12 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes de mozzarella e pesto",
-            "sandes de mozzarella pesto",
-            "sandes mozzarella e pesto",
-            "sandes mozzarella pesto",
-            "mozzarella pesto sandwiches",
-            "mozzarella and pesto sandwiches",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "mozzarella",
+            "pesto",
+            "sandwiches",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1503,11 +1494,14 @@
         "isBrandRelevant": true,
         "satietyIdx": 110,
         "keywords": [
-            "sandes de queijo fresco",
-            "sandes queijo fresco",
-            "fresh cheese sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "queijo",
+            "fresco",
+            "fresh",
+            "cheese",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "doses": [
             {
@@ -1521,15 +1515,7 @@
         "id": "42",
         "name": "Feijoada",
         "satietyIdx": 110,
-        "keywords": [
-            "feijoada",
-            "feijão",
-            "feijao",
-            "feijões",
-            "feijoes",
-            "beans",
-            "baked"
-        ],
+        "keywords": ["feijoada", "feijão", "feijões", "beans", "baked"],
         "doses": [
             {
                 "quantity": 160,
@@ -1564,18 +1550,7 @@
         "brand": "Weeel",
         "isBrandRelevant": false,
         "satietyIdx": 80,
-        "keywords": [
-            "froyos de nutella",
-            "froyo de nutella",
-            "froyos com nutella",
-            "froyo com nutella",
-            "nutella frozen yogurts",
-            "froyos de chocolate",
-            "froyo de chocolate",
-            "froyos com chocolate",
-            "froyo com chocolate",
-            "chocolate frozen yogurts"
-        ],
+        "keywords": ["froyos", "nutella", "frozen", "yogurts", "chocolate"],
         "doses": [
             {
                 "quantity": 150,
@@ -1609,11 +1584,10 @@
         "keywords": [
             "fruta",
             "fruit",
-            "tomates cherry",
-            "tomates cereja",
-            "tomate cherry",
-            "tomate cereja",
-            "cherry tomatoes"
+            "tomates",
+            "cherry",
+            "cereja",
+            "tomatoes"
         ],
         "doses": [
             {
@@ -1680,7 +1654,7 @@
         "id": "93",
         "name": "Pimento",
         "satietyIdx": 175,
-        "keywords": ["pimentos", "bells", "peppers"],
+        "keywords": ["pimentos", "bell", "peppers"],
         "doses": [
             {
                 "quantity": 50,
@@ -1739,7 +1713,7 @@
         "id": "96",
         "name": "Vinagre Balsâmico",
         "satietyIdx": 100,
-        "keywords": ["vinagre balsâmicos", "balsamic vinegar"],
+        "keywords": ["vinagre", "balsâmicos", "balsamic", "vinegar"],
         "doses": [
             {
                 "quantity": 15,
@@ -1757,18 +1731,7 @@
         "id": "97",
         "name": "Vinagre de Maçã",
         "satietyIdx": 100,
-        "keywords": [
-            "vinagre de cidra de maçã",
-            "vinagre de cidra de maca",
-            "vinagre de cidra de maça",
-            "vinagre de cidra de macã",
-            "vinagre de maçã",
-            "vinagre de maca",
-            "vinagre de macã",
-            "vinagre de maça",
-            "apple vinegar",
-            "apple cider vinegar"
-        ],
+        "keywords": ["vinagre", "cidra", "maçã", "apple", "vinegar", "cider"],
         "doses": [
             {
                 "quantity": 15,
@@ -1786,7 +1749,7 @@
         "id": "98",
         "name": "Vinagre de Vinho",
         "satietyIdx": 100,
-        "keywords": ["vinagre de vinho", "wine vinegar"],
+        "keywords": ["vinagre", "vinho", "wine", "vinegar"],
         "doses": [
             {
                 "quantity": 15,
@@ -1804,7 +1767,7 @@
         "id": "99",
         "name": "Farinha de Trigo",
         "satietyIdx": 55,
-        "keywords": ["farinha de trigo", "wheat flour"],
+        "keywords": ["farinha", "trigo", "wheat", "flour"],
         "doses": [
             {
                 "quantity": 200,
@@ -1817,7 +1780,7 @@
         "id": "100",
         "name": "Alho (dente)",
         "satietyIdx": 90,
-        "keywords": ["dente de alhos", "garlic cloves"],
+        "keywords": ["dente", "alhos", "garlic", "cloves"],
         "doses": [
             {
                 "quantity": 6,
@@ -1835,7 +1798,7 @@
         "id": "101",
         "name": "Alho francês",
         "satietyIdx": 90,
-        "keywords": ["alho francês", "alho frances", "leeks"],
+        "keywords": ["alhos", "francês", "leeks"],
         "doses": [
             {
                 "quantity": 120,
@@ -1855,7 +1818,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 65,
-        "keywords": ["queijo brie", "brie cheese"],
+        "keywords": ["queijo", "brie", "cheese"],
         "doses": [
             {
                 "quantity": 50,
@@ -1873,7 +1836,7 @@
         "id": "103",
         "name": "Fermento",
         "satietyIdx": 45,
-        "keywords": ["fermento de padeiro", "yeast"],
+        "keywords": ["fermento", "padeiro", "yeast"],
         "doses": [
             {
                 "quantity": 8,
@@ -1930,12 +1893,12 @@
         "isBrandRelevant": false,
         "satietyIdx": 75,
         "keywords": [
-            "iogurtes de soja",
-            "iogurte de soja",
             "iogurtes",
-            "liquid soy yogurts",
-            "iogurtes líquidos",
-            "iogurte líquido"
+            "soja",
+            "liquid",
+            "soy",
+            "yogurts",
+            "líquidos"
         ],
         "doses": [
             {
@@ -1949,7 +1912,7 @@
         "id": "107",
         "name": "Sardinha assada",
         "satietyIdx": 170,
-        "keywords": ["sardinhas assadas", "sardinha assada"],
+        "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
         "doses": [
             {
                 "quantity": 3,
@@ -2135,7 +2098,7 @@
         "id": "118",
         "name": "Cogumelo Marron",
         "satietyIdx": 145,
-        "keywords": ["cogumelos marron", "cogumelo marron", "marron mushroom"],
+        "keywords": ["cogumelos", "marron", "mushroom"],
         "doses": [
             {
                 "quantity": 30,
@@ -2153,11 +2116,7 @@
         "id": "119",
         "name": "Cogumelo Portobello",
         "satietyIdx": 145,
-        "keywords": [
-            "cogumelos portobello",
-            "cogumelo portobello",
-            "portobello mushroom"
-        ],
+        "keywords": ["cogumelos", "portobello", "mushroom"],
         "doses": [
             {
                 "quantity": 100,
@@ -2175,12 +2134,7 @@
         "id": "120",
         "name": "Queijo Parmesão",
         "satietyIdx": 100,
-        "keywords": [
-            "queijo parmesão",
-            "queijo parmesao",
-            "queijo parmigiano",
-            "parmigiano cheese"
-        ],
+        "keywords": ["queijo", "parmesão", "parmigiano", "cheese"],
         "doses": [
             {
                 "quantity": 150,
@@ -2201,12 +2155,12 @@
         "isBrandRelevant": false,
         "satietyIdx": 125,
         "keywords": [
-            "tomate picado",
-            "tomates picados",
-            "tomate triturado",
-            "tomates triturados",
-            "chopped tomatoes",
-            "crushed tomatoes"
+            "tomates",
+            "picados",
+            "triturados",
+            "chopped",
+            "tomatoes",
+            "crushed"
         ],
         "doses": [
             {
@@ -2240,14 +2194,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 160,
-        "keywords": [
-            "húmus",
-            "humus",
-            "hummus",
-            "grão de bico",
-            "grao de bico",
-            "chickpeas"
-        ],
+        "keywords": ["húmus", "humus", "hummus", "grão", "bico", "chickpeas"],
         "doses": [
             {
                 "quantity": 30,
@@ -2301,7 +2248,7 @@
         "id": "127",
         "name": "Pimenta preta",
         "satietyIdx": 40,
-        "keywords": ["pimenta preta", "black pepper"],
+        "keywords": ["pimenta", "preta", "black", "pepper"],
         "doses": [
             {
                 "quantity": 1,
@@ -2329,12 +2276,7 @@
         "brand": "Ben & Jerry's",
         "isBrandRelevant": false,
         "satietyIdx": 55,
-        "keywords": [
-            "gelado ben & jerry's",
-            "gelado ben and jerry's",
-            "ben & jerry's ice cream",
-            "ben and jerry's ice cream"
-        ],
+        "keywords": ["gelado", "ben", "jerry", "ice", "cream"],
         "doses": [
             {
                 "quantity": 406,
@@ -2355,9 +2297,11 @@
         "isBrandRelevant": true,
         "satietyIdx": 115,
         "keywords": [
-            "bacon vegan",
-            "bacon vegetariano",
-            "toucinho fumado",
+            "bacon",
+            "vegan",
+            "vegetariano",
+            "toucinho",
+            "fumado",
             "panceta"
         ],
         "doses": [
@@ -2379,7 +2323,7 @@
         "brand": "Kinder",
         "isBrandRelevant": false,
         "satietyIdx": 115,
-        "keywords": ["schoko bons", "chocolates"],
+        "keywords": ["schoko", "bons", "chocolates"],
         "doses": [
             {
                 "quantity": 2,
@@ -2392,7 +2336,7 @@
         "id": "132",
         "name": "Manjericão fresco",
         "satietyIdx": 70,
-        "keywords": ["manjericão fresco", "manjericao fresco", "fresh basil"],
+        "keywords": ["manjericão", "fresco", "fresh", "basil"],
         "doses": [
             {
                 "quantity": 2.5,
@@ -2407,7 +2351,7 @@
         "brand": "Dr. Oetker",
         "isBrandRelevant": true,
         "satietyIdx": 65,
-        "keywords": ["pizza ristorante", "pizza dr. oetker"],
+        "keywords": ["pizza", "ristorante", "dr.", "oetker"],
         "doses": [
             {
                 "quantity": 1,
@@ -2428,13 +2372,15 @@
         "isBrandRelevant": false,
         "satietyIdx": 70,
         "keywords": [
-            "barra de cereais",
-            "barrita de cereais",
-            "barra crua",
-            "barrita crua",
-            "raw bar",
-            "raw nuts bar",
-            "raw fruits and nuts bar"
+            "barra",
+            "cereais",
+            "barrita",
+            "barra",
+            "crua",
+            "raw",
+            "bar",
+            "nuts",
+            "fruits"
         ],
         "doses": [
             {
@@ -2448,12 +2394,7 @@
         "id": "135",
         "name": "Donut",
         "satietyIdx": 68,
-        "keywords": [
-            "donuts clássicos",
-            "donuts classicos",
-            "classic donuts",
-            "classic doughnuts"
-        ],
+        "keywords": ["donuts", "clássicos", "classic", "doughnuts"],
         "doses": [
             {
                 "quantity": 1,
@@ -2466,12 +2407,7 @@
         "id": "136",
         "name": "Broa de Milho",
         "satietyIdx": 110,
-        "keywords": [
-            "broa de milho",
-            "pão de milho",
-            "pao de milho",
-            "cornbread"
-        ],
+        "keywords": ["broa", "milho", "pão", "cornbread"],
         "doses": [
             {
                 "quantity": 50,
@@ -2515,7 +2451,7 @@
         "id": "139",
         "name": "Levedura de Cerveja",
         "satietyIdx": 142,
-        "keywords": ["levedura de cerveja", "brewer's yeast", "brewer yeast"],
+        "keywords": ["levedura", "cerveja", "brewer's", "yeast"],
         "doses": [
             {
                 "quantity": 15,
@@ -2533,15 +2469,7 @@
         "id": "140",
         "name": "Pastel de Nata",
         "satietyIdx": 65,
-        "keywords": [
-            "pastel de natas",
-            "pastel de belém",
-            "pastel de belem",
-            "pasteis de natas",
-            "pasteis de belém",
-            "pasteis de belem",
-            "custard tarts"
-        ],
+        "keywords": ["pastel", "natas", "belém", "pasteis", "custard", "tarts"],
         "doses": [
             {
                 "quantity": 65,
@@ -2559,11 +2487,7 @@
         "id": "141",
         "name": "American Donut",
         "satietyIdx": 65,
-        "keywords": [
-            "donuts americanos",
-            "american donuts",
-            "american doughnuts"
-        ],
+        "keywords": ["donuts", "americanos", "doughnuts"],
         "doses": [
             {
                 "quantity": 1,
@@ -2576,7 +2500,7 @@
         "id": "45",
         "name": "Vinho tinto",
         "satietyIdx": 40,
-        "keywords": ["vinho tinto", "red wine"],
+        "keywords": ["vinho", "tinto", "red", "wine"],
         "doses": [
             {
                 "quantity": 150,
@@ -2589,7 +2513,7 @@
         "id": "142",
         "name": "Vinho branco",
         "satietyIdx": 40,
-        "keywords": ["vinho branco", "white wine"],
+        "keywords": ["vinho", "branco", "white", "wine"],
         "doses": [
             {
                 "quantity": 150,
@@ -2602,7 +2526,7 @@
         "id": "143",
         "name": "Açúcar",
         "satietyIdx": 60,
-        "keywords": ["açúcar", "acucar", "açucar", "acúcar", "sugar"],
+        "keywords": ["açúcar", "sugar"],
         "doses": [
             {
                 "quantity": 12,
@@ -2622,7 +2546,7 @@
         "brand": "Honu",
         "isBrandRelevant": false,
         "satietyIdx": 60,
-        "keywords": ["boke bowls"],
+        "keywords": ["poke", "bowls"],
         "doses": [
             {
                 "quantity": 1,
@@ -2635,7 +2559,7 @@
         "id": "41",
         "name": "Heineken",
         "satietyIdx": 40,
-        "keywords": ["cerveja heineken", "cervejas heineken", "heineken beers"],
+        "keywords": ["cervejas", "heineken", "beers"],
         "doses": [
             {
                 "quantity": 250,
@@ -2653,11 +2577,7 @@
         "id": "145",
         "name": "Super Bock",
         "satietyIdx": 40,
-        "keywords": [
-            "cerveja super bock",
-            "cervejas super bock",
-            "super bock beers"
-        ],
+        "keywords": ["cervejas", "super", "bock", "beers"],
         "doses": [
             {
                 "quantity": 330,
@@ -2675,11 +2595,7 @@
         "id": "146",
         "name": "Estrella Damm",
         "satietyIdx": 40,
-        "keywords": [
-            "cerveja estrella damm",
-            "cervejas estrella damm",
-            "estrella damm beers"
-        ],
+        "keywords": ["cervejas", "estrella", "damm", "beers"],
         "doses": [
             {
                 "quantity": 330,
@@ -2698,12 +2614,14 @@
         "name": "Truta frita",
         "satietyIdx": 205,
         "keywords": [
-            "peixe frito",
-            "fried fish",
-            "truta frita",
-            "trutas fritas",
-            "fried trouts",
-            "pan fried trouts"
+            "peixes",
+            "fritos",
+            "fried",
+            "fishes",
+            "trutas",
+            "fritas",
+            "trouts",
+            "pan"
         ],
         "doses": [
             {
@@ -2723,12 +2641,13 @@
         "name": "Lúcio frito",
         "satietyIdx": 170,
         "keywords": [
-            "peixe frito",
-            "fried fish",
-            "lúcio frito",
-            "lucio frito",
-            "fried pikes",
-            "pan fried pikes"
+            "peixes",
+            "fritos",
+            "fried",
+            "fishes",
+            "lúcio",
+            "pikes",
+            "pan"
         ],
         "doses": [
             {
@@ -2748,12 +2667,16 @@
         "name": "Filete de Pescada",
         "satietyIdx": 110,
         "keywords": [
-            "peixe frito",
-            "fried fish",
-            "filetes de pescada fritas",
-            "filetes pescada fritas",
-            "fried hake filets",
-            "pan fried hake filets"
+            "peixes",
+            "fritos",
+            "fried",
+            "fishes",
+            "filetes",
+            "pescada",
+            "fritas",
+            "hake",
+            "filets",
+            "pan"
         ],
         "doses": [
             {
@@ -2790,13 +2713,7 @@
         "id": "150",
         "name": "Torta de Chocolate",
         "satietyIdx": 60,
-        "keywords": [
-            "torta de chocolate",
-            "torta chocolate",
-            "chocolate swiss roll",
-            "chocolate roulade",
-            "chocolate roll"
-        ],
+        "keywords": ["torta", "chocolate", "swiss", "roll", "roulade"],
         "doses": [
             {
                 "quantity": 50,
@@ -2814,12 +2731,7 @@
         "id": "151",
         "name": "Ice Tea",
         "satietyIdx": 60,
-        "keywords": [
-            "ice tea",
-            "iced tea",
-            "lipton ice tea",
-            "lipton iced tea"
-        ],
+        "keywords": ["ice", "tea", "iced", "lipton"],
         "doses": [
             {
                 "quantity": 330,
@@ -2839,12 +2751,7 @@
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 50,
-        "keywords": [
-            "crepes chineses",
-            "crepes primavera",
-            "spring rolls",
-            "chinese rolls"
-        ],
+        "keywords": ["crepes", "chineses", "primavera", "spring", "rolls"],
         "doses": [
             {
                 "quantity": 50,
@@ -2863,12 +2770,12 @@
         "name": "Bolo de Aniversário",
         "satietyIdx": 65,
         "keywords": [
-            "bolo de aniversário",
-            "bolo de aniversario",
-            "bolo genérico",
-            "bolo generico",
-            "birthday cake",
-            "generic cake"
+            "bolos",
+            "aniversário",
+            "genérico",
+            "birthday",
+            "cakes",
+            "generic"
         ],
         "doses": [
             {
@@ -2887,7 +2794,7 @@
         "id": "154",
         "name": "Bolo de Chocolate",
         "satietyIdx": 65,
-        "keywords": ["bolo de chocolate", "chocolate cake"],
+        "keywords": ["bolos", "chocolate", "cakes"],
         "doses": [
             {
                 "quantity": 100,
@@ -2905,13 +2812,7 @@
         "id": "155",
         "name": "Bolo de Manteiga (mini)",
         "satietyIdx": 58,
-        "keywords": [
-            "bolo de manteiga",
-            "bolo manteiga",
-            "bolinho de manteiga",
-            "bolinho manteiga",
-            "matulos"
-        ],
+        "keywords": ["bolos", "manteiga", "bolinhos", "matulos"],
         "doses": [
             {
                 "quantity": 45,
@@ -2930,11 +2831,12 @@
         "name": "Patanisca de Bacalhau",
         "satietyIdx": 120,
         "keywords": [
-            "patanisca de bacalhau",
-            "pataniscas de bacalhau",
-            "codfish fritters",
-            "salt cod fritters",
-            "salt cod pancakes"
+            "pataniscas",
+            "bacalhau",
+            "codfish",
+            "fritters",
+            "salt",
+            "cod"
         ],
         "doses": [
             {
@@ -2953,11 +2855,7 @@
         "id": "157",
         "name": "Espargos grelhados",
         "satietyIdx": 130,
-        "keywords": [
-            "espargos grelhados",
-            "espargo grelhado",
-            "grilled aspargus"
-        ],
+        "keywords": ["espargos", "grelhado", "grilled", "aspargus"],
         "doses": [
             {
                 "quantity": 50,
@@ -2975,7 +2873,7 @@
         "id": "158",
         "name": "Orégãos",
         "satietyIdx": 90,
-        "keywords": ["orégãos", "oregaos", "orégaos", "oregãos", "oreganos"],
+        "keywords": ["orégãos", "oreganos"],
         "doses": [
             {
                 "quantity": 2.5,
@@ -2993,7 +2891,7 @@
         "id": "159",
         "name": "Pimentão Doce",
         "satietyIdx": 85,
-        "keywords": ["pimentão doce", "pimentao doce", "sweet paprika"],
+        "keywords": ["pimentão", "doce", "sweet", "paprika"],
         "doses": [
             {
                 "quantity": 2.3,
@@ -3011,7 +2909,7 @@
         "id": "160",
         "name": "Batatas assadas",
         "satietyIdx": 262,
-        "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
+        "keywords": ["batatas", "assadas", "roasted", "potatoes"],
         "doses": [
             {
                 "quantity": 130,
@@ -3029,7 +2927,7 @@
         "id": "163",
         "name": "Água",
         "satietyIdx": 55,
-        "keywords": ["água", "agua", "water"],
+        "keywords": ["água", "water"],
         "doses": [
             {
                 "quantity": 200,
@@ -3042,7 +2940,7 @@
         "id": "164",
         "name": "Stevia",
         "satietyIdx": 10,
-        "keywords": ["adoçante", "adocante", "sweetener", "stevia"],
+        "keywords": ["adoçante", "sweetener", "stevia"],
         "doses": [
             {
                 "quantity": 1,
@@ -3055,7 +2953,7 @@
         "id": "165",
         "name": "Dextrose",
         "satietyIdx": 10,
-        "keywords": ["adoçante", "adocante", "sweetener", "dextrose"],
+        "keywords": ["adoçante", "sweetener", "dextrose"],
         "doses": [
             {
                 "quantity": 1,
@@ -3065,18 +2963,19 @@
         ]
     },
     {
-        "id": "165",
+        "id": "166",
         "name": "Sardinhas (em azeite)",
         "brand": "Ramirez",
         "isBrandRelevant": true,
         "satietyIdx": 200,
         "keywords": [
-            "sardinhas enlatadas em azeite",
-            "sardinhas em azeite",
-            "sardinha enlatada em azeite",
-            "sardinha em azeite",
-            "canned sardines",
-            "olive oil"
+            "sardinhas",
+            "enlatadas",
+            "azeite",
+            "canned",
+            "sardines",
+            "olive",
+            "oil"
         ],
         "doses": [
             {
@@ -3113,7 +3012,14 @@
         "brand": "Ubago",
         "isBrandRelevant": false,
         "satietyIdx": 180,
-        "keywords": ["lombo salmão fumado", "smoked salmon loin"],
+        "keywords": [
+            "lombos",
+            "salmão",
+            "fumados",
+            "smoked",
+            "salmon",
+            "loins"
+        ],
         "doses": [
             {
                 "quantity": 50,
@@ -3126,7 +3032,7 @@
         "id": "169",
         "name": "Azeitona sem caroço",
         "satietyIdx": 90,
-        "keywords": ["fruta", "fruit", "azeitonas", "olives"],
+        "keywords": ["fruta", "fruit", "azeitonas", "olives", "caroço", "pit"],
         "doses": [
             {
                 "quantity": 2.5,
@@ -3147,18 +3053,17 @@
         "isBrandRelevant": false,
         "satietyIdx": 125,
         "keywords": [
-            "tomate picado",
-            "tomates picados",
-            "tomate triturado",
-            "tomates triturados",
+            "tomates",
+            "picados",
+            "triturados",
             "passata",
             "majericão",
-            "majericao",
             "orégãos",
             "polpa",
             "oreganos",
-            "chopped tomatoes",
-            "crushed tomatoes"
+            "chopped",
+            "tomatoes",
+            "crushed"
         ],
         "doses": [
             {
@@ -3180,14 +3085,13 @@
         "isBrandRelevant": false,
         "satietyIdx": 125,
         "keywords": [
-            "tomate picado",
-            "tomates picados",
-            "tomate triturado",
-            "tomates triturados",
+            "tomates",
+            "picados",
+            "triturados",
             "polpa",
-            "tomates triturados",
-            "chopped tomatoes",
-            "crushed tomatoes"
+            "chopped",
+            "tomatoes",
+            "crushed"
         ],
         "doses": [
             {
@@ -3208,7 +3112,7 @@
         "brand": "Viodeli",
         "isBrandRelevant": true,
         "satietyIdx": 95,
-        "keywords": ["fiambre de frango", "chicken cold cuts"],
+        "keywords": ["fiambre", "frango", "chicken", "cold", "cuts"],
         "doses": [
             {
                 "quantity": 2,
@@ -3223,7 +3127,7 @@
         "brand": "Nobre",
         "isBrandRelevant": true,
         "satietyIdx": 95,
-        "keywords": ["fiambre de frango", "chicken cold cuts"],
+        "keywords": ["fiambre", "frango", "chicken", "cold", "cuts"],
         "doses": [
             {
                 "quantity": 2,
@@ -3240,9 +3144,12 @@
         "satietyIdx": 95,
         "keywords": [
             "fiambre",
-            "cold cuts",
-            "ervas mediterrâneas",
-            "mediterranean herbs"
+            "cold",
+            "cuts",
+            "ervas",
+            "mediterrâneas",
+            "mediterranean",
+            "herbs"
         ],
         "doses": [
             {
@@ -3256,7 +3163,7 @@
         "id": "175",
         "name": "Rissol de camarão",
         "satietyIdx": 70,
-        "keywords": ["rissol", "camarão", "shrimp"],
+        "keywords": ["rissol", "rissóis", "camarão", "shrimp"],
         "doses": [
             {
                 "quantity": 60,
@@ -3274,7 +3181,7 @@
         "id": "176",
         "name": "Rissol de bacalhau",
         "satietyIdx": 75,
-        "keywords": ["rissol", "bacalhau", "codfish"],
+        "keywords": ["rissol", "rissóis", "bacalhau", "codfish"],
         "doses": [
             {
                 "quantity": 60,
@@ -3292,7 +3199,7 @@
         "id": "177",
         "name": "Eclair (miniatura)",
         "satietyIdx": 70,
-        "keywords": ["rissol", "bacalhau", "codfish"],
+        "keywords": ["eclaires", "mini", "miniaturas"],
         "doses": [
             {
                 "quantity": 26,
@@ -3310,7 +3217,14 @@
         "id": "178",
         "name": "Bacalhau assado no forno",
         "satietyIdx": 200,
-        "keywords": ["bacalhau", "assado", "codfish", "roasted"],
+        "keywords": [
+            "bacalhau",
+            "assado",
+            "codfish",
+            "roasted",
+            "forno",
+            "oven"
+        ],
         "doses": [
             {
                 "quantity": 250,
