@@ -1360,19 +1360,20 @@
     },
     {
         "id": "104",
-        "name": "Azeitona",
-        "satietyIdx": 90,
+        "name": "Azeitona pequena",
+        "brand": "Continente",
+        "satietyIdx": 65,
         "keywords": ["fruta", "fruit", "azeitonas", "olives"],
         "doses": [
             {
-                "quantity": 4,
+                "quantity": 2.3,
                 "unit": "g",
-                "calsPerUnit": 1.3
+                "calsPerUnit": 1.62
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 4.6
+                "calsPerUnit": 3.73
             }
         ]
     },
