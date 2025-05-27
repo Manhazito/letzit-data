@@ -3500,5 +3500,21 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "182",
+        "name": "Nuggets Vegetais",
+        "brand": "Iglo",
+        "isBrandRelevant": true,
+        "satietyIdx": 116,
+        "keywords": ["nuggets", "vegetais", "iglo"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 69.32,
+                "stepSize": 1
+            }
+        ]
     }
 ]
