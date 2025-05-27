@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Salada",
         "servings": 1,
-        "keywords": ["salada", "salad"],
+        "keywords": ["saladas", "salads"],
         "recipes": [
             {
                 "id": "1.1",
@@ -84,12 +84,7 @@
         "id": "2",
         "name": "Sopa de Legumes",
         "servings": 6,
-        "keywords": [
-            "sopa de legumes",
-            "creme de legumes",
-            "legume cream",
-            "legume soup"
-        ],
+        "keywords": ["sopa", "legumes", "creme", "cream", "soup"],
         "recipes": [
             {
                 "id": "2.1",
@@ -197,14 +192,12 @@
         "name": "Esparguete de Cogumelos e Salsichas",
         "servings": 2,
         "keywords": [
-            "esparguete de cogumelos e salsichas",
-            "esparguete de salsichas e cogumelos",
-            "esparguete cogumelos salsichas",
-            "esparguete salsichas cogumelos",
-            "mushroom and sausage spaghetti",
-            "sausage and mushroom spaghetti",
-            "mushrooms sausages spaghetti",
-            "sausages mushrooms spaghetti"
+            "esparguete",
+            "cogumelos",
+            "salsichas",
+            "mushrooms",
+            "sausages",
+            "spaghetti"
         ],
         "recipes": [
             {
@@ -305,17 +298,7 @@
         "id": "4",
         "name": "Leite com Aveia",
         "servings": 1,
-        "keywords": [
-            "leite com aveia",
-            "leite aveia",
-            "aveia com leite",
-            "aveia leite",
-            "oat with milk",
-            "oat milk",
-            "milk with oat",
-            "milk oat",
-            "oatmeal"
-        ],
+        "keywords": ["leite", "aveia", "oat", "milk", "oatmeal"],
         "recipes": [
             {
                 "id": "4.1",
@@ -387,18 +370,12 @@
         "name": "Arroz de Cogumelos e Salsichas",
         "servings": 2,
         "keywords": [
-            "arroz de cogumelos e salsichas",
-            "arroz de salsichas e cogumelos",
-            "arroz com cogumelos e salsichas",
-            "arroz com salsichas e cogumelos",
-            "arroz cogumelos salsichas",
-            "arroz salsichas cogumelos",
-            "mushroom and sausage rice",
-            "sausage and mushroom rice",
-            "rice with mushrooms and sausage",
-            "rice with sausage and mushrooms",
-            "mushrooms sausages rice",
-            "sausages mushrooms rice"
+            "arroz",
+            "cogumelos",
+            "salsichas",
+            "mushrooms",
+            "sausages",
+            "rice"
         ],
         "recipes": [
             {
@@ -500,11 +477,12 @@
         "name": "Pasta Carbonara",
         "servings": 2,
         "keywords": [
-            "pasta carbonara",
-            "massa carbonara",
-            "esparguete carbonara",
-            "spaghetti carbonara",
-            "tagliatelle carbonara"
+            "pasta",
+            "carbonara",
+            "massa",
+            "esparguete",
+            "spaghetti",
+            "tagliatelle"
         ],
         "recipes": [
             {
@@ -634,7 +612,7 @@
         "id": "7",
         "name": "Tofu com Broa",
         "servings": 8,
-        "keywords": ["tofu com broa", "tofu with cornbread"],
+        "keywords": ["tofu", "broa", "tofu", "cornbread"],
         "recipes": [
             {
                 "id": "7.1",
@@ -766,14 +744,12 @@
         "name": "Pasta Bolognese",
         "servings": 2,
         "keywords": [
-            "pasta bolognese",
-            "esparguete bolonhesa",
-            "tagliatelle bolonhesa",
-            "bolonhesa de esparguete",
-            "bolonhesa de tagliatelle",
-            "pasta bolonhesa",
-            "spaghetti bolognese",
-            "tagliatelle bolognese"
+            "pasta",
+            "bolognese",
+            "esparguete",
+            "bolonhesa",
+            "tagliatelle",
+            "spaghetti"
         ],
         "recipes": [
             {
@@ -897,32 +873,14 @@
         "name": "Pasta com Frango e Cogumelos",
         "servings": 2,
         "keywords": [
-            "pasta com frango e cogumelos",
-            "pasta com heura e cogumelos",
-            "pasta heura cogumelos",
-            "pasta com cogumelos e heura",
-            "pasta cogumelos heura",
-            "esparguete com heura e cogumelos",
-            "esparguete heura cogumelos",
-            "esparguete com cogumelos e heura",
-            "esparguete cogumelos heura",
-            "tagliatelle com heura e cogumelos",
-            "tagliatelle heura cogumelos",
-            "tagliatelle com cogumelos e heura",
-            "tagliatelle cogumelos heura",
-            "pasta with heura and mushrooms",
-            "pasta heura cogumelos",
-            "pasta with cogumelos and heura",
-            "pasta cogumelos heura",
-            "esparguete with heura and mushrooms",
-            "esparguete with chicken and mushrooms",
-            "esparguete heura mushrooms",
-            "esparguete with mushrooms and heura",
-            "esparguete mushrooms heura",
-            "tagliatelle with heura and mushrooms",
-            "tagliatelle heura mushrooms",
-            "tagliatelle with mushrooms and heura",
-            "tagliatelle mushrooms heura"
+            "pasta",
+            "frango",
+            "cogumelos",
+            "heura",
+            "esparguete",
+            "tagliatelle",
+            "mushrooms",
+            "tagliatelle"
         ],
         "recipes": [
             {
@@ -1056,18 +1014,7 @@
         "id": "10",
         "name": "Arroz da Carla",
         "servings": 2,
-        "keywords": [
-            "arroz da carla",
-            "arroz carla",
-            "arroz branco da carla",
-            "arroz branco carla",
-            "arroz seco da carla",
-            "arroz seco carla",
-            "carla's white rice",
-            "carla's rice",
-            "carlas white rice",
-            "carlas rice"
-        ],
+        "keywords": ["arroz", "carla", "branco", "seco", "white", "rice"],
         "recipes": [
             {
                 "id": "10.1",
@@ -1119,7 +1066,7 @@
         "id": "11",
         "name": "Torrada com manteiga (café)",
         "servings": 1,
-        "keywords": ["torrada com manteiga", "toast with butter"],
+        "keywords": ["torrada", "manteiga", "toast", "butter"],
         "recipes": [
             {
                 "id": "11.1",
@@ -1162,7 +1109,7 @@
         "id": "12",
         "name": "Omelete de Queijo",
         "servings": 1,
-        "keywords": ["omelete de queijo", "omelete queijo", "cheese omelet"],
+        "keywords": ["omelete", "queijo", "cheese", "omelet"],
         "recipes": [
             {
                 "id": "12.1",
@@ -1216,13 +1163,7 @@
         "id": "13",
         "name": "Hamburger no pão",
         "servings": 1,
-        "keywords": [
-            "hamburger no pão",
-            "hamburger no pao",
-            "hamburger pão",
-            "hamburger pao",
-            "hamburger on bread"
-        ],
+        "keywords": ["hamburger", "hambúrguere", "pão", "hamburger", "bread"],
         "recipes": [
             {
                 "id": "13.1",
@@ -1303,14 +1244,11 @@
         "name": "Esparguete com legumes",
         "servings": 2,
         "keywords": [
-            "esparguete com legumes",
-            "esparguete legumes",
-            "spaghetti with vegetables",
-            "spaghetti vegetables",
-            "pasta com legumes",
-            "pasta legumes",
-            "pasta with vegetables",
-            "pasta vegetables"
+            "esparguete",
+            "legumes",
+            "spaghetti",
+            "vegetables",
+            "pasta"
         ],
         "recipes": [
             {
@@ -1420,7 +1358,15 @@
         "id": "15",
         "name": "Stacker Vegetal",
         "servings": 1,
-        "keywords": ["hamburgers", "stacker vegetal", "burger king", "bk"],
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "stacker",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "recipes": [
             {
                 "id": "15.1",
@@ -1452,7 +1398,16 @@
         "id": "16",
         "name": "Big King Vegetal",
         "servings": 1,
-        "keywords": ["hamburgers", "big king vegetal", "burger king", "bk"],
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "big",
+            "king",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "recipes": [
             {
                 "id": "16.1",
@@ -1484,7 +1439,15 @@
         "id": "17",
         "name": "Whopper Vegetal",
         "servings": 1,
-        "keywords": ["hamburgers", "whopper vegetal", "burger king", "bk"],
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "whopper",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "recipes": [
             {
                 "id": "17.1",
@@ -1516,7 +1479,15 @@
         "id": "18",
         "name": "Long Vegetal",
         "servings": 1,
-        "keywords": ["hamburgers", "long vegetal", "burger king", "bk"],
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "long",
+            "vegetal",
+            "burger",
+            "king",
+            "bk"
+        ],
         "recipes": [
             {
                 "id": "18.1",
@@ -1549,11 +1520,12 @@
         "name": "Sandes Heura Classic",
         "servings": 1,
         "keywords": [
-            "sandes heura classic",
-            "sandes de heura classic",
-            "heura classic sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "heura",
+            "classic",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1587,11 +1559,13 @@
         "name": "Sandes Heura Crocante",
         "servings": 1,
         "keywords": [
-            "sandes heura crocante",
-            "sandes de heura crocante",
-            "crunchy heura sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "heura",
+            "crocante",
+            "crunchy",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1625,14 +1599,17 @@
         "name": "Sandes Pasta de Vuna",
         "servings": 1,
         "keywords": [
-            "sandes de pasta de atum",
-            "sandes de pasta de vuna",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "sandes de vuna",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "pasta",
+            "atum",
+            "sandes",
+            "pasta",
+            "vuna",
+            "tuna",
+            "paste",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1666,12 +1643,14 @@
         "name": "Sandes Pasta de Atum",
         "servings": 1,
         "keywords": [
-            "sandes de pasta de atum",
-            "tuna paste sandwich",
-            "sandes de atum",
-            "tuna sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "pasta",
+            "atum",
+            "tuna",
+            "paste",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1705,14 +1684,12 @@
         "name": "Sandes Mozzarella Pesto",
         "servings": 1,
         "keywords": [
-            "sandes de mozzarella e pesto",
-            "sandes de mozzarella pesto",
-            "sandes mozzarella e pesto",
-            "sandes mozzarella pesto",
-            "mozzarella pesto sandwiches",
-            "mozzarella and pesto sandwiches",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "mozzarella",
+            "pesto",
+            "sandwiches",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1746,11 +1723,14 @@
         "name": "Sandes Queijo Fresco",
         "servings": 1,
         "keywords": [
-            "sandes de queijo fresco",
-            "sandes queijo fresco",
-            "fresh cheese sandwich",
-            "pans & company",
-            "pans and company"
+            "sandes",
+            "queijo",
+            "fresco",
+            "fresh",
+            "cheese",
+            "sandwich",
+            "pans",
+            "company"
         ],
         "recipes": [
             {
@@ -1783,7 +1763,7 @@
         "id": "28",
         "name": "Pizza Ristorante",
         "servings": 1,
-        "keywords": ["pizza ristorante", "pizza dr. oetker"],
+        "keywords": ["pizza", "ristorante", "pizza", "oetker"],
         "recipes": [
             {
                 "id": "28.1",
@@ -1815,7 +1795,7 @@
         "id": "29",
         "name": "Poke Bowl (sushi rice and soy meat)",
         "servings": 1,
-        "keywords": ["boke bowls"],
+        "keywords": ["boke", "bowls"],
         "recipes": [
             {
                 "id": "29.1",
@@ -1847,7 +1827,7 @@
         "id": "30",
         "name": "Batatas Assadas no forno",
         "servings": 8,
-        "keywords": ["batatas assadas", "batata assada", "roasted potatoes"],
+        "keywords": ["batatas", "assadas", "roasted", "potatoes"],
         "recipes": [
             {
                 "id": "30.1",
@@ -1965,12 +1945,7 @@
         "id": "31",
         "name": "Esparguete da Carla",
         "servings": 2,
-        "keywords": [
-            "esparguete da carla",
-            "esparguete de tomate",
-            "carla's spaghetti",
-            "carlas spaghetti"
-        ],
+        "keywords": ["esparguete", "carla", "tomate", "spaghetti"],
         "recipes": [
             {
                 "id": "31.1",
@@ -2047,18 +2022,15 @@
         "name": "Bôla da Mena",
         "servings": 12,
         "keywords": [
-            "bola da mena",
-            "bola vegetariana",
-            "bola vegan",
-            "bola de queijo",
-            "bola queijo",
-            "bôla da mena",
-            "bôla vegetariana",
-            "bôla vegan",
-            "bôla de queijo",
-            "bôla queijo",
-            "stuffed meat bread",
-            "meat bread"
+            "bola",
+            "mena",
+            "filomena",
+            "vegetariana",
+            "vegan",
+            "queijo",
+            "stuffed",
+            "meat",
+            "bread"
         ],
         "recipes": [
             {
