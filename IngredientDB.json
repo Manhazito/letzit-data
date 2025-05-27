@@ -2384,5 +2384,28 @@
                 "calsPerUnit": 24.17
             }
         ]
+    },
+    {
+        "id": "180",
+        "name": "Caldo de Vegetais (líquido)",
+        "satietyIdx": 25,
+        "keywords": [
+            "caldo",
+            "vegetal",
+            "vegetais",
+            "vegetable",
+            "stock",
+            "líquido",
+            "liquid",
+            "água",
+            "water"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "ml",
+                "calsPerUnit": 0.035
+            }
+        ]
     }
 ]

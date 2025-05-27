@@ -2113,7 +2113,7 @@
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 0.22
                                 }
@@ -2149,11 +2149,31 @@
                                 }
                             },
                             {
+                                "id": "142",
+                                "name": "Vinho branco",
+                                "satietyIdx": 40,
+                                "dose": {
+                                    "quantity": 30,
+                                    "unit": "ml",
+                                    "calsPerUnit": 1.3
+                                }
+                            },
+                            {
+                                "id": "180",
+                                "name": "Caldo de Vegetais (líquido)",
+                                "satietyIdx": 25,
+                                "dose": {
+                                    "quantity": 250,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.035
+                                }
+                            },
+                            {
                                 "id": "120",
                                 "name": "Queijo Parmesão",
                                 "satietyIdx": 100,
                                 "dose": {
-                                    "quantity": 20,
+                                    "quantity": 30,
                                     "unit": "g",
                                     "calsPerUnit": 4.02
                                 }
