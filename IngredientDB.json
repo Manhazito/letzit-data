@@ -2365,5 +2365,23 @@
                 "calsPerUnit": 20.13
             }
         ]
+    },
+    {
+        "id": "179",
+        "name": "Arroz arbóreo",
+        "satietyIdx": 125,
+        "keywords": ["arroz", "arbóreo", "carnaroli", "arborio", "rice"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 1.45
+            },
+            {
+                "quantity": 6,
+                "unit": "cs",
+                "calsPerUnit": 24.17
+            }
+        ]
     }
 ]
