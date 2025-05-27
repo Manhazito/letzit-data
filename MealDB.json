@@ -2065,5 +2065,104 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "33",
+        "name": "Risotto de cogumelos",
+        "servings": 2,
+        "keywords": ["risotto", "cogumelos", "arroz", "rice", "mushroom"],
+        "recipes": [
+            {
+                "id": "33.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 100,
+                                "dose": {
+                                    "quantity": 12,
+                                    "unit": "g",
+                                    "calsPerUnit": 9
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 52
+                                }
+                            },
+                            {
+                                "id": "118",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "dose": {
+                                    "quantity": 80,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 15,
+                                    "unit": "g",
+                                    "calsPerUnit": 0
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 5.75
+                                }
+                            },
+                            {
+                                "id": "179",
+                                "name": "Arroz arbóreo",
+                                "satietyIdx": 125,
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.45
+                                }
+                            },
+                            {
+                                "id": "120",
+                                "name": "Queijo Parmesão",
+                                "satietyIdx": 100,
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 4.02
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]
