@@ -154,14 +154,14 @@
                             },
                             {
                                 "id": "100",
-                                "name": "Alho",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 1.49,
+                                    "calsPerUnit": 5,
                                     "stepSize": 1
-                                },
-                                "satietyIdx": 35
+                                }
                             },
                             {
                                 "id": "112",
@@ -170,7 +170,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 },
                                 "satietyIdx": 100
                             },
@@ -181,7 +181,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 42.5,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 },
                                 "satietyIdx": 150
                             }
@@ -264,7 +264,7 @@
                                 "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 4,
-                                    "unit": "unit",
+                                    "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
                                 },
@@ -278,7 +278,7 @@
                                     "quantity": 1.5,
                                     "unit": "unit",
                                     "calsPerUnit": 27,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -290,7 +290,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 77,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 },
                                 "satietyIdx": 122
                             }
@@ -458,7 +458,7 @@
                                 "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 2,
-                                    "unit": "unit",
+                                    "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
                                 },
@@ -472,7 +472,7 @@
                                     "quantity": 1.5,
                                     "unit": "unit",
                                     "calsPerUnit": 27,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -484,7 +484,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 77,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 },
                                 "satietyIdx": 122
                             }
@@ -600,7 +600,7 @@
                                     "quantity": 5,
                                     "unit": "slice",
                                     "calsPerUnit": 66.6,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -672,7 +672,7 @@
                                     "quantity": 1,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -694,7 +694,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 200,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -705,7 +705,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 32.8,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -740,7 +740,7 @@
                                     "quantity": 1,
                                     "unit": "unit",
                                     "calsPerUnit": 73.2,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -801,7 +801,7 @@
                                     "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -950,7 +950,7 @@
                                     "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -1040,7 +1040,7 @@
                                 "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 2,
-                                    "unit": "unit",
+                                    "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
                                 }
@@ -1191,7 +1191,7 @@
                                     "quantity": 2,
                                     "unit": "slice",
                                     "calsPerUnit": 78,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -1327,7 +1327,7 @@
                                     "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -1338,7 +1338,7 @@
                                     "quantity": 1,
                                     "unit": "unit",
                                     "calsPerUnit": 32.8,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -1349,7 +1349,7 @@
                                     "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 42.5,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -1393,7 +1393,7 @@
                                 "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 4,
-                                    "unit": "unit",
+                                    "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
                                 }
@@ -1801,7 +1801,7 @@
                                     "quantity": 8,
                                     "unit": "slice",
                                     "calsPerUnit": 101.25,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             }
                         ],
@@ -1951,7 +1951,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             }
                         ],
@@ -2018,7 +2018,7 @@
                                 "isBrandRelevant": false,
                                 "dose": {
                                     "quantity": 4,
-                                    "unit": "unit",
+                                    "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
                                 },
@@ -2234,7 +2234,7 @@
                                     "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
-                                    "stepSize": 1
+                                    "stepSize": 0.5
                                 }
                             },
                             {
