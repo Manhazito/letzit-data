@@ -718,21 +718,6 @@
         ]
     },
     {
-        "id": "62",
-        "name": "Molho Agridoce",
-        "brand": "Paladin",
-        "isBrandRelevant": false,
-        "satietyIdx": 50,
-        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
-        "doses": [
-            {
-                "quantity": 20,
-                "unit": "g",
-                "calsPerUnit": 1.93
-            }
-        ]
-    },
-    {
         "id": "63",
         "name": "Maionese",
         "brand": "Calvé",
@@ -2405,6 +2390,36 @@
                 "quantity": 100,
                 "unit": "ml",
                 "calsPerUnit": 0.035
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "name": "Molho Agridoce",
+        "brand": "Paladin",
+        "isBrandRelevant": true,
+        "satietyIdx": 50,
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
+        "doses": [
+            {
+                "quantity": 20,
+                "unit": "g",
+                "calsPerUnit": 1.93
+            }
+        ]
+    },
+    {
+        "id": "181",
+        "name": "Molho Agridoce",
+        "brand": "Go-Tan",
+        "isBrandRelevant": true,
+        "satietyIdx": 50,
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
+        "doses": [
+            {
+                "quantity": 20,
+                "unit": "g",
+                "calsPerUnit": 1.76
             }
         ]
     }
