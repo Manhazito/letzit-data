@@ -3516,5 +3516,19 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "183",
+        "name": "Broa de Milho Frita",
+        "satietyIdx": 110,
+        "keywords": ["broa", "milho", "pão", "cornbread"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 4.5,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
