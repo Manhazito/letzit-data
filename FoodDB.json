@@ -23,7 +23,8 @@
             {
                 "quantity": 200,
                 "unit": "ml",
-                "calsPerUnit": 0.25
+                "calsPerUnit": 0.25,
+                "stepSize": 1
             }
         ]
     },
@@ -49,7 +50,8 @@
             {
                 "quantity": 155,
                 "unit": "ml",
-                "calsPerUnit": 0.3226
+                "calsPerUnit": 0.3226,
+                "stepSize": 1
             }
         ]
     },
@@ -70,12 +72,14 @@
             {
                 "quantity": 40,
                 "unit": "g",
-                "calsPerUnit": 2.9
+                "calsPerUnit": 2.9,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 116
+                "calsPerUnit": 116,
+                "stepSize": 1
             }
         ]
     },
@@ -98,12 +102,14 @@
             {
                 "quantity": 40,
                 "unit": "g",
-                "calsPerUnit": 2.32
+                "calsPerUnit": 2.32,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 92.8
+                "calsPerUnit": 92.8,
+                "stepSize": 1
             }
         ]
     },
@@ -118,7 +124,8 @@
             {
                 "quantity": 4,
                 "unit": "unit",
-                "calsPerUnit": 10
+                "calsPerUnit": 10,
+                "stepSize": 1
             }
         ]
     },
@@ -133,7 +140,8 @@
             {
                 "quantity": 3,
                 "unit": "unit",
-                "calsPerUnit": 26.4
+                "calsPerUnit": 26.4,
+                "stepSize": 1
             }
         ]
     },
@@ -148,12 +156,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.83
+                "calsPerUnit": 1.83,
+                "stepSize": 1
             },
             {
                 "quantity": 4,
                 "unit": "cs",
-                "calsPerUnit": 22.88
+                "calsPerUnit": 22.88,
+                "stepSize": 1
             }
         ]
     },
@@ -175,7 +185,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.89
+                "calsPerUnit": 0.89,
+                "stepSize": 1
             }
         ]
     },
@@ -199,7 +210,8 @@
             {
                 "quantity": 10,
                 "unit": "unit",
-                "calsPerUnit": 10
+                "calsPerUnit": 10,
+                "stepSize": 1
             }
         ]
     },
@@ -214,7 +226,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.25
+                "calsPerUnit": 1.25,
+                "stepSize": 1
             }
         ]
     },
@@ -227,12 +240,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.5
+                "calsPerUnit": 0.5,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 50
+                "calsPerUnit": 50,
+                "stepSize": 1
             }
         ]
     },
@@ -245,12 +260,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.5
+                "calsPerUnit": 0.5,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 50
+                "calsPerUnit": 50,
+                "stepSize": 1
             }
         ]
     },
@@ -263,12 +280,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.39
+                "calsPerUnit": 0.39,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 39
+                "calsPerUnit": 39,
+                "stepSize": 1
             }
         ]
     },
@@ -281,12 +300,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.34
+                "calsPerUnit": 0.34,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 170
+                "calsPerUnit": 170,
+                "stepSize": 1
             }
         ]
     },
@@ -299,12 +320,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.3
+                "calsPerUnit": 0.3,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 150
+                "calsPerUnit": 150,
+                "stepSize": 1
             }
         ]
     },
@@ -317,12 +340,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.57
+                "calsPerUnit": 0.57,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 57
+                "calsPerUnit": 57,
+                "stepSize": 1
             }
         ]
     },
@@ -335,12 +360,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.53
+                "calsPerUnit": 0.53,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 53
+                "calsPerUnit": 53,
+                "stepSize": 1
             }
         ]
     },
@@ -353,12 +380,14 @@
             {
                 "quantity": 135,
                 "unit": "g",
-                "calsPerUnit": 0.5
+                "calsPerUnit": 0.5,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 67.5
+                "calsPerUnit": 67.5,
+                "stepSize": 1
             }
         ]
     },
@@ -377,12 +406,14 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 0.32
+                "calsPerUnit": 0.32,
+                "stepSize": 1
             },
             {
                 "quantity": 10,
                 "unit": "unit",
-                "calsPerUnit": 4.8
+                "calsPerUnit": 4.8,
+                "stepSize": 1
             }
         ]
     },
@@ -395,12 +426,14 @@
             {
                 "quantity": 55,
                 "unit": "g",
-                "calsPerUnit": 0.89
+                "calsPerUnit": 0.89,
+                "stepSize": 1
             },
             {
                 "quantity": 0.5,
                 "unit": "unit",
-                "calsPerUnit": 97.9
+                "calsPerUnit": 97.9,
+                "stepSize": 1
             }
         ]
     },
@@ -413,12 +446,14 @@
             {
                 "quantity": 90,
                 "unit": "g",
-                "calsPerUnit": 0.69
+                "calsPerUnit": 0.69,
+                "stepSize": 1
             },
             {
                 "quantity": 15,
                 "unit": "unit",
-                "calsPerUnit": 4.14
+                "calsPerUnit": 4.14,
+                "stepSize": 1
             }
         ]
     },
@@ -431,7 +466,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 1.5,
+                "stepSize": 1
             }
         ]
     },
@@ -444,7 +480,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 2.7
+                "calsPerUnit": 2.7,
+                "stepSize": 1
             }
         ]
     },
@@ -457,12 +494,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.3
+                "calsPerUnit": 1.3,
+                "stepSize": 1
             },
             {
                 "quantity": 6,
                 "unit": "cs",
-                "calsPerUnit": 21.67
+                "calsPerUnit": 21.67,
+                "stepSize": 1
             }
         ]
     },
@@ -475,12 +514,14 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 0.94
+                "calsPerUnit": 0.94,
+                "stepSize": 1
             },
             {
                 "quantity": 8,
                 "unit": "cs",
-                "calsPerUnit": 14.1
+                "calsPerUnit": 14.1,
+                "stepSize": 1
             }
         ]
     },
@@ -493,12 +534,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.64
+                "calsPerUnit": 1.64,
+                "stepSize": 1
             },
             {
                 "quantity": 8,
                 "unit": "cs",
-                "calsPerUnit": 20.5
+                "calsPerUnit": 20.5,
+                "stepSize": 1
             }
         ]
     },
@@ -513,12 +556,14 @@
             {
                 "quantity": 22,
                 "unit": "g",
-                "calsPerUnit": 3.5
+                "calsPerUnit": 3.5,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 78
+                "calsPerUnit": 78,
+                "stepSize": 1
             }
         ]
     },
@@ -533,12 +578,14 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 1.88
+                "calsPerUnit": 1.88,
+                "stepSize": 1
             },
             {
                 "quantity": 0.5,
                 "unit": "unit",
-                "calsPerUnit": 113
+                "calsPerUnit": 113,
+                "stepSize": 1
             }
         ]
     },
@@ -553,7 +600,8 @@
             {
                 "quantity": 110,
                 "unit": "g",
-                "calsPerUnit": 1.36
+                "calsPerUnit": 1.36,
+                "stepSize": 1
             }
         ]
     },
@@ -568,7 +616,8 @@
             {
                 "quantity": 90,
                 "unit": "g",
-                "calsPerUnit": 1.69
+                "calsPerUnit": 1.69,
+                "stepSize": 1
             }
         ]
     },
@@ -583,7 +632,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 207
+                "calsPerUnit": 207,
+                "stepSize": 1
             }
         ]
     },
@@ -598,7 +648,8 @@
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 70
+                "calsPerUnit": 70,
+                "stepSize": 1
             }
         ]
     },
@@ -613,7 +664,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.16
+                "calsPerUnit": 1.16,
+                "stepSize": 1
             }
         ]
     },
@@ -628,7 +680,8 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 1.34
+                "calsPerUnit": 1.34,
+                "stepSize": 1
             }
         ]
     },
@@ -643,7 +696,8 @@
             {
                 "quantity": 6,
                 "unit": "unit",
-                "calsPerUnit": 30
+                "calsPerUnit": 30,
+                "stepSize": 1
             }
         ]
     },
@@ -658,7 +712,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 1.5,
+                "stepSize": 1
             }
         ]
     },
@@ -680,12 +735,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 2.36
+                "calsPerUnit": 2.36,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 118
+                "calsPerUnit": 118,
+                "stepSize": 1
             }
         ]
     },
@@ -700,7 +757,8 @@
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 77
+                "calsPerUnit": 77,
+                "stepSize": 1
             }
         ]
     },
@@ -713,12 +771,14 @@
             {
                 "quantity": 260,
                 "unit": "g",
-                "calsPerUnit": 0.93
+                "calsPerUnit": 0.93,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 242
+                "calsPerUnit": 242,
+                "stepSize": 1
             }
         ]
     },
@@ -731,7 +791,8 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 1.5,
+                "stepSize": 1
             }
         ]
     },
@@ -744,7 +805,8 @@
             {
                 "quantity": 10,
                 "unit": "unit",
-                "calsPerUnit": 20
+                "calsPerUnit": 20,
+                "stepSize": 1
             }
         ]
     },
@@ -767,7 +829,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 676
+                "calsPerUnit": 676,
+                "stepSize": 1
             }
         ]
     },
@@ -791,7 +854,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 722
+                "calsPerUnit": 722,
+                "stepSize": 1
             }
         ]
     },
@@ -814,7 +878,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 588
+                "calsPerUnit": 588,
+                "stepSize": 1
             }
         ]
     },
@@ -837,7 +902,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 598
+                "calsPerUnit": 598,
+                "stepSize": 1
             }
         ]
     },
@@ -861,7 +927,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 386
+                "calsPerUnit": 386,
+                "stepSize": 1
             }
         ]
     },
@@ -876,7 +943,8 @@
             {
                 "quantity": 5,
                 "unit": "unit",
-                "calsPerUnit": 40.6
+                "calsPerUnit": 40.6,
+                "stepSize": 1
             }
         ]
     },
@@ -891,7 +959,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 54
+                "calsPerUnit": 54,
+                "stepSize": 1
             }
         ]
     },
@@ -906,12 +975,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 5.74
+                "calsPerUnit": 5.74,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 28.7
+                "calsPerUnit": 28.7,
+                "stepSize": 1
             }
         ]
     },
@@ -933,7 +1004,8 @@
             {
                 "quantity": 85,
                 "unit": "g",
-                "calsPerUnit": 1.17
+                "calsPerUnit": 1.17,
+                "stepSize": 1
             }
         ]
     },
@@ -956,7 +1028,8 @@
             {
                 "quantity": 250,
                 "unit": "ml",
-                "calsPerUnit": 0.61
+                "calsPerUnit": 0.61,
+                "stepSize": 1
             }
         ]
     },
@@ -971,7 +1044,8 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 1.98
+                "calsPerUnit": 1.98,
+                "stepSize": 1
             }
         ]
     },
@@ -986,7 +1060,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 0.86
+                "calsPerUnit": 0.86,
+                "stepSize": 1
             }
         ]
     },
@@ -1001,7 +1076,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 2.64
+                "calsPerUnit": 2.64,
+                "stepSize": 1
             }
         ]
     },
@@ -1016,7 +1092,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 2.69
+                "calsPerUnit": 2.69,
+                "stepSize": 1
             }
         ]
     },
@@ -1029,12 +1106,14 @@
             {
                 "quantity": 15,
                 "unit": "g",
-                "calsPerUnit": 3.89
+                "calsPerUnit": 3.89,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "handful",
-                "calsPerUnit": 58.35
+                "calsPerUnit": 58.35,
+                "stepSize": 1
             }
         ]
     },
@@ -1047,12 +1126,14 @@
             {
                 "quantity": 15,
                 "unit": "g",
-                "calsPerUnit": 3.94
+                "calsPerUnit": 3.94,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "handful",
-                "calsPerUnit": 59.1
+                "calsPerUnit": 59.1,
+                "stepSize": 1
             }
         ]
     },
@@ -1067,7 +1148,8 @@
             {
                 "quantity": 220,
                 "unit": "ml",
-                "calsPerUnit": 0.57
+                "calsPerUnit": 0.57,
+                "stepSize": 1
             }
         ]
     },
@@ -1082,7 +1164,8 @@
             {
                 "quantity": 220,
                 "unit": "ml",
-                "calsPerUnit": 0.03
+                "calsPerUnit": 0.03,
+                "stepSize": 1
             }
         ]
     },
@@ -1095,7 +1178,8 @@
             {
                 "quantity": 15,
                 "unit": "g",
-                "calsPerUnit": 5.39
+                "calsPerUnit": 5.39,
+                "stepSize": 1
             }
         ]
     },
@@ -1117,7 +1201,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 6.51
+                "calsPerUnit": 6.51,
+                "stepSize": 1
             }
         ]
     },
@@ -1142,7 +1227,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 2.72
+                "calsPerUnit": 2.72,
+                "stepSize": 1
             }
         ]
     },
@@ -1165,7 +1251,8 @@
             {
                 "quantity": 85,
                 "unit": "g",
-                "calsPerUnit": 1.89
+                "calsPerUnit": 1.89,
+                "stepSize": 1
             }
         ]
     },
@@ -1188,7 +1275,8 @@
             {
                 "quantity": 85,
                 "unit": "g",
-                "calsPerUnit": 2.28
+                "calsPerUnit": 2.28,
+                "stepSize": 1
             }
         ]
     },
@@ -1210,7 +1298,8 @@
             {
                 "quantity": 80,
                 "unit": "g",
-                "calsPerUnit": 2.26
+                "calsPerUnit": 2.26,
+                "stepSize": 1
             }
         ]
     },
@@ -1225,7 +1314,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 28
+                "calsPerUnit": 28,
+                "stepSize": 1
             }
         ]
     },
@@ -1246,7 +1336,8 @@
             {
                 "quantity": 10,
                 "unit": "g",
-                "calsPerUnit": 7.43
+                "calsPerUnit": 7.43,
+                "stepSize": 1
             }
         ]
     },
@@ -1259,7 +1350,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 5.73
+                "calsPerUnit": 5.73,
+                "stepSize": 1
             }
         ]
     },
@@ -1274,12 +1366,14 @@
             {
                 "quantity": 60,
                 "unit": "ml",
-                "calsPerUnit": 0.61
+                "calsPerUnit": 0.61,
+                "stepSize": 1
             },
             {
                 "quantity": 4,
                 "unit": "cube",
-                "calsPerUnit": 36.6
+                "calsPerUnit": 36.6,
+                "stepSize": 1
             }
         ]
     },
@@ -1292,7 +1386,8 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 2.49
+                "calsPerUnit": 2.49,
+                "stepSize": 1
             }
         ]
     },
@@ -1307,7 +1402,8 @@
             {
                 "quantity": 125,
                 "unit": "g",
-                "calsPerUnit": 2.25
+                "calsPerUnit": 2.25,
+                "stepSize": 1
             }
         ]
     },
@@ -1322,7 +1418,8 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.77
+                "calsPerUnit": 1.77,
+                "stepSize": 1
             }
         ]
     },
@@ -1337,7 +1434,8 @@
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 26
+                "calsPerUnit": 26,
+                "stepSize": 1
             }
         ]
     },
@@ -1352,7 +1450,8 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 2.38
+                "calsPerUnit": 2.38,
+                "stepSize": 1
             }
         ]
     },
@@ -1374,7 +1473,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 751
+                "calsPerUnit": 751,
+                "stepSize": 1
             }
         ]
     },
@@ -1397,7 +1497,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 846
+                "calsPerUnit": 846,
+                "stepSize": 1
             }
         ]
     },
@@ -1422,7 +1523,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 804
+                "calsPerUnit": 804,
+                "stepSize": 1
             }
         ]
     },
@@ -1446,7 +1548,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 665
+                "calsPerUnit": 665,
+                "stepSize": 1
             }
         ]
     },
@@ -1468,7 +1571,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 643
+                "calsPerUnit": 643,
+                "stepSize": 1
             }
         ]
     },
@@ -1492,7 +1596,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 417
+                "calsPerUnit": 417,
+                "stepSize": 1
             }
         ]
     },
@@ -1505,12 +1610,14 @@
             {
                 "quantity": 160,
                 "unit": "g",
-                "calsPerUnit": 1.5
+                "calsPerUnit": 1.5,
+                "stepSize": 1
             },
             {
                 "quantity": 6,
                 "unit": "cs",
-                "calsPerUnit": 40
+                "calsPerUnit": 40,
+                "stepSize": 1
             }
         ]
     },
@@ -1525,7 +1632,8 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 1.6
+                "calsPerUnit": 1.6,
+                "stepSize": 1
             }
         ]
     },
@@ -1540,7 +1648,8 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 3.6
+                "calsPerUnit": 3.6,
+                "stepSize": 1
             }
         ]
     },
@@ -1553,12 +1662,14 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 0.18
+                "calsPerUnit": 0.18,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 27
+                "calsPerUnit": 27,
+                "stepSize": 1
             }
         ]
     },
@@ -1578,7 +1689,8 @@
             {
                 "quantity": 6,
                 "unit": "unit",
-                "calsPerUnit": 4
+                "calsPerUnit": 4,
+                "stepSize": 1
             }
         ]
     },
@@ -1593,7 +1705,8 @@
             {
                 "quantity": 200,
                 "unit": "ml",
-                "calsPerUnit": 0.46
+                "calsPerUnit": 0.46,
+                "stepSize": 1
             }
         ]
     },
@@ -1613,7 +1726,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 80
+                "calsPerUnit": 80,
+                "stepSize": 1
             }
         ]
     },
@@ -1626,12 +1740,14 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.15
+                "calsPerUnit": 0.15,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 30
+                "calsPerUnit": 30,
+                "stepSize": 1
             }
         ]
     },
@@ -1644,12 +1760,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 0.2
+                "calsPerUnit": 0.2,
+                "stepSize": 1
             },
             {
                 "quantity": 0.25,
                 "unit": "unit",
-                "calsPerUnit": 10
+                "calsPerUnit": 10,
+                "stepSize": 1
             }
         ]
     },
@@ -1662,12 +1780,14 @@
             {
                 "quantity": 80,
                 "unit": "g",
-                "calsPerUnit": 0.15
+                "calsPerUnit": 0.15,
+                "stepSize": 1
             },
             {
                 "quantity": 4,
                 "unit": "unit",
-                "calsPerUnit": 12
+                "calsPerUnit": 12,
+                "stepSize": 1
             }
         ]
     },
@@ -1680,17 +1800,20 @@
             {
                 "quantity": 10,
                 "unit": "g",
-                "calsPerUnit": 9
+                "calsPerUnit": 9,
+                "stepSize": 1
             },
             {
                 "quantity": 100,
                 "unit": "spray",
-                "calsPerUnit": 0.1
+                "calsPerUnit": 0.1,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 90
+                "calsPerUnit": 90,
+                "stepSize": 1
             }
         ]
     },
@@ -1703,12 +1826,14 @@
             {
                 "quantity": 15,
                 "unit": "ml",
-                "calsPerUnit": 1
+                "calsPerUnit": 1,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 15
+                "calsPerUnit": 15,
+                "stepSize": 1
             }
         ]
     },
@@ -1721,12 +1846,14 @@
             {
                 "quantity": 15,
                 "unit": "ml",
-                "calsPerUnit": 0.333333
+                "calsPerUnit": 0.333333,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 5
+                "calsPerUnit": 5,
+                "stepSize": 1
             }
         ]
     },
@@ -1739,12 +1866,14 @@
             {
                 "quantity": 15,
                 "unit": "ml",
-                "calsPerUnit": 0.2
+                "calsPerUnit": 0.2,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 3
+                "calsPerUnit": 3,
+                "stepSize": 1
             }
         ]
     },
@@ -1757,7 +1886,8 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 3.64
+                "calsPerUnit": 3.64,
+                "stepSize": 1
             }
         ]
     },
@@ -1770,12 +1900,14 @@
             {
                 "quantity": 6,
                 "unit": "g",
-                "calsPerUnit": 1.67
+                "calsPerUnit": 1.67,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 5
+                "calsPerUnit": 5,
+                "stepSize": 1
             }
         ]
     },
@@ -1788,12 +1920,14 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 0.61
+                "calsPerUnit": 0.61,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 73.2
+                "calsPerUnit": 73.2,
+                "stepSize": 1
             }
         ]
     },
@@ -1808,12 +1942,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 3.34
+                "calsPerUnit": 3.34,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 167
+                "calsPerUnit": 167,
+                "stepSize": 1
             }
         ]
     },
@@ -1826,12 +1962,14 @@
             {
                 "quantity": 8,
                 "unit": "g",
-                "calsPerUnit": 3.25
+                "calsPerUnit": 3.25,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 26
+                "calsPerUnit": 26,
+                "stepSize": 1
             }
         ]
     },
@@ -1845,12 +1983,14 @@
             {
                 "quantity": 2.3,
                 "unit": "g",
-                "calsPerUnit": 1.62
+                "calsPerUnit": 1.62,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 3.73
+                "calsPerUnit": 3.73,
+                "stepSize": 1
             }
         ]
     },
@@ -1863,12 +2003,14 @@
             {
                 "quantity": 500,
                 "unit": "g",
-                "calsPerUnit": 0.63
+                "calsPerUnit": 0.63,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 315
+                "calsPerUnit": 315,
+                "stepSize": 1
             }
         ]
     },
@@ -1890,7 +2032,8 @@
             {
                 "quantity": 151,
                 "unit": "ml",
-                "calsPerUnit": 0.52
+                "calsPerUnit": 0.52,
+                "stepSize": 1
             }
         ]
     },
@@ -1903,7 +2046,8 @@
             {
                 "quantity": 3,
                 "unit": "unit",
-                "calsPerUnit": 120
+                "calsPerUnit": 120,
+                "stepSize": 1
             }
         ]
     },
@@ -1916,12 +2060,14 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 0.43
+                "calsPerUnit": 0.43,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 64.5
+                "calsPerUnit": 64.5,
+                "stepSize": 1
             }
         ]
     },
@@ -1934,12 +2080,14 @@
             {
                 "quantity": 350,
                 "unit": "g",
-                "calsPerUnit": 0.25
+                "calsPerUnit": 0.25,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 87.5
+                "calsPerUnit": 87.5,
+                "stepSize": 1
             }
         ]
     },
@@ -1952,12 +2100,14 @@
             {
                 "quantity": 400,
                 "unit": "g",
-                "calsPerUnit": 0.35
+                "calsPerUnit": 0.35,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 140
+                "calsPerUnit": 140,
+                "stepSize": 1
             }
         ]
     },
@@ -1970,12 +2120,14 @@
             {
                 "quantity": 500,
                 "unit": "g",
-                "calsPerUnit": 0.25
+                "calsPerUnit": 0.25,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 125
+                "calsPerUnit": 125,
+                "stepSize": 1
             }
         ]
     },
@@ -1988,12 +2140,14 @@
             {
                 "quantity": 130,
                 "unit": "g",
-                "calsPerUnit": 0.4
+                "calsPerUnit": 0.4,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 52
+                "calsPerUnit": 52,
+                "stepSize": 1
             }
         ]
     },
@@ -2006,12 +2160,14 @@
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 0.17
+                "calsPerUnit": 0.17,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 42.5
+                "calsPerUnit": 42.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2024,7 +2180,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31
+                "calsPerUnit": 1.31,
+                "stepSize": 1
             }
         ]
     },
@@ -2037,7 +2194,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31
+                "calsPerUnit": 1.31,
+                "stepSize": 1
             }
         ]
     },
@@ -2050,7 +2208,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31
+                "calsPerUnit": 1.31,
+                "stepSize": 1
             }
         ]
     },
@@ -2063,7 +2222,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31
+                "calsPerUnit": 1.31,
+                "stepSize": 1
             }
         ]
     },
@@ -2076,7 +2236,8 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31
+                "calsPerUnit": 1.31,
+                "stepSize": 1
             }
         ]
     },
@@ -2089,12 +2250,14 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 0.22
+                "calsPerUnit": 0.22,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 6.6
+                "calsPerUnit": 6.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2107,12 +2270,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.22
+                "calsPerUnit": 0.22,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 22
+                "calsPerUnit": 22,
+                "stepSize": 1
             }
         ]
     },
@@ -2125,12 +2290,14 @@
             {
                 "quantity": 150,
                 "unit": "g",
-                "calsPerUnit": 4.02
+                "calsPerUnit": 4.02,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 60.3
+                "calsPerUnit": 60.3,
+                "stepSize": 1
             }
         ]
     },
@@ -2152,7 +2319,8 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.25
+                "calsPerUnit": 0.25,
+                "stepSize": 1
             }
         ]
     },
@@ -2165,12 +2333,14 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.58
+                "calsPerUnit": 0.58,
+                "stepSize": 1
             },
             {
                 "quantity": 30,
                 "unit": "unit",
-                "calsPerUnit": 3.87
+                "calsPerUnit": 3.87,
+                "stepSize": 1
             }
         ]
     },
@@ -2185,12 +2355,14 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 2.1
+                "calsPerUnit": 2.1,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 60
+                "calsPerUnit": 60,
+                "stepSize": 1
             }
         ]
     },
@@ -2203,12 +2375,14 @@
             {
                 "quantity": 15,
                 "unit": "g",
-                "calsPerUnit": 3.24
+                "calsPerUnit": 3.24,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 48.6
+                "calsPerUnit": 48.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2221,12 +2395,14 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 0.52
+                "calsPerUnit": 0.52,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 15.6
+                "calsPerUnit": 15.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2239,7 +2415,8 @@
             {
                 "quantity": 1,
                 "unit": "g",
-                "calsPerUnit": 2.5
+                "calsPerUnit": 2.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2252,7 +2429,8 @@
             {
                 "quantity": 5,
                 "unit": "g",
-                "calsPerUnit": 0
+                "calsPerUnit": 0,
+                "stepSize": 1
             }
         ]
     },
@@ -2267,12 +2445,14 @@
             {
                 "quantity": 406,
                 "unit": "g",
-                "calsPerUnit": 2.75
+                "calsPerUnit": 2.75,
+                "stepSize": 1
             },
             {
                 "quantity": 72,
                 "unit": "g",
-                "calsPerUnit": 2.75
+                "calsPerUnit": 2.75,
+                "stepSize": 1
             }
         ]
     },
@@ -2294,12 +2474,14 @@
             {
                 "quantity": 36,
                 "unit": "g",
-                "calsPerUnit": 1.85
+                "calsPerUnit": 1.85,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 66.6
+                "calsPerUnit": 66.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2314,7 +2496,8 @@
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 33
+                "calsPerUnit": 33,
+                "stepSize": 1
             }
         ]
     },
@@ -2327,7 +2510,8 @@
             {
                 "quantity": 2.5,
                 "unit": "g",
-                "calsPerUnit": 0.23
+                "calsPerUnit": 0.23,
+                "stepSize": 1
             }
         ]
     },
@@ -2342,12 +2526,14 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 810
+                "calsPerUnit": 810,
+                "stepSize": 1
             },
             {
                 "quantity": 8,
                 "unit": "slice",
-                "calsPerUnit": 101.25
+                "calsPerUnit": 101.25,
+                "stepSize": 1
             }
         ]
     },
@@ -2372,7 +2558,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 128
+                "calsPerUnit": 128,
+                "stepSize": 1
             }
         ]
     },
@@ -2385,7 +2572,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 197.5
+                "calsPerUnit": 197.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2398,7 +2586,8 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 2.48
+                "calsPerUnit": 2.48,
+                "stepSize": 1
             }
         ]
     },
@@ -2411,7 +2600,8 @@
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 0.23
+                "calsPerUnit": 0.23,
+                "stepSize": 1
             }
         ]
     },
@@ -2424,12 +2614,14 @@
             {
                 "quantity": 80,
                 "unit": "g",
-                "calsPerUnit": 0.41
+                "calsPerUnit": 0.41,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 32.8
+                "calsPerUnit": 32.8,
+                "stepSize": 1
             }
         ]
     },
@@ -2442,12 +2634,14 @@
             {
                 "quantity": 15,
                 "unit": "g",
-                "calsPerUnit": 4
+                "calsPerUnit": 4,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 60
+                "calsPerUnit": 60,
+                "stepSize": 1
             }
         ]
     },
@@ -2460,12 +2654,14 @@
             {
                 "quantity": 65,
                 "unit": "g",
-                "calsPerUnit": 3.077
+                "calsPerUnit": 3.077,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 200
+                "calsPerUnit": 200,
+                "stepSize": 1
             }
         ]
     },
@@ -2478,7 +2674,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 364.08
+                "calsPerUnit": 364.08,
+                "stepSize": 1
             }
         ]
     },
@@ -2491,7 +2688,8 @@
             {
                 "quantity": 150,
                 "unit": "ml",
-                "calsPerUnit": 1.3
+                "calsPerUnit": 1.3,
+                "stepSize": 1
             }
         ]
     },
@@ -2504,7 +2702,8 @@
             {
                 "quantity": 150,
                 "unit": "ml",
-                "calsPerUnit": 1.3
+                "calsPerUnit": 1.3,
+                "stepSize": 1
             }
         ]
     },
@@ -2517,12 +2716,14 @@
             {
                 "quantity": 12,
                 "unit": "g",
-                "calsPerUnit": 3.87
+                "calsPerUnit": 3.87,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 46.44
+                "calsPerUnit": 46.44,
+                "stepSize": 1
             }
         ]
     },
@@ -2537,7 +2738,8 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 565
+                "calsPerUnit": 565,
+                "stepSize": 1
             }
         ]
     },
@@ -2550,12 +2752,14 @@
             {
                 "quantity": 250,
                 "unit": "ml",
-                "calsPerUnit": 0.45
+                "calsPerUnit": 0.45,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 112.5
+                "calsPerUnit": 112.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2568,12 +2772,14 @@
             {
                 "quantity": 330,
                 "unit": "ml",
-                "calsPerUnit": 0.4
+                "calsPerUnit": 0.4,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 132
+                "calsPerUnit": 132,
+                "stepSize": 1
             }
         ]
     },
@@ -2586,12 +2792,14 @@
             {
                 "quantity": 330,
                 "unit": "ml",
-                "calsPerUnit": 0.42
+                "calsPerUnit": 0.42,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 138.6
+                "calsPerUnit": 138.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2613,12 +2821,14 @@
             {
                 "quantity": 45,
                 "unit": "g",
-                "calsPerUnit": 2
+                "calsPerUnit": 2,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 90
+                "calsPerUnit": 90,
+                "stepSize": 1
             }
         ]
     },
@@ -2639,12 +2849,14 @@
             {
                 "quantity": 60,
                 "unit": "g",
-                "calsPerUnit": 1.45
+                "calsPerUnit": 1.45,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 87
+                "calsPerUnit": 87,
+                "stepSize": 1
             }
         ]
     },
@@ -2668,12 +2880,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 2.2
+                "calsPerUnit": 2.2,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 220
+                "calsPerUnit": 220,
+                "stepSize": 1
             }
         ]
     },
@@ -2686,12 +2900,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.16
+                "calsPerUnit": 0.16,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 16
+                "calsPerUnit": 16,
+                "stepSize": 1
             }
         ]
     },
@@ -2704,12 +2920,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 3.9
+                "calsPerUnit": 3.9,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 195
+                "calsPerUnit": 195,
+                "stepSize": 1
             }
         ]
     },
@@ -2722,12 +2940,14 @@
             {
                 "quantity": 330,
                 "unit": "ml",
-                "calsPerUnit": 0.136
+                "calsPerUnit": 0.136,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 45
+                "calsPerUnit": 45,
+                "stepSize": 1
             }
         ]
     },
@@ -2742,12 +2962,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.29
+                "calsPerUnit": 1.29,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 64.5
+                "calsPerUnit": 64.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2767,12 +2989,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 3.75
+                "calsPerUnit": 3.75,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 375
+                "calsPerUnit": 375,
+                "stepSize": 1
             }
         ]
     },
@@ -2785,12 +3009,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 4.25
+                "calsPerUnit": 4.25,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 425
+                "calsPerUnit": 425,
+                "stepSize": 1
             }
         ]
     },
@@ -2803,12 +3029,14 @@
             {
                 "quantity": 45,
                 "unit": "g",
-                "calsPerUnit": 4
+                "calsPerUnit": 4,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 180
+                "calsPerUnit": 180,
+                "stepSize": 1
             }
         ]
     },
@@ -2828,12 +3056,14 @@
             {
                 "quantity": 55,
                 "unit": "g",
-                "calsPerUnit": 2.46
+                "calsPerUnit": 2.46,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 135
+                "calsPerUnit": 135,
+                "stepSize": 1
             }
         ]
     },
@@ -2846,12 +3076,14 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 0.6
+                "calsPerUnit": 0.6,
+                "stepSize": 1
             },
             {
                 "quantity": 5,
                 "unit": "unit",
-                "calsPerUnit": 6
+                "calsPerUnit": 6,
+                "stepSize": 1
             }
         ]
     },
@@ -2864,12 +3096,14 @@
             {
                 "quantity": 2.5,
                 "unit": "g",
-                "calsPerUnit": 2.72
+                "calsPerUnit": 2.72,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 6.8
+                "calsPerUnit": 6.8,
+                "stepSize": 1
             }
         ]
     },
@@ -2882,12 +3116,14 @@
             {
                 "quantity": 2.3,
                 "unit": "g",
-                "calsPerUnit": 2.82
+                "calsPerUnit": 2.82,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 6.5
+                "calsPerUnit": 6.5,
+                "stepSize": 1
             }
         ]
     },
@@ -2900,12 +3136,14 @@
             {
                 "quantity": 130,
                 "unit": "g",
-                "calsPerUnit": 2.92
+                "calsPerUnit": 2.92,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 379.6
+                "calsPerUnit": 379.6,
+                "stepSize": 1
             }
         ]
     },
@@ -2918,7 +3156,8 @@
             {
                 "quantity": 200,
                 "unit": "ml",
-                "calsPerUnit": 0
+                "calsPerUnit": 0,
+                "stepSize": 1
             }
         ]
     },
@@ -2931,7 +3170,8 @@
             {
                 "quantity": 1,
                 "unit": "g",
-                "calsPerUnit": 0
+                "calsPerUnit": 0,
+                "stepSize": 1
             }
         ]
     },
@@ -2944,7 +3184,8 @@
             {
                 "quantity": 1,
                 "unit": "g",
-                "calsPerUnit": 4
+                "calsPerUnit": 4,
+                "stepSize": 1
             }
         ]
     },
@@ -2967,7 +3208,8 @@
             {
                 "quantity": 88,
                 "unit": "g",
-                "calsPerUnit": 2.59
+                "calsPerUnit": 2.59,
+                "stepSize": 1
             }
         ]
     },
@@ -2988,7 +3230,8 @@
             {
                 "quantity": 10,
                 "unit": "g",
-                "calsPerUnit": 5.31
+                "calsPerUnit": 5.31,
+                "stepSize": 1
             }
         ]
     },
@@ -3010,7 +3253,8 @@
             {
                 "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.77
+                "calsPerUnit": 1.77,
+                "stepSize": 1
             }
         ]
     },
@@ -3023,12 +3267,14 @@
             {
                 "quantity": 2.5,
                 "unit": "g",
-                "calsPerUnit": 1.84
+                "calsPerUnit": 1.84,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 4.6
+                "calsPerUnit": 4.6,
+                "stepSize": 1
             }
         ]
     },
@@ -3055,12 +3301,14 @@
             {
                 "quantity": 48,
                 "unit": "g",
-                "calsPerUnit": 0.23
+                "calsPerUnit": 0.23,
+                "stepSize": 1
             },
             {
                 "quantity": 4,
                 "unit": "cube",
-                "calsPerUnit": 11
+                "calsPerUnit": 11,
+                "stepSize": 1
             }
         ]
     },
@@ -3083,12 +3331,14 @@
             {
                 "quantity": 48,
                 "unit": "g",
-                "calsPerUnit": 0.57
+                "calsPerUnit": 0.57,
+                "stepSize": 1
             },
             {
                 "quantity": 4,
                 "unit": "cube",
-                "calsPerUnit": 27.36
+                "calsPerUnit": 27.36,
+                "stepSize": 1
             }
         ]
     },
@@ -3103,7 +3353,8 @@
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 27.6
+                "calsPerUnit": 27.6,
+                "stepSize": 1
             }
         ]
     },
@@ -3118,7 +3369,8 @@
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 23.13
+                "calsPerUnit": 23.13,
+                "stepSize": 1
             }
         ]
     },
@@ -3141,7 +3393,8 @@
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 20.13
+                "calsPerUnit": 20.13,
+                "stepSize": 1
             }
         ]
     },
@@ -3154,12 +3407,14 @@
             {
                 "quantity": 60,
                 "unit": "g",
-                "calsPerUnit": 1.38
+                "calsPerUnit": 1.38,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 83
+                "calsPerUnit": 83,
+                "stepSize": 1
             }
         ]
     },
@@ -3172,12 +3427,14 @@
             {
                 "quantity": 60,
                 "unit": "g",
-                "calsPerUnit": 1.3
+                "calsPerUnit": 1.3,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 78
+                "calsPerUnit": 78,
+                "stepSize": 1
             }
         ]
     },
@@ -3190,12 +3447,14 @@
             {
                 "quantity": 26,
                 "unit": "g",
-                "calsPerUnit": 2.23
+                "calsPerUnit": 2.23,
+                "stepSize": 1
             },
             {
                 "quantity": 2,
                 "unit": "unit",
-                "calsPerUnit": 58
+                "calsPerUnit": 58,
+                "stepSize": 1
             }
         ]
     },
@@ -3215,12 +3474,14 @@
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 1.36
+                "calsPerUnit": 1.36,
+                "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 340
+                "calsPerUnit": 340,
+                "stepSize": 1
             }
         ]
     },
@@ -3233,12 +3494,14 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.45
+                "calsPerUnit": 1.45,
+                "stepSize": 1
             },
             {
                 "quantity": 6,
                 "unit": "cs",
-                "calsPerUnit": 24.17
+                "calsPerUnit": 24.17,
+                "stepSize": 1
             }
         ]
     },
@@ -3253,7 +3516,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 1.93
+                "calsPerUnit": 1.93,
+                "stepSize": 1
             }
         ]
     },
@@ -3268,7 +3532,8 @@
             {
                 "quantity": 20,
                 "unit": "g",
-                "calsPerUnit": 1.76
+                "calsPerUnit": 1.76,
+                "stepSize": 1
             }
         ]
     }

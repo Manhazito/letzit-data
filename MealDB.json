@@ -17,7 +17,8 @@
                                 "dose": {
                                     "quantity": 12,
                                     "unit": "unit",
-                                    "calsPerUnit": 4
+                                    "calsPerUnit": 4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 210
                             },
@@ -27,7 +28,8 @@
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "g",
-                                    "calsPerUnit": 0.15
+                                    "calsPerUnit": 0.15,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 200
                             },
@@ -37,7 +39,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.2
+                                    "calsPerUnit": 0.2,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 175
                             },
@@ -47,7 +50,8 @@
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
-                                    "calsPerUnit": 0.15
+                                    "calsPerUnit": 0.15,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 175
                             },
@@ -57,7 +61,8 @@
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 100
                             }
@@ -98,7 +103,8 @@
                                 "dose": {
                                     "quantity": 400,
                                     "unit": "g",
-                                    "calsPerUnit": 0.77
+                                    "calsPerUnit": 0.77,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 323
                             },
@@ -108,7 +114,8 @@
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "g",
-                                    "calsPerUnit": 0.43
+                                    "calsPerUnit": 0.43,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 110
                             },
@@ -118,7 +125,8 @@
                                 "dose": {
                                     "quantity": 700,
                                     "unit": "g",
-                                    "calsPerUnit": 0.25
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -128,7 +136,8 @@
                                 "dose": {
                                     "quantity": 800,
                                     "unit": "g",
-                                    "calsPerUnit": 0.35
+                                    "calsPerUnit": 0.35,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 200
                             },
@@ -138,7 +147,8 @@
                                 "dose": {
                                     "quantity": 1000,
                                     "unit": "g",
-                                    "calsPerUnit": 0.25
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 170
                             },
@@ -148,7 +158,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 1.49
+                                    "calsPerUnit": 1.49,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 35
                             },
@@ -158,7 +169,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 100
                             },
@@ -168,7 +180,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 42.5
+                                    "calsPerUnit": 42.5,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 150
                             }
@@ -206,7 +219,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 1.35
+                                    "calsPerUnit": 1.35,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 119
                             },
@@ -216,7 +230,8 @@
                                 "dose": {
                                     "quantity": 25,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 110
                             },
@@ -226,7 +241,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.4
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -236,7 +252,8 @@
                                 "dose": {
                                     "quantity": 300,
                                     "unit": "g",
-                                    "calsPerUnit": 0.22
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -248,7 +265,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
-                                    "calsPerUnit": 36.6
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 50
                             },
@@ -259,7 +277,8 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 27
+                                    "calsPerUnit": 27,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -270,7 +289,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 77
+                                    "calsPerUnit": 77,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 122
                             }
@@ -312,7 +332,8 @@
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "ml",
-                                    "calsPerUnit": 0.25
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -322,7 +343,8 @@
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "ml",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -334,7 +356,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "cs",
-                                    "calsPerUnit": 22.88
+                                    "calsPerUnit": 22.88,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -344,7 +367,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "calsPerUnit": 4
+                                    "calsPerUnit": 4,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -389,7 +413,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 1.3
+                                    "calsPerUnit": 1.3,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 138
                             },
@@ -399,7 +424,8 @@
                                 "dose": {
                                     "quantity": 25,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 110
                             },
@@ -409,7 +435,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.4
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -419,7 +446,8 @@
                                 "dose": {
                                     "quantity": 300,
                                     "unit": "g",
-                                    "calsPerUnit": 0.22
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -431,7 +459,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 36.6
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 50
                             },
@@ -442,7 +471,8 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 27
+                                    "calsPerUnit": 27,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -453,7 +483,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 77
+                                    "calsPerUnit": 77,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 122
                             }
@@ -489,7 +520,8 @@
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "g",
-                                    "calsPerUnit": 4.02
+                                    "calsPerUnit": 4.02,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -499,7 +531,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 48.6
+                                    "calsPerUnit": 48.6,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -509,7 +542,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 5
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -519,7 +553,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72
+                                    "calsPerUnit": 2.72,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -529,7 +564,8 @@
                                 "dose": {
                                     "quantity": 40,
                                     "unit": "spray",
-                                    "calsPerUnit": 0.1
+                                    "calsPerUnit": 0.1,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -539,7 +575,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "calsPerUnit": 2.5
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -549,7 +586,8 @@
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -561,7 +599,8 @@
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "slice",
-                                    "calsPerUnit": 66.6
+                                    "calsPerUnit": 66.6,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -571,7 +610,8 @@
                                 "dose": {
                                     "quantity": 2.5,
                                     "unit": "g",
-                                    "calsPerUnit": 0.23
+                                    "calsPerUnit": 0.23,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -609,7 +649,8 @@
                                 "dose": {
                                     "quantity": 350,
                                     "unit": "g",
-                                    "calsPerUnit": 2.48
+                                    "calsPerUnit": 2.48,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -619,7 +660,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -629,7 +671,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -639,7 +682,8 @@
                                 "dose": {
                                     "quantity": 380,
                                     "unit": "g",
-                                    "calsPerUnit": 0.23
+                                    "calsPerUnit": 0.23,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -649,7 +693,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 200
+                                    "calsPerUnit": 200,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -659,7 +704,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 32.8
+                                    "calsPerUnit": 32.8,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -669,7 +715,8 @@
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -681,7 +728,8 @@
                                 "dose": {
                                     "quantity": 400,
                                     "unit": "g",
-                                    "calsPerUnit": 1.34
+                                    "calsPerUnit": 1.34,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -691,7 +739,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 73.2
+                                    "calsPerUnit": 73.2,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -701,7 +750,8 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "cs",
-                                    "calsPerUnit": 60
+                                    "calsPerUnit": 60,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -739,7 +789,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 5
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -749,7 +800,8 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -761,7 +813,8 @@
                                 "dose": {
                                     "quantity": 180,
                                     "unit": "g",
-                                    "calsPerUnit": 1.69
+                                    "calsPerUnit": 1.69,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -773,7 +826,8 @@
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "g",
-                                    "calsPerUnit": 0.25
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -783,7 +837,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72
+                                    "calsPerUnit": 2.72,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -793,7 +848,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cs",
-                                    "calsPerUnit": 60.3
+                                    "calsPerUnit": 60.3,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -803,7 +859,8 @@
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -813,7 +870,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "g",
-                                    "calsPerUnit": 2.5
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -823,7 +881,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -879,7 +938,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 5
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -889,7 +949,8 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -901,7 +962,8 @@
                                 "dose": {
                                     "quantity": 180,
                                     "unit": "g",
-                                    "calsPerUnit": 1.36
+                                    "calsPerUnit": 1.36,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -911,7 +973,8 @@
                                 "dose": {
                                     "quantity": 180,
                                     "unit": "g",
-                                    "calsPerUnit": 0.22
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -921,7 +984,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72
+                                    "calsPerUnit": 2.72,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -931,7 +995,8 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "cs",
-                                    "calsPerUnit": 60.3
+                                    "calsPerUnit": 60.3,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -941,7 +1006,8 @@
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -951,7 +1017,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "g",
-                                    "calsPerUnit": 2.5
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -961,7 +1028,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -973,7 +1041,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 36.6
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1012,7 +1081,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 1.3
+                                    "calsPerUnit": 1.3,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 138
                             },
@@ -1022,7 +1092,8 @@
                                 "dose": {
                                     "quantity": 25,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 110
                             },
@@ -1032,7 +1103,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.4
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             }
@@ -1062,7 +1134,8 @@
                                 "dose": {
                                     "quantity": 130,
                                     "unit": "g",
-                                    "calsPerUnit": 2.9
+                                    "calsPerUnit": 2.9,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1074,7 +1147,8 @@
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
-                                    "calsPerUnit": 7.43
+                                    "calsPerUnit": 7.43,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1103,7 +1177,8 @@
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "unit",
-                                    "calsPerUnit": 80
+                                    "calsPerUnit": 80,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1115,7 +1190,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "slice",
-                                    "calsPerUnit": 78
+                                    "calsPerUnit": 78,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1125,7 +1201,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1160,7 +1237,8 @@
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
-                                    "calsPerUnit": 2.9
+                                    "calsPerUnit": 2.9,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1172,7 +1250,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 207
+                                    "calsPerUnit": 207,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1184,7 +1263,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "slice",
-                                    "calsPerUnit": 78
+                                    "calsPerUnit": 78,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1194,7 +1274,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.18
+                                    "calsPerUnit": 0.18,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1206,7 +1287,8 @@
                                 "dose": {
                                     "quantity": 20,
                                     "unit": "g",
-                                    "calsPerUnit": 2.64
+                                    "calsPerUnit": 2.64,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1244,7 +1326,8 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1254,7 +1337,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 32.8
+                                    "calsPerUnit": 32.8,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1264,7 +1348,8 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 42.5
+                                    "calsPerUnit": 42.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1274,7 +1359,8 @@
                                 "dose": {
                                     "quantity": 150,
                                     "unit": "g",
-                                    "calsPerUnit": 0.22
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1284,7 +1370,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1294,7 +1381,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72
+                                    "calsPerUnit": 2.72,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1306,7 +1394,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
-                                    "calsPerUnit": 36.6
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1316,7 +1405,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 60.3
+                                    "calsPerUnit": 60.3,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1347,7 +1437,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 676
+                                    "calsPerUnit": 676,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1378,7 +1469,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 722
+                                    "calsPerUnit": 722,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1409,7 +1501,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 588
+                                    "calsPerUnit": 588,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1440,7 +1533,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 598
+                                    "calsPerUnit": 598,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1477,7 +1571,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 751
+                                    "calsPerUnit": 751,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1514,7 +1609,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 846
+                                    "calsPerUnit": 846,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1554,7 +1650,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 804
+                                    "calsPerUnit": 804,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1592,7 +1689,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 665
+                                    "calsPerUnit": 665,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1632,7 +1730,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 643
+                                    "calsPerUnit": 643,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1669,7 +1768,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 417
+                                    "calsPerUnit": 417,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1700,7 +1800,8 @@
                                 "dose": {
                                     "quantity": 8,
                                     "unit": "slice",
-                                    "calsPerUnit": 101.25
+                                    "calsPerUnit": 101.25,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1731,7 +1832,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 565
+                                    "calsPerUnit": 565,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1760,7 +1862,8 @@
                                 "dose": {
                                     "quantity": 3000,
                                     "unit": "g",
-                                    "calsPerUnit": 0.77
+                                    "calsPerUnit": 0.77,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1770,7 +1873,8 @@
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "cs",
-                                    "calsPerUnit": 90
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1780,7 +1884,8 @@
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "ml",
-                                    "calsPerUnit": 1.3
+                                    "calsPerUnit": 1.3,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1790,7 +1895,8 @@
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1800,7 +1906,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 6.8
+                                    "calsPerUnit": 6.8,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1810,7 +1917,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 17.5
+                                    "calsPerUnit": 17.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1820,7 +1928,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 6.5
+                                    "calsPerUnit": 6.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1830,7 +1939,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 1
+                                    "calsPerUnit": 1,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1840,7 +1950,8 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1873,7 +1984,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 1.35
+                                    "calsPerUnit": 1.35,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 119
                             },
@@ -1883,7 +1995,8 @@
                                 "dose": {
                                     "quantity": 25,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 110
                             },
@@ -1893,7 +2006,8 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.4
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 145
                             },
@@ -1905,7 +2019,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
-                                    "calsPerUnit": 36.6
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 50
                             },
@@ -1916,7 +2031,8 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 27
+                                    "calsPerUnit": 27,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1958,7 +2074,8 @@
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "g",
-                                    "calsPerUnit": 3.65
+                                    "calsPerUnit": 3.65,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1968,7 +2085,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 26
+                                    "calsPerUnit": 26,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1978,7 +2096,8 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
-                                    "calsPerUnit": 80
+                                    "calsPerUnit": 80,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1990,7 +2109,8 @@
                                 "dose": {
                                     "quantity": 150,
                                     "unit": "ml",
-                                    "calsPerUnit": 0.25
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2000,7 +2120,8 @@
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2010,7 +2131,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
-                                    "calsPerUnit": 5.75
+                                    "calsPerUnit": 5.75,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2022,7 +2144,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.6
+                                    "calsPerUnit": 2.6,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2034,7 +2157,8 @@
                                 "dose": {
                                     "quantity": 150,
                                     "unit": "g",
-                                    "calsPerUnit": 3.5
+                                    "calsPerUnit": 3.5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2044,7 +2168,8 @@
                                 "dose": {
                                     "quantity": 85,
                                     "unit": "g",
-                                    "calsPerUnit": 1.87
+                                    "calsPerUnit": 1.87,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2056,7 +2181,8 @@
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
-                                    "calsPerUnit": 1.16
+                                    "calsPerUnit": 1.16,
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -2085,7 +2211,8 @@
                                 "dose": {
                                     "quantity": 12,
                                     "unit": "g",
-                                    "calsPerUnit": 9
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2095,7 +2222,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
-                                    "calsPerUnit": 5
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2105,7 +2233,8 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 52
+                                    "calsPerUnit": 52,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2115,7 +2244,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 0.22
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2125,7 +2255,8 @@
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
-                                    "calsPerUnit": 0
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2135,7 +2266,8 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
-                                    "calsPerUnit": 5.75
+                                    "calsPerUnit": 5.75,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2145,7 +2277,8 @@
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 1.45
+                                    "calsPerUnit": 1.45,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2155,7 +2288,8 @@
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "ml",
-                                    "calsPerUnit": 1.3
+                                    "calsPerUnit": 1.3,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2165,7 +2299,8 @@
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "ml",
-                                    "calsPerUnit": 0.035
+                                    "calsPerUnit": 0.035,
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2175,7 +2310,8 @@
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "g",
-                                    "calsPerUnit": 4.02
+                                    "calsPerUnit": 4.02,
+                                    "stepSize": 1
                                 }
                             }
                         ],
