@@ -2606,5 +2606,27 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "184",
+        "name": "Escalope panado",
+        "brand": "Heura",
+        "isBrandRelevant": true,
+        "satietyIdx": 220,
+        "keywords": ["escalope", "panado", "breaded"],
+        "doses": [
+            {
+                "quantity": 90,
+                "unit": "g",
+                "calsPerUnit": 1.96,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 176.4,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
