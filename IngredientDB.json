@@ -1782,9 +1782,15 @@
         ],
         "doses": [
             {
-                "quantity": 200,
+                "quantity": 48,
                 "unit": "g",
                 "calsPerUnit": 0.25,
+                "stepSize": 1
+            },
+            {
+                "quantity": 4,
+                "unit": "cube",
+                "calsPerUnit": 3,
                 "stepSize": 1
             }
         ]

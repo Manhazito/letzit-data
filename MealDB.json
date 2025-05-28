@@ -2015,13 +2015,15 @@
                                 "satietyIdx": 50
                             },
                             {
-                                "id": "56",
-                                "name": "Tomate",
-                                "satietyIdx": 210,
+                                "id": "122",
+                                "name": "Tomate triturado",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 125,
                                 "dose": {
-                                    "quantity": 1,
-                                    "unit": "unit",
-                                    "calsPerUnit": 27,
+                                    "quantity": 4,
+                                    "unit": "cube",
+                                    "calsPerUnit": 3,
                                     "stepSize": 1
                                 }
                             }
