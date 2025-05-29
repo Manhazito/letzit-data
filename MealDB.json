@@ -194,6 +194,7 @@
         "servings": 2,
         "keywords": [
             "esparguete",
+            "massa",
             "cogumelos",
             "salsichas",
             "mushrooms",
@@ -751,6 +752,7 @@
         "servings": 2,
         "keywords": [
             "pasta",
+            "massa",
             "bolognese",
             "esparguete",
             "bolonhesa",
@@ -881,6 +883,7 @@
         "servings": 2,
         "keywords": [
             "pasta",
+            "massa",
             "frango",
             "cogumelos",
             "heura",
@@ -1255,6 +1258,7 @@
         "servings": 2,
         "keywords": [
             "esparguete",
+            "massa",
             "legumes",
             "spaghetti",
             "vegetables",
@@ -1959,7 +1963,7 @@
         "id": "31",
         "name": "Esparguete da Carla",
         "servings": 2,
-        "keywords": ["esparguete", "carla", "tomate", "spaghetti"],
+        "keywords": ["esparguete", "massa", "carla", "tomate", "spaghetti"],
         "recipes": [
             {
                 "id": "31.1",
@@ -2024,6 +2028,17 @@
                                     "quantity": 4,
                                     "unit": "cube",
                                     "calsPerUnit": 3,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "dose": {
+                                    "quantity": 250,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
                                     "stepSize": 1
                                 }
                             }

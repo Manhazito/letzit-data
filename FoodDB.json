@@ -1288,24 +1288,23 @@
     },
     {
         "id": "74",
-        "name": "Hamburger de frango",
+        "name": "Hamburger",
         "brand": "Continente",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 225,
-        "keywords": [
-            "hambúrgueres",
-            "hamburgers",
-            "frango",
-            "continente",
-            "chicken",
-            "burger"
-        ],
+        "keywords": ["hambúrgueres", "hamburgers", "continente", "burger"],
         "doses": [
             {
                 "quantity": 80,
                 "unit": "g",
                 "calsPerUnit": 2.26,
                 "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 180.8,
+                "stepSize": 0.5
             }
         ]
     },
@@ -3555,6 +3554,28 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 176.4,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "185",
+        "name": "Panados de Frango",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": ["panados", "frango", "continente", "breaded", "chicken"],
+        "doses": [
+            {
+                "quantity": 130,
+                "unit": "g",
+                "calsPerUnit": 2.34,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 304.2,
                 "stepSize": 0.5
             }
         ]
