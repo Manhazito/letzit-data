@@ -2655,5 +2655,19 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "186",
+        "name": "Mirtilos",
+        "satietyIdx": 225,
+        "keywords": ["mirtilos", "fruta", "fruit", "blueberry", "blueberries"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 0.57,
+                "stepSize": 1
+            }
+        ]
     }
 ]
