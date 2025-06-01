@@ -2665,7 +2665,7 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 0.57,
+                "calsPerUnit": 0.45,
                 "stepSize": 1
             }
         ]
