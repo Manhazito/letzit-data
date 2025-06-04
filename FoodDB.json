@@ -830,7 +830,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 676,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -855,7 +855,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 722,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -879,7 +879,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 588,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -903,7 +903,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 598,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1479,7 +1479,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 751,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1503,7 +1503,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 846,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1529,7 +1529,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 804,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1554,7 +1554,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 665,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1577,7 +1577,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 643,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -1602,7 +1602,7 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 417,
-                "stepSize": 1
+                "stepSize": 0.5
             }
         ]
     },
@@ -3619,6 +3619,53 @@
                 "unit": "g",
                 "calsPerUnit": 1.31,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "188",
+        "name": "McVeggie",
+        "brand": "McDonald's",
+        "isBrandRelevant": true,
+        "satietyIdx": 80,
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "mcveggie",
+            "mcdonald's",
+            "mcdonalds",
+            "mac"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 453,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "189",
+        "name": "McFish",
+        "brand": "McDonald's",
+        "isBrandRelevant": true,
+        "satietyIdx": 73,
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "mcfish",
+            "fillet-o-fish",
+            "mcdonald's",
+            "mcdonalds",
+            "mac"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 380,
+                "stepSize": 0.5
             }
         ]
     }

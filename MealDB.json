@@ -2326,5 +2326,84 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "34",
+        "name": "McVeggie",
+        "servings": 1,
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "mcveggie",
+            "mcdonald's",
+            "mcdonalds",
+            "mac"
+        ],
+        "recipes": [
+            {
+                "id": "34.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "188",
+                                "name": "McVeggie",
+                                "brand": "McDonald's",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 80,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 453,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "name": "McFish",
+        "servings": 1,
+        "keywords": [
+            "hamburgers",
+            "hambúrguere",
+            "mcfish",
+            "fillet-o-fish",
+            "mcdonald's",
+            "mcdonalds",
+            "mac"
+        ],
+        "recipes": [
+            {
+                "id": "35.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "189",
+                                "name": "McFish",
+                                "brand": "McDonald's",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 73,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 380,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]
