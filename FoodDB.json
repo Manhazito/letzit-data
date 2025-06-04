@@ -492,15 +492,15 @@
         "keywords": ["arroz", "branco", "white", "rice"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.3,
+                "calsPerUnit": 1.15,
                 "stepSize": 1
             },
             {
                 "quantity": 6,
                 "unit": "cs",
-                "calsPerUnit": 21.67,
+                "calsPerUnit": 23,
                 "stepSize": 1
             }
         ]
@@ -769,16 +769,10 @@
         "keywords": ["batatas", "cozidas", "baked", "potatoes"],
         "doses": [
             {
-                "quantity": 260,
+                "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.93,
+                "calsPerUnit": 0.7,
                 "stepSize": 1
-            },
-            {
-                "quantity": 2,
-                "unit": "unit",
-                "calsPerUnit": 242,
-                "stepSize": 0.5
             }
         ]
     },
@@ -2174,7 +2168,7 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
@@ -2188,7 +2182,7 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
@@ -2209,7 +2203,7 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
@@ -2223,7 +2217,7 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
@@ -2237,7 +2231,7 @@
             {
                 "quantity": 120,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
@@ -3475,15 +3469,15 @@
         "keywords": ["arroz", "arbóreo", "carnaroli", "arborio", "rice"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 140,
                 "unit": "g",
-                "calsPerUnit": 1.45,
+                "calsPerUnit": 1.0,
                 "stepSize": 1
             },
             {
                 "quantity": 6,
                 "unit": "cs",
-                "calsPerUnit": 24.17,
+                "calsPerUnit": 23.33,
                 "stepSize": 1
             }
         ]
@@ -3615,9 +3609,9 @@
         "keywords": ["pastas", "massas", "seca", "dry"],
         "doses": [
             {
-                "quantity": 120,
+                "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.31,
+                "calsPerUnit": 1.2,
                 "stepSize": 1
             }
         ]
