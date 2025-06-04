@@ -1639,7 +1639,14 @@
         "id": "25",
         "name": "Esparguete",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "esparguete", "spaghetti"],
+        "keywords": [
+            "pastas",
+            "massas",
+            "esparguete",
+            "spaghetti",
+            "seca",
+            "dry"
+        ],
         "doses": [
             {
                 "quantity": 120,
@@ -1653,7 +1660,7 @@
         "id": "114",
         "name": "Tagliatelle",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "tagliatelle"],
+        "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
         "doses": [
             {
                 "quantity": 120,
@@ -1667,7 +1674,14 @@
         "id": "115",
         "name": "Cotovelos",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "cotovelos", "cotovelinhos"],
+        "keywords": [
+            "pastas",
+            "massas",
+            "cotovelos",
+            "cotovelinhos",
+            "seca",
+            "dry"
+        ],
         "doses": [
             {
                 "quantity": 120,
@@ -1681,7 +1695,7 @@
         "id": "116",
         "name": "Fusilli",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "fusilli"],
+        "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
         "doses": [
             {
                 "quantity": 120,
@@ -1695,7 +1709,7 @@
         "id": "117",
         "name": "Macarrão",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "macarrão", "macarron"],
+        "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
         "doses": [
             {
                 "quantity": 120,
@@ -2666,6 +2680,20 @@
                 "quantity": 100,
                 "unit": "g",
                 "calsPerUnit": 0.45,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "187",
+        "name": "Pasta",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "seca", "dry"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.31,
                 "stepSize": 1
             }
         ]

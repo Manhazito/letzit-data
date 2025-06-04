@@ -531,13 +531,13 @@
                                 }
                             },
                             {
-                                "id": "71",
-                                "name": "Pasta (fresca)",
+                                "id": "187",
+                                "name": "Pasta",
                                 "satietyIdx": 119,
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72,
+                                    "calsPerUnit": 1.31,
                                     "stepSize": 1
                                 }
                             },
@@ -815,13 +815,13 @@
                                 }
                             },
                             {
-                                "id": "71",
-                                "name": "Pasta (fresca)",
+                                "id": "187",
+                                "name": "Pasta",
                                 "satietyIdx": 119,
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72,
+                                    "calsPerUnit": 1.31,
                                     "stepSize": 1
                                 }
                             },
@@ -946,13 +946,13 @@
                                 }
                             },
                             {
-                                "id": "71",
-                                "name": "Pasta (fresca)",
+                                "id": "187",
+                                "name": "Pasta",
                                 "satietyIdx": 119,
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72,
+                                    "calsPerUnit": 1.31,
                                     "stepSize": 1
                                 }
                             },
@@ -1328,13 +1328,13 @@
                                 }
                             },
                             {
-                                "id": "71",
-                                "name": "Pasta (fresca)",
+                                "id": "187",
+                                "name": "Pasta",
                                 "satietyIdx": 119,
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 2.72,
+                                    "calsPerUnit": 1.31,
                                     "stepSize": 1
                                 }
                             },
