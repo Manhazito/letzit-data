@@ -3662,5 +3662,37 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "190",
+        "name": "Ovo Kinder Surpresa",
+        "brand": "Kinder",
+        "isBrandRelevant": false,
+        "satietyIdx": 70,
+        "keywords": ["ovo", "kinder", "suspresa", "egg", "surprise"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 110,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "191",
+        "name": "Bombon Guylian",
+        "brand": "Guylian",
+        "isBrandRelevant": false,
+        "satietyIdx": 70,
+        "keywords": ["bombons", "guylian", "chocolates"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 71,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
