@@ -212,7 +212,7 @@
                                 "id": "25",
                                 "name": "Esparguete",
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 3.59,
                                     "stepSize": 1
@@ -223,7 +223,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "dose": {
-                                    "quantity": 25,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
@@ -393,7 +393,7 @@
                                 "id": "24",
                                 "name": "Arroz",
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 3.45,
                                     "stepSize": 1
@@ -404,7 +404,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "dose": {
-                                    "quantity": 25,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
@@ -1040,7 +1040,7 @@
                                 "id": "24",
                                 "name": "Arroz",
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 3.45,
                                     "stepSize": 1
@@ -1051,7 +1051,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "dose": {
-                                    "quantity": 25,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
@@ -1978,7 +1978,7 @@
                                 "id": "25",
                                 "name": "Esparguete",
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 3.59,
                                     "stepSize": 1
@@ -1989,7 +1989,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "dose": {
-                                    "quantity": 25,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
