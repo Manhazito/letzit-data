@@ -3672,6 +3672,12 @@
         "keywords": ["ovo", "kinder", "suspresa", "egg", "surprise"],
         "doses": [
             {
+                "quantity": 20,
+                "unit": "g",
+                "calsPerUnit": 5.5,
+                "stepSize": 1
+            },
+            {
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 110,
@@ -3687,6 +3693,12 @@
         "satietyIdx": 70,
         "keywords": ["bombons", "guylian", "chocolates"],
         "doses": [
+            {
+                "quantity": 13,
+                "unit": "g",
+                "calsPerUnit": 5.46,
+                "stepSize": 0.5
+            },
             {
                 "quantity": 1,
                 "unit": "unit",
