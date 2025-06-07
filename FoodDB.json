@@ -466,7 +466,7 @@
             {
                 "quantity": 100,
                 "unit": "g",
-                "calsPerUnit": 1.5,
+                "calsPerUnit": 1.9,
                 "stepSize": 1
             }
         ]
@@ -771,7 +771,7 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.7,
+                "calsPerUnit": 0.9,
                 "stepSize": 1
             }
         ]

@@ -670,7 +670,7 @@
             {
                 "quantity": 90,
                 "unit": "g",
-                "calsPerUnit": 0.78,
+                "calsPerUnit": 0.9,
                 "stepSize": 1
             }
         ]
@@ -1280,9 +1280,9 @@
                 "stepSize": 1
             },
             {
-                "quantity": 100,
+                "quantity": 62,
                 "unit": "spray",
-                "calsPerUnit": 0.1,
+                "calsPerUnit": 1.44,
                 "stepSize": 1
             },
             {
