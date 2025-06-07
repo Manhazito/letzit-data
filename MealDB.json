@@ -2525,5 +2525,81 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "37",
+        "name": "Arroz com ovo e salsicha",
+        "servings": 2,
+        "keywords": ["arroz", "rice", "ovos", "eggs", "salsichas", "sausages"],
+        "recipes": [
+            {
+                "id": "36.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "39",
+                                "name": "Salsichas de soja",
+                                "brand": "Nobre",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 122,
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 77,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "24",
+                                "name": "Arroz",
+                                "satietyIdx": 138,
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.45,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 100,
+                                "dose": {
+                                    "quantity": 15,
+                                    "unit": "g",
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 26,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]

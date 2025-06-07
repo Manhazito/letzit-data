@@ -1596,7 +1596,7 @@
         "keywords": ["cebola", "onion"],
         "doses": [
             {
-                "quantity": 130,
+                "quantity": 65,
                 "unit": "g",
                 "calsPerUnit": 0.4,
                 "stepSize": 1
@@ -1604,7 +1604,7 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 52,
+                "calsPerUnit": 26,
                 "stepSize": 0.5
             }
         ]
