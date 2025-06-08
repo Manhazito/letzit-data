@@ -3979,7 +3979,7 @@
         "id": "205",
         "name": "Fartura",
         "satietyIdx": 50,
-        "keywords": ["fartura"],
+        "keywords": ["fartura", "churro"],
         "doses": [
             {
                 "quantity": 80,
@@ -3999,7 +3999,7 @@
         "id": "206",
         "name": "Churro",
         "satietyIdx": 50,
-        "keywords": ["churro"],
+        "keywords": ["churro", "fartura"],
         "doses": [
             {
                 "quantity": 26,
@@ -4019,7 +4019,7 @@
         "id": "207",
         "name": "Churro de Chocolate",
         "satietyIdx": 50,
-        "keywords": ["churro", "chocolate"],
+        "keywords": ["churro", "chocolate", "fartura"],
         "doses": [
             {
                 "quantity": 116,
