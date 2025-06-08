@@ -3738,7 +3738,7 @@
         "keywords": ["pastas", "massas", "seca", "dry", "noodles"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 75,
                 "unit": "g",
                 "calsPerUnit": 3.64,
                 "stepSize": 1

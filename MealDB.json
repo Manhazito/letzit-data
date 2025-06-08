@@ -2888,5 +2888,142 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "40",
+        "name": "Chow Mein de Heura e Cogumelos",
+        "servings": 2,
+        "keywords": [
+            "noodles",
+            "chow",
+            "mein",
+            "pastas",
+            "massas",
+            "heura",
+            "frango",
+            "chicken",
+            "cogumelos",
+            "mushrooms"
+        ],
+        "recipes": [
+            {
+                "id": "40.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "188",
+                                "name": "Noodles Instantâneos",
+                                "satietyIdx": 120,
+                                "brand": "Koka",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "seca",
+                                    "dry",
+                                    "noodles",
+                                    "instantaneos"
+                                ],
+                                "dose": {
+                                    "quantity": 150,
+                                    "unit": "g",
+                                    "calsPerUnit": 4.88,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "30",
+                                "name": "Pedaços de Frango",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 220,
+                                "keywords": [
+                                    "pedaços",
+                                    "frango",
+                                    "heura",
+                                    "chicken",
+                                    "peaces"
+                                ],
+                                "dose": {
+                                    "quantity": 110,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.36,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "118",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "keywords": ["cogumelos", "marron", "mushroom"],
+                                "dose": {
+                                    "quantity": 60,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 79.65,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "192",
+                                "name": "Pimentão Picante",
+                                "satietyIdx": 85,
+                                "keywords": [
+                                    "pimentão",
+                                    "picante",
+                                    "hot",
+                                    "paprika"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 7.36,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Boil the noodles for 2–3 minutes — undercook slightly, then drain and rinse with cold water. Toss in a little oil to prevent sticking.",
+                            "Slice mushrooms thin so they cook quickly.",
+                            "In a hot pan (wok or large skillet), add a bit of neutral oil. Sear the mushrooms until browned. Don’t crowd them — they’ll steam.",
+                            "Add garlic and cook 30 seconds more.",
+                            "Toss in the Heura pieces. Let them brown slightly or heat through, depending on their current state.",
+                            "Add your drained noodles. Stir to mix everything — don’t baby them, let them sit for a few seconds to crisp.",
+                            "Add soy sauce, and chili flakes if you like heat."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
