@@ -3709,7 +3709,7 @@
     },
     {
         "id": "188",
-        "name": "Noodles instantâneos",
+        "name": "Noodles Instantâneos",
         "satietyIdx": 120,
         "brand": "Koka",
         "isBrandRelevant": true,
@@ -3726,6 +3726,22 @@
                 "unit": "unit",
                 "calsPerUnit": 366,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "196",
+        "name": "Noodles",
+        "satietyIdx": 120,
+        "brand": "Milaneza",
+        "isBrandRelevant": true,
+        "keywords": ["pastas", "massas", "seca", "dry", "noodles"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 3.64,
+                "stepSize": 1
             }
         ]
     }
