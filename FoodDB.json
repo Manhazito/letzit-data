@@ -3744,5 +3744,295 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "197",
+        "name": "Danonino",
+        "satietyIdx": 83,
+        "brand": "Danone",
+        "isBrandRelevant": true,
+        "keywords": [
+            "danonino",
+            "danoninho",
+            "danone",
+            "iogurte",
+            "yogurt",
+            "queijo",
+            "fresco",
+            "fresh",
+            "cheese"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 1.12,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 56,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "198",
+        "name": "Corneto de Chocolate",
+        "satietyIdx": 53,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "corneto",
+            "chocolate",
+            "ola",
+            "ice",
+            "cream",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 75,
+                "unit": "g",
+                "calsPerUnit": 2.87,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 215.25,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "199",
+        "name": "Corneto de Morango",
+        "satietyIdx": 60,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "corneto",
+            "morango",
+            "ola",
+            "ice",
+            "cream",
+            "strawberry",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 75,
+                "unit": "g",
+                "calsPerUnit": 1.74,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 130.5,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "200",
+        "name": "Magnum Branco",
+        "satietyIdx": 50,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "magnum",
+            "branco",
+            "ola",
+            "ice",
+            "cream",
+            "white",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 86,
+                "unit": "g",
+                "calsPerUnit": 3.01,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 259,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "201",
+        "name": "Magnum Amêndoas",
+        "satietyIdx": 50,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "magnum",
+            "amendoas",
+            "ola",
+            "ice",
+            "cream",
+            "almonds",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 86,
+                "unit": "g",
+                "calsPerUnit": 3.31,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 285,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "202",
+        "name": "Magnum Sandwich",
+        "satietyIdx": 50,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "magnum",
+            "sandwich",
+            "ola",
+            "ice",
+            "cream",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 90,
+                "unit": "g",
+                "calsPerUnit": 3.02,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 272,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "203",
+        "name": "Fizz Limão",
+        "satietyIdx": 50,
+        "brand": "Olá",
+        "isBrandRelevant": true,
+        "keywords": [
+            "gelado",
+            "fizz",
+            "limao",
+            "ola",
+            "ice",
+            "cream",
+            "lemon",
+            "wall"
+        ],
+        "doses": [
+            {
+                "quantity": 46.5,
+                "unit": "g",
+                "calsPerUnit": 1.4,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 65,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "204",
+        "name": "Cavaca de Resende",
+        "satietyIdx": 70,
+        "keywords": ["cavaca", "resende", "sponge", "cake"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 415,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "205",
+        "name": "Fartura",
+        "satietyIdx": 50,
+        "keywords": ["fartura"],
+        "doses": [
+            {
+                "quantity": 80,
+                "unit": "g",
+                "calsPerUnit": 3.7,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 293,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "206",
+        "name": "Churro",
+        "satietyIdx": 50,
+        "keywords": ["churro"],
+        "doses": [
+            {
+                "quantity": 26,
+                "unit": "g",
+                "calsPerUnit": 3.25,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 84.5,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "207",
+        "name": "Churro de Chocolate",
+        "satietyIdx": 50,
+        "keywords": ["churro", "chocolate"],
+        "doses": [
+            {
+                "quantity": 116,
+                "unit": "g",
+                "calsPerUnit": 5.05,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 585.8,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
