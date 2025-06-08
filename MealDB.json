@@ -2927,7 +2927,7 @@
                                     "instantaneos"
                                 ],
                                 "dose": {
-                                    "quantity": 150,
+                                    "quantity": 112,
                                     "unit": "g",
                                     "calsPerUnit": 4.88,
                                     "stepSize": 1
