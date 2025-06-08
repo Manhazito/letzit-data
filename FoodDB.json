@@ -2334,13 +2334,13 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 0.58,
+                "calsPerUnit": 0.67,
                 "stepSize": 1
             },
             {
                 "quantity": 30,
                 "unit": "unit",
-                "calsPerUnit": 3.87,
+                "calsPerUnit": 4.47,
                 "stepSize": 1
             }
         ]

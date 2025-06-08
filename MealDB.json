@@ -2468,7 +2468,7 @@
         ],
         "recipes": [
             {
-                "id": "36.1",
+                "id": "37.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -2527,13 +2527,13 @@
         ]
     },
     {
-        "id": "37",
+        "id": "38",
         "name": "Arroz com ovo e salsicha",
         "servings": 2,
         "keywords": ["arroz", "rice", "ovos", "eggs", "salsichas", "sausages"],
         "recipes": [
             {
-                "id": "36.1",
+                "id": "38.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -2597,6 +2597,278 @@
                             }
                         ],
                         "steps": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Ramen de Heura",
+        "servings": 2,
+        "keywords": [
+            "noodles",
+            "ramen",
+            "pastas",
+            "massas",
+            "heura",
+            "frango",
+            "chicken"
+        ],
+        "recipes": [
+            {
+                "id": "39.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "title": "Broth",
+                        "ingredients": [
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "dose": {
+                                    "quantity": 40,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "189",
+                                "name": "Óleo de Sésamo",
+                                "satietyIdx": 50,
+                                "keywords": ["oleo", "sesamo", "sesame", "oil"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 126,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "190",
+                                "name": "Miso branco",
+                                "satietyIdx": 50,
+                                "keywords": ["miso", "branco", "white"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 25.38,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 79.65,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 46.44,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "98",
+                                "name": "Vinagre de Vinho",
+                                "satietyIdx": 100,
+                                "keywords": [
+                                    "vinagre",
+                                    "vinho",
+                                    "wine",
+                                    "vinegar"
+                                ],
+                                "dose": {
+                                    "quantity": 1.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 3,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "180",
+                                "name": "Caldo de Vegetais (líquido)",
+                                "satietyIdx": 25,
+                                "keywords": [
+                                    "caldo",
+                                    "vegetal",
+                                    "vegetais",
+                                    "vegetable",
+                                    "stock",
+                                    "líquido",
+                                    "liquid",
+                                    "água",
+                                    "water"
+                                ],
+                                "dose": {
+                                    "quantity": 750,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.035,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "192",
+                                "name": "Pimentão Picante",
+                                "satietyIdx": 85,
+                                "keywords": [
+                                    "pimentão",
+                                    "picante",
+                                    "hot",
+                                    "paprika"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 7.36,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "193",
+                                "name": "Cogumelo Shitake",
+                                "notes": "Sliced",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "shitake",
+                                    "shiitake",
+                                    "mushroom"
+                                ],
+                                "dose": {
+                                    "quantity": 4,
+                                    "unit": "unit",
+                                    "calsPerUnit": 6.12,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": []
+                    },
+                    {
+                        "title": "Topping & Noodles",
+                        "ingredients": [
+                            {
+                                "id": "30",
+                                "name": "Pedaços de Frango",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 220,
+                                "keywords": [
+                                    "pedaços",
+                                    "frango",
+                                    "heura",
+                                    "chicken",
+                                    "peaces"
+                                ],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.36,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "188",
+                                "name": "Noodles instantâneos",
+                                "satietyIdx": 120,
+                                "brand": "Koka",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "seca",
+                                    "dry",
+                                    "noodles",
+                                    "instantaneos"
+                                ],
+                                "dose": {
+                                    "quantity": 112,
+                                    "unit": "g",
+                                    "calsPerUnit": 4.88,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "keywords": ["cenouras", "carrots"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 32.8,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "194",
+                                "name": "Alga Nori",
+                                "satietyIdx": 105,
+                                "keywords": [
+                                    "alga",
+                                    "seaweed",
+                                    "nori",
+                                    "tostada",
+                                    "roasted"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 7.7,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ]
                     }
                 ]
             }
