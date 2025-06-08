@@ -3706,5 +3706,27 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "188",
+        "name": "Noodles instantâneos",
+        "satietyIdx": 120,
+        "brand": "Koka",
+        "isBrandRelevant": true,
+        "keywords": ["pastas", "massas", "noodles", "instantaneos"],
+        "doses": [
+            {
+                "quantity": 170,
+                "unit": "g",
+                "calsPerUnit": 2.15,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 366,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]

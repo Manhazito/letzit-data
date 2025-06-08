@@ -2799,7 +2799,7 @@
                                     "peaces"
                                 ],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 1.36,
                                     "stepSize": 1
@@ -2837,7 +2837,7 @@
                                     "instantaneos"
                                 ],
                                 "dose": {
-                                    "quantity": 112,
+                                    "quantity": 75,
                                     "unit": "g",
                                     "calsPerUnit": 4.88,
                                     "stepSize": 1
