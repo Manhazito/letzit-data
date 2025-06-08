@@ -2829,5 +2829,25 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "195",
+        "name": "Chalota",
+        "satietyIdx": 100,
+        "keywords": ["cebolas", "shallota", "onions"],
+        "doses": [
+            {
+                "quantity": 35,
+                "unit": "g",
+                "calsPerUnit": 0.72,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 25.2,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]

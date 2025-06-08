@@ -2618,7 +2618,7 @@
         "recipes": [
             {
                 "id": "39.1",
-                "type": "regular",
+                "type": "thermomix",
                 "parts": [
                     {
                         "title": "Broth",
@@ -2641,15 +2641,15 @@
                                 }
                             },
                             {
-                                "id": "112",
-                                "name": "Cebola",
+                                "id": "195",
+                                "name": "Chalota",
                                 "satietyIdx": 100,
-                                "keywords": ["cebola", "onion"],
+                                "keywords": ["cebolas", "shallota", "onions"],
                                 "dose": {
-                                    "quantity": 40,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.4,
-                                    "stepSize": 1
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 25.2,
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -2775,7 +2775,12 @@
                                 }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Add garlic, and shallot to the Thermomix bowl. Chop 5 sec / Speed 5.",
+                            "Scrape down the sides, then add sesame oil. Sauté 3 min / 120°C / Speed 1.",
+                            "Add all other broth ingredients. Mix 5 sec / Speed 3.",
+                            "Cook 15 min / 100°C / Speed 1."
+                        ]
                     },
                     {
                         "title": "Topping & Noodles",
@@ -2868,6 +2873,17 @@
                                     "stepSize": 0.5
                                 }
                             }
+                        ],
+                        "steps": [
+                            "Place the Thermomix simmering basket back inside. Add two eggs.",
+                            "Cook 8 min / 100°C / Speed 1 (for soft-boiled) or 10 min (for hard-boiled).",
+                            "Remove eggs, place them in cold water, then peel and halve them.",
+                            "Add ramen noodles directly to the Thermomix bowl. Cook 3-4 min / 100°C / Reverse / Speed Soft (or per package instructions).",
+                            "While cooking, julienne the carrot.",
+                            "Pan-fry the Heura with a little sesame oil and soy sauce.",
+                            "Divide the noodles into bowls.",
+                            "Pour the hot broth over the noodles.",
+                            "Top with shredded chicken, halved eggs, Heura, carrots, and nori. Enjoy."
                         ]
                     }
                 ]
