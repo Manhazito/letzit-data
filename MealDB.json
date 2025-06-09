@@ -58,14 +58,14 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
                                     "increasePerUnitDose": 0.5
-                                },
-                                "satietyIdx": 100
+                                }
                             }
                         ],
                         "steps": [
@@ -222,14 +222,14 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
                                     "increasePerUnitDose": 0.5
-                                },
-                                "satietyIdx": 110
+                                }
                             },
                             {
                                 "id": "112",
@@ -403,14 +403,14 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
                                     "increasePerUnitDose": 0.5
-                                },
-                                "satietyIdx": 110
+                                }
                             },
                             {
                                 "id": "112",
@@ -547,7 +547,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "spray",
@@ -644,7 +644,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "cs",
@@ -864,7 +864,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -995,7 +995,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -1050,14 +1050,14 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
                                     "increasePerUnitDose": 0.5
-                                },
-                                "satietyIdx": 110
+                                }
                             },
                             {
                                 "id": "112",
@@ -1159,7 +1159,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -1321,7 +1321,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -1867,7 +1867,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "cs",
@@ -1988,14 +1988,14 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1,
                                     "increasePerUnitDose": 0.5
-                                },
-                                "satietyIdx": 110
+                                }
                             },
                             {
                                 "id": "112",
@@ -2214,7 +2214,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 12,
                                     "unit": "g",
@@ -2511,7 +2511,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 6,
                                     "unit": "spray",
@@ -2576,7 +2576,7 @@
                             {
                                 "id": "95",
                                 "name": "Azeite",
-                                "satietyIdx": 100,
+                                "satietyIdx": 50,
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
@@ -2927,7 +2927,7 @@
                                     "instantaneos"
                                 ],
                                 "dose": {
-                                    "quantity": 112,
+                                    "quantity": 110,
                                     "unit": "g",
                                     "calsPerUnit": 4.88,
                                     "stepSize": 1
@@ -2959,7 +2959,7 @@
                                 "satietyIdx": 145,
                                 "keywords": ["cogumelos", "marron", "mushroom"],
                                 "dose": {
-                                    "quantity": 60,
+                                    "quantity": 80,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -3008,6 +3008,18 @@
                                     "quantity": 0.5,
                                     "unit": "cs",
                                     "calsPerUnit": 7.36,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "189",
+                                "name": "Óleo de Sésamo",
+                                "satietyIdx": 50,
+                                "keywords": ["oleo", "sesamo", "sesame", "oil"],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 9,
                                     "stepSize": 1
                                 }
                             }

@@ -1793,7 +1793,7 @@
     {
         "id": "95",
         "name": "Azeite",
-        "satietyIdx": 100,
+        "satietyIdx": 50,
         "keywords": ["azeites", "olive", "oil"],
         "doses": [
             {
@@ -2669,7 +2669,7 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 364.08,
+                "calsPerUnit": 383,
                 "stepSize": 1
             }
         ]
