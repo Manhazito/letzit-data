@@ -1146,9 +1146,9 @@
         "keywords": ["gelatinas", "gelly"],
         "doses": [
             {
-                "quantity": 220,
+                "quantity": 200,
                 "unit": "ml",
-                "calsPerUnit": 0.57,
+                "calsPerUnit": 0.69,
                 "stepSize": 1
             }
         ]
@@ -1162,9 +1162,9 @@
         "keywords": ["gelatinas", "gelly", "magra", "light", "sugar free"],
         "doses": [
             {
-                "quantity": 220,
+                "quantity": 175,
                 "unit": "ml",
-                "calsPerUnit": 0.03,
+                "calsPerUnit": 0.18,
                 "stepSize": 1
             }
         ]
@@ -4041,7 +4041,15 @@
         "satietyIdx": 50,
         "brand": "Kikkoman",
         "isBrandRelevant": true,
-        "keywords": ["oleo", "sesamo", "torrado", "toasted", "sesame", "oil"],
+        "keywords": [
+            "oleo",
+            "sesamo",
+            "torrado",
+            "tostado",
+            "toasted",
+            "sesame",
+            "oil"
+        ],
         "doses": [
             {
                 "quantity": 14,
