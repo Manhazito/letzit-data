@@ -3012,14 +3012,21 @@
                                 }
                             },
                             {
-                                "id": "189",
-                                "name": "Óleo de Sésamo",
+                                "id": "197",
+                                "name": "Óleo de Sésamo torrado",
                                 "satietyIdx": 50,
-                                "keywords": ["oleo", "sesamo", "sesame", "oil"],
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
-                                    "calsPerUnit": 9,
+                                    "calsPerUnit": 8.27,
                                     "stepSize": 1
                                 }
                             }

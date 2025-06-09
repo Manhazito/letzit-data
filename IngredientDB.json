@@ -2865,5 +2865,27 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "197",
+        "name": "Óleo de Sésamo torrado",
+        "satietyIdx": 50,
+        "brand": "Kikkoman",
+        "isBrandRelevant": true,
+        "keywords": ["oleo", "sesamo", "torrado", "toasted", "sesame", "oil"],
+        "doses": [
+            {
+                "quantity": 14,
+                "unit": "g",
+                "calsPerUnit": 8.27,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 115.78,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
