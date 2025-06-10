@@ -3045,13 +3045,13 @@
             {
                 "quantity": 55,
                 "unit": "g",
-                "calsPerUnit": 2.46,
+                "calsPerUnit": 2.82,
                 "stepSize": 1
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 135,
+                "calsPerUnit": 155,
                 "stepSize": 0.5
             }
         ]
@@ -4062,6 +4062,22 @@
                 "unit": "cs",
                 "calsPerUnit": 115.78,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "209",
+        "name": "Molho Agridoce",
+        "brand": "Heinz",
+        "isBrandRelevant": true,
+        "satietyIdx": 50,
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
+        "doses": [
+            {
+                "quantity": 20,
+                "unit": "g",
+                "calsPerUnit": 1.85,
+                "stepSize": 1
             }
         ]
     }
