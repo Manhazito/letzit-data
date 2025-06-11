@@ -84,7 +84,7 @@
     {
         "id": "2",
         "name": "Sopa de Legumes",
-        "servings": 6,
+        "servings": 8,
         "keywords": ["sopa", "legumes", "creme", "cream", "soup"],
         "recipes": [
             {
@@ -101,6 +101,18 @@
                                     "quantity": 400,
                                     "unit": "g",
                                     "calsPerUnit": 0.78,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "26",
+                                "name": "Feijão",
+                                "satietyIdx": 168,
+                                "keywords": ["feijão", "feijões", "beans"],
+                                "dose": {
+                                    "quantity": 400,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.94,
                                     "stepSize": 1
                                 }
                             },
