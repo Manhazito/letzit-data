@@ -4080,5 +4080,27 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "210",
+        "name": "Molho Pesto",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 70,
+        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "g",
+                "calsPerUnit": 5.04,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 75.6,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
