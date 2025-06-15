@@ -4102,5 +4102,27 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "211",
+        "name": "Brioche",
+        "brand": "Continente",
+        "isBrandRelevant": false,
+        "satietyIdx": 63,
+        "keywords": ["brioche", "pão", "bread"],
+        "doses": [
+            {
+                "quantity": 80,
+                "unit": "g",
+                "calsPerUnit": 3.5,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 280,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
