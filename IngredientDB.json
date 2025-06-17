@@ -2925,5 +2925,107 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "212",
+        "name": "Noodles com Ovo",
+        "brand": "Blue Dragon",
+        "isBrandRelevant": true,
+        "satietyIdx": 120,
+        "keywords": [
+            "pastas",
+            "massas",
+            "seca",
+            "dry",
+            "noodles",
+            "ovo",
+            "egg"
+        ],
+        "doses": [
+            {
+                "quantity": 125,
+                "unit": "g",
+                "calsPerUnit": 1.88,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "213",
+        "name": "Pão de Hamburger",
+        "satietyIdx": 90,
+        "keywords": ["pão", "bun", "hambúrgueres", "hamburgers", "burger"],
+        "doses": [
+            {
+                "quantity": 55,
+                "unit": "g",
+                "calsPerUnit": 1.58,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 86.9,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "214",
+        "name": "Pão de Cachorro",
+        "satietyIdx": 90,
+        "keywords": ["pão", "bun", "cachorro", "hot", "dog"],
+        "doses": [
+            {
+                "quantity": 55,
+                "unit": "g",
+                "calsPerUnit": 2.85,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 156.5,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "215",
+        "name": "Queijo",
+        "brand": "Terra Nostra",
+        "isBrandRelevant": true,
+        "satietyIdx": 146,
+        "keywords": ["queijos", "cheeses"],
+        "doses": [
+            {
+                "quantity": 20.5,
+                "unit": "g",
+                "calsPerUnit": 3.29,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 67,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "217",
+        "name": "Hamburger de Frango",
+        "brand": "The Vegetarian Butcher",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": ["hambúrgueres", "hamburgers", "frango", "chicken"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 218,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
