@@ -3027,5 +3027,28 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "218",
+        "name": "Hamburger de Porco desfiado",
+        "brand": "Linda McCartney's",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": [
+            "hambúrgueres",
+            "hamburgers",
+            "porco",
+            "pork",
+            "desfiado",
+            "pulled"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 150,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
