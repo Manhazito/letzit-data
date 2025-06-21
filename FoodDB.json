@@ -487,9 +487,9 @@
     },
     {
         "id": "24",
-        "name": "Arroz",
+        "name": "Arroz cozido",
         "satietyIdx": 138,
-        "keywords": ["arroz", "branco", "white", "rice"],
+        "keywords": ["arroz", "branco", "white", "rice", "cozido", "baked"],
         "doses": [
             {
                 "quantity": 120,
@@ -507,9 +507,9 @@
     },
     {
         "id": "26",
-        "name": "Feijão",
+        "name": "Feijão cozido",
         "satietyIdx": 168,
-        "keywords": ["feijão", "feijões", "beans"],
+        "keywords": ["feijão", "feijões", "beans", "cozidos", "baked"],
         "doses": [
             {
                 "quantity": 120,
@@ -527,9 +527,9 @@
     },
     {
         "id": "27",
-        "name": "Grão de Bico",
+        "name": "Grão de Bico cozido",
         "satietyIdx": 131,
-        "keywords": ["grão", "grãos", "bico", "chickpeas"],
+        "keywords": ["grão", "grãos", "bico", "chickpeas", "cozido", "baked"],
         "doses": [
             {
                 "quantity": 100,
@@ -3471,9 +3471,17 @@
     },
     {
         "id": "179",
-        "name": "Arroz arbóreo",
+        "name": "Arroz arbóreo cozido",
         "satietyIdx": 125,
-        "keywords": ["arroz", "arbóreo", "carnaroli", "arborio", "rice"],
+        "keywords": [
+            "arroz",
+            "arbóreo",
+            "carnaroli",
+            "arborio",
+            "rice",
+            "cozido",
+            "baked"
+        ],
         "doses": [
             {
                 "quantity": 140,
