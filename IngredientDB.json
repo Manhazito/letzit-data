@@ -435,10 +435,10 @@
         ]
     },
     {
-        "id": "24",
-        "name": "Arroz",
+        "id": "24i",
+        "name": "Arroz (cru)",
         "satietyIdx": 138,
-        "keywords": ["arroz", "rice", "branco", "white"],
+        "keywords": ["arroz", "rice", "branco", "white", "cru", "raw"],
         "doses": [
             {
                 "quantity": 50,
@@ -449,29 +449,29 @@
         ]
     },
     {
-        "id": "26",
-        "name": "Feijão",
+        "id": "26i",
+        "name": "Feijão (cru)",
         "satietyIdx": 168,
-        "keywords": ["feijão", "feijões", "beans"],
+        "keywords": ["feijão", "feijões", "beans", "cru", "raw"],
         "doses": [
             {
-                "quantity": 120,
+                "quantity": 40,
                 "unit": "g",
-                "calsPerUnit": 0.94,
+                "calsPerUnit": 3.08,
                 "stepSize": 1
             }
         ]
     },
     {
-        "id": "27",
-        "name": "Grão de Bico",
+        "id": "27i",
+        "name": "Grão de Bico (cru)",
         "satietyIdx": 131,
-        "keywords": ["grão", "grãos", "bico", "chickpeas"],
+        "keywords": ["grão", "grãos", "bico", "chickpeas", "cru", "raw"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 40,
                 "unit": "g",
-                "calsPerUnit": 1.64,
+                "calsPerUnit": 3.54,
                 "stepSize": 1
             }
         ]
@@ -662,7 +662,7 @@
         ]
     },
     {
-        "id": "40",
+        "id": "40i",
         "name": "Batatas",
         "satietyIdx": 323,
         "keywords": ["batatas", "potatoes"],
@@ -876,8 +876,8 @@
         ]
     },
     {
-        "id": "71",
-        "name": "Pasta (fresca)",
+        "id": "71i",
+        "name": "Pasta fresca com ovo (crua)",
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 119,
@@ -1502,7 +1502,21 @@
     },
     {
         "id": "107",
-        "name": "Sardinha assada",
+        "name": "Sardinha assada na brasa",
+        "satietyIdx": 170,
+        "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
+        "doses": [
+            {
+                "quantity": 3,
+                "unit": "unit",
+                "calsPerUnit": 120,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "107i",
+        "name": "Sardinha (crua)",
         "satietyIdx": 170,
         "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
         "doses": [
@@ -1623,8 +1637,8 @@
         ]
     },
     {
-        "id": "25",
-        "name": "Esparguete",
+        "id": "25i",
+        "name": "Esparguete (cru)",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
@@ -1644,8 +1658,8 @@
         ]
     },
     {
-        "id": "114",
-        "name": "Tagliatelle",
+        "id": "114i",
+        "name": "Tagliatelle (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
         "doses": [
@@ -1658,8 +1672,8 @@
         ]
     },
     {
-        "id": "115",
-        "name": "Cotovelos",
+        "id": "115i",
+        "name": "Cotovelos (crus)",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
@@ -1679,8 +1693,8 @@
         ]
     },
     {
-        "id": "116",
-        "name": "Fusilli",
+        "id": "116i",
+        "name": "Fusilli (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
         "doses": [
@@ -1693,8 +1707,8 @@
         ]
     },
     {
-        "id": "117",
-        "name": "Macarrão",
+        "id": "117i",
+        "name": "Macarrão (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
         "doses": [
@@ -1707,10 +1721,10 @@
         ]
     },
     {
-        "id": "118",
-        "name": "Cogumelo Marron",
+        "id": "118i",
+        "name": "Cogumelo Marron (cru)",
         "satietyIdx": 145,
-        "keywords": ["cogumelos", "marron", "mushroom"],
+        "keywords": ["cogumelos", "marron", "mushroom", "cru", "raw"],
         "doses": [
             {
                 "quantity": 30,
@@ -1727,10 +1741,10 @@
         ]
     },
     {
-        "id": "119",
-        "name": "Cogumelo Portobello",
+        "id": "119i",
+        "name": "Cogumelo Portobello (cru)",
         "satietyIdx": 145,
-        "keywords": ["cogumelos", "portobello", "mushroom"],
+        "keywords": ["cogumelos", "portobello", "mushroom", "cru", "raw"],
         "doses": [
             {
                 "quantity": 100,
@@ -1947,15 +1961,15 @@
         ]
     },
     {
-        "id": "137",
-        "name": "Espinafres",
+        "id": "137i",
+        "name": "Espinafres (crus)",
         "satietyIdx": 140,
         "keywords": ["espinafres", "spinach"],
         "doses": [
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 0.23,
+                "calsPerUnit": 0.27,
                 "stepSize": 1
             }
         ]

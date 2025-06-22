@@ -461,7 +461,7 @@
         "id": "22",
         "name": "Batatas fritas (air fryer)",
         "satietyIdx": 117,
-        "keywords": ["batatas", "fritas", "air", "fryer", "fryed", "potatoes"],
+        "keywords": ["batatas", "fritas", "air", "fryer", "fried", "potatoes"],
         "doses": [
             {
                 "quantity": 100,
@@ -475,7 +475,7 @@
         "id": "23",
         "name": "Batatas fritas",
         "satietyIdx": 116,
-        "keywords": ["batatas", "fritas", "deep", "fryed", "potatoes"],
+        "keywords": ["batatas", "fritas", "deep", "fried", "potatoes"],
         "doses": [
             {
                 "quantity": 100,
@@ -506,6 +506,20 @@
         ]
     },
     {
+        "id": "24i",
+        "name": "Arroz (cru)",
+        "satietyIdx": 138,
+        "keywords": ["arroz", "rice", "branco", "white", "cru", "raw"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.45,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "26",
         "name": "Feijão cozido",
         "satietyIdx": 168,
@@ -526,6 +540,20 @@
         ]
     },
     {
+        "id": "26i",
+        "name": "Feijão (cru)",
+        "satietyIdx": 168,
+        "keywords": ["feijão", "feijões", "beans", "cru", "raw"],
+        "doses": [
+            {
+                "quantity": 40,
+                "unit": "g",
+                "calsPerUnit": 3.08,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "27",
         "name": "Grão de Bico cozido",
         "satietyIdx": 131,
@@ -541,6 +569,20 @@
                 "quantity": 8,
                 "unit": "cs",
                 "calsPerUnit": 20.5,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "27i",
+        "name": "Grão de Bico (cru)",
+        "satietyIdx": 131,
+        "keywords": ["grão", "grãos", "bico", "chickpeas", "cru", "raw"],
+        "doses": [
+            {
+                "quantity": 40,
+                "unit": "g",
+                "calsPerUnit": 3.54,
                 "stepSize": 1
             }
         ]
@@ -784,6 +826,20 @@
         ]
     },
     {
+        "id": "40i",
+        "name": "Batatas (cruas)",
+        "satietyIdx": 323,
+        "keywords": ["batatas", "potatoes"],
+        "doses": [
+            {
+                "quantity": 90,
+                "unit": "g",
+                "calsPerUnit": 0.9,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "44",
         "name": "Legumes estufados",
         "satietyIdx": 150,
@@ -918,7 +974,7 @@
             "batatas",
             "fritas",
             "deep",
-            "fryed",
+            "fried",
             "potatoes",
             "burger",
             "king",
@@ -1215,7 +1271,7 @@
     },
     {
         "id": "71",
-        "name": "Pasta fresca",
+        "name": "Pasta fresca com ovo (cozida)",
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 119,
@@ -1232,7 +1288,33 @@
         ],
         "doses": [
             {
-                "quantity": 120,
+                "quantity": 225,
+                "unit": "g",
+                "calsPerUnit": 1.51,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "71i",
+        "name": "Pasta fresca com ovo (crua)",
+        "brand": "Continente",
+        "isBrandRelevant": false,
+        "satietyIdx": 119,
+        "keywords": [
+            "pastas",
+            "massas",
+            "frescas",
+            "fresh",
+            "pasta",
+            "esparguete",
+            "spaghetti",
+            "tagliatelle",
+            "tagliatelle"
+        ],
+        "doses": [
+            {
+                "quantity": 125,
                 "unit": "g",
                 "calsPerUnit": 2.72,
                 "stepSize": 1
@@ -1608,26 +1690,6 @@
         ]
     },
     {
-        "id": "42",
-        "name": "Feijoada",
-        "satietyIdx": 110,
-        "keywords": ["feijoada", "feijão", "feijões", "beans", "baked"],
-        "doses": [
-            {
-                "quantity": 160,
-                "unit": "g",
-                "calsPerUnit": 1.5,
-                "stepSize": 1
-            },
-            {
-                "quantity": 6,
-                "unit": "cs",
-                "calsPerUnit": 40,
-                "stepSize": 1
-            }
-        ]
-    },
-    {
         "id": "89",
         "name": "Froyo",
         "brand": "Weeel",
@@ -1726,7 +1788,7 @@
             "cozidos",
             "boiled",
             "estrelados",
-            "fryed"
+            "fried"
         ],
         "doses": [
             {
@@ -2039,7 +2101,21 @@
     },
     {
         "id": "107",
-        "name": "Sardinha assada",
+        "name": "Sardinha assada na brasa",
+        "satietyIdx": 170,
+        "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
+        "doses": [
+            {
+                "quantity": 3,
+                "unit": "unit",
+                "calsPerUnit": 120,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "107i",
+        "name": "Sardinha (crua)",
         "satietyIdx": 170,
         "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
         "doses": [
@@ -2161,7 +2237,30 @@
     },
     {
         "id": "25",
-        "name": "Esparguete",
+        "name": "Esparguete (cozido)",
+        "satietyIdx": 119,
+        "keywords": [
+            "pastas",
+            "massas",
+            "esparguete",
+            "spaghetti",
+            "cooked",
+            "cozido",
+            "cozido",
+            "cozida"
+        ],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.2,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "25i",
+        "name": "Esparguete (cru)",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
@@ -2173,18 +2272,18 @@
         ],
         "doses": [
             {
-                "quantity": 120,
+                "quantity": 50,
                 "unit": "g",
-                "calsPerUnit": 1.2,
+                "calsPerUnit": 3.59,
                 "stepSize": 1
             }
         ]
     },
     {
         "id": "114",
-        "name": "Tagliatelle",
+        "name": "Tagliatelle (cozida)",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
+        "keywords": ["pastas", "massas", "tagliatelle", "cozida", "cooked"],
         "doses": [
             {
                 "quantity": 120,
@@ -2195,16 +2294,30 @@
         ]
     },
     {
+        "id": "114i",
+        "name": "Tagliatelle (cru)",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.59,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "115",
-        "name": "Cotovelos",
+        "name": "Cotovelos (cozidos)",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
             "massas",
             "cotovelos",
             "cotovelinhos",
-            "seca",
-            "dry"
+            "cozidos",
+            "cooked"
         ],
         "doses": [
             {
@@ -2216,24 +2329,66 @@
         ]
     },
     {
-        "id": "116",
-        "name": "Fusilli",
+        "id": "115i",
+        "name": "Cotovelos (crus)",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
+        "keywords": [
+            "pastas",
+            "massas",
+            "cotovelos",
+            "cotovelinhos",
+            "seca",
+            "dry"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.59,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "116",
+        "name": "Fusilli (cozido)",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "fusilli", "cozidos", "cooked"],
         "doses": [
             {
                 "quantity": 120,
                 "unit": "g",
                 "calsPerUnit": 1.2,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "116i",
+        "name": "Fusilli (cru)",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.59,
                 "stepSize": 1
             }
         ]
     },
     {
         "id": "117",
-        "name": "Macarrão",
+        "name": "Macarrão (cozido)",
         "satietyIdx": 119,
-        "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
+        "keywords": [
+            "pastas",
+            "massas",
+            "macarrão",
+            "macarron",
+            "cozido",
+            "cooked"
+        ],
         "doses": [
             {
                 "quantity": 120,
@@ -2244,10 +2399,52 @@
         ]
     },
     {
+        "id": "117i",
+        "name": "Macarrão (cru)",
+        "satietyIdx": 119,
+        "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.59,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "118",
-        "name": "Cogumelo Marron",
+        "name": "Cogumelo Marron (salteados em seco)",
         "satietyIdx": 145,
-        "keywords": ["cogumelos", "marron", "mushroom"],
+        "keywords": [
+            "cogumelos",
+            "marron",
+            "mushroom",
+            "salteados",
+            "seco",
+            "dry",
+            "sautéed"
+        ],
+        "doses": [
+            {
+                "quantity": 12,
+                "unit": "g",
+                "calsPerUnit": 0.55,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 6.6,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "118i",
+        "name": "Cogumelo Marron (cru)",
+        "satietyIdx": 145,
+        "keywords": ["cogumelos", "marron", "mushroom", "cru", "raw"],
         "doses": [
             {
                 "quantity": 30,
@@ -2265,9 +2462,37 @@
     },
     {
         "id": "119",
-        "name": "Cogumelo Portobello",
+        "name": "Cogumelo Portobello (salteados em seco)",
         "satietyIdx": 145,
-        "keywords": ["cogumelos", "portobello", "mushroom"],
+        "keywords": [
+            "cogumelos",
+            "portobello",
+            "mushroom",
+            "salteados",
+            "seco",
+            "dry",
+            "sautéed"
+        ],
+        "doses": [
+            {
+                "quantity": 35,
+                "unit": "g",
+                "calsPerUnit": 0.63,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 22,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "119i",
+        "name": "Cogumelo Portobello (cru)",
+        "satietyIdx": 145,
+        "keywords": ["cogumelos", "portobello", "mushroom", "cru", "raw"],
         "doses": [
             {
                 "quantity": 100,
@@ -2595,14 +2820,35 @@
     },
     {
         "id": "137",
-        "name": "Espinafres",
+        "name": "Espinafres (salteados em seco)",
+        "satietyIdx": 140,
+        "keywords": [
+            "espinafres",
+            "spinach",
+            "salteados",
+            "seco",
+            "dry",
+            "sautéed"
+        ],
+        "doses": [
+            {
+                "quantity": 37.5,
+                "unit": "g",
+                "calsPerUnit": 1.8,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "137i",
+        "name": "Espinafres (crus)",
         "satietyIdx": 140,
         "keywords": ["espinafres", "spinach"],
         "doses": [
             {
                 "quantity": 250,
                 "unit": "g",
-                "calsPerUnit": 0.23,
+                "calsPerUnit": 0.27,
                 "stepSize": 1
             }
         ]
@@ -4278,6 +4524,53 @@
                 "unit": "unit",
                 "calsPerUnit": 150,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "219",
+        "name": "Ovo estrelado em azeite",
+        "satietyIdx": 135,
+        "keywords": [
+            "ovos",
+            "eggs",
+            "fried",
+            "azeite",
+            "olive",
+            "oil",
+            "estrelados"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 98,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "220",
+        "name": "Viennetta",
+        "satietyIdx": 135,
+        "brand": "Olá",
+        "isBrandRelevant": false,
+        "keywords": [
+            "viennetta",
+            "vianeta",
+            "olá",
+            "gelado",
+            "ice",
+            "cream",
+            "baunilha",
+            "vanilla"
+        ],
+        "doses": [
+            {
+                "quantity": 53.33,
+                "unit": "g",
+                "calsPerUnit": 2.39,
+                "stepSize": 1
             }
         ]
     }
