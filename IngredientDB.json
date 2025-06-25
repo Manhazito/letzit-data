@@ -3060,7 +3060,7 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 150,
+                "calsPerUnit": 175.79,
                 "stepSize": 0.5
             }
         ]
