@@ -1927,7 +1927,7 @@
     },
     {
         "id": "98",
-        "name": "Vinagre de Vinho",
+        "name": "Vinagre de Vinho Branco",
         "satietyIdx": 100,
         "keywords": ["vinagre", "vinho", "wine", "vinegar"],
         "doses": [
@@ -4571,6 +4571,110 @@
                 "unit": "g",
                 "calsPerUnit": 2.39,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "221",
+        "name": "Miso Branco",
+        "satietyIdx": 100,
+        "brand": "PRÓVida",
+        "isBrandRelevant": false,
+        "keywords": ["miso", "branco", "white"],
+        "doses": [
+            {
+                "quantity": 18,
+                "unit": "g",
+                "calsPerUnit": 1.61,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 28.98,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "191",
+        "name": "Molho de Soja",
+        "satietyIdx": 50,
+        "keywords": ["molho", "soja", "soy", "sauce"],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "g",
+                "calsPerUnit": 5.31,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 79.65,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "192",
+        "name": "Pimentão Picante",
+        "satietyIdx": 85,
+        "keywords": ["pimentão", "picante", "hot", "paprika"],
+        "doses": [
+            {
+                "quantity": 2.3,
+                "unit": "g",
+                "calsPerUnit": 3.2,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 7.36,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "193",
+        "name": "Cogumelo Shitake",
+        "satietyIdx": 145,
+        "keywords": ["cogumelos", "shitake", "shiitake", "mushroom"],
+        "doses": [
+            {
+                "quantity": 18,
+                "unit": "g",
+                "calsPerUnit": 0.34,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 6.12,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "194",
+        "name": "Alga Nori",
+        "brand": "Blue Dragon",
+        "isBrandRelevant": false,
+        "satietyIdx": 105,
+        "keywords": ["alga", "seaweed", "nori", "tostada", "roasted"],
+        "doses": [
+            {
+                "quantity": 2.2,
+                "unit": "g",
+                "calsPerUnit": 3.5,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 7.7,
+                "stepSize": 0.5
             }
         ]
     }

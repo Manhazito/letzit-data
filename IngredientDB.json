@@ -1328,7 +1328,7 @@
     },
     {
         "id": "98",
-        "name": "Vinagre de Vinho",
+        "name": "Vinagre de Vinho Branco",
         "satietyIdx": 100,
         "keywords": ["vinagre", "vinho", "wine", "vinegar"],
         "doses": [
@@ -2743,26 +2743,6 @@
         ]
     },
     {
-        "id": "190",
-        "name": "Miso Branco",
-        "satietyIdx": 50,
-        "keywords": ["miso", "branco", "white"],
-        "doses": [
-            {
-                "quantity": 18,
-                "unit": "g",
-                "calsPerUnit": 1.41,
-                "stepSize": 1
-            },
-            {
-                "quantity": 1,
-                "unit": "cs",
-                "calsPerUnit": 25.38,
-                "stepSize": 0.5
-            }
-        ]
-    },
-    {
         "id": "191",
         "name": "Molho de Soja",
         "satietyIdx": 50,
@@ -3062,6 +3042,31 @@
                 "unit": "unit",
                 "calsPerUnit": 175.79,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "221",
+        "name": "Miso Branco",
+        "satietyIdx": 100,
+        "brand": "PRÓVida",
+        "isBrandRelevant": false,
+        "keywords": [
+            "viennetta",
+            "vianeta",
+            "olá",
+            "gelado",
+            "ice",
+            "cream",
+            "baunilha",
+            "vanilla"
+        ],
+        "doses": [
+            {
+                "quantity": 18,
+                "unit": "g",
+                "calsPerUnit": 1.61,
+                "stepSize": 1
             }
         ]
     }
