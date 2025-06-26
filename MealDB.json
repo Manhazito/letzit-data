@@ -63,8 +63,7 @@
                                     "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -239,8 +238,7 @@
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -420,8 +418,7 @@
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -455,8 +452,7 @@
                                     "quantity": 2,
                                     "unit": "cube",
                                     "calsPerUnit": 36.6,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 50
                             },
@@ -564,8 +560,7 @@
                                     "quantity": 30,
                                     "unit": "spray",
                                     "calsPerUnit": 0.1,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -881,8 +876,7 @@
                                     "quantity": 1,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1012,8 +1006,7 @@
                                     "quantity": 0.5,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1067,8 +1060,7 @@
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1176,8 +1168,7 @@
                                     "quantity": 1,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.25
+                                    "stepSize": 1
                                 }
                             }
                         ],
@@ -1338,8 +1329,7 @@
                                     "quantity": 1,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1884,8 +1874,7 @@
                                     "quantity": 3,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1896,8 +1885,7 @@
                                     "quantity": 250,
                                     "unit": "ml",
                                     "calsPerUnit": 1.3,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -1952,8 +1940,7 @@
                                     "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 1,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2005,8 +1992,7 @@
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2231,8 +2217,7 @@
                                     "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 9,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -2298,8 +2283,7 @@
                                     "quantity": 50,
                                     "unit": "ml",
                                     "calsPerUnit": 1.3,
-                                    "stepSize": 1,
-                                    "increasePerUnitDose": 0.5
+                                    "stepSize": 1
                                 }
                             },
                             {
@@ -3050,6 +3034,196 @@
                             "Toss in the Heura pieces. Let them brown slightly or heat through, depending on their current state.",
                             "Add your drained noodles. Stir to mix everything — don’t baby them, let them sit for a few seconds to crisp.",
                             "Add soy sauce, and chili flakes if you like heat."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Pasta de Heura com molho de Cogumelos",
+        "servings": 2,
+        "keywords": [
+            "pastas",
+            "massas",
+            "heura",
+            "frango",
+            "chicken",
+            "cogumelos",
+            "mushrooms",
+            "molho",
+            "sauce",
+            "tagliatelle",
+            "fettuccine"
+        ],
+        "recipes": [
+            {
+                "id": "41.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "title": "Sauce",
+                        "ingredients": [
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "doses": [
+                                    {
+                                        "quantity": 0.5,
+                                        "unit": "unit",
+                                        "calsPerUnit": 52,
+                                        "stepSize": 0.5
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "118i",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "keywords": ["cogumelos", "marron", "mushroom"],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "78",
+                                "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 50,
+                                "keywords": [
+                                    "natas",
+                                    "culinária",
+                                    "soja",
+                                    "soy",
+                                    "cooking",
+                                    "creams"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cube",
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Add onion and garlic to the Thermomix. Chop 5 sec / Speed 5. Scrape down;",
+                            "Add olive oil and mushrooms. Sauté 8 min / 120°C / Speed 1;",
+                            "Add salt, pepper, coconut cream, and nutritional yeast. Cook 5 min / 90°C / Speed 2;",
+                            "Blend 10 sec / Speed 6 (or leave slightly chunky)."
+                        ]
+                    },
+                    {
+                        "title": "Pasta and Heura",
+                        "ingredients": [
+                            {
+                                "id": "30",
+                                "name": "Pedaços de Frango",
+                                "brand": "Heura",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 220,
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.36,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "114i",
+                                "name": "Tagliatelle (cru)",
+                                "satietyIdx": 119,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "tagliatelle",
+                                    "seca",
+                                    "dry"
+                                ],
+                                "doses": [
+                                    {
+                                        "quantity": 110,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 4,
+                                    "unit": "spray",
+                                    "calsPerUnit": 0.1,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Boil pasta in salted water. Drain, reserving 1/2 cup pasta water.",
+                            "Pan-fry Heura in 4 spray of olive oil until golden, 3–5 minutes.",
+                            "Toss pasta with sauce and Heura, combine, and serve."
                         ]
                     }
                 ]
