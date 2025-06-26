@@ -3070,14 +3070,12 @@
                                 "name": "Cebola",
                                 "satietyIdx": 100,
                                 "keywords": ["cebola", "onion"],
-                                "doses": [
-                                    {
-                                        "quantity": 0.5,
-                                        "unit": "unit",
-                                        "calsPerUnit": 52,
-                                        "stepSize": 0.5
-                                    }
-                                ]
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 52,
+                                    "stepSize": 0.5
+                                }
                             },
                             {
                                 "id": "100",
@@ -3198,14 +3196,12 @@
                                     "seca",
                                     "dry"
                                 ],
-                                "doses": [
-                                    {
-                                        "quantity": 110,
-                                        "unit": "g",
-                                        "calsPerUnit": 3.59,
-                                        "stepSize": 1
-                                    }
-                                ]
+                                "dose": {
+                                    "quantity": 110,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.59,
+                                    "stepSize": 1
+                                }
                             },
                             {
                                 "id": "95",
