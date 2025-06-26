@@ -2017,12 +2017,12 @@
     },
     {
         "id": "103",
-        "name": "Fermento",
+        "name": "Fermento de Padeiro seco",
         "satietyIdx": 45,
-        "keywords": ["fermento", "padeiro", "yeast"],
+        "keywords": ["fermento", "padeiro", "seco", "dry", "yeast"],
         "doses": [
             {
-                "quantity": 8,
+                "quantity": 9,
                 "unit": "g",
                 "calsPerUnit": 3.25,
                 "stepSize": 1
@@ -2030,7 +2030,7 @@
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 26,
+                "calsPerUnit": 29.25,
                 "stepSize": 1
             }
         ]
@@ -4348,7 +4348,7 @@
         "brand": "Continente",
         "isBrandRelevant": true,
         "satietyIdx": 70,
-        "keywords": ["molhos", "sauces", "agridoce", "sweet", "chilli"],
+        "keywords": ["molhos", "sauces", "pesto"],
         "doses": [
             {
                 "quantity": 15,
@@ -4675,6 +4675,40 @@
                 "unit": "unit",
                 "calsPerUnit": 7.7,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "195",
+        "name": "Fermento de Padeiro fresco",
+        "satietyIdx": 45,
+        "keywords": ["fermento", "padeiro", "fresco", "fresh", "yeast"],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "g",
+                "calsPerUnit": 1.05,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 15.75,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "196",
+        "name": "Farinha de Trigo tipo 00",
+        "satietyIdx": 55,
+        "keywords": ["farinha", "trigo", "wheat", "flour", "00"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 3.64,
+                "stepSize": 1
             }
         ]
     }
