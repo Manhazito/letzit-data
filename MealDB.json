@@ -93,7 +93,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "40i",
+                                "id": "239",
                                 "name": "Batatas",
                                 "satietyIdx": 323,
                                 "dose": {
@@ -104,7 +104,7 @@
                                 }
                             },
                             {
-                                "id": "26i",
+                                "id": "26",
                                 "name": "Feijão",
                                 "satietyIdx": 168,
                                 "keywords": ["feijão", "feijões", "beans"],
@@ -220,7 +220,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "25i",
+                                "id": "242",
                                 "name": "Esparguete",
                                 "dose": {
                                     "quantity": 100,
@@ -253,7 +253,7 @@
                                 "satietyIdx": 145
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "dose": {
                                     "quantity": 300,
@@ -400,7 +400,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "24i",
+                                "id": "236",
                                 "name": "Arroz",
                                 "dose": {
                                     "quantity": 100,
@@ -433,7 +433,7 @@
                                 "satietyIdx": 145
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "dose": {
                                     "quantity": 300,
@@ -671,7 +671,7 @@
                                 }
                             },
                             {
-                                "id": "137i",
+                                "id": "249",
                                 "name": "Espinafres",
                                 "satietyIdx": 140,
                                 "dose": {
@@ -682,7 +682,7 @@
                                 }
                             },
                             {
-                                "id": "40i",
+                                "id": "239",
                                 "name": "Batatas",
                                 "satietyIdx": 323,
                                 "dose": {
@@ -944,7 +944,7 @@
                                 }
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "dose": {
@@ -1042,7 +1042,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "24i",
+                                "id": "236",
                                 "name": "Arroz",
                                 "dose": {
                                     "quantity": 100,
@@ -1311,7 +1311,7 @@
                                 }
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "dose": {
@@ -1856,7 +1856,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "40i",
+                                "id": "239",
                                 "name": "Batatas",
                                 "satietyIdx": 323,
                                 "dose": {
@@ -1974,7 +1974,7 @@
                     {
                         "ingredients": [
                             {
-                                "id": "25i",
+                                "id": "242",
                                 "name": "Esparguete",
                                 "dose": {
                                     "quantity": 100,
@@ -2243,7 +2243,7 @@
                                 }
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "dose": {
@@ -2492,7 +2492,7 @@
                                 }
                             },
                             {
-                                "id": "40i",
+                                "id": "239",
                                 "name": "Batatas",
                                 "satietyIdx": 323,
                                 "dose": {
@@ -2557,7 +2557,7 @@
                                 }
                             },
                             {
-                                "id": "24i",
+                                "id": "236",
                                 "name": "Arroz",
                                 "satietyIdx": 138,
                                 "dose": {
@@ -2948,7 +2948,7 @@
                                 }
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "keywords": ["cogumelos", "marron", "mushroom"],
@@ -3095,7 +3095,7 @@
                                 }
                             },
                             {
-                                "id": "118i",
+                                "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "keywords": ["cogumelos", "marron", "mushroom"],
@@ -3186,7 +3186,7 @@
                                 }
                             },
                             {
-                                "id": "114i",
+                                "id": "243",
                                 "name": "Tagliatelle (cru)",
                                 "satietyIdx": 119,
                                 "keywords": [
