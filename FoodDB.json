@@ -4747,5 +4747,25 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "199",
+        "name": "Noz-Moscada",
+        "satietyIdx": 55,
+        "keywords": ["noz", "moscada", "nutmeg"],
+        "doses": [
+            {
+                "quantity": 6,
+                "unit": "g",
+                "calsPerUnit": 1.375,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 8.25,
+                "stepSize": 1
+            }
+        ]
     }
 ]
