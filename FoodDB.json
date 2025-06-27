@@ -4711,5 +4711,39 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "197",
+        "name": "Lasanha com Ovo",
+        "satietyIdx": 115,
+        "keywords": ["lasanha", "ovo", "lasagna", "egg", "folha", "sheet"],
+        "doses": [
+            {
+                "quantity": 22.73,
+                "unit": "g",
+                "calsPerUnit": 3.66,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 83.18,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "198",
+        "name": "Molho Bechamel",
+        "satietyIdx": 55,
+        "keywords": ["molho", "bechamel", "sauce"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 1,
+                "stepSize": 1
+            }
+        ]
     }
 ]
