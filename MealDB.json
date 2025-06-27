@@ -1780,6 +1780,134 @@
         ]
     },
     {
+        "id": "25",
+        "name": "Molho Bechamel",
+        "servings": 1,
+        "keywords": ["molho", "bechamel", "sauce"],
+        "recipes": [
+            {
+                "id": "25.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "167",
+                                "name": "Manteiga",
+                                "brand": "Planta",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "manteigas",
+                                    "butters",
+                                    "margarinas",
+                                    "margarines",
+                                    "spreads"
+                                ],
+                                "dose": {
+                                    "quantity": 40,
+                                    "unit": "g",
+                                    "calsPerUnit": 5.31,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "99",
+                                "name": "Farinha de Trigo",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "wheat",
+                                    "flour"
+                                ],
+                                "dose": {
+                                    "quantity": 40,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "1",
+                                "name": "Leite (sem açúcar)",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 110,
+                                "keywords": [
+                                    "leite",
+                                    "soja",
+                                    "soy",
+                                    "milk",
+                                    "bebida",
+                                    "drink",
+                                    "sem",
+                                    "açúcar",
+                                    "magro",
+                                    "light",
+                                    "sugar",
+                                    "free"
+                                ],
+                                "dose": {
+                                    "quantity": 500,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "199",
+                                "name": "Noz-Moscada",
+                                "satietyIdx": 55,
+                                "keywords": ["noz", "moscada", "nutmeg"],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.375,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coloque no copo a manteiga e derreta 3 min/100ºC/vel 1;",
+                            "Adicione a farinha e envolva 3 min/100ªC/vel 1;",
+                            "Adicione o leite, o sal, a pimenta, e a noz-moscada, envolva bem com a ajuda da espátula, e aqueça 6 min/90ªC/vel 4;",
+                            "Ude conforme necessário."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "28",
         "name": "Pizza Ristorante",
         "servings": 1,
