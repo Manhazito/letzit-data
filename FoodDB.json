@@ -2588,13 +2588,13 @@
             {
                 "quantity": 30,
                 "unit": "g",
-                "calsPerUnit": 2.1,
+                "calsPerUnit": 2.77,
                 "stepSize": 1
             },
             {
-                "quantity": 1,
+                "quantity": 2,
                 "unit": "cs",
-                "calsPerUnit": 60,
+                "calsPerUnit": 82.1,
                 "stepSize": 1
             }
         ]
@@ -4764,6 +4764,118 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 8.25,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "200",
+        "name": "Café (sem açúcar)",
+        "satietyIdx": 55,
+        "keywords": [
+            "café",
+            "coffee",
+            "espresso",
+            "sem",
+            "açúcar",
+            "without",
+            "sugar"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "ml",
+                "calsPerUnit": 0.0667,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 2,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "201",
+        "name": "Coca-Cola Zero",
+        "satietyIdx": 45,
+        "keywords": [
+            "café",
+            "coffee",
+            "espresso",
+            "sem",
+            "açúcar",
+            "without",
+            "sugar"
+        ],
+        "doses": [
+            {
+                "quantity": 330,
+                "unit": "ml",
+                "calsPerUnit": 0.00303,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 1,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "202",
+        "name": "Molho Tzatziki",
+        "satietyIdx": 100,
+        "keywords": [
+            "café",
+            "coffee",
+            "espresso",
+            "sem",
+            "açúcar",
+            "without",
+            "sugar"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 2.08,
+                "stepSize": 1
+            },
+            {
+                "quantity": 2,
+                "unit": "cs",
+                "calsPerUnit": 62.4,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "203",
+        "name": "Molho Tzatziki",
+        "satietyIdx": 100,
+        "keywords": [
+            "café",
+            "coffee",
+            "espresso",
+            "sem",
+            "açúcar",
+            "without",
+            "sugar"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 2.08,
+                "stepSize": 1
+            },
+            {
+                "quantity": 2,
+                "unit": "cs",
+                "calsPerUnit": 62.4,
                 "stepSize": 1
             }
         ]
