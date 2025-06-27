@@ -506,7 +506,7 @@
         ]
     },
     {
-        "id": "24i",
+        "id": "236",
         "name": "Arroz (cru)",
         "satietyIdx": 138,
         "keywords": ["arroz", "rice", "branco", "white", "cru", "raw"],
@@ -540,7 +540,7 @@
         ]
     },
     {
-        "id": "26i",
+        "id": "237",
         "name": "Feijão (cru)",
         "satietyIdx": 168,
         "keywords": ["feijão", "feijões", "beans", "cru", "raw"],
@@ -574,7 +574,7 @@
         ]
     },
     {
-        "id": "27i",
+        "id": "238",
         "name": "Grão de Bico (cru)",
         "satietyIdx": 131,
         "keywords": ["grão", "grãos", "bico", "chickpeas", "cru", "raw"],
@@ -826,7 +826,7 @@
         ]
     },
     {
-        "id": "40i",
+        "id": "239",
         "name": "Batatas (cruas)",
         "satietyIdx": 323,
         "keywords": ["batatas", "potatoes"],
@@ -1296,7 +1296,7 @@
         ]
     },
     {
-        "id": "71i",
+        "id": "240",
         "name": "Pasta fresca com ovo (crua)",
         "brand": "Continente",
         "isBrandRelevant": false,
@@ -2114,7 +2114,7 @@
         ]
     },
     {
-        "id": "107i",
+        "id": "241",
         "name": "Sardinha (crua)",
         "satietyIdx": 170,
         "keywords": ["sardinhas", "assadas", "roasted", "sardines"],
@@ -2216,6 +2216,26 @@
         ]
     },
     {
+        "id": "226",
+        "name": "Chalota",
+        "satietyIdx": 100,
+        "keywords": ["cebolas", "shallota", "onions"],
+        "doses": [
+            {
+                "quantity": 35,
+                "unit": "g",
+                "calsPerUnit": 0.72,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 25.2,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
         "id": "113",
         "name": "Courgette",
         "satietyIdx": 150,
@@ -2259,7 +2279,7 @@
         ]
     },
     {
-        "id": "25i",
+        "id": "242",
         "name": "Esparguete (cru)",
         "satietyIdx": 119,
         "keywords": [
@@ -2294,7 +2314,7 @@
         ]
     },
     {
-        "id": "114i",
+        "id": "243",
         "name": "Tagliatelle (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
@@ -2329,7 +2349,7 @@
         ]
     },
     {
-        "id": "115i",
+        "id": "244",
         "name": "Cotovelos (crus)",
         "satietyIdx": 119,
         "keywords": [
@@ -2364,7 +2384,7 @@
         ]
     },
     {
-        "id": "116i",
+        "id": "245",
         "name": "Fusilli (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
@@ -2399,7 +2419,7 @@
         ]
     },
     {
-        "id": "117i",
+        "id": "246",
         "name": "Macarrão (cru)",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
@@ -2441,7 +2461,7 @@
         ]
     },
     {
-        "id": "118i",
+        "id": "247",
         "name": "Cogumelo Marron (cru)",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "marron", "mushroom", "cru", "raw"],
@@ -2489,7 +2509,7 @@
         ]
     },
     {
-        "id": "119i",
+        "id": "248",
         "name": "Cogumelo Portobello (cru)",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "portobello", "mushroom", "cru", "raw"],
@@ -2840,7 +2860,7 @@
         ]
     },
     {
-        "id": "137i",
+        "id": "249",
         "name": "Espinafres (crus)",
         "satietyIdx": 140,
         "keywords": ["espinafres", "spinach"],
@@ -3048,6 +3068,46 @@
                 "unit": "unit",
                 "calsPerUnit": 138.6,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "222",
+        "name": "Truta (crua)",
+        "satietyIdx": 190,
+        "keywords": ["peixe", "fish", "trutas", "trouts"],
+        "doses": [
+            {
+                "quantity": 45,
+                "unit": "g",
+                "calsPerUnit": 1.33,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 59.9,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "223",
+        "name": "Lúcio (crú)",
+        "satietyIdx": 215,
+        "keywords": ["peixe", "fish", "lúcio", "lucio", "pikes"],
+        "doses": [
+            {
+                "quantity": 60,
+                "unit": "g",
+                "calsPerUnit": 0.88,
+                "stepSize": 1
+            },
+            {
+                "quantity": 2,
+                "unit": "slice",
+                "calsPerUnit": 52.8,
+                "stepSize": 0.5
             }
         ]
     },
@@ -3716,6 +3776,20 @@
         ]
     },
     {
+        "id": "235",
+        "name": "Arroz arbóreo",
+        "satietyIdx": 125,
+        "keywords": ["arroz", "arbóreo", "carnaroli", "arborio", "rice"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.51,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "179",
         "name": "Arroz arbóreo cozido",
         "satietyIdx": 125,
@@ -3947,7 +4021,7 @@
         ]
     },
     {
-        "id": "191",
+        "id": "225",
         "name": "Bombon Guylian",
         "brand": "Guylian",
         "isBrandRelevant": false,
@@ -3969,7 +4043,7 @@
         ]
     },
     {
-        "id": "188",
+        "id": "224",
         "name": "Noodles Instantâneos",
         "satietyIdx": 120,
         "brand": "Koka",
@@ -4007,7 +4081,7 @@
         ]
     },
     {
-        "id": "197",
+        "id": "228",
         "name": "Danonino",
         "satietyIdx": 83,
         "brand": "Danone",
@@ -4039,7 +4113,7 @@
         ]
     },
     {
-        "id": "198",
+        "id": "229",
         "name": "Corneto de Chocolate",
         "satietyIdx": 53,
         "brand": "Olá",
@@ -4069,7 +4143,7 @@
         ]
     },
     {
-        "id": "199",
+        "id": "230",
         "name": "Corneto de Morango",
         "satietyIdx": 60,
         "brand": "Olá",
@@ -4292,6 +4366,26 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 585.8,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "250",
+        "name": "Óleo de Sésamo",
+        "satietyIdx": 50,
+        "keywords": ["oleo", "sesamo", "sesame", "oil"],
+        "doses": [
+            {
+                "quantity": 14,
+                "unit": "g",
+                "calsPerUnit": 9,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 126,
                 "stepSize": 0.5
             }
         ]
@@ -4699,7 +4793,7 @@
         ]
     },
     {
-        "id": "196",
+        "id": "227",
         "name": "Farinha de Trigo tipo 00",
         "satietyIdx": 55,
         "keywords": ["farinha", "trigo", "wheat", "flour", "00"],
@@ -4769,7 +4863,7 @@
         ]
     },
     {
-        "id": "200",
+        "id": "231",
         "name": "Café (sem açúcar)",
         "satietyIdx": 55,
         "keywords": [
@@ -4797,7 +4891,7 @@
         ]
     },
     {
-        "id": "201",
+        "id": "232",
         "name": "Coca-Cola Zero",
         "satietyIdx": 45,
         "keywords": [
@@ -4825,7 +4919,7 @@
         ]
     },
     {
-        "id": "202",
+        "id": "233",
         "name": "Molho Tzatziki",
         "satietyIdx": 100,
         "keywords": [
@@ -4853,29 +4947,69 @@
         ]
     },
     {
-        "id": "203",
-        "name": "Molho Tzatziki",
-        "satietyIdx": 100,
-        "keywords": [
-            "café",
-            "coffee",
-            "espresso",
-            "sem",
-            "açúcar",
-            "without",
-            "sugar"
-        ],
+        "id": "234",
+        "name": "Folha de Louro",
+        "satietyIdx": 135,
+        "keywords": ["folhas", "louro", "loureiro", "bay", "leaf", "leaves"],
         "doses": [
             {
-                "quantity": 30,
+                "quantity": 0.3,
                 "unit": "g",
-                "calsPerUnit": 2.08,
+                "calsPerUnit": 3.13,
                 "stepSize": 1
             },
             {
-                "quantity": 2,
-                "unit": "cs",
-                "calsPerUnit": 62.4,
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 1,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "161",
+        "name": "Farinha de trigo com fermento",
+        "satietyIdx": 55,
+        "keywords": [
+            "farinha",
+            "trigo",
+            "fermento",
+            "branca",
+            "neve",
+            "self",
+            "rising",
+            "flour",
+            "wheat"
+        ],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 3.65,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "180",
+        "name": "Caldo de Vegetais (líquido)",
+        "satietyIdx": 25,
+        "keywords": [
+            "caldo",
+            "vegetal",
+            "vegetais",
+            "vegetable",
+            "stock",
+            "líquido",
+            "liquid",
+            "água",
+            "water"
+        ],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "ml",
+                "calsPerUnit": 0.035,
                 "stepSize": 1
             }
         ]
