@@ -4714,7 +4714,9 @@
     },
     {
         "id": "197",
-        "name": "Lasanha com Ovo",
+        "name": "Lasanha com Ovo (folha)",
+        "brand": "Milaneza",
+        "isBrandRelevant": true,
         "satietyIdx": 115,
         "keywords": ["lasanha", "ovo", "lasagna", "egg", "folha", "sheet"],
         "doses": [

@@ -3419,7 +3419,7 @@
         "recipes": [
             {
                 "id": "43.1",
-                "type": "thermomix",
+                "type": "regular",
                 "parts": [
                     {
                         "ingredients": [
@@ -3622,9 +3622,14 @@
                             }
                         ],
                         "steps": [
-                            "Add water and yeast to the Thermomix bowl. Warm 2 min / 37°C / Speed 2 to activate the yeast;",
-                            "Add flour and salt. Mix 10 sec / Speed 6, then knead 2 min / Dough Mode;",
-                            "Transfer the dough to a lightly floured bowl, cover with a damp cloth, and let it rise for 1.5 to 2 hours, or until doubled in size."
+                            "Pré-aqueça o forno a 180 ºC.",
+                            "Num tacho, refogue em azeite a cebola e o alho picados. Junte a carne picada e deixe cozinhar durante 3 minutos em lume médio mexendo sempre;",
+                            "De seguida, refresque com o vinho branco e adicione os orégãos. Tempere com metade do sal e a pimenta;",
+                            "Junte o tomate picado e limpo de pele e grainhas juntamente com a polpa de tomate envolva;",
+                            "Deixe cozinhar durante 10 minutos em lume médio mexendo de vez em quando até secar um pouco o preparado. Tire do lume e reserve.",
+                            "Num tabuleiro de forno quadrado coloque por camadas: as folhas de lasanha, o preparado da carne e o molho bechamel. Repita o processo, terminando com uma camada de folhas de lasanha.",
+                            "Polvilhe com queijo mozzarella e leve ao forno a 190 ºC durante 25 minutos.",
+                            "Sirva decorado com os raminhos de manjericão."
                         ]
                     }
                 ]
