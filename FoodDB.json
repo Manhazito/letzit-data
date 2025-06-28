@@ -298,15 +298,15 @@
         "keywords": ["fruta", "fruit", "melão", "melões", "melons"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 250,
                 "unit": "g",
                 "calsPerUnit": 0.34,
                 "stepSize": 1
             },
             {
-                "quantity": 2,
+                "quantity": 1,
                 "unit": "slice",
-                "calsPerUnit": 170,
+                "calsPerUnit": 85,
                 "stepSize": 0.5
             }
         ]
@@ -318,7 +318,7 @@
         "keywords": ["fruta", "fruit", "melancias", "watermelons"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 250,
                 "unit": "g",
                 "calsPerUnit": 0.3,
                 "stepSize": 1
@@ -326,7 +326,7 @@
             {
                 "quantity": 2,
                 "unit": "slice",
-                "calsPerUnit": 150,
+                "calsPerUnit": 75,
                 "stepSize": 0.5
             }
         ]
