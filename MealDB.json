@@ -1908,6 +1908,181 @@
         ]
     },
     {
+        "id": "26",
+        "name": "Pizza de Chouriço e Mozzarella",
+        "servings": 1,
+        "keywords": [
+            "pizza",
+            "chouriço",
+            "chorizo",
+            "mozzarella",
+            "queijo",
+            "cheese"
+        ],
+        "recipes": [
+            {
+                "id": "26.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 110,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 15.48,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "195",
+                                "name": "Fermento de Padeiro fresco",
+                                "satietyIdx": 45,
+                                "keywords": [
+                                    "fermento",
+                                    "padeiro",
+                                    "fresco",
+                                    "fresh",
+                                    "yeast"
+                                ],
+                                "dose": {
+                                    "quantity": 10,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.05,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "42",
+                                "name": "Farinha de Trigo tipo 65",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "wheat",
+                                    "flour",
+                                    "65"
+                                ],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "spray",
+                                    "calsPerUnit": 0.1,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    },
+                    {
+                        "ingredients": [
+                            {
+                                "id": "162",
+                                "name": "Tomate triturado com Manjerição e Oregãos",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 125,
+                                "keywords": [
+                                    "tomates",
+                                    "picados",
+                                    "triturados",
+                                    "passata",
+                                    "majericão",
+                                    "orégãos",
+                                    "polpa",
+                                    "oreganos",
+                                    "chopped",
+                                    "tomatoes",
+                                    "crushed"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.15,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "251",
+                                "name": "Chouriço",
+                                "brand": "AlterVego",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 115,
+                                "keywords": [
+                                    "chouriço",
+                                    "vegan",
+                                    "vegetariano",
+                                    "chorizo",
+                                    "pepperonni"
+                                ],
+                                "dose": {
+                                    "quantity": 10,
+                                    "unit": "slice",
+                                    "calsPerUnit": 9.9,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "80",
+                                "name": "Queijo Mozzarella",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 120,
+                                "keywords": ["queijo", "mozzarella", "cheese"],
+                                "dose": {
+                                    "quantity": 62.5,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.25,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "28",
         "name": "Pizza Ristorante",
         "servings": 1,

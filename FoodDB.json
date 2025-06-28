@@ -827,6 +827,20 @@
         ]
     },
     {
+        "id": "42",
+        "name": "Farinha de Trigo tipo 65",
+        "satietyIdx": 55,
+        "keywords": ["farinha", "trigo", "wheat", "flour", "65"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 3.64,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "43",
         "name": "Leite",
         "brand": "Continente",
@@ -2523,6 +2537,12 @@
                 "unit": "g",
                 "calsPerUnit": 0,
                 "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cc",
+                "calsPerUnit": 0,
+                "stepSize": 1
             }
         ]
     },
@@ -2802,6 +2822,12 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 46.44,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 15.48,
                 "stepSize": 1
             }
         ]
@@ -3190,6 +3216,40 @@
         ]
     },
     {
+        "id": "162",
+        "name": "Tomate triturado com Manjerição e Oregãos",
+        "brand": "Continente",
+        "isBrandRelevant": false,
+        "satietyIdx": 125,
+        "keywords": [
+            "tomates",
+            "picados",
+            "triturados",
+            "passata",
+            "majericão",
+            "orégãos",
+            "polpa",
+            "oreganos",
+            "chopped",
+            "tomatoes",
+            "crushed"
+        ],
+        "doses": [
+            {
+                "quantity": 48,
+                "unit": "g",
+                "calsPerUnit": 0.15,
+                "stepSize": 1
+            },
+            {
+                "quantity": 4,
+                "unit": "cube",
+                "calsPerUnit": 1.8,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
         "id": "163",
         "name": "Água",
         "satietyIdx": 55,
@@ -3349,7 +3409,7 @@
             {
                 "quantity": 4,
                 "unit": "cube",
-                "calsPerUnit": 11,
+                "calsPerUnit": 2.76,
                 "stepSize": 1
             }
         ]
@@ -5010,6 +5070,34 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 126,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "251",
+        "name": "Chouriço",
+        "brand": "AlterVego",
+        "isBrandRelevant": true,
+        "satietyIdx": 115,
+        "keywords": [
+            "chouriço",
+            "vegan",
+            "vegetariano",
+            "chorizo",
+            "pepperonni"
+        ],
+        "doses": [
+            {
+                "quantity": 10,
+                "unit": "g",
+                "calsPerUnit": 2.97,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "slice",
+                "calsPerUnit": 9.9,
                 "stepSize": 0.5
             }
         ]
