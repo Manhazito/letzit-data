@@ -3,6 +3,7 @@
         "id": "1",
         "name": "Salada",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["saladas", "salads"],
         "recipes": [
             {
@@ -84,6 +85,7 @@
         "id": "2",
         "name": "Sopa de Legumes",
         "servings": 8,
+        "servingUnit": "unit",
         "keywords": ["sopa", "legumes", "creme", "cream", "soup"],
         "recipes": [
             {
@@ -203,6 +205,7 @@
         "id": "3",
         "name": "Esparguete de Cogumelos e Salsichas",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "esparguete",
             "massa",
@@ -313,6 +316,7 @@
         "id": "4",
         "name": "Leite com Aveia",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["leite", "aveia", "oat", "milk", "oatmeal"],
         "recipes": [
             {
@@ -384,6 +388,7 @@
         "id": "5",
         "name": "Arroz de Cogumelos e Salsichas",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "arroz",
             "cogumelos",
@@ -493,6 +498,7 @@
         "id": "6",
         "name": "Pasta Carbonara",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "pasta",
             "carbonara",
@@ -629,6 +635,7 @@
         "id": "7",
         "name": "Tofu com Broa",
         "servings": 8,
+        "servingUnit": "unit",
         "keywords": ["tofu", "broa", "tofu", "cornbread"],
         "recipes": [
             {
@@ -760,6 +767,7 @@
         "id": "8",
         "name": "Pasta Bolognese",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "pasta",
             "massa",
@@ -890,6 +898,7 @@
         "id": "9",
         "name": "Pasta com Frango e Cogumelos",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "pasta",
             "massa",
@@ -1033,6 +1042,7 @@
         "id": "10",
         "name": "Arroz da Carla",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["arroz", "carla", "branco", "seco", "white", "rice"],
         "recipes": [
             {
@@ -1085,6 +1095,7 @@
         "id": "11",
         "name": "Torrada com manteiga (café)",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["torrada", "manteiga", "toast", "butter"],
         "recipes": [
             {
@@ -1128,6 +1139,7 @@
         "id": "12",
         "name": "Omelete de Queijo",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["omelete", "queijo", "cheese", "omelet"],
         "recipes": [
             {
@@ -1182,6 +1194,7 @@
         "id": "13",
         "name": "Hamburger no pão",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["hamburger", "hambúrguere", "pão", "hamburger", "bread"],
         "recipes": [
             {
@@ -1262,6 +1275,7 @@
         "id": "14",
         "name": "Esparguete com legumes",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "esparguete",
             "massa",
@@ -1378,6 +1392,7 @@
         "id": "15",
         "name": "Stacker Vegetal",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -1418,6 +1433,7 @@
         "id": "16",
         "name": "Big King Vegetal",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -1459,6 +1475,7 @@
         "id": "17",
         "name": "Whopper Vegetal",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -1499,6 +1516,7 @@
         "id": "18",
         "name": "Long Vegetal",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -1539,6 +1557,7 @@
         "id": "19",
         "name": "Sandes Heura Classic",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "heura",
@@ -1578,6 +1597,7 @@
         "id": "20",
         "name": "Sandes Heura Crocante",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "heura",
@@ -1618,6 +1638,7 @@
         "id": "21",
         "name": "Sandes Pasta de Vuna",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "pasta",
@@ -1662,6 +1683,7 @@
         "id": "22",
         "name": "Sandes Pasta de Atum",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "pasta",
@@ -1703,6 +1725,7 @@
         "id": "23",
         "name": "Sandes Mozzarella Pesto",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "mozzarella",
@@ -1742,6 +1765,7 @@
         "id": "24",
         "name": "Sandes Queijo Fresco",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "sandes",
             "queijo",
@@ -1783,6 +1807,7 @@
         "id": "25",
         "name": "Molho Bechamel",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["molho", "bechamel", "sauce"],
         "recipes": [
             {
@@ -1910,7 +1935,8 @@
     {
         "id": "26",
         "name": "Pizza de Chouriço e Mozzarella",
-        "servings": 1,
+        "servings": 8,
+        "servingUnit": "slice",
         "keywords": [
             "pizza",
             "chouriço",
@@ -2043,7 +2069,7 @@
                             },
                             {
                                 "id": "251",
-                                "name": "Chouriço",
+                                "name": "Pepperonni",
                                 "brand": "AlterVego",
                                 "isBrandRelevant": true,
                                 "satietyIdx": 115,
@@ -2085,7 +2111,8 @@
     {
         "id": "28",
         "name": "Pizza Ristorante",
-        "servings": 1,
+        "servings": 8,
+        "servingUnit": "slice",
         "keywords": ["pizza", "ristorante", "pizza", "oetker"],
         "recipes": [
             {
@@ -2118,6 +2145,7 @@
         "id": "29",
         "name": "Poke Bowl (sushi rice and soy meat)",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": ["boke", "bowls"],
         "recipes": [
             {
@@ -2150,6 +2178,7 @@
         "id": "30",
         "name": "Batatas Assadas no forno",
         "servings": 8,
+        "servingUnit": "unit",
         "keywords": ["batatas", "assadas", "roasted", "potatoes"],
         "recipes": [
             {
@@ -2268,6 +2297,7 @@
         "id": "31",
         "name": "Esparguete da Carla",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["esparguete", "massa", "carla", "tomate", "spaghetti"],
         "recipes": [
             {
@@ -2357,6 +2387,7 @@
         "id": "32",
         "name": "Bôla da Mena",
         "servings": 12,
+        "servingUnit": "slice",
         "keywords": [
             "bola",
             "mena",
@@ -2504,6 +2535,7 @@
         "id": "33",
         "name": "Risotto de cogumelos",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["risotto", "cogumelos", "arroz", "rice", "mushroom"],
         "recipes": [
             {
@@ -2631,6 +2663,7 @@
         "id": "34",
         "name": "McVeggie",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -2670,6 +2703,7 @@
         "id": "35",
         "name": "McFish",
         "servings": 1,
+        "servingUnit": "unit",
         "keywords": [
             "hamburgers",
             "hambúrguere",
@@ -2710,6 +2744,7 @@
         "id": "36",
         "name": "Batido de Morango",
         "servings": 1.5,
+        "servingUnit": "unit",
         "keywords": ["batido", "morango", "milkshake", "strawberry"],
         "recipes": [
             {
@@ -2753,6 +2788,7 @@
         "id": "37",
         "name": "Batatas fritas com ovo e salsicha",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "batatas",
             "potatoes",
@@ -2827,6 +2863,7 @@
         "id": "38",
         "name": "Arroz com ovo e salsicha",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["arroz", "rice", "ovos", "eggs", "salsichas", "sausages"],
         "recipes": [
             {
@@ -2903,6 +2940,7 @@
         "id": "39",
         "name": "Ramen de Heura",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "noodles",
             "ramen",
@@ -3190,6 +3228,7 @@
         "id": "40",
         "name": "Chow Mein de Heura e Cogumelos",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "noodles",
             "chow",
@@ -3347,6 +3386,7 @@
         "id": "41",
         "name": "Pasta com Heura e molho de Cogumelos",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": [
             "pastas",
             "massas",
@@ -3533,7 +3573,8 @@
     {
         "id": "42",
         "name": "Pizza Margherita",
-        "servings": 2,
+        "servings": 8,
+        "servingUnit": "slice",
         "keywords": ["pizza", "margherita"],
         "recipes": [
             {
@@ -3718,6 +3759,7 @@
         "id": "43",
         "name": "Lasanha",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["lasanha", "lasagna"],
         "recipes": [
             {
@@ -3943,6 +3985,7 @@
         "id": "44",
         "name": "Lasanha com legumes",
         "servings": 2,
+        "servingUnit": "unit",
         "keywords": ["lasanha", "lasagna"],
         "recipes": [
             {
