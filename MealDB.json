@@ -1934,7 +1934,7 @@
     },
     {
         "id": "26",
-        "name": "Pizza de Chouriço e Mozzarella",
+        "name": "Pizza de Pepperonni e Mozzarella",
         "servings": 8,
         "servingUnit": "slice",
         "keywords": [
@@ -1942,6 +1942,7 @@
             "chouriço",
             "chorizo",
             "mozzarella",
+            "pepperonni",
             "queijo",
             "cheese"
         ],
