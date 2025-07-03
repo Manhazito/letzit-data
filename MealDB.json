@@ -3771,7 +3771,7 @@
     {
         "id": "43",
         "name": "Lasanha",
-        "servings": 2,
+        "servings": 4,
         "servingUnit": "unit",
         "keywords": ["lasanha", "lasagna"],
         "recipes": [
@@ -3787,9 +3787,33 @@
                                 "satietyIdx": 50,
                                 "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
-                                    "quantity": 0.5,
+                                    "quantity": 1.5,
                                     "unit": "cs",
                                     "calsPerUnit": 90,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "keywords": ["cenouras", "carrots"],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.41,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "252",
+                                "name": "Aipo",
+                                "satietyIdx": 140,
+                                "keywords": ["aipo", "celery"],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 16,
                                     "stepSize": 1
                                 }
                             },
@@ -3799,7 +3823,7 @@
                                 "satietyIdx": 100,
                                 "keywords": ["cebola", "onion"],
                                 "dose": {
-                                    "quantity": 0.5,
+                                    "quantity": 1,
                                     "unit": "unit",
                                     "calsPerUnit": 52,
                                     "stepSize": 0.5
@@ -3816,7 +3840,7 @@
                                     "cloves"
                                 ],
                                 "dose": {
-                                    "quantity": 2,
+                                    "quantity": 3,
                                     "unit": "unit",
                                     "calsPerUnit": 5,
                                     "stepSize": 1
@@ -3836,7 +3860,7 @@
                                     "meat"
                                 ],
                                 "dose": {
-                                    "quantity": 45,
+                                    "quantity": 350,
                                     "unit": "g",
                                     "calsPerUnit": 1.69,
                                     "stepSize": 1
@@ -3853,7 +3877,7 @@
                                     "wine"
                                 ],
                                 "dose": {
-                                    "quantity": 25,
+                                    "quantity": 40,
                                     "unit": "ml",
                                     "calsPerUnit": 1.3,
                                     "stepSize": 1
@@ -3876,8 +3900,8 @@
                                 "name": "Sal",
                                 "satietyIdx": 5,
                                 "dose": {
-                                    "quantity": 5,
-                                    "unit": "g",
+                                    "quantity": 0.5,
+                                    "unit": "cc",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
                                 }
@@ -3906,7 +3930,7 @@
                                 "isBrandRelevant": false,
                                 "satietyIdx": 125,
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 1.69,
                                     "stepSize": 1
@@ -3927,7 +3951,7 @@
                                     "crushed"
                                 ],
                                 "dose": {
-                                    "quantity": 120,
+                                    "quantity": 160,
                                     "unit": "g",
                                     "calsPerUnit": 0.25,
                                     "stepSize": 1
@@ -3946,7 +3970,7 @@
                                     "sheet"
                                 ],
                                 "dose": {
-                                    "quantity": 6,
+                                    "quantity": 8,
                                     "unit": "unit",
                                     "calsPerUnit": 83.18,
                                     "stepSize": 1
@@ -3960,7 +3984,7 @@
                                 "satietyIdx": 120,
                                 "keywords": ["queijo", "mozzarella", "cheese"],
                                 "dose": {
-                                    "quantity": 40,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 2.25,
                                     "stepSize": 1
@@ -3972,274 +3996,9 @@
                                 "satietyIdx": 55,
                                 "keywords": ["molho", "bechamel", "sauce"],
                                 "dose": {
-                                    "quantity": 300,
+                                    "quantity": 500,
                                     "unit": "g",
                                     "calsPerUnit": 1,
-                                    "stepSize": 1
-                                }
-                            }
-                        ],
-                        "steps": [
-                            "Pré-aqueça o forno a 180 ºC.",
-                            "Num tacho, refogue em azeite a cebola e o alho picados. Junte a carne picada e deixe cozinhar durante 3 minutos em lume médio mexendo sempre;",
-                            "De seguida, refresque com o vinho branco e adicione os orégãos. Tempere com metade do sal e a pimenta;",
-                            "Junte o tomate picado e limpo de pele e grainhas juntamente com a polpa de tomate envolva;",
-                            "Deixe cozinhar durante 10 minutos em lume médio mexendo de vez em quando até secar um pouco o preparado. Tire do lume e reserve.",
-                            "Num tabuleiro de forno quadrado coloque por camadas: as folhas de lasanha, o preparado da carne e o molho bechamel. Repita o processo, terminando com uma camada de folhas de lasanha.",
-                            "Polvilhe com queijo mozzarella e leve ao forno a 190 ºC durante 25 minutos.",
-                            "Sirva decorado com os raminhos de manjericão."
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "44",
-        "name": "Lasanha com legumes",
-        "servings": 2,
-        "servingUnit": "unit",
-        "keywords": ["lasanha", "lasagna"],
-        "recipes": [
-            {
-                "id": "44.1",
-                "type": "thermomix",
-                "parts": [
-                    {
-                        "ingredients": [
-                            {
-                                "id": "95",
-                                "name": "Azeite",
-                                "satietyIdx": 50,
-                                "keywords": ["azeites", "olive", "oil"],
-                                "dose": {
-                                    "quantity": 0.5,
-                                    "unit": "cs",
-                                    "calsPerUnit": 90,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "138",
-                                "name": "Cenoura",
-                                "satietyIdx": 142,
-                                "keywords": ["cenouras", "carrots"],
-                                "dose": {
-                                    "quantity": 30,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.41,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "113",
-                                "name": "Courgette",
-                                "satietyIdx": 150,
-                                "keywords": ["courgette", "zucchini"],
-                                "dose": {
-                                    "quantity": 30,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.17,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "112",
-                                "name": "Cebola",
-                                "satietyIdx": 100,
-                                "keywords": ["cebola", "onion"],
-                                "dose": {
-                                    "quantity": 0.5,
-                                    "unit": "unit",
-                                    "calsPerUnit": 52,
-                                    "stepSize": 0.5
-                                }
-                            },
-                            {
-                                "id": "100",
-                                "name": "Alho (dente)",
-                                "satietyIdx": 90,
-                                "keywords": [
-                                    "dente",
-                                    "alhos",
-                                    "garlic",
-                                    "cloves"
-                                ],
-                                "dose": {
-                                    "quantity": 2,
-                                    "unit": "unit",
-                                    "calsPerUnit": 5,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "120",
-                                "name": "Queijo Parmesão",
-                                "satietyIdx": 100,
-                                "keywords": [
-                                    "queijo",
-                                    "parmesão",
-                                    "parmigiano",
-                                    "cheese"
-                                ],
-                                "dose": {
-                                    "quantity": 50,
-                                    "unit": "g",
-                                    "calsPerUnit": 4.02,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "31",
-                                "name": "Carne Picada",
-                                "brand": "Heura",
-                                "isBrandRelevant": true,
-                                "satietyIdx": 225,
-                                "keywords": [
-                                    "carne",
-                                    "picada",
-                                    "heura",
-                                    "minced",
-                                    "meat"
-                                ],
-                                "dose": {
-                                    "quantity": 200,
-                                    "unit": "g",
-                                    "calsPerUnit": 1.69,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "142",
-                                "name": "Vinho branco",
-                                "satietyIdx": 40,
-                                "keywords": [
-                                    "vinho",
-                                    "branco",
-                                    "white",
-                                    "wine"
-                                ],
-                                "dose": {
-                                    "quantity": 25,
-                                    "unit": "ml",
-                                    "calsPerUnit": 1.3,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "158",
-                                "name": "Orégãos",
-                                "satietyIdx": 90,
-                                "keywords": ["orégãos", "oreganos"],
-                                "dose": {
-                                    "quantity": 1,
-                                    "unit": "cs",
-                                    "calsPerUnit": 6.8,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "128",
-                                "name": "Sal",
-                                "satietyIdx": 5,
-                                "dose": {
-                                    "quantity": 5,
-                                    "unit": "g",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "127",
-                                "name": "Pimenta preta",
-                                "satietyIdx": 40,
-                                "keywords": [
-                                    "pimenta",
-                                    "preta",
-                                    "black",
-                                    "pepper"
-                                ],
-                                "dose": {
-                                    "quantity": 1,
-                                    "unit": "g",
-                                    "calsPerUnit": 2.5,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "170",
-                                "name": "Passata de Tomate com Manjerição e Oregãos",
-                                "brand": "Guloso",
-                                "isBrandRelevant": false,
-                                "satietyIdx": 125,
-                                "dose": {
-                                    "quantity": 50,
-                                    "unit": "g",
-                                    "calsPerUnit": 1.69,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "122",
-                                "name": "Tomate triturado",
-                                "brand": "Continente",
-                                "isBrandRelevant": false,
-                                "satietyIdx": 125,
-                                "keywords": [
-                                    "tomates",
-                                    "picados",
-                                    "triturados",
-                                    "chopped",
-                                    "tomatoes",
-                                    "crushed"
-                                ],
-                                "dose": {
-                                    "quantity": 80,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.25,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "197",
-                                "name": "Lasanha com Ovo",
-                                "satietyIdx": 115,
-                                "keywords": [
-                                    "lasanha",
-                                    "ovo",
-                                    "lasagna",
-                                    "egg",
-                                    "folha",
-                                    "sheet"
-                                ],
-                                "dose": {
-                                    "quantity": 6,
-                                    "unit": "unit",
-                                    "calsPerUnit": 83.18,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "198",
-                                "name": "Molho Bechamel",
-                                "satietyIdx": 55,
-                                "keywords": ["molho", "bechamel", "sauce"],
-                                "dose": {
-                                    "quantity": 300,
-                                    "unit": "g",
-                                    "calsPerUnit": 1,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "199",
-                                "name": "Noz-Moscada",
-                                "satietyIdx": 55,
-                                "keywords": ["noz", "moscada", "nutmeg"],
-                                "dose": {
-                                    "quantity": 3,
-                                    "unit": "g",
-                                    "calsPerUnit": 1.375,
                                     "stepSize": 1
                                 }
                             }

@@ -5101,5 +5101,19 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "252",
+        "name": "Aipo",
+        "satietyIdx": 140,
+        "keywords": ["aipo", "celery"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 16,
+                "stepSize": 1
+            }
+        ]
     }
 ]
