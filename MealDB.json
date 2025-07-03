@@ -3813,7 +3813,7 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 16,
+                                    "calsPerUnit": 0.16,
                                     "stepSize": 1
                                 }
                             },
