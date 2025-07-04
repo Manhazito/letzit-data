@@ -84,7 +84,7 @@
     {
         "id": "2",
         "name": "Sopa de Legumes",
-        "servings": 8,
+        "servings": 4,
         "servingUnit": "unit",
         "keywords": ["sopa", "legumes", "creme", "cream", "soup"],
         "recipes": [
@@ -99,7 +99,7 @@
                                 "name": "Batatas",
                                 "satietyIdx": 323,
                                 "dose": {
-                                    "quantity": 400,
+                                    "quantity": 240,
                                     "unit": "g",
                                     "calsPerUnit": 0.78,
                                     "stepSize": 1
@@ -111,55 +111,22 @@
                                 "satietyIdx": 168,
                                 "keywords": ["feijão", "feijões", "beans"],
                                 "dose": {
-                                    "quantity": 400,
+                                    "quantity": 250,
                                     "unit": "g",
                                     "calsPerUnit": 0.94,
                                     "stepSize": 1
                                 }
                             },
                             {
-                                "id": "108",
-                                "name": "Beterraba",
-                                "dose": {
-                                    "quantity": 200,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.43,
-                                    "stepSize": 1
-                                },
-                                "satietyIdx": 110
-                            },
-                            {
-                                "id": "109",
-                                "name": "Beringela",
-                                "dose": {
-                                    "quantity": 700,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.25,
-                                    "stepSize": 1
-                                },
-                                "satietyIdx": 145
-                            },
-                            {
                                 "id": "110",
                                 "name": "Bróculos",
                                 "dose": {
-                                    "quantity": 800,
+                                    "quantity": 180,
                                     "unit": "g",
                                     "calsPerUnit": 0.35,
                                     "stepSize": 1
                                 },
                                 "satietyIdx": 200
-                            },
-                            {
-                                "id": "111",
-                                "name": "Couve",
-                                "dose": {
-                                    "quantity": 1000,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.25,
-                                    "stepSize": 1
-                                },
-                                "satietyIdx": 170
                             },
                             {
                                 "id": "100",
@@ -176,10 +143,10 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "dose": {
-                                    "quantity": 2,
-                                    "unit": "unit",
-                                    "calsPerUnit": 52,
-                                    "stepSize": 0.5
+                                    "quantity": 90,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 100
                             },
@@ -187,12 +154,34 @@
                                 "id": "113",
                                 "name": "Courgette",
                                 "dose": {
-                                    "quantity": 2,
-                                    "unit": "unit",
-                                    "calsPerUnit": 42.5,
-                                    "stepSize": 0.5
+                                    "quantity": 400,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.17,
+                                    "stepSize": 1
                                 },
                                 "satietyIdx": 150
+                            },
+                            {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "dose": {
+                                    "quantity": 280,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.17,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "dose": {
+                                    "quantity": 1000,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
                             }
                         ],
                         "steps": []
