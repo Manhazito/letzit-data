@@ -5115,5 +5115,122 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "253",
+        "name": "Mascarpone",
+        "satietyIdx": 55,
+        "keywords": [
+            "pastas",
+            "massas",
+            "esparguete",
+            "spaghetti",
+            "cooked",
+            "cozido",
+            "cozido",
+            "cozida"
+        ],
+        "doses": [
+            {
+                "quantity": 14,
+                "unit": "g",
+                "calsPerUnit": 3.6,
+                "stepSize": 1
+            },
+            {
+                "quantity": 4,
+                "unit": "cube",
+                "calsPerUnit": 12.6,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "254",
+        "name": "Polpa de fruta",
+        "satietyIdx": 90,
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "keywords": ["polpa", "fruta", "pulp", "frute"],
+        "doses": [
+            {
+                "quantity": 90,
+                "unit": "g",
+                "calsPerUnit": 0.64,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 57.6,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "255",
+        "name": "Polpa de fruta",
+        "satietyIdx": 90,
+        "brand": "Blédina",
+        "isBrandRelevant": true,
+        "keywords": ["polpa", "fruta", "pulp", "frute"],
+        "doses": [
+            {
+                "quantity": 85,
+                "unit": "g",
+                "calsPerUnit": 0.64,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 54.4,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "256",
+        "name": "Polpa de fruta",
+        "satietyIdx": 90,
+        "brand": "Nestlé",
+        "isBrandRelevant": true,
+        "keywords": ["polpa", "fruta", "pulp", "frute"],
+        "doses": [
+            {
+                "quantity": 90,
+                "unit": "g",
+                "calsPerUnit": 0.64,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 57.6,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "257",
+        "name": "Polpa de fruta com cereais",
+        "satietyIdx": 120,
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "keywords": ["polpa", "fruta", "pulp", "frute"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 0.69,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 82.8,
+                "stepSize": 1
+            }
+        ]
     }
 ]
