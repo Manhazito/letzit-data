@@ -207,7 +207,7 @@
         "recipes": [
             {
                 "id": "3.1",
-                "type": "regular",
+                "type": "thermomix",
                 "parts": [
                     {
                         "ingredients": [
@@ -293,9 +293,39 @@
                                     "stepSize": 0.5
                                 },
                                 "satietyIdx": 122
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 250,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Coloque no copo a cebola e triture 5 seg / Vel 5;",
+                            "Adicione o azeite e refogue 5 min / 120ºC / Vel 1;",
+                            "Adicione os cogumelos, natas, tomate, salsichas aos pedaços, o sal e a água. Cozinhe 5 min/ 100ºC / Reverse / Vel 1;",
+                            "Tire a tampa e adicione o esparguete. Cozinhe sem tampa 2 min / 100ºC, ou até o esparguete estar todo dentro do líquido;",
+                            "Coloque a tampa de volta e cozinhe durante o tempo especificado no pacote / 100ºC / Reverse / Vel 1."
+                        ]
                     }
                 ]
             }
