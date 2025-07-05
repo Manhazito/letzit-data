@@ -5232,5 +5232,25 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "258",
+        "name": "Sushi Vegetariano",
+        "satietyIdx": 110,
+        "keywords": ["sushi", "vegetariano"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 1.3333,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 40,
+                "stepSize": 1
+            }
+        ]
     }
 ]
