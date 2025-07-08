@@ -4318,9 +4318,9 @@
                                     "creams"
                                 ],
                                 "dose": {
-                                    "quantity": 100,
-                                    "unit": "ml",
-                                    "calsPerUnit": 0.61,
+                                    "quantity": 6,
+                                    "unit": "cube",
+                                    "calsPerUnit": 9.15,
                                     "stepSize": 1
                                 }
                             },
