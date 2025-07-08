@@ -5312,5 +5312,47 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "262",
+        "name": "Amoras",
+        "satietyIdx": 140,
+        "keywords": [
+            "amoras",
+            "blackberry",
+            "blackberries",
+            "loganberry",
+            "loganberries",
+            "boysenberry",
+            "boysenberries"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 0.55,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "263",
+        "name": "Ameixas",
+        "satietyIdx": 140,
+        "keywords": ["ameixas", "prunes"],
+        "doses": [
+            {
+                "quantity": 66,
+                "unit": "g",
+                "calsPerUnit": 0.49,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 32.34,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
