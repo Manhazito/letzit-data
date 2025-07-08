@@ -2339,7 +2339,7 @@
         ],
         "doses": [
             {
-                "quantity": 35,
+                "quantity": 10,
                 "unit": "g",
                 "calsPerUnit": 0.63,
                 "stepSize": 1
@@ -2347,7 +2347,7 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 22,
+                "calsPerUnit": 6.3,
                 "stepSize": 0.5
             }
         ]
@@ -3862,7 +3862,7 @@
     },
     {
         "id": "193",
-        "name": "Cogumelo Shitake",
+        "name": "Cogumelo Shitake (cru)",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "shitake", "shiitake", "mushroom"],
         "doses": [
@@ -5250,6 +5250,66 @@
                 "unit": "unit",
                 "calsPerUnit": 40,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "259",
+        "name": "Cogumelo Shitake (salteados em seco)",
+        "satietyIdx": 145,
+        "keywords": ["cogumelos", "shitake", "shiitake", "mushroom"],
+        "doses": [
+            {
+                "quantity": 18,
+                "unit": "g",
+                "calsPerUnit": 0.9,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 6.12,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "260",
+        "name": "Limão",
+        "satietyIdx": 210,
+        "keywords": ["limão", "limões", "lemons"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 0.29,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 34.8,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "261",
+        "name": "Sumo de limão",
+        "satietyIdx": 90,
+        "keywords": ["limão", "limões", "lemons", "sumo", "juice"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 0.22,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 11,
+                "stepSize": 0.5
             }
         ]
     }

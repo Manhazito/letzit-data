@@ -4173,5 +4173,264 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "44",
+        "name": "Stroganoff de Cogumelos",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["stroganoff", "cogumelos", "mushrooms"],
+        "recipes": [
+            {
+                "id": "44.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "193",
+                                "name": "Cogumelo Shitake (cru)",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "shitake",
+                                    "shiitake",
+                                    "mushroom"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.34,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "247",
+                                "name": "Cogumelo Marron (cru)",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "marron",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "248",
+                                "name": "Cogumelo Portobello (cru)",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "portobello",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 52,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "180",
+                                "name": "Caldo de Vegetais (líquido)",
+                                "satietyIdx": 25,
+                                "keywords": [
+                                    "caldo",
+                                    "vegetal",
+                                    "vegetais",
+                                    "vegetable",
+                                    "stock",
+                                    "líquido",
+                                    "liquid",
+                                    "água",
+                                    "water"
+                                ],
+                                "dose": {
+                                    "quantity": 120,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.035,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "78",
+                                "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 50,
+                                "keywords": [
+                                    "natas",
+                                    "culinária",
+                                    "soja",
+                                    "soy",
+                                    "cooking",
+                                    "creams"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.61,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "261",
+                                "name": "Sumo de limão",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "limão",
+                                    "limões",
+                                    "lemons",
+                                    "sumo",
+                                    "juice"
+                                ],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "64",
+                                "name": "Mostarda",
+                                "brand": "Paladin",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 35,
+                                "keywords": ["mostarda", "mustard"],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.69,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 8,
+                                    "unit": "g",
+                                    "calsPerUnit": 5.31,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "25",
+                                "name": "Esparguete (cozido)",
+                                "satietyIdx": 119,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "esparguete",
+                                    "spaghetti",
+                                    "cooked",
+                                    "cozido",
+                                    "cozido",
+                                    "cozida"
+                                ],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.2,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Heat olive oil in a large pan over medium heat. Add the onion and garlic, and sauté for 3-4 minutes until softened.",
+                            "Add the mushrooms and cook for 5-7 minutes until they become tender and browned.",
+                            "Stir in the flour (if using), then gradually add the vegetable broth while stirring to combine.",
+                            "Bring to a simmer and cook for 5-7 minutes until the sauce thickens.",
+                            "Stir in the sour cream, Dijon mustard, soy sauce, and season with salt and pepper.",
+                            "Simmer for another 2-3 minutes until creamy and heated through.",
+                            "Serve over pasta or rice, garnished with fresh parsley."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
