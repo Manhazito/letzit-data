@@ -3699,7 +3699,7 @@
                             },
                             {
                                 "id": "243",
-                                "name": "Tagliatelle (cru)",
+                                "name": "Tagliatelle",
                                 "satietyIdx": 119,
                                 "keywords": [
                                     "pastas",
@@ -4189,7 +4189,7 @@
                         "ingredients": [
                             {
                                 "id": "193",
-                                "name": "Cogumelo Shitake (cru)",
+                                "name": "Cogumelo Shitake",
                                 "satietyIdx": 145,
                                 "keywords": [
                                     "cogumelos",
@@ -4206,7 +4206,7 @@
                             },
                             {
                                 "id": "247",
-                                "name": "Cogumelo Marron (cru)",
+                                "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
                                 "keywords": [
                                     "cogumelos",
@@ -4224,7 +4224,7 @@
                             },
                             {
                                 "id": "248",
-                                "name": "Cogumelo Portobello (cru)",
+                                "name": "Cogumelo Portobello",
                                 "satietyIdx": 145,
                                 "keywords": [
                                     "cogumelos",
@@ -4412,7 +4412,7 @@
                                     "cozida"
                                 ],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 240,
                                     "unit": "g",
                                     "calsPerUnit": 1.2,
                                     "stepSize": 1

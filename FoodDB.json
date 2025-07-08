@@ -3862,7 +3862,7 @@
     },
     {
         "id": "193",
-        "name": "Cogumelo Shitake (cru)",
+        "name": "Cogumelo Shitake",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "shitake", "shiitake", "mushroom"],
         "doses": [
@@ -4822,7 +4822,7 @@
     },
     {
         "id": "236",
-        "name": "Arroz (cru)",
+        "name": "Arroz",
         "satietyIdx": 138,
         "keywords": ["arroz", "rice", "branco", "white", "cru", "raw"],
         "doses": [
@@ -4836,7 +4836,7 @@
     },
     {
         "id": "237",
-        "name": "Feijão (cru)",
+        "name": "Feijão",
         "satietyIdx": 168,
         "keywords": ["feijão", "feijões", "beans", "cru", "raw"],
         "doses": [
@@ -4850,7 +4850,7 @@
     },
     {
         "id": "238",
-        "name": "Grão de Bico (cru)",
+        "name": "Grão de Bico",
         "satietyIdx": 131,
         "keywords": ["grão", "grãos", "bico", "chickpeas", "cru", "raw"],
         "doses": [
@@ -4918,7 +4918,7 @@
     },
     {
         "id": "242",
-        "name": "Esparguete (cru)",
+        "name": "Esparguete",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
@@ -4939,7 +4939,7 @@
     },
     {
         "id": "243",
-        "name": "Tagliatelle (cru)",
+        "name": "Tagliatelle",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "tagliatelle", "seca", "dry"],
         "doses": [
@@ -4974,7 +4974,7 @@
     },
     {
         "id": "245",
-        "name": "Fusilli (cru)",
+        "name": "Fusilli",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "fusilli", "seca", "dry"],
         "doses": [
@@ -4988,7 +4988,7 @@
     },
     {
         "id": "246",
-        "name": "Macarrão (cru)",
+        "name": "Macarrão",
         "satietyIdx": 119,
         "keywords": ["pastas", "massas", "macarrão", "macarron", "seca", "dry"],
         "doses": [
@@ -5002,7 +5002,7 @@
     },
     {
         "id": "247",
-        "name": "Cogumelo Marron (cru)",
+        "name": "Cogumelo Marron",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "marron", "mushroom", "cru", "raw"],
         "doses": [
@@ -5022,7 +5022,7 @@
     },
     {
         "id": "248",
-        "name": "Cogumelo Portobello (cru)",
+        "name": "Cogumelo Portobello",
         "satietyIdx": 145,
         "keywords": ["cogumelos", "portobello", "mushroom", "cru", "raw"],
         "doses": [
