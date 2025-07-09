@@ -5373,7 +5373,7 @@
         "id": "265",
         "name": "Mel",
         "satietyIdx": 80,
-        "keywords": ["couve", "cabbage", "roxa", "red"],
+        "keywords": ["mel", "honey"],
         "doses": [
             {
                 "quantity": 21,
@@ -5392,6 +5392,26 @@
                 "unit": "cs",
                 "calsPerUnit": 21.28,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "266",
+        "name": "Raspas de limão",
+        "satietyIdx": 90,
+        "keywords": ["limão", "limões", "lemons", "raspas", "zest"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "g",
+                "calsPerUnit": 0.47,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cc",
+                "calsPerUnit": 0.94,
+                "stepSize": 0.5
             }
         ]
     }

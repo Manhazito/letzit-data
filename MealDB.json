@@ -4555,5 +4555,140 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "46",
+        "name": "Arroz de Limão",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["arroz", "limão", "lemon", "rice"],
+        "recipes": [
+            {
+                "id": "46.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "236",
+                                "name": "Arroz",
+                                "satietyIdx": 138,
+                                "keywords": [
+                                    "arroz",
+                                    "rice",
+                                    "branco",
+                                    "white",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.45,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 500,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "261",
+                                "name": "Sumo de limão",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "limão",
+                                    "limões",
+                                    "lemons",
+                                    "sumo",
+                                    "juice"
+                                ],
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "266",
+                                "name": "Raspas de limão",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "limão",
+                                    "limões",
+                                    "lemons",
+                                    "raspas",
+                                    "zest"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.47,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Put rice in simmering basket. Rinse under running water until clear. Set aside.",
+                            "Pour 500 g water + salt into mixing bowl. Insert simmering basket with rice. Cook: 18 min / Varoma / vel 4",
+                            "Check doneness. Add 2–3 min if needed.",
+                            "Carefully remove simmering basket. Tip rice into a bowl.",
+                            "Stir in the olive oil, lemon zest, and lemon juice.",
+                            "Season with extra salt. Fluff gently."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
