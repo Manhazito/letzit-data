@@ -4198,7 +4198,7 @@
                                     "mushroom"
                                 ],
                                 "dose": {
-                                    "quantity": 50,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.34,
                                     "stepSize": 1
@@ -4216,7 +4216,7 @@
                                     "raw"
                                 ],
                                 "dose": {
-                                    "quantity": 100,
+                                    "quantity": 180,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -4234,7 +4234,7 @@
                                     "raw"
                                 ],
                                 "dose": {
-                                    "quantity": 50,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -4412,7 +4412,7 @@
                                     "cozida"
                                 ],
                                 "dose": {
-                                    "quantity": 240,
+                                    "quantity": 300,
                                     "unit": "g",
                                     "calsPerUnit": 1.2,
                                     "stepSize": 1
