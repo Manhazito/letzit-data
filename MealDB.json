@@ -4297,7 +4297,7 @@
                                     "water"
                                 ],
                                 "dose": {
-                                    "quantity": 120,
+                                    "quantity": 180,
                                     "unit": "ml",
                                     "calsPerUnit": 0.035,
                                     "stepSize": 1
@@ -4318,9 +4318,9 @@
                                     "creams"
                                 ],
                                 "dose": {
-                                    "quantity": 6,
-                                    "unit": "cube",
-                                    "calsPerUnit": 9.15,
+                                    "quantity": 80,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.61,
                                     "stepSize": 1
                                 }
                             },
@@ -4350,7 +4350,7 @@
                                 "satietyIdx": 35,
                                 "keywords": ["mostarda", "mustard"],
                                 "dose": {
-                                    "quantity": 3,
+                                    "quantity": 5,
                                     "unit": "g",
                                     "calsPerUnit": 2.69,
                                     "stepSize": 1
@@ -4362,7 +4362,7 @@
                                 "satietyIdx": 50,
                                 "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
-                                    "quantity": 8,
+                                    "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 5.31,
                                     "stepSize": 1
