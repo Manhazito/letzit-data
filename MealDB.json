@@ -4432,5 +4432,128 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "45",
+        "name": "Couve Roxa Assada com Vinagre Balsâmico",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": [
+            "couve",
+            "roxa",
+            "assada",
+            "vinagre",
+            "balsâmico",
+            "red",
+            "cabbage",
+            "balsamic",
+            "vinegar"
+        ],
+        "recipes": [
+            {
+                "id": "45.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "264",
+                                "name": "Couve Roxa",
+                                "satietyIdx": 250,
+                                "keywords": ["couve", "cabbage", "roxa", "red"],
+                                "dose": {
+                                    "quantity": 500,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.31,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cs",
+                                    "calsPerUnit": 90,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "96",
+                                "name": "Vinagre Balsâmico",
+                                "satietyIdx": 100,
+                                "keywords": [
+                                    "vinagre",
+                                    "balsâmicos",
+                                    "balsamic",
+                                    "vinegar"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 15,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "265",
+                                "name": "Mel",
+                                "satietyIdx": 80,
+                                "keywords": ["mel", "honey"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 21.28,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Preheat oven to 200°C.",
+                            "Line a baking tray with parchment paper or foil.",
+                            "Rub the cut surfaces and outside of your cabbage half with olive oil. Be generous.",
+                            "Season thoroughly with salt and pepper.",
+                            "Place the cabbage half, cut side down, on the tray.",
+                            "Roast for 20 minutes.",
+                            "In a small bowl, stir together balsamic vinegar and honey.",
+                            "Remove the cabbage from the oven and brush this mixture generously over the cut surface.",
+                            "Roast another 15–25 minutes, cut side up, until the cabbage is nicely caramelized on top and a knife slides into the core without resistance. (The outer edges may char slightly — that’s good flavor.)",
+                            "Let it rest 5 minutes, then slice into wedges."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

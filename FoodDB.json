@@ -1539,7 +1539,7 @@
         "keywords": ["natas", "culinária", "soja", "soy", "cooking", "creams"],
         "doses": [
             {
-                "quantity": 60,
+                "quantity": 43,
                 "unit": "ml",
                 "calsPerUnit": 0.61,
                 "stepSize": 1
@@ -5352,6 +5352,46 @@
                 "unit": "unit",
                 "calsPerUnit": 32.34,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "264",
+        "name": "Couve Roxa",
+        "satietyIdx": 250,
+        "keywords": ["couve", "cabbage", "roxa", "red"],
+        "doses": [
+            {
+                "quantity": 500,
+                "unit": "g",
+                "calsPerUnit": 0.31,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "265",
+        "name": "Mel",
+        "satietyIdx": 80,
+        "keywords": ["couve", "cabbage", "roxa", "red"],
+        "doses": [
+            {
+                "quantity": 21,
+                "unit": "g",
+                "calsPerUnit": 3.04,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 63.84,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cs",
+                "calsPerUnit": 21.28,
+                "stepSize": 1
             }
         ]
     }
