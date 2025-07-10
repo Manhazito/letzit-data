@@ -4752,5 +4752,223 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "48",
+        "name": "Rissóis de Queijo e Fiambre",
+        "servings": 10,
+        "servingUnit": "unit",
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "recipes": [
+            {
+                "id": "48.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "267",
+                                "name": "Massa de Rissóis",
+                                "satietyIdx": 53,
+                                "keywords": [
+                                    "massa",
+                                    "rissóis",
+                                    "rissol",
+                                    "dough"
+                                ],
+                                "dose": {
+                                    "quantity": 350,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "28",
+                                "name": "Queijo",
+                                "brand": "Limiano",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 146,
+                                "keywords": ["queijos", "cheeses"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "slice",
+                                    "calsPerUnit": 78,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "172",
+                                "name": "Fiambre de Frango",
+                                "brand": "Viodeli",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 95,
+                                "keywords": [
+                                    "fiambre",
+                                    "frango",
+                                    "chicken",
+                                    "cold",
+                                    "cuts"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "slice",
+                                    "calsPerUnit": 27.6,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled",
+                                    "estrelados",
+                                    "fried"
+                                ],
+                                "dose": {
+                                    "quantity": 0.043,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "268",
+                                "name": "Pão ralado",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 53,
+                                "keywords": [
+                                    "massa",
+                                    "rissóis",
+                                    "rissol",
+                                    "dough"
+                                ],
+                                "dose": {
+                                    "quantity": 2.86,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.91,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Rissóis de Queijo e Fiambre #2",
+        "servings": 10,
+        "servingUnit": "unit",
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "recipes": [
+            {
+                "id": "49.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "267",
+                                "name": "Massa de Rissóis",
+                                "satietyIdx": 53,
+                                "keywords": [
+                                    "massa",
+                                    "rissóis",
+                                    "rissol",
+                                    "dough"
+                                ],
+                                "dose": {
+                                    "quantity": 350,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "28",
+                                "name": "Queijo",
+                                "brand": "Limiano",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 146,
+                                "keywords": ["queijos", "cheeses"],
+                                "dose": {
+                                    "quantity": 0.25,
+                                    "unit": "slice",
+                                    "calsPerUnit": 78,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "172",
+                                "name": "Fiambre de Frango",
+                                "brand": "Viodeli",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 95,
+                                "keywords": [
+                                    "fiambre",
+                                    "frango",
+                                    "chicken",
+                                    "cold",
+                                    "cuts"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "slice",
+                                    "calsPerUnit": 27.6,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled",
+                                    "estrelados",
+                                    "fried"
+                                ],
+                                "dose": {
+                                    "quantity": 0.043,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "268",
+                                "name": "Pão ralado",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 53,
+                                "keywords": [
+                                    "massa",
+                                    "rissóis",
+                                    "rissol",
+                                    "dough"
+                                ],
+                                "dose": {
+                                    "quantity": 2.86,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.91,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -5414,5 +5414,35 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "267",
+        "name": "Massa de Rissóis",
+        "satietyIdx": 53,
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 37.69,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "268",
+        "name": "Pão ralado",
+        "brand": "Continente",
+        "isBrandRelevant": false,
+        "satietyIdx": 53,
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 3.91,
+                "stepSize": 1
+            }
+        ]
     }
 ]
