@@ -4659,23 +4659,6 @@
                                     "calsPerUnit": 0.47,
                                     "stepSize": 1
                                 }
-                            },
-                            {
-                                "id": "100",
-                                "name": "Alho (dente)",
-                                "satietyIdx": 90,
-                                "keywords": [
-                                    "dente",
-                                    "alhos",
-                                    "garlic",
-                                    "cloves"
-                                ],
-                                "dose": {
-                                    "quantity": 1,
-                                    "unit": "unit",
-                                    "calsPerUnit": 5,
-                                    "stepSize": 1
-                                }
                             }
                         ],
                         "steps": [
