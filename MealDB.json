@@ -4677,7 +4677,7 @@
     {
         "id": "47",
         "name": "Massa de Rissóis",
-        "servings": 2,
+        "servings": 35,
         "servingUnit": "unit",
         "keywords": ["massa", "rissóis", "rissol", "dough"],
         "recipes": [
@@ -4726,6 +4726,18 @@
                                     "quantity": 1,
                                     "unit": "cc",
                                     "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 9,
                                     "stepSize": 1
                                 }
                             }
