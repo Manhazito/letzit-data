@@ -4673,5 +4673,72 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "47",
+        "name": "Massa de Rissóis",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "recipes": [
+            {
+                "id": "47.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "42",
+                                "name": "Farinha de Trigo tipo 65",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "wheat",
+                                    "flour",
+                                    "65"
+                                ],
+                                "dose": {
+                                    "quantity": 350,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 450,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coloque no copo a água e o sal. Aqueça 5 min/100ºC/vel 1.",
+                            "Adicione a farinha e misture 15 seg/vel 6.",
+                            "Adicione o azeite e volte a misturar 15 seg/vel 6.",
+                            "Retire e deixe arrefecer."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
