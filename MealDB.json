@@ -681,7 +681,7 @@
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -902,7 +902,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             }
@@ -1033,7 +1033,7 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -1198,7 +1198,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             }
@@ -1361,7 +1361,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -2362,7 +2362,7 @@
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -3647,7 +3647,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -3945,7 +3945,7 @@
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -4277,7 +4277,7 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -4476,7 +4476,7 @@
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cs",
-                                    "calsPerUnit": 90,
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -4618,9 +4618,9 @@
                                 "satietyIdx": 50,
                                 "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
-                                    "quantity": 20,
-                                    "unit": "g",
-                                    "calsPerUnit": 9,
+                                    "quantity": 1.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -4636,10 +4636,10 @@
                                     "juice"
                                 ],
                                 "dose": {
-                                    "quantity": 20,
-                                    "unit": "g",
-                                    "calsPerUnit": 0.22,
-                                    "stepSize": 1
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 11,
+                                    "stepSize": 0.5
                                 }
                             },
                             {

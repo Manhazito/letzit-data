@@ -1871,7 +1871,7 @@
         "keywords": ["azeites", "olive", "oil"],
         "doses": [
             {
-                "quantity": 10,
+                "quantity": 14,
                 "unit": "g",
                 "calsPerUnit": 9,
                 "stepSize": 1
@@ -1885,7 +1885,7 @@
             {
                 "quantity": 1,
                 "unit": "cs",
-                "calsPerUnit": 90,
+                "calsPerUnit": 126,
                 "stepSize": 1
             }
         ]
