@@ -4777,9 +4777,9 @@
                                     "dough"
                                 ],
                                 "dose": {
-                                    "quantity": 350,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.64,
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 37.69,
                                     "stepSize": 1
                                 }
                             },
@@ -4886,9 +4886,9 @@
                                     "dough"
                                 ],
                                 "dose": {
-                                    "quantity": 350,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.64,
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 37.69,
                                     "stepSize": 1
                                 }
                             },
