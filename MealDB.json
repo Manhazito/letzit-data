@@ -4755,10 +4755,18 @@
     },
     {
         "id": "48",
-        "name": "Rissóis de Queijo e Fiambre",
-        "servings": 10,
+        "name": "Rissóis de Queijo e Fiambre #1",
+        "servings": 1,
         "servingUnit": "unit",
-        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "keywords": [
+            "rissóis",
+            "rissol",
+            "dough",
+            "queijo",
+            "cheese",
+            "fiambre",
+            "ham"
+        ],
         "recipes": [
             {
                 "id": "48.1",
@@ -4865,9 +4873,17 @@
     {
         "id": "49",
         "name": "Rissóis de Queijo e Fiambre #2",
-        "servings": 10,
+        "servings": 1,
         "servingUnit": "unit",
-        "keywords": ["massa", "rissóis", "rissol", "dough"],
+        "keywords": [
+            "rissóis",
+            "rissol",
+            "dough",
+            "queijo",
+            "cheese",
+            "fiambre",
+            "ham"
+        ],
         "recipes": [
             {
                 "id": "49.1",

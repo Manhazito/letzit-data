@@ -5444,5 +5444,49 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "269",
+        "name": "Rissóis de Queijo e Fiambre #1",
+        "satietyIdx": 96,
+        "keywords": [
+            "rissóis",
+            "rissol",
+            "dough",
+            "queijo",
+            "cheese",
+            "fiambre",
+            "ham"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "g",
+                "calsPerUnit": 105.11,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "270",
+        "name": "Rissóis de Queijo e Fiambre #2",
+        "satietyIdx": 96,
+        "keywords": [
+            "rissóis",
+            "rissol",
+            "dough",
+            "queijo",
+            "cheese",
+            "fiambre",
+            "ham"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "g",
+                "calsPerUnit": 85.61,
+                "stepSize": 1
+            }
+        ]
     }
 ]
