@@ -3188,7 +3188,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 79.65,
+                                    "calsPerUnit": 16.5,
                                     "stepSize": 0.5
                                 }
                             },
@@ -3495,7 +3495,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 79.65,
+                                    "calsPerUnit": 16.5,
                                     "stepSize": 0.5
                                 }
                             },
@@ -4364,7 +4364,7 @@
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
-                                    "calsPerUnit": 5.31,
+                                    "calsPerUnit": 1.1,
                                     "stepSize": 1
                                 }
                             },
