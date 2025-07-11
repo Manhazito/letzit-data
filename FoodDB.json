@@ -5505,7 +5505,6 @@
             "butter",
             "buttercream",
             "coffee",
-            "elbow",
             "bolo",
             "bolacha"
         ],
@@ -5513,7 +5512,7 @@
             {
                 "quantity": 460,
                 "unit": "g",
-                "calsPerUnit": 4.0,
+                "calsPerUnit": 4.23,
                 "stepSize": 1
             }
         ]
