@@ -5309,7 +5309,7 @@
                                     "bolacha"
                                 ],
                                 "dose": {
-                                    "quantity": 460,
+                                    "quantity": 385,
                                     "unit": "g",
                                     "calsPerUnit": 4.23,
                                     "stepSize": 1
