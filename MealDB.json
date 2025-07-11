@@ -5422,7 +5422,13 @@
                                 }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Boil the pasta in salted water until al dente. Reserve half a cup of pasta water, then drain.",
+                            "Heat olive oil in a pan over medium-high heat. Add minced garlic. Sauté a few seconds. Add Heura pieces and brown them lightly (usually ~3–5 min). Season with salt and pepper.",
+                            "Lower heat to medium-low. Add béchamel sauce to the pan with the Heura. Stir gently to warm through.",
+                            "If the béchamel is too thick, add small splashes of pasta water until it's a silky sauce.",
+                            "Add cooked pasta to the pan. Toss well until coated. Taste and adjust seasoning (salt and pepper)."
+                        ]
                     }
                 ]
             }
