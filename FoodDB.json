@@ -5492,5 +5492,30 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "271",
+        "name": "Creme de Manteiga e Café",
+        "satietyIdx": 51,
+        "keywords": [
+            "creme",
+            "manteiga",
+            "café",
+            "cream",
+            "butter",
+            "buttercream",
+            "coffee",
+            "elbow",
+            "bolo",
+            "bolacha"
+        ],
+        "doses": [
+            {
+                "quantity": 460,
+                "unit": "g",
+                "calsPerUnit": 4.0,
+                "stepSize": 1
+            }
+        ]
     }
 ]
