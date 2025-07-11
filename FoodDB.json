@@ -2249,6 +2249,8 @@
             "massas",
             "cotovelos",
             "cotovelinhos",
+            "elbow",
+            "macaroni",
             "cozidos",
             "cooked"
         ],
@@ -4953,13 +4955,15 @@
     },
     {
         "id": "244",
-        "name": "Cotovelos (crus)",
+        "name": "Cotovelos",
         "satietyIdx": 119,
         "keywords": [
             "pastas",
             "massas",
             "cotovelos",
             "cotovelinhos",
+            "elbow",
+            "macaroni",
             "seca",
             "dry"
         ],
@@ -5042,7 +5046,7 @@
     },
     {
         "id": "249",
-        "name": "Espinafres (crus)",
+        "name": "Espinafres",
         "satietyIdx": 140,
         "keywords": ["espinafres", "spinach"],
         "doses": [
