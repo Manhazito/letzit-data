@@ -5184,7 +5184,6 @@
             "butter",
             "buttercream",
             "coffee",
-            "elbow",
             "bolo",
             "bolacha"
         ],
@@ -5255,7 +5254,7 @@
                                 "satietyIdx": 120,
                                 "keywords": ["bolachas", "maria", "cookies"],
                                 "dose": {
-                                    "quantity": 136,
+                                    "quantity": 4,
                                     "unit": "unit",
                                     "calsPerUnit": 26.4,
                                     "stepSize": 0.5
@@ -5263,7 +5262,7 @@
                             }
                         ],
                         "steps": [
-                            "Coloque no copo 4 bolachas e rale 10 seg/vel 9. Retire e reserve.",
+                            "Coloque no copo as bolachas e rale 10 seg/vel 9. Retire e reserve.",
                             "Coloque no copo o açúcar. Adicione a manteiga e bata 2 min/vel 3.",
                             "Adicione o café e misture 25 seg/vel 4."
                         ]
