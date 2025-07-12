@@ -550,7 +550,7 @@
     },
     {
         "id": "27",
-        "name": "Grão de Bico cozido",
+        "name": "Grão-de-Bico cozido",
         "satietyIdx": 131,
         "keywords": ["grão", "grãos", "bico", "chickpeas", "cozido", "baked"],
         "doses": [
@@ -3169,7 +3169,7 @@
         "id": "159",
         "name": "Pimentão Doce",
         "satietyIdx": 85,
-        "keywords": ["pimentão", "doce", "sweet", "paprika"],
+        "keywords": ["pimentão", "doce", "sweet", "paprika", "chilli"],
         "doses": [
             {
                 "quantity": 2.3,
@@ -3852,7 +3852,7 @@
         "id": "192",
         "name": "Pimentão Picante",
         "satietyIdx": 85,
-        "keywords": ["pimentão", "picante", "hot", "paprika"],
+        "keywords": ["pimentão", "picante", "hot", "paprika", "chilli"],
         "doses": [
             {
                 "quantity": 2.3,
@@ -4864,7 +4864,7 @@
     },
     {
         "id": "238",
-        "name": "Grão de Bico",
+        "name": "Grão-de-Bico",
         "satietyIdx": 131,
         "keywords": ["grão", "grãos", "bico", "chickpeas", "cru", "raw"],
         "doses": [
@@ -5525,6 +5525,28 @@
                 "quantity": 460,
                 "unit": "g",
                 "calsPerUnit": 4.23,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "272",
+        "name": "Hamburger de Grão-de-Bico",
+        "brand": "Auchan",
+        "isBrandRelevant": true,
+        "satietyIdx": 160,
+        "keywords": ["hamburgers", "hambúrgueres"],
+        "doses": [
+            {
+                "quantity": 80,
+                "unit": "g",
+                "calsPerUnit": 1.29,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 103.2,
                 "stepSize": 1
             }
         ]
