@@ -5359,5 +5359,178 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "53",
+        "name": "Seitan com Miso e Manteiga de Amendoim",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": [
+            "seitan",
+            "miso",
+            "white",
+            "branco",
+            "manteiga",
+            "amendoim",
+            "peanut",
+            "butter"
+        ],
+        "recipes": [
+            {
+                "id": "53.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "34",
+                                "name": "Seitan",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 121,
+                                "keywords": ["seitans"],
+                                "dose": {
+                                    "quantity": 300,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.16,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "70",
+                                "name": "Manteiga de Amendoim",
+                                "brand": "Calvé",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 70,
+                                "keywords": [
+                                    "manteigas",
+                                    "butters",
+                                    "amendoim",
+                                    "peanut",
+                                    "butter",
+                                    "spreads"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 130.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "221",
+                                "name": "Miso Branco",
+                                "satietyIdx": 100,
+                                "brand": "PRÓVida",
+                                "isBrandRelevant": false,
+                                "keywords": ["miso", "branco", "white"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 28.98,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "261",
+                                "name": "Sumo de limão",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "limão",
+                                    "limões",
+                                    "lemons",
+                                    "sumo",
+                                    "juice"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 11,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 16.5,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "192",
+                                "name": "Pimentão Picante",
+                                "satietyIdx": 85,
+                                "keywords": [
+                                    "pimentão",
+                                    "picante",
+                                    "hot",
+                                    "paprika",
+                                    "chilli"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.2,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Slice the seitan into 1–2 cm thick slabs. Lightly pat the pieces dry so the marinade clings better.",
+                            "Whisk all other ingredients together until smooth. Taste and adjust.",
+                            "Rub marinade all over seitan. Let it sit at least 30 minutes — or better, a few hours—in the fridge.",
+                            "Preheat oven to 180°C.",
+                            "Place seitan on a parchment-lined baking sheet or shallow baking dish.",
+                            "Bake for around 10–12 min, flip, baste, then bake for another 8–10 min. Keep an eye on it — the sugars can burn.",
+                            "When light caramelized remove from oven. Let it rest a few minutes — it firms up as it cools."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
