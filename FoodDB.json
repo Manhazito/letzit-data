@@ -5136,16 +5136,7 @@
         "id": "253",
         "name": "Mascarpone",
         "satietyIdx": 55,
-        "keywords": [
-            "pastas",
-            "massas",
-            "esparguete",
-            "spaghetti",
-            "cooked",
-            "cozido",
-            "cozido",
-            "cozida"
-        ],
+        "keywords": ["mascarpone", "queijo", "cheese"],
         "doses": [
             {
                 "quantity": 14,
@@ -5547,6 +5538,26 @@
                 "quantity": 1,
                 "unit": "unit",
                 "calsPerUnit": 103.2,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "273",
+        "name": "Bróculos (cozidos)",
+        "satietyIdx": 200,
+        "keywords": ["broculos", "bróculos", "brocolli"],
+        "doses": [
+            {
+                "quantity": 100,
+                "unit": "g",
+                "calsPerUnit": 0.4,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 8,
                 "stepSize": 1
             }
         ]
