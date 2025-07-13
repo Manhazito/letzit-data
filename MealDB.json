@@ -2802,7 +2802,7 @@
                             }
                         ],
                         "steps": [
-                            "Sweat the mushrooms until deeply browned and moisture is gone. Don’t crowd the pan. Salt at the end. Set aside.",
+                            "Sweat the mushrooms until deeply browned and moisture is gone. Don't crowd the pan. Salt at the end. Set aside.",
                             "In the same pan, add the the olive oil. Sauté onion gently until translucent, then add garlic for 30 seconds.",
                             "Add the rice. Stir for 1–2 minutes until slightly translucent.",
                             "Deglaze with wine. Stir until absorbed.",
@@ -3540,10 +3540,10 @@
                         "steps": [
                             "Boil the noodles for 2–3 minutes — undercook slightly, then drain and rinse with cold water. Toss in a little oil to prevent sticking.",
                             "Slice mushrooms thin so they cook quickly.",
-                            "In a hot pan (wok or large skillet), add a bit of neutral oil. Sear the mushrooms until browned. Don’t crowd them — they’ll steam.",
+                            "In a hot pan (wok or large skillet), add a bit of neutral oil. Sear the mushrooms until browned. Don't crowd them — they'll steam.",
                             "Add garlic and cook 30 seconds more.",
                             "Toss in the Heura pieces. Let them brown slightly or heat through, depending on their current state.",
-                            "Add your drained noodles. Stir to mix everything — don’t baby them, let them sit for a few seconds to crisp.",
+                            "Add your drained noodles. Stir to mix everything — don't baby them, let them sit for a few seconds to crisp.",
                             "Add soy sauce, and chili flakes if you like heat."
                         ]
                     }
@@ -4548,7 +4548,7 @@
                             "Roast for 20 minutes.",
                             "In a small bowl, stir together balsamic vinegar and honey.",
                             "Remove the cabbage from the oven and brush this mixture generously over the cut surface.",
-                            "Roast another 15–25 minutes, cut side up, until the cabbage is nicely caramelized on top and a knife slides into the core without resistance. (The outer edges may char slightly — that’s good flavor.)",
+                            "Roast another 15–25 minutes, cut side up, until the cabbage is nicely caramelized on top and a knife slides into the core without resistance. (The outer edges may char slightly — that's good flavor.)",
                             "Let it rest 5 minutes, then slice into wedges."
                         ]
                     }
@@ -5527,6 +5527,195 @@
                             "Place seitan on a parchment-lined baking sheet or shallow baking dish.",
                             "Bake for around 10–12 min, flip, baste, then bake for another 8–10 min. Keep an eye on it — the sugars can burn.",
                             "When light caramelized remove from oven. Let it rest a few minutes — it firms up as it cools."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "name": "Pasta alla Puttanesca Vegetariana",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": [
+            "pasta",
+            "massa",
+            "esparguete",
+            "tagliatelle",
+            "spaghetti",
+            "puttanesca",
+            "putanesca"
+        ],
+        "recipes": [
+            {
+                "id": "53.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "187",
+                                "name": "Pasta",
+                                "satietyIdx": 119,
+                                "keywords": ["pastas", "massas", "seca", "dry"],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cs",
+                                    "calsPerUnit": 130.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "192",
+                                "name": "Pimentão Picante",
+                                "satietyIdx": 85,
+                                "keywords": [
+                                    "pimentão",
+                                    "picante",
+                                    "hot",
+                                    "paprika",
+                                    "chilli"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 2.45,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "221",
+                                "name": "Miso Branco",
+                                "satietyIdx": 100,
+                                "brand": "PRÓVida",
+                                "isBrandRelevant": false,
+                                "keywords": ["miso", "branco", "white"],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cs",
+                                    "calsPerUnit": 28.98,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "122",
+                                "name": "Tomate triturado",
+                                "brand": "Continente",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 125,
+                                "keywords": [
+                                    "tomates",
+                                    "picados",
+                                    "triturados",
+                                    "chopped",
+                                    "tomatoes",
+                                    "crushed"
+                                ],
+                                "dose": {
+                                    "quantity": 8,
+                                    "unit": "cube",
+                                    "calsPerUnit": 3,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "169",
+                                "name": "Azeitona sem caroço",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "fruta",
+                                    "fruit",
+                                    "azeitonas",
+                                    "olives",
+                                    "caroço",
+                                    "pit"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.84,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "274",
+                                "name": "Alcaparras (em vinagre)",
+                                "satietyIdx": 65,
+                                "keywords": [
+                                    "alcaparras",
+                                    "cappers",
+                                    "vinagre",
+                                    "vinegar",
+                                    "pickles"
+                                ],
+                                "dose": {
+                                    "quantity": 1.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 2.07,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Cook pasta in plenty of salted water until al dente. Save about ½ cup of pasta water before draining.",
+                            "Heat olive oil in a large pan over medium heat. Add sliced garlic and paprika. Cook gently until fragrant but not browned.",
+                            "Stir in white miso paste. Let it dissolve slightly into the oil, about 30 seconds.",
+                            "Add the tomatoes. Simmer for ~10 minutes, stirring occasionally.",
+                            "Toss in chopped olives and capers. Cook ~2 more minutes.",
+                            "Taste and season with salt and pepper.",
+                            "Add drained spaghetti to the sauce. Toss to coat, adding reserved pasta water little by little if it's too thick."
                         ]
                     }
                 ]
