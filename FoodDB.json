@@ -487,7 +487,7 @@
     },
     {
         "id": "24",
-        "name": "Arroz cozido",
+        "name": "Arroz (cozido)",
         "satietyIdx": 138,
         "keywords": ["arroz", "branco", "white", "rice", "cozido", "baked"],
         "doses": [
@@ -3591,7 +3591,7 @@
     },
     {
         "id": "179",
-        "name": "Arroz arbóreo cozido",
+        "name": "Arroz arbóreo (cozido)",
         "satietyIdx": 125,
         "keywords": [
             "arroz",
@@ -5584,6 +5584,82 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 2.07,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "275",
+        "name": "Arroz basmati",
+        "satietyIdx": 125,
+        "keywords": ["arroz", "basmati", "rice"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.57,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "276",
+        "name": "Arroz basmati (ao vapor)",
+        "satietyIdx": 125,
+        "keywords": ["arroz", "basmati", "rice"],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.49,
+                "stepSize": 1
+            },
+            {
+                "quantity": 8,
+                "unit": "cs",
+                "calsPerUnit": 22.35,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "277",
+        "name": "Caril",
+        "satietyIdx": 55,
+        "keywords": ["caril", "curry"],
+        "doses": [
+            {
+                "quantity": 6,
+                "unit": "g",
+                "calsPerUnit": 3.43,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 20.58,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 6.86,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "278",
+        "name": "Leite de Côco",
+        "brand": "Continente",
+        "isBrandRelevant": false,
+        "satietyIdx": 90,
+        "keywords": ["caril", "curry"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 1.7,
                 "stepSize": 1
             }
         ]
