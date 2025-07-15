@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Salada",
+        "name": "Salada da Carla",
         "servings": 1,
         "servingUnit": "unit",
         "keywords": ["saladas", "salads"],
@@ -5841,7 +5841,7 @@
     {
         "id": "55",
         "name": "Caril de Heura",
-        "servings": 3,
+        "servings": 2,
         "servingUnit": "unit",
         "keywords": ["caril", "curry", "heura", "frango", "chicken"],
         "recipes": [
@@ -5857,7 +5857,7 @@
                                 "satietyIdx": 55,
                                 "keywords": ["água", "water"],
                                 "dose": {
-                                    "quantity": 400,
+                                    "quantity": 500,
                                     "unit": "ml",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -5902,7 +5902,7 @@
                                 "name": "Pedaços de Frango",
                                 "brand": "Heura",
                                 "isBrandRelevant": true,
-                                "satietyIdx": 220,
+                                "satietyIdx": 200,
                                 "keywords": [
                                     "pedaços",
                                     "frango",
@@ -5912,7 +5912,7 @@
                                     "chunks"
                                 ],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 140,
                                     "unit": "g",
                                     "calsPerUnit": 1.36,
                                     "stepSize": 1
@@ -5924,7 +5924,7 @@
                                 "satietyIdx": 175,
                                 "keywords": ["pimentos", "bell", "peppers"],
                                 "dose": {
-                                    "quantity": 100,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.2,
                                     "stepSize": 1
@@ -5936,7 +5936,7 @@
                                 "satietyIdx": 100,
                                 "keywords": ["cebola", "onion"],
                                 "dose": {
-                                    "quantity": 60,
+                                    "quantity": 40,
                                     "unit": "g",
                                     "calsPerUnit": 0.4,
                                     "stepSize": 1
@@ -5948,7 +5948,7 @@
                                 "satietyIdx": 150,
                                 "keywords": ["courgette", "zucchini"],
                                 "dose": {
-                                    "quantity": 100,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.17,
                                     "stepSize": 1
@@ -5998,7 +5998,7 @@
                                 "satietyIdx": 50,
                                 "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
-                                    "quantity": 14,
+                                    "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 9,
                                     "stepSize": 1
@@ -6024,7 +6024,7 @@
                                 "satietyIdx": 90,
                                 "keywords": ["caril", "curry"],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 125,
                                     "unit": "g",
                                     "calsPerUnit": 1.7,
                                     "stepSize": 1
@@ -6036,7 +6036,7 @@
                                 "satietyIdx": 80,
                                 "keywords": ["mel", "honey"],
                                 "dose": {
-                                    "quantity": 15,
+                                    "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 3.04,
                                     "stepSize": 1
