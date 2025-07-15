@@ -3845,6 +3845,12 @@
                 "unit": "cs",
                 "calsPerUnit": 16.5,
                 "stepSize": 0.5
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 5.5,
+                "stepSize": 0.5
             }
         ]
     },
@@ -5660,6 +5666,26 @@
                 "quantity": 200,
                 "unit": "g",
                 "calsPerUnit": 1.7,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "279",
+        "name": "Vinagre de Arroz",
+        "satietyIdx": 100,
+        "keywords": ["vinagre", "arroz", "rice", "vinegar"],
+        "doses": [
+            {
+                "quantity": 15,
+                "unit": "ml",
+                "calsPerUnit": 0.21,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 3.15,
                 "stepSize": 1
             }
         ]

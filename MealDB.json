@@ -6048,5 +6048,97 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "56",
+        "name": "Sunomono",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["sunomono", "pepino", "cucumber", "salada"],
+        "recipes": [
+            {
+                "id": "56.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "92",
+                                "name": "Pepino",
+                                "satietyIdx": 200,
+                                "keywords": ["pepinos", "cucumbers"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 30,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "279",
+                                "name": "Vinagre de Arroz",
+                                "satietyIdx": 100,
+                                "keywords": [
+                                    "vinagre",
+                                    "arroz",
+                                    "rice",
+                                    "vinegar"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cs",
+                                    "calsPerUnit": 3.15,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 46.44,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 5.5,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Slice the cucumber very thin (paper-thin rounds).",
+                            "Sprinkle slices with the salt and gently massage. Let sit ~10 minutes to draw out moisture.",
+                            "Squeeze out excess water with your hands.",
+                            "Mix rice vinegar, sugar, and soy sauce. Stir until sugar dissolves completely.",
+                            "Toss drained cucumber with the dressing.",
+                            "Chill for ~10-15 minutes if you like it extra cold.",
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
