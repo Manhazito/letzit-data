@@ -5480,7 +5480,7 @@
         "doses": [
             {
                 "quantity": 1,
-                "unit": "g",
+                "unit": "umit",
                 "calsPerUnit": 105.11,
                 "stepSize": 1
             }
@@ -5502,7 +5502,7 @@
         "doses": [
             {
                 "quantity": 1,
-                "unit": "g",
+                "unit": "unit",
                 "calsPerUnit": 85.61,
                 "stepSize": 1
             }
