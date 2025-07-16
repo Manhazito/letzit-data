@@ -826,6 +826,18 @@
                                 }
                             },
                             {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "keywords": ["cenouras", "carrots"],
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.41,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
                                 "id": "31",
                                 "name": "Carne Picada",
                                 "brand": "Heura",
@@ -896,6 +908,18 @@
                                 }
                             },
                             {
+                                "id": "158",
+                                "name": "Orégãos",
+                                "satietyIdx": 90,
+                                "keywords": ["orégãos", "oreganos"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.72,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
@@ -905,9 +929,26 @@
                                     "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Coloque no copo a cebola, o alho, a cenoura, e o azeite. Triture 5 seg/vel 7. Refogue 4 min/120ºC/vel 2.",
+                            "Adicione a carne picada e cozinhe 10 min/120ºC/Reverse/vel 1.",
+                            "Adicione o tomate, os orégãos, o sal, a pimenta, e a água. Cozunhe 15 min/100ªC/Reverse/vel 1.",
+                            "Sirva colocando o queijo no topo."
+                        ]
                     }
                 ]
             }
