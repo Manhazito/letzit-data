@@ -944,11 +944,12 @@
                             }
                         ],
                         "steps": [
+                            "Cozinhe a pasta conforme instruções da embalagem.",
                             "Coloque no copo a cebola, o alho, a cenoura, e o azeite. Triture 5 seg/vel 7.",
-                            " Refogue 4 min/120ºC/vel 2.",
-                            "Adicione a carne picada e cozinhe 10 min/120ºC/Reverse/vel 1.",
-                            "Adicione o tomate, os orégãos, o sal, a pimenta, e a água. Cozinhe 15 min/100ªC/Reverse/vel 1.",
-                            "Sirva colocando o queijo no topo."
+                            "Refogue 4 min/120ºC/vel 2.",
+                            "Adicione a carne picada e cozinhe 5 min/120ºC/Reverse/vel 1.",
+                            "Adicione o tomate, os orégãos, o sal, a pimenta, e a água. Cozinhe 10 min/100ªC/Reverse/vel 1.",
+                            "Sirva com a pasta, adicionando o queijo no topo."
                         ]
                     }
                 ]
