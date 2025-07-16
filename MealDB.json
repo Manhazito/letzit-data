@@ -868,7 +868,7 @@
                                 "name": "Pasta",
                                 "satietyIdx": 119,
                                 "dose": {
-                                    "quantity": 80,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 3.59,
                                     "stepSize": 1
