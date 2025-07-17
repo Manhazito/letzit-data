@@ -5480,7 +5480,7 @@
         "doses": [
             {
                 "quantity": 1,
-                "unit": "umit",
+                "unit": "unit",
                 "calsPerUnit": 105.11,
                 "stepSize": 1
             }
