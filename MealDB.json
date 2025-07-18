@@ -6183,5 +6183,350 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "57",
+        "name": "Ramen de Tofu",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["noodles", "ramen", "pastas", "massas", "tofu"],
+        "recipes": [
+            {
+                "id": "57.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "title": "Ovos marinados",
+                        "ingredients": [
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled",
+                                    "estrelados",
+                                    "fried"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 15,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.1,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coza os ovos por 7 minutos para obter gema mole, descasque e coloque numa tigela com o molho de soja. Marinar por pelo menos 30 minutos, virando ocasionalmente."
+                        ]
+                    },
+                    {
+                        "title": "Caldo",
+                        "ingredients": [
+                            {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "keywords": ["cenouras", "carrots"],
+                                "dose": {
+                                    "quantity": 25,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.41,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "180",
+                                "name": "Caldo de Vegetais (líquido)",
+                                "satietyIdx": 25,
+                                "keywords": [
+                                    "caldo",
+                                    "vegetal",
+                                    "vegetais",
+                                    "vegetable",
+                                    "stock",
+                                    "líquido",
+                                    "liquid",
+                                    "água",
+                                    "water"
+                                ],
+                                "dose": {
+                                    "quantity": 500,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0.035,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "221",
+                                "name": "Miso Branco",
+                                "satietyIdx": 100,
+                                "brand": "PRÓVida",
+                                "isBrandRelevant": false,
+                                "keywords": ["miso", "branco", "white"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 9.66,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1.5,
+                                    "unit": "cs",
+                                    "calsPerUnit": 16.5,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "No copo da Bimby, coloque a cenoura e o alho. Pique 3 seg/vel 7.",
+                            "Adicione a água, caldo, pasta de miso, molho de soja e óleo de sésamo.",
+                            "Cozinhe 30 min/100°C/vel colher inversa.",
+                            "Filtre o caldo com coador fino e reserve."
+                        ]
+                    },
+                    {
+                        "title": "Tofu Salteado",
+                        "ingredients": [
+                            {
+                                "id": "35",
+                                "name": "Tofu",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 115,
+                                "keywords": ["tofus"],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.34,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 5.5,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Se desejar, envolva os cubos de tofu em amido de milho.",
+                            "Aqueça uma frigideira com o óleo de sésamo, adicione o tofu e doure bem de todos os lados (5–8 minutos).",
+                            "Adicione o molho de soja no final e envolva. Reserve."
+                        ]
+                    },
+                    {
+                        "title": "Topping e Finalização",
+                        "ingredients": [
+                            {
+                                "id": "247",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "marron",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 75,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "196",
+                                "name": "Noodles",
+                                "satietyIdx": 120,
+                                "brand": "Milaneza",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "seca",
+                                    "dry",
+                                    "noodles"
+                                ],
+                                "dose": {
+                                    "quantity": 75,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "281",
+                                "name": "Cebolinho",
+                                "satietyIdx": 95,
+                                "keywords": ["cebolinho", "chives"],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.3,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "194",
+                                "name": "Alga Nori",
+                                "brand": "Blue Dragon",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 105,
+                                "keywords": [
+                                    "alga",
+                                    "seaweed",
+                                    "nori",
+                                    "tostada",
+                                    "roasted"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "unit",
+                                    "calsPerUnit": 7.7,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "280",
+                                "name": "Sementes de Sésamo",
+                                "satietyIdx": 60,
+                                "keywords": [
+                                    "sementes",
+                                    "sésamo",
+                                    "sesame",
+                                    "seeds"
+                                ],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "g",
+                                    "calsPerUnit": 5.85,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "No copo limpo, adicione os cogumelos e o óleo de sésamo.",
+                            "Cozinhe 3 min/120°C/vel colher inversa sem o copo de medida. Reserve.",
+                            "Cozinhar os noodles conforme as instruções da embalagem. Escorrer.",
+                            "Divida os noodles em 2 taças.",
+                            "Regue com o caldo quente.",
+                            "Junte o tofu salteado, meio ovo por porção, os cogumelos salteados, cebolinha, tiras de alga nori e sementes de sésamo.",
+                            "Servir imediatamente."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

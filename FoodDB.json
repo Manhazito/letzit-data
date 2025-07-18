@@ -4514,6 +4514,12 @@
                 "unit": "cs",
                 "calsPerUnit": 28.98,
                 "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 9.66,
+                "stepSize": 1
             }
         ]
     },
@@ -5686,6 +5692,34 @@
                 "quantity": 1,
                 "unit": "cs",
                 "calsPerUnit": 3.15,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "280",
+        "name": "Sementes de Sésamo",
+        "satietyIdx": 60,
+        "keywords": ["sementes", "sésamo", "sesame", "seeds"],
+        "doses": [
+            {
+                "quantity": 3,
+                "unit": "g",
+                "calsPerUnit": 5.85,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "281",
+        "name": "Cebolinho",
+        "satietyIdx": 95,
+        "keywords": ["cebolinho", "chives"],
+        "doses": [
+            {
+                "quantity": 3,
+                "unit": "g",
+                "calsPerUnit": 0.3,
                 "stepSize": 1
             }
         ]
