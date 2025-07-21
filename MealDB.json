@@ -6528,5 +6528,119 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "58",
+        "name": "Espuma de frutos silvestres",
+        "servings": 4,
+        "servingUnit": "unit",
+        "keywords": [
+            "espuma",
+            "foam",
+            "gelado",
+            "ice",
+            "cream",
+            "frutos",
+            "frutas",
+            "silvestres",
+            "wild",
+            "berry",
+            "fruits"
+        ],
+        "recipes": [
+            {
+                "id": "58.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 60,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.87,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "186",
+                                "name": "Mirtilos",
+                                "satietyIdx": 225,
+                                "keywords": [
+                                    "mirtilos",
+                                    "fruta",
+                                    "fruit",
+                                    "blueberry",
+                                    "blueberries"
+                                ],
+                                "dose": {
+                                    "quantity": 125,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.45,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "19",
+                                "name": "Morangos",
+                                "satietyIdx": 160,
+                                "keywords": [
+                                    "fruta",
+                                    "fruit",
+                                    "morangos",
+                                    "strawberry",
+                                    "strawberries"
+                                ],
+                                "dose": {
+                                    "quantity": 125,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.32,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "261",
+                                "name": "Sumo de limão",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "limão",
+                                    "limões",
+                                    "lemons",
+                                    "sumo",
+                                    "juice"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 11,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "126",
+                                "name": "Clara de Ovo",
+                                "satietyIdx": 180,
+                                "keywords": ["ovos", "clara", "white", "eggs"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 15.6,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coloque no copo o açúcar e pulverize 15 seg/vel 10.",
+                            "Adicione os frutos silvestres congelados, e o sumo de limão. Pique 40 seg/vel 9.",
+                            "Insira a borboleta. Adicione a clara e bata 3 min/vel 3.5. Sirva de seguida."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

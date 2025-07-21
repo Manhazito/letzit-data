@@ -4794,15 +4794,7 @@
         "id": "233",
         "name": "Molho Tzatziki",
         "satietyIdx": 100,
-        "keywords": [
-            "café",
-            "coffee",
-            "espresso",
-            "sem",
-            "açúcar",
-            "without",
-            "sugar"
-        ],
+        "keywords": ["molho", "tzatziki", "sauce"],
         "doses": [
             {
                 "quantity": 30,
