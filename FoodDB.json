@@ -2462,7 +2462,7 @@
         "id": "124",
         "name": "Hummus",
         "brand": "Continente",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 160,
         "keywords": ["húmus", "humus", "hummus", "grão", "bico", "chickpeas"],
         "doses": [
@@ -5713,6 +5713,80 @@
                 "unit": "g",
                 "calsPerUnit": 0.3,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "282",
+        "name": "Pistácio torrado",
+        "satietyIdx": 120,
+        "keywords": ["pistácio", "pistachio", "torrado", "roasted"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 6.29,
+                "stepSize": 1
+            },
+            {
+                "quantity": 40,
+                "unit": "unit",
+                "calsPerUnit": 7.8625,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "283",
+        "name": "Hummus",
+        "brand": "La Piara",
+        "isBrandRelevant": true,
+        "satietyIdx": 160,
+        "keywords": ["húmus", "humus", "hummus", "grão", "bico", "chickpeas"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 2.97,
+                "stepSize": 1
+            },
+            {
+                "quantity": 2,
+                "unit": "cs",
+                "calsPerUnit": 89.1,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "284",
+        "name": "Tortilla Chips Nachos",
+        "brand": "Zanuy",
+        "isBrandRelevant": true,
+        "satietyIdx": 50,
+        "keywords": ["tortilla", "chips", "nachos", "triângulos", "milho"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 5.23,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "285",
+        "name": "Hamburger de Frango",
+        "brand": "Revolu Green!",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": ["hambúrgueres", "hamburgers", "frango", "chicken"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 141.75,
+                "stepSize": 0.5
             }
         ]
     }
