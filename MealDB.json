@@ -6647,8 +6647,8 @@
     {
         "id": "59",
         "name": "Massa de Pizza rápida",
-        "servings": 1,
-        "servingUnit": "unit",
+        "servings": 8,
+        "servingUnit": "slice",
         "keywords": ["massa", "pizza", "piza", "dough", "rápida", "quick"],
         "recipes": [
             {
