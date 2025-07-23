@@ -5801,5 +5801,26 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "286",
+        "name": "Queijo Azul",
+        "satietyIdx": 65,
+        "keywords": [
+            "quaijo",
+            "azul",
+            "blue",
+            "cheese",
+            "roquefort",
+            "gorgonzola"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 3.53,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
