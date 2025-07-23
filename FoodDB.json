@@ -2043,6 +2043,12 @@
                 "unit": "cs",
                 "calsPerUnit": 29.25,
                 "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 9.75,
+                "stepSize": 1
             }
         ]
     },
@@ -2551,6 +2557,12 @@
                 "unit": "cc",
                 "calsPerUnit": 0,
                 "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 0,
+                "stepSize": 1
             }
         ]
     },
@@ -2635,7 +2647,7 @@
         "brand": "Dr. Oetker",
         "isBrandRelevant": true,
         "satietyIdx": 65,
-        "keywords": ["pizza", "ristorante", "dr.", "oetker"],
+        "keywords": ["pizza", "piza", "ristorante", "dr.", "oetker"],
         "doses": [
             {
                 "quantity": 1,

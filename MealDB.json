@@ -2001,6 +2001,7 @@
         "servingUnit": "slice",
         "keywords": [
             "pizza",
+            "piza",
             "chouriço",
             "chorizo",
             "mozzarella",
@@ -2313,7 +2314,7 @@
         "name": "Pizza Ristorante",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": ["pizza", "ristorante", "pizza", "oetker"],
+        "keywords": ["pizza", "ristorante", "piza", "oetker"],
         "recipes": [
             {
                 "id": "28.1",
@@ -3903,7 +3904,7 @@
         "name": "Pizza Margherita",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": ["pizza", "margherita"],
+        "keywords": ["pizza", "piza", "margherita"],
         "recipes": [
             {
                 "id": "42.1",
@@ -6637,6 +6638,114 @@
                             "Coloque no copo o açúcar e pulverize 15 seg/vel 10.",
                             "Adicione os frutos silvestres congelados, e o sumo de limão. Pique 40 seg/vel 9.",
                             "Insira a borboleta. Adicione a clara e bata 3 min/vel 3.5. Sirva de seguida."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "name": "Massa de Pizza rápida",
+        "servings": 1,
+        "servingUnit": "unit",
+        "keywords": ["massa", "pizza", "piza", "dough", "rápida", "quick"],
+        "recipes": [
+            {
+                "id": "59.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 110,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 15.48,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "103",
+                                "name": "Fermento de Padeiro seco",
+                                "satietyIdx": 45,
+                                "keywords": [
+                                    "fermento",
+                                    "padeiro",
+                                    "seco",
+                                    "dry",
+                                    "yeast"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 9.75,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "42",
+                                "name": "Farinha de Trigo tipo 65",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "wheat",
+                                    "flour",
+                                    "65"
+                                ],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 14,
+                                    "unit": "g",
+                                    "calsPerUnit": 9,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coloque no copo a água, o açúcar, e o fermento, e misture 20 seg/vel 2.",
+                            "Adicione a farinha, o azeite, e o sal. Inicie o modo Amassar/2 min.",
+                            "Coloque a massa num recipiente polvilhado com farinha, ou borrifado com azeite. Cubra com película aderente e deixe levedar até dobrar de volume (1 hora aprox.). Use a massa de pizza conforme necessário."
                         ]
                     }
                 ]
