@@ -5822,5 +5822,19 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "287",
+        "name": "Polpa de Tomate",
+        "satietyIdx": 200,
+        "keywords": ["polpa", "tomates", "tomatoes", "pupl"],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 0.47,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
