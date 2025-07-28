@@ -808,7 +808,9 @@
     },
     {
         "id": "41",
-        "name": "Heineken",
+        "name": "Cerveja",
+        "brand": "Heineken",
+        "isBrandRelevant": true,
         "satietyIdx": 40,
         "keywords": ["cervejas", "heineken", "beers"],
         "doses": [
@@ -2870,7 +2872,9 @@
     },
     {
         "id": "145",
-        "name": "Super Bock",
+        "name": "Cerveja",
+        "brand": "Super Bock",
+        "isBrandRelevant": true,
         "satietyIdx": 40,
         "keywords": ["cervejas", "super", "bock", "beers"],
         "doses": [
@@ -2890,7 +2894,9 @@
     },
     {
         "id": "146",
-        "name": "Estrella Damm",
+        "name": "Cerveja",
+        "brand": "Estrella Damm",
+        "isBrandRelevant": true,
         "satietyIdx": 40,
         "keywords": ["cervejas", "estrella", "damm", "beers"],
         "doses": [
@@ -5849,6 +5855,80 @@
                 "quantity": 4,
                 "unit": "unit",
                 "calsPerUnit": 46.5,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "289",
+        "name": "Cerveja com Limão",
+        "brand": "Radler",
+        "isBrandRelevant": true,
+        "satietyIdx": 35,
+        "keywords": [
+            "cervejas",
+            "radler",
+            "beers",
+            "sumo",
+            "limão",
+            "lemon",
+            "juice"
+        ],
+        "doses": [
+            {
+                "quantity": 330,
+                "unit": "ml",
+                "calsPerUnit": 0.42,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 138.6,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "290",
+        "name": "Massa de Pizza",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": ["pizza", "piza", "massa", "dough"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 747.6,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 280,
+                "unit": "g",
+                "calsPerUnit": 2.67,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "291",
+        "name": "Pão de Forma",
+        "brand": "Intermarché",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": ["pão", "forma", "sliced", "bread"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 54.864,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 21.6,
+                "unit": "g",
+                "calsPerUnit": 2.54,
                 "stepSize": 1
             }
         ]
