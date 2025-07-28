@@ -5836,5 +5836,21 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "288",
+        "name": "Nuggets de Frango",
+        "brand": "Heura",
+        "isBrandRelevant": true,
+        "satietyIdx": 116,
+        "keywords": ["nuggets", "frango", "chicken"],
+        "doses": [
+            {
+                "quantity": 4,
+                "unit": "unit",
+                "calsPerUnit": 46.5,
+                "stepSize": 1
+            }
+        ]
     }
 ]
