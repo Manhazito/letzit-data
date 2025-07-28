@@ -780,7 +780,7 @@
         "id": "39",
         "name": "Salsichas de soja",
         "brand": "Nobre",
-        "isBrandRelevant": false,
+        "isBrandRelevant": true,
         "satietyIdx": 122,
         "keywords": ["salsichas", "soja", "soy", "sausages"],
         "doses": [
@@ -5930,6 +5930,22 @@
                 "unit": "g",
                 "calsPerUnit": 2.54,
                 "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "292",
+        "name": "Salsichas de ovo",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 122,
+        "keywords": ["salsichas", "ovo", "egg", "sausages"],
+        "doses": [
+            {
+                "quantity": 2,
+                "unit": "unit",
+                "calsPerUnit": 86.24,
+                "stepSize": 0.5
             }
         ]
     }
