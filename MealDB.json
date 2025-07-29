@@ -582,9 +582,9 @@
                                 "name": "Azeite",
                                 "satietyIdx": 50,
                                 "dose": {
-                                    "quantity": 30,
-                                    "unit": "spray",
-                                    "calsPerUnit": 0.1,
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 42,
                                     "stepSize": 1
                                 }
                             },
@@ -6892,6 +6892,148 @@
                             "Coloque no copo a água, o açúcar, e o fermento, e misture 20 seg/vel 2.",
                             "Adicione a farinha, o azeite, e o sal. Inicie o modo Amassar/2 min.",
                             "Coloque a massa num recipiente polvilhado com farinha, ou borrifado com azeite. Cubra com película aderente e deixe levedar até dobrar de volume (1 hora aprox.). Use a massa de pizza conforme necessário."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "name": "Creme de Courgette",
+        "servings": 5,
+        "servingUnit": "unit",
+        "keywords": [
+            "sopa",
+            "legumes",
+            "creme",
+            "cream",
+            "soup",
+            "courgette",
+            "zucchini"
+        ],
+        "recipes": [
+            {
+                "id": "61.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "dose": {
+                                    "quantity": 75,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "113",
+                                "name": "Courgette",
+                                "satietyIdx": 150,
+                                "keywords": ["courgette", "zucchini"],
+                                "dose": {
+                                    "quantity": 1050,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.17,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "180",
+                                "name": "Caldo de Vegetais (líquido)",
+                                "satietyIdx": 25,
+                                "keywords": [
+                                    "caldo",
+                                    "vegetal",
+                                    "vegetais",
+                                    "vegetable",
+                                    "stock",
+                                    "líquido",
+                                    "liquid",
+                                    "água",
+                                    "water"
+                                ],
+                                "dose": {
+                                    "quantity": 750,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "120",
+                                "name": "Queijo Parmesão",
+                                "satietyIdx": 100,
+                                "keywords": [
+                                    "queijo",
+                                    "parmesão",
+                                    "parmigiano",
+                                    "cheese"
+                                ],
+                                "dose": {
+                                    "quantity": 60,
+                                    "unit": "g",
+                                    "calsPerUnit": 4.02,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Coloque no copo a cebola e o alho e pique 4 seg/vel 5. Baixe com a ajuda da espátula o que ficou na parede do copo.",
+                            "Adicione a curgete e pique 5 seg/vel 5.",
+                            "Adicione o caldo de legumes, o sal e a pimenta e coza 18 min/100°C/vel 1.",
+                            "Adicione o queijo e triture 1 min/vel 5-7 aumentando progressivamente a velocidade. Sirva de seguida."
                         ]
                     }
                 ]

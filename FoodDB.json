@@ -1895,6 +1895,12 @@
                 "unit": "cs",
                 "calsPerUnit": 126,
                 "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 42,
+                "stepSize": 1
             }
         ]
     },
