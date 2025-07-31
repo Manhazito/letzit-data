@@ -4697,19 +4697,34 @@
                                     "calsPerUnit": 21.28,
                                     "stepSize": 1
                                 }
+                            },
+                            {
+                                "id": "64",
+                                "name": "Mostarda",
+                                "brand": "Paladin",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 35,
+                                "keywords": ["mostarda", "mustard"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 13.45,
+                                    "stepSize": 1
+                                }
                             }
                         ],
                         "steps": [
                             "Preheat oven to 200°C.",
+                            "Cut the cabbage in 4 wedges",
+                            "Mix all the other ingredients",
                             "Line a baking tray with parchment paper or foil.",
-                            "Rub the cut surfaces and outside of your cabbage half with olive oil. Be generous.",
-                            "Season thoroughly with salt and pepper.",
-                            "Place the cabbage half, cut side down, on the tray.",
+                            "Rub the all the surfaces of your cabbage with two thirds of the mix.",
+                            "Place the cabbage on the tray.",
                             "Roast for 20 minutes.",
-                            "In a small bowl, stir together balsamic vinegar and honey.",
-                            "Remove the cabbage from the oven and brush this mixture generously over the cut surface.",
-                            "Roast another 15–25 minutes, cut side up, until the cabbage is nicely caramelized on top and a knife slides into the core without resistance. (The outer edges may char slightly — that's good flavor.)",
-                            "Let it rest 5 minutes, then slice into wedges."
+                            "Take the cabbage out and flip the wedges",
+                            "Drip the rest of the mix on top of the cabbage.",
+                            "Roast another 15 minutes until the cabbage is nicely caramelized.",
+                            "Let it rest 5 minutes, then serve."
                         ]
                     }
                 ]

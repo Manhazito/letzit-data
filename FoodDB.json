@@ -1268,9 +1268,21 @@
         "keywords": ["mostarda", "mustard"],
         "doses": [
             {
-                "quantity": 20,
+                "quantity": 15,
                 "unit": "g",
                 "calsPerUnit": 2.69,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 40.35,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 13.45,
                 "stepSize": 1
             }
         ]
