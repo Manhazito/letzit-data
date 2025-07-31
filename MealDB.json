@@ -5112,7 +5112,7 @@
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
-                                    "calsPerUnit": 7.52,
+                                    "calsPerUnit": 6.58,
                                     "stepSize": 0.5
                                 }
                             }

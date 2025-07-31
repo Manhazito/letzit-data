@@ -6378,7 +6378,7 @@
         ],
         "doses": [
             {
-                "quantity": 16,
+                "quantity": 14,
                 "unit": "g",
                 "calsPerUnit": 0.47,
                 "stepSize": 1
@@ -6386,7 +6386,7 @@
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 7.52,
+                "calsPerUnit": 6.58,
                 "stepSize": 0.5
             }
         ]
