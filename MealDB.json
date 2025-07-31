@@ -5043,7 +5043,7 @@
                                     "water"
                                 ],
                                 "dose": {
-                                    "quantity": 500,
+                                    "quantity": 600,
                                     "unit": "ml",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -5119,8 +5119,7 @@
                         ],
                         "steps": [
                             "Put rice in simmering basket. Rinse under running water until clear. Set aside.",
-                            "Pour 500 g water + salt into mixing bowl. Insert simmering basket with rice. Cook: 18 min / Varoma / vel 4",
-                            "Check doneness. Add 2–3 min if needed.",
+                            "Pour 600 g water + salt into mixing bowl. Insert simmering basket with rice. Cook: 21 min / Varoma / vel 4",
                             "Carefully remove simmering basket. Tip rice into a bowl.",
                             "Stir in the olive oil, lemon zest, and lemon juice.",
                             "Season with extra salt. Fluff gently."
