@@ -7156,7 +7156,7 @@
                                 "name": "Caldo de Vegetais (líquido)",
                                 "satietyIdx": 25,
                                 "dose": {
-                                    "quantity": 500,
+                                    "quantity": 300,
                                     "unit": "ml",
                                     "calsPerUnit": 0.035,
                                     "stepSize": 1
@@ -7178,11 +7178,12 @@
                             "Coloque o parmesão no copo e rale 10 seg/velocidade 10. Transfira para uma taça e reserve.",
                             "Coloque as cascas de limão no copo e rale 10 seg/velocidade 10. Raspe as laterais com a espátula.",
                             "Adicione a cebola, o alho, e o azeite. Refogue 3 min/100°C/velocidade 1. De seguida pique 3 seg/velocidade 5. Raspe as laterais com a espátula.",
-                            "Adicione o arroz e, sem o copo medidor, refogue3 min/120°C/velocidade 1.",
-                            "Adicione o vinho e, sem o copo medidor, cozinhe 1 min/100°C/velocidade 1.",
-                            "Adicione 200 g de água, o cubo de caldo e o sal. Raspe o fundo do copo com a espátula. Cozinhe 14 min/100°C/velocidade 1, adicionando gradualmente o restante da água (300 g) pela tampa para garantir que o arroz cozinha de forma uniforme.",
+                            "Adicione o arroz e refogue 3 min/120°C/velocidade 1.",
+                            "Adicione o vinho e cozinhe 1 min/100°C/velocidade 1.",
+                            "Adicione 200 g de água, o cubo de caldo e o sal. Raspe o fundo do copo com a espátula. Cozinhe 14 min/100°C/velocidade 1, adicionando gradualmente o restante da água pela tampa para garantir que o arroz cozinha de forma uniforme.",
+                            "Deixe repousar no copo durante 1 minuto.",
                             "Retire para uma taça, misture o parmesão reservado.",
-                            "Faça a mantecatura durante um ou dois minutos. Decore com raspas de limão, e sirva imediatamente."
+                            "Faça a mantecatura durante um ou dois minutos. Sirva imediatamente."
                         ]
                     }
                 ]
