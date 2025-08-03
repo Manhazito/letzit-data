@@ -7123,7 +7123,7 @@
                                 "name": "Sal",
                                 "satietyIdx": 5,
                                 "dose": {
-                                    "quantity": 5,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -7167,7 +7167,7 @@
                                 "name": "Queijo Parmesão",
                                 "satietyIdx": 100,
                                 "dose": {
-                                    "quantity": 20,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 4.02,
                                     "stepSize": 1
