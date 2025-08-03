@@ -5990,5 +5990,25 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "294",
+        "name": "Casca de limão",
+        "satietyIdx": 90,
+        "keywords": ["limão", "limões", "lemons", "casta", "peel"],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 0.29,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 8.7,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
