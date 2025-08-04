@@ -6010,5 +6010,47 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "295",
+        "name": "Pão de Forma",
+        "brand": "Bimbo",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": ["pão", "forma", "sliced", "bread"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 81.25,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 32.5,
+                "unit": "g",
+                "calsPerUnit": 2.5,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "296",
+        "name": "Croissant",
+        "satietyIdx": 47.5,
+        "keywords": ["croissant"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 252,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 60,
+                "unit": "g",
+                "calsPerUnit": 4.2,
+                "stepSize": 1
+            }
+        ]
     }
 ]
