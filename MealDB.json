@@ -4556,27 +4556,6 @@
                                     "calsPerUnit": 2.5,
                                     "stepSize": 1
                                 }
-                            },
-                            {
-                                "id": "25",
-                                "name": "Esparguete (cozido)",
-                                "satietyIdx": 119,
-                                "keywords": [
-                                    "pastas",
-                                    "massas",
-                                    "esparguete",
-                                    "spaghetti",
-                                    "cooked",
-                                    "cozido",
-                                    "cozido",
-                                    "cozida"
-                                ],
-                                "dose": {
-                                    "quantity": 300,
-                                    "unit": "g",
-                                    "calsPerUnit": 1.2,
-                                    "stepSize": 1
-                                }
                             }
                         ],
                         "steps": [
