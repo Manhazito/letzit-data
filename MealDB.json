@@ -4772,7 +4772,7 @@
                                 "satietyIdx": 50,
                                 "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 0.5,
                                     "unit": "cs",
                                     "calsPerUnit": 126,
                                     "stepSize": 1
