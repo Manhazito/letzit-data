@@ -5905,7 +5905,7 @@
                                 "name": "Sal",
                                 "satietyIdx": 5,
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 2,
                                     "unit": "cc",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -6080,7 +6080,13 @@
                                 }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Numa frigideira doure os pedaços de Heura",
+                            "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Coloque o tabuleiro da Varoma com o pimento e a curgete e cozinhe 20 min/Varoma/vel 4. Retire e reserve a Varoma. Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo.",
+                            "Coloque no copo a cebola, o alho, o tomate e o azeite, pique 3 seg/vel 5 e refogue 3 min/120°C/vel 1.",
+                            "Adicione a Heura, o caril, o leite de coco, o mel, 1 c. de chá de sal e 1-2 pitadas de pimenta e cozinhe 10 min/95°C/Reverse/vel 1.",
+                            "Adicione o pimento e a curgete cozidos e envolva com a ajuda da espátula. Retire e sirva com o arroz."
+                        ]
                     }
                 ]
             }
