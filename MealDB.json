@@ -7669,5 +7669,66 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "63",
+        "name": "Maçã cozida",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": [
+            "maçã",
+            "cozida",
+            "puré",
+            "baked",
+            "apple",
+            "mashed"
+        ],
+        "recipes": [
+            {
+                "id": "63.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "297",
+                                "name": "Vinho do Porto",
+                                "satietyIdx": 0.0,
+                                "keywords": [
+                                    "Vinho",
+                                    "Porto",
+                                    "Port",
+                                    "Wine"
+                                ],
+                                "dose": {
+                                    "quantity": 15,
+                                    "unit": "ml",
+                                    "calsPerUnit": 1,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "11",
+                                "name": "Maçã",
+                                "satietyIdx": 197,
+                                "keywords": [
+                                    "fruta",
+                                    "fruit",
+                                    "maçãs",
+                                    "apples"
+                                ],
+                                "dose": {
+                                    "quantity": 280,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.5,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]
