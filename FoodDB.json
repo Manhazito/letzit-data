@@ -6432,30 +6432,8 @@
         ]
     },
     {
-        "id": "269",
-        "name": "Rissóis de Queijo e Fiambre #1",
-        "satietyIdx": 96,
-        "keywords": [
-            "rissóis",
-            "rissol",
-            "dough",
-            "queijo",
-            "cheese",
-            "fiambre",
-            "ham"
-        ],
-        "doses": [
-            {
-                "quantity": 1,
-                "unit": "unit",
-                "calsPerUnit": 105.11,
-                "stepSize": 1
-            }
-        ]
-    },
-    {
         "id": "270",
-        "name": "Rissóis de Queijo e Fiambre #2",
+        "name": "Rissóis de Queijo e Fiambre",
         "satietyIdx": 96,
         "keywords": [
             "rissóis",
@@ -6855,9 +6833,15 @@
         ],
         "doses": [
             {
-                "quantity": 50,
+                "quantity": 45,
                 "unit": "g",
                 "calsPerUnit": 0.47,
+                "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cs",
+                "calsPerUnit": 7.05,
                 "stepSize": 0.5
             }
         ]
@@ -7102,6 +7086,115 @@
                 "unit": "ml",
                 "calsPerUnit": 1,
                 "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "298",
+        "name": "Queijo para Pizza",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 146,
+        "keywords": [
+            "queijo",
+            "ralado",
+            "pizza",
+            "grated",
+            "cheese"
+        ],
+        "doses": [
+            {
+                "quantity": 30,
+                "unit": "g",
+                "calsPerUnit": 2.95,
+                "stepSize": 1
+            },
+            {
+                "quantity": 6,
+                "unit": "cs",
+                "calsPerUnit": 14.75,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "299",
+        "name": "Chouriço",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": [
+            "chouriços",
+            "chorizos",
+            "salsichas",
+            "sausages"
+        ],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 344,
+                "stepSize": 0.25
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 344,
+                "stepSize": 0.25
+            }
+        ]
+    },
+    {
+        "id": "300",
+        "name": "Chouriço",
+        "brand": "Vegin",
+        "isBrandRelevant": true,
+        "satietyIdx": 225,
+        "keywords": [
+            "chouriços",
+            "chorizos",
+            "salsichas",
+            "sausages"
+        ],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "g",
+                "calsPerUnit": 300,
+                "stepSize": 0.25
+            },
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 300,
+                "stepSize": 0.25
+            }
+        ]
+    },
+    {
+        "id": "301",
+        "name": "Massa de Pizza Rectangular",
+        "brand": "Lidl",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": [
+            "pizza",
+            "piza",
+            "massa",
+            "dough"
+        ],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 1060,
+                "stepSize": 0.25
+            },
+            {
+                "quantity": 400,
+                "unit": "g",
+                "calsPerUnit": 2.65,
+                "stepSize": 1
             }
         ]
     }
