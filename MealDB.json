@@ -7098,16 +7098,14 @@
         "servings": 5,
         "servingUnit": "slice",
         "keywords": [
-            "massa",
-            "pizza",
-            "piza",
-            "dough",
-            "rápida",
-            "quick"
+            "seitan",
+            "estufado",
+            "stew",
+            "braised"
         ],
         "recipes": [
             {
-                "id": "59.1",
+                "id": "60.1",
                 "type": "thermomix",
                 "parts": [
                     {
