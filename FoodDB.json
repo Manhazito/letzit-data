@@ -7133,13 +7133,13 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 344,
+                "calsPerUnit": 3.44,
                 "stepSize": 0.25
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 344,
+                "calsPerUnit": 3.44,
                 "stepSize": 0.25
             }
         ]
@@ -7160,13 +7160,13 @@
             {
                 "quantity": 200,
                 "unit": "g",
-                "calsPerUnit": 300,
+                "calsPerUnit": 3.0,
                 "stepSize": 0.25
             },
             {
                 "quantity": 1,
                 "unit": "unit",
-                "calsPerUnit": 300,
+                "calsPerUnit": 3.0,
                 "stepSize": 0.25
             }
         ]

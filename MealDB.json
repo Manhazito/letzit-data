@@ -7698,7 +7698,7 @@
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 344,
+                                    "calsPerUnit": 3.44,
                                     "stepSize": 0.25
                                 }
                             },
