@@ -7439,7 +7439,7 @@
                                     "instantaneos"
                                 ],
                                 "dose": {
-                                    "quantity": 170,
+                                    "quantity": 110,
                                     "unit": "g",
                                     "calsPerUnit": 2.15,
                                     "stepSize": 1
@@ -7458,7 +7458,7 @@
                                     "fried"
                                 ],
                                 "dose": {
-                                    "quantity": 2,
+                                    "quantity": 3,
                                     "unit": "unit",
                                     "calsPerUnit": 80,
                                     "stepSize": 0.5
@@ -7492,7 +7492,7 @@
                                 "satietyIdx": 142,
                                 "keywords": ["cenouras", "carrots"],
                                 "dose": {
-                                    "quantity": 30,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.41,
                                     "stepSize": 1
@@ -7504,7 +7504,7 @@
                                 "satietyIdx": 190,
                                 "keywords": ["kale"],
                                 "dose": {
-                                    "quantity": 20,
+                                    "quantity": 30,
                                     "unit": "g",
                                     "calsPerUnit": 0.35,
                                     "stepSize": 0.5
@@ -7516,7 +7516,7 @@
                                 "satietyIdx": 150,
                                 "keywords": ["courgette", "zucchini"],
                                 "dose": {
-                                    "quantity": 30,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.17,
                                     "stepSize": 1
@@ -7528,7 +7528,7 @@
                                 "satietyIdx": 50,
                                 "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 2,
                                     "unit": "cc",
                                     "calsPerUnit": 5.5,
                                     "stepSize": 0.5
@@ -7550,15 +7550,40 @@
                                     "calsPerUnit": 5,
                                     "stepSize": 1
                                 }
+                            },
+                            {
+                                "id": "93",
+                                "name": "Pimento",
+                                "satietyIdx": 175,
+                                "keywords": ["pimentos", "bell", "peppers"],
+                                "dose": {
+                                    "quantity": 30,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
                             }
                         ],
                         "steps": [
-                            "Cook noodles according to package instructions; drain.",
-                            "Heat sesame oil in a non-stick pan.",
-                            "Add vegetables, stir-fry 2–3 min until tender-crisp.",
-                            "Push veggies aside, crack in the egg, scramble until just set.",
-                            "Add noodles and soy sauce, toss everything together until coated.",
-                            "Serve hot."
+                            "Cozinhe os noodles de acordo com as instruções; escorra e reserve.",
+                            "Aqueça o óleo de sésamo numa frigideira grande.",
+                            "Adicione a cenoura aos cubos e deixe cozinhar por dois minutos",
+                            "Adicione a courgete e deixe saltear por mais dois minutos",
+                            "Adicione o sal e os restantes vegetais, e deixe cozinhar por mais alguns minutos.",
+                            "Adicione os ovos e misture tudo até estarem cozinhados.",
+                            "Adicione os noodles e o molho de soja, e envolva tudo.",
+                            "Sirva quente."
                         ]
                     }
                 ]
