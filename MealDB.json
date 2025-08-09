@@ -2039,7 +2039,7 @@
                                     "tomate"
                                 ],
                                 "dose": {
-                                    "quantity": 50,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 0.25,
                                     "stepSize": 0.5
@@ -3849,7 +3849,7 @@
                                     "tomate"
                                 ],
                                 "dose": {
-                                    "quantity": 110,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 0.25,
                                     "stepSize": 0.5
