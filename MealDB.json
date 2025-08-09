@@ -7507,5 +7507,82 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "67",
+        "name": "Molho de Tomate",
+        "servings": 110,
+        "servingUnit": "g",
+        "keywords": ["tomatoes", "sauce", "molho", "tomates"],
+        "recipes": [
+            {
+                "id": "67.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "170",
+                                "name": "Passata de Tomate com Manjerição e Oregãos",
+                                "brand": "Guloso",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 125,
+                                "keywords": [
+                                    "tomates",
+                                    "picados",
+                                    "triturados",
+                                    "passata",
+                                    "majericão",
+                                    "orégãos",
+                                    "polpa",
+                                    "oreganos",
+                                    "chopped",
+                                    "tomatoes",
+                                    "crushed"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.23,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "192",
+                                "name": "Pimentão Picante",
+                                "satietyIdx": 85,
+                                "keywords": [
+                                    "pimentão",
+                                    "picante",
+                                    "hot",
+                                    "paprika"
+                                ],
+                                "dose": {
+                                    "quantity": 1.5,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.2,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Without cleaning the bowl, add the canned tomatoes, chilli flakes, and salt. Blend 20 sec / Speed 5;",
+                            "Transfer to a bowl and set aside."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
