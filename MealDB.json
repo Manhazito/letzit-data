@@ -7434,7 +7434,7 @@
     {
         "id": "66",
         "name": "Massa de Pizza",
-        "servings": 8,
+        "servings": 16,
         "servingUnit": "slice",
         "keywords": ["pizza", "piza", "massa", "dough"],
         "recipes": [
@@ -7450,7 +7450,7 @@
                                 "satietyIdx": 55,
                                 "keywords": ["água", "water"],
                                 "dose": {
-                                    "quantity": 150,
+                                    "quantity": 200,
                                     "unit": "ml",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -7462,7 +7462,7 @@
                                 "satietyIdx": 45,
                                 "keywords": ["fermento", "padeiro", "yeast"],
                                 "dose": {
-                                    "quantity": 2.5,
+                                    "quantity": 3.5,
                                     "unit": "g",
                                     "calsPerUnit": 3.25,
                                     "stepSize": 1
@@ -7480,7 +7480,7 @@
                                     "00"
                                 ],
                                 "dose": {
-                                    "quantity": 250,
+                                    "quantity": 335,
                                     "unit": "g",
                                     "calsPerUnit": 3.64,
                                     "stepSize": 1
@@ -7491,7 +7491,7 @@
                                 "name": "Sal",
                                 "satietyIdx": 5,
                                 "dose": {
-                                    "quantity": 5,
+                                    "quantity": 6.5,
                                     "unit": "g",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -7577,7 +7577,7 @@
                             }
                         ],
                         "steps": [
-                            "Without cleaning the bowl, add the canned tomatoes, chilli flakes, and salt. Blend 20 sec / Speed 5;",
+                            "Add the canned tomatoes, chilli flakes, and salt to the Thermomix bowl. Blend 20 sec / Speed 5;",
                             "Transfer to a bowl and set aside."
                         ]
                     }
