@@ -7327,7 +7327,7 @@
     {
         "id": "67",
         "name": "Molho de Tomate",
-        "servings": 110,
+        "servings": 400,
         "servingUnit": "g",
         "keywords": ["tomatoes", "sauce", "molho", "tomates"],
         "recipes": [
@@ -7357,7 +7357,7 @@
                                     "crushed"
                                 ],
                                 "dose": {
-                                    "quantity": 100,
+                                    "quantity": 390,
                                     "unit": "g",
                                     "calsPerUnit": 0.23,
                                     "stepSize": 1
@@ -7368,7 +7368,7 @@
                                 "name": "Sal",
                                 "satietyIdx": 5,
                                 "dose": {
-                                    "quantity": 5,
+                                    "quantity": 7,
                                     "unit": "g",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
@@ -7385,9 +7385,21 @@
                                     "paprika"
                                 ],
                                 "dose": {
-                                    "quantity": 1.5,
+                                    "quantity": 1,
                                     "unit": "g",
                                     "calsPerUnit": 3.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "158",
+                                "name": "Orégãos",
+                                "satietyIdx": 90,
+                                "keywords": ["orégãos", "oreganos"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.72,
                                     "stepSize": 1
                                 }
                             }
