@@ -7412,5 +7412,153 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "68",
+        "name": "Noodles com Ovo e Vegetais",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["vegetais", "vegetables", "ovo", "egg", "noodles"],
+        "recipes": [
+            {
+                "id": "68.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "224",
+                                "name": "Noodles Instantâneos",
+                                "satietyIdx": 120,
+                                "brand": "Koka",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "pastas",
+                                    "massas",
+                                    "noodles",
+                                    "instantaneos"
+                                ],
+                                "dose": {
+                                    "quantity": 170,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.15,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled",
+                                    "estrelados",
+                                    "fried"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "138",
+                                "name": "Cenoura",
+                                "satietyIdx": 142,
+                                "keywords": ["cenouras", "carrots"],
+                                "dose": {
+                                    "quantity": 30,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.41,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "303",
+                                "name": "Kale",
+                                "satietyIdx": 190,
+                                "keywords": ["kale"],
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.35,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "113",
+                                "name": "Courgette",
+                                "satietyIdx": 150,
+                                "keywords": ["courgette", "zucchini"],
+                                "dose": {
+                                    "quantity": 30,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.17,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 5.5,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Add the canned tomatoes, chilli flakes, and salt to the Thermomix bowl. Blend 20 sec / Speed 5;",
+                            "Transfer to a bowl and set aside."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
