@@ -7430,5 +7430,82 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "66",
+        "name": "Massa de Pizza",
+        "servings": 8,
+        "servingUnit": "slice",
+        "keywords": ["pizza", "piza", "massa", "dough"],
+        "recipes": [
+            {
+                "id": "66.1",
+                "type": "thermomix",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": ["água", "water"],
+                                "dose": {
+                                    "quantity": 150,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "103",
+                                "name": "Fermento de Padeiro seco",
+                                "satietyIdx": 45,
+                                "keywords": ["fermento", "padeiro", "yeast"],
+                                "dose": {
+                                    "quantity": 2.5,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.25,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "196",
+                                "name": "Farinha de Trigo tipo 00",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "wheat",
+                                    "flour",
+                                    "00"
+                                ],
+                                "dose": {
+                                    "quantity": 250,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.64,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "dose": {
+                                    "quantity": 5,
+                                    "unit": "g",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Add water and yeast to the Thermomix bowl. Warm 2 min / 37°C / Speed 2 to activate the yeast;",
+                            "Add flour and salt. Mix 10 sec / Speed 6, then knead 2 min / Dough Mode;",
+                            "Transfer the dough to a lightly floured bowl, cover with a damp cloth, and let it rise for 1.5 to 2 hours, or until doubled in size."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
