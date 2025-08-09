@@ -7589,5 +7589,146 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "69",
+        "name": "Tarte de Requeijão",
+        "servings": 6,
+        "servingUnit": "slice",
+        "keywords": ["tarte", "requeijão", "ricotta", "cream", "cheese", "pie"],
+        "recipes": [
+            {
+                "id": "68.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "143",
+                                "name": "Açúcar",
+                                "satietyIdx": 60,
+                                "keywords": ["açúcar", "sugar"],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.87,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "76",
+                                "name": "Manteiga",
+                                "brand": "Mimosa",
+                                "isBrandRelevant": true,
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "manteigas",
+                                    "butters",
+                                    "margarinas",
+                                    "margarines",
+                                    "spreads"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 7.43,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "55",
+                                "name": "Requeijão",
+                                "brand": "Santiago",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 165,
+                                "keywords": [
+                                    "requeijão",
+                                    "requeijões",
+                                    "queijos",
+                                    "cheeses",
+                                    "cream",
+                                    "cottage"
+                                ],
+                                "dose": {
+                                    "quantity": 250,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.17,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "91",
+                                "name": "Ovo",
+                                "satietyIdx": 150,
+                                "keywords": [
+                                    "ovos",
+                                    "eggs",
+                                    "cozidos",
+                                    "boiled",
+                                    "estrelados",
+                                    "fried"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 80,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "161",
+                                "name": "Farinha de trigo com fermento",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "farinha",
+                                    "trigo",
+                                    "fermento",
+                                    "branca",
+                                    "neve",
+                                    "self",
+                                    "rising",
+                                    "flour",
+                                    "wheat"
+                                ],
+                                "dose": {
+                                    "quantity": 20,
+                                    "unit": "g",
+                                    "calsPerUnit": 3.65,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "307",
+                                "name": "Fermento para Bolos",
+                                "satietyIdx": 10,
+                                "keywords": [
+                                    "fermento",
+                                    "bolo",
+                                    "baking",
+                                    "powder",
+                                    "self",
+                                    "raising",
+                                    "levedura",
+                                    "auto",
+                                    "levedante"
+                                ],
+                                "dose": {
+                                    "quantity": 0.5,
+                                    "unit": "cc",
+                                    "calsPerUnit": 2,
+                                    "stepSize": 0.5
+                                }
+                            }
+                        ],
+                        "steps": [
+                            "Preaqueça o forno a 180ºC.",
+                            "Forre com papel vegeta uma forma redonda.",
+                            "Coloque no copo o açúcar, a manteiga, o requeijão, os ovos, a farinha, e o fermento. Bata 1 minuti 30 seg/vel 5.",
+                            "Deite na forma e leve ao forno a 180ºC durante cerca de 15 min."
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
