@@ -2017,118 +2017,32 @@
                     {
                         "ingredients": [
                             {
-                                "id": "163",
-                                "name": "Água",
+                                "id": "304",
+                                "name": "Massa de Pizza",
                                 "satietyIdx": 55,
-                                "keywords": ["água", "water"],
+                                "keywords": ["pizza", "piza", "massa", "dough"],
                                 "dose": {
-                                    "quantity": 110,
-                                    "unit": "ml",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
+                                    "quantity": 8,
+                                    "unit": "slice",
+                                    "calsPerUnit": 76.92,
+                                    "stepSize": 0.5
                                 }
                             },
                             {
-                                "id": "143",
-                                "name": "Açúcar",
-                                "satietyIdx": 60,
-                                "keywords": ["açúcar", "sugar"],
-                                "dose": {
-                                    "quantity": 0.5,
-                                    "unit": "cc",
-                                    "calsPerUnit": 15.48,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "195",
-                                "name": "Fermento de Padeiro fresco",
-                                "satietyIdx": 45,
+                                "id": "305",
+                                "name": "Molho de Tomate",
+                                "satietyIdx": 119,
                                 "keywords": [
-                                    "fermento",
-                                    "padeiro",
-                                    "fresco",
-                                    "fresh",
-                                    "yeast"
-                                ],
-                                "dose": {
-                                    "quantity": 10,
-                                    "unit": "g",
-                                    "calsPerUnit": 1.05,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "42",
-                                "name": "Farinha de Trigo tipo 65",
-                                "satietyIdx": 55,
-                                "keywords": [
-                                    "farinha",
-                                    "trigo",
-                                    "wheat",
-                                    "flour",
-                                    "65"
-                                ],
-                                "dose": {
-                                    "quantity": 200,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.64,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "95",
-                                "name": "Azeite",
-                                "satietyIdx": 50,
-                                "keywords": ["azeites", "olive", "oil"],
-                                "dose": {
-                                    "quantity": 3,
-                                    "unit": "spray",
-                                    "calsPerUnit": 0.1,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "128",
-                                "name": "Sal",
-                                "satietyIdx": 5,
-                                "keywords": ["sal", "salt"],
-                                "dose": {
-                                    "quantity": 0.5,
-                                    "unit": "cc",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
-                                }
-                            }
-                        ],
-                        "steps": []
-                    },
-                    {
-                        "ingredients": [
-                            {
-                                "id": "162",
-                                "name": "Tomate triturado com Manjerição e Oregãos",
-                                "brand": "Continente",
-                                "isBrandRelevant": false,
-                                "satietyIdx": 125,
-                                "keywords": [
-                                    "tomates",
-                                    "picados",
-                                    "triturados",
-                                    "passata",
-                                    "majericão",
-                                    "orégãos",
-                                    "polpa",
-                                    "oreganos",
-                                    "chopped",
                                     "tomatoes",
-                                    "crushed"
+                                    "sauce",
+                                    "molho",
+                                    "tomate"
                                 ],
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
-                                    "calsPerUnit": 0.15,
-                                    "stepSize": 1
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 0.5
                                 }
                             },
                             {
@@ -3911,134 +3825,36 @@
                 "type": "thermomix",
                 "parts": [
                     {
-                        "title": "Massa",
                         "ingredients": [
                             {
-                                "id": "163",
-                                "name": "Água",
+                                "id": "304",
+                                "name": "Massa de Pizza",
                                 "satietyIdx": 55,
-                                "keywords": ["água", "water"],
+                                "keywords": ["pizza", "piza", "massa", "dough"],
                                 "dose": {
-                                    "quantity": 150,
-                                    "unit": "ml",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
+                                    "quantity": 8,
+                                    "unit": "slice",
+                                    "calsPerUnit": 76.92,
+                                    "stepSize": 0.5
                                 }
                             },
                             {
-                                "id": "103",
-                                "name": "Fermento de Padeiro seco",
-                                "satietyIdx": 45,
-                                "keywords": ["fermento", "padeiro", "yeast"],
-                                "dose": {
-                                    "quantity": 2.5,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.25,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "196",
-                                "name": "Farinha de Trigo tipo 00",
-                                "satietyIdx": 55,
+                                "id": "305",
+                                "name": "Molho de Tomate",
+                                "satietyIdx": 119,
                                 "keywords": [
-                                    "farinha",
-                                    "trigo",
-                                    "wheat",
-                                    "flour",
-                                    "00"
-                                ],
-                                "dose": {
-                                    "quantity": 250,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.64,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "128",
-                                "name": "Sal",
-                                "satietyIdx": 5,
-                                "dose": {
-                                    "quantity": 5,
-                                    "unit": "g",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
-                                }
-                            }
-                        ],
-                        "steps": [
-                            "Add water and yeast to the Thermomix bowl. Warm 2 min / 37°C / Speed 2 to activate the yeast;",
-                            "Add flour and salt. Mix 10 sec / Speed 6, then knead 2 min / Dough Mode;",
-                            "Transfer the dough to a lightly floured bowl, cover with a damp cloth, and let it rise for 1.5 to 2 hours, or until doubled in size."
-                        ]
-                    },
-                    {
-                        "title": "Molho de Tomate",
-                        "ingredients": [
-                            {
-                                "id": "170",
-                                "name": "Passata de Tomate com Manjerição e Oregãos",
-                                "brand": "Guloso",
-                                "isBrandRelevant": false,
-                                "satietyIdx": 125,
-                                "keywords": [
-                                    "tomates",
-                                    "picados",
-                                    "triturados",
-                                    "passata",
-                                    "majericão",
-                                    "orégãos",
-                                    "polpa",
-                                    "oreganos",
-                                    "chopped",
                                     "tomatoes",
-                                    "crushed"
+                                    "sauce",
+                                    "molho",
+                                    "tomate"
                                 ],
                                 "dose": {
-                                    "quantity": 100,
+                                    "quantity": 110,
                                     "unit": "g",
-                                    "calsPerUnit": 0.23,
-                                    "stepSize": 1
+                                    "calsPerUnit": 0.25,
+                                    "stepSize": 0.5
                                 }
                             },
-                            {
-                                "id": "128",
-                                "name": "Sal",
-                                "satietyIdx": 5,
-                                "dose": {
-                                    "quantity": 5,
-                                    "unit": "g",
-                                    "calsPerUnit": 0,
-                                    "stepSize": 1
-                                }
-                            },
-                            {
-                                "id": "192",
-                                "name": "Pimentão Picante",
-                                "satietyIdx": 85,
-                                "keywords": [
-                                    "pimentão",
-                                    "picante",
-                                    "hot",
-                                    "paprika"
-                                ],
-                                "dose": {
-                                    "quantity": 1.5,
-                                    "unit": "g",
-                                    "calsPerUnit": 3.2,
-                                    "stepSize": 1
-                                }
-                            }
-                        ],
-                        "steps": [
-                            "Without cleaning the bowl, add the canned tomatoes, chilli flakes, and salt. Blend 20 sec / Speed 5;",
-                            "Transfer to a bowl and set aside."
-                        ]
-                    },
-                    {
-                        "title": "Montagem da Pizza",
-                        "ingredients": [
                             {
                                 "id": "80",
                                 "name": "Queijo Mozzarella",
@@ -7299,14 +7115,14 @@
                                 }
                             },
                             {
-                                "id": "302",
-                                "name": "Cebolinha",
-                                "satietyIdx": 40,
-                                "keywords": ["cebolinha", "spring", "onion"],
+                                "id": "101",
+                                "name": "Alho francês",
+                                "satietyIdx": 90,
+                                "keywords": ["alhos", "francês", "leeks"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
-                                    "calsPerUnit": 0.32,
+                                    "calsPerUnit": 0.61,
                                     "stepSize": 0.5
                                 }
                             },
