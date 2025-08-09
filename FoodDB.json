@@ -6194,5 +6194,55 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "306",
+        "name": "Tarte de Requeijão",
+        "satietyIdx": 89,
+        "keywords": ["tarte", "requeijão", "ricotta", "cream", "cheese", "pie"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 160.625,
+                "stepSize": 0.5
+            }
+        ]
+    },
+    {
+        "id": "307",
+        "name": "Fermento para Bolos",
+        "satietyIdx": 10,
+        "keywords": [
+            "fermento",
+            "bolo",
+            "baking",
+            "powder",
+            "self",
+            "raising",
+            "levedura",
+            "auto",
+            "levedante"
+        ],
+        "doses": [
+            {
+                "quantity": 12,
+                "unit": "g",
+                "calsPerUnit": 0.5,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 6,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 2,
+                "stepSize": 0.5
+            }
+        ]
     }
 ]
