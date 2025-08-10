@@ -7730,5 +7730,191 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "70",
+        "name": "Wraps de Alface com Cogumelos e Seitan",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": [
+            "wraps",
+            "alface",
+            "cogumelos",
+            "seitan",
+            "mushrooms",
+            "lettuce"
+        ],
+        "recipes": [
+            {
+                "id": "70.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "149",
+                                "name": "Alface",
+                                "satietyIdx": 175,
+                                "keywords": ["alface", "lettuce"],
+                                "dose": {
+                                    "quantity": 10,
+                                    "unit": "slice",
+                                    "calsPerUnit": 0.96,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "34",
+                                "name": "Seitan",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 121,
+                                "keywords": ["seitans"],
+                                "dose": {
+                                    "quantity": 160,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.16,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "247",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "marron",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 60,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "248",
+                                "name": "Cogumelo Portobello",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "portobello",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 50,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "dose": {
+                                    "quantity": 40,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "191",
+                                "name": "Molho de Soja",
+                                "satietyIdx": 50,
+                                "keywords": ["molho", "soja", "soy", "sauce"],
+                                "dose": {
+                                    "quantity": 3,
+                                    "unit": "cc",
+                                    "calsPerUnit": 5.5,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "208",
+                                "name": "Óleo de Sésamo torrado",
+                                "satietyIdx": 50,
+                                "brand": "Kikkoman",
+                                "isBrandRelevant": true,
+                                "keywords": [
+                                    "oleo",
+                                    "sesamo",
+                                    "torrado",
+                                    "tostado",
+                                    "toasted",
+                                    "sesame",
+                                    "oil"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cc",
+                                    "calsPerUnit": 38.59,
+                                    "stepSize": 0.5
+                                }
+                            },
+                            {
+                                "id": "279",
+                                "name": "Vinagre de Arroz",
+                                "satietyIdx": 100,
+                                "keywords": [
+                                    "vinagre",
+                                    "arroz",
+                                    "rice",
+                                    "vinegar"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 3.15,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]
