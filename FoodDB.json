@@ -2998,9 +2998,15 @@
         "keywords": ["alface", "lettuce"],
         "doses": [
             {
-                "quantity": 100,
+                "quantity": 60,
                 "unit": "g",
                 "calsPerUnit": 0.16,
+                "stepSize": 1
+            },
+            {
+                "quantity": 10,
+                "unit": "slice",
+                "calsPerUnit": 0.96,
                 "stepSize": 1
             }
         ]
