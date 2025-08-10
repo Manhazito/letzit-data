@@ -7757,7 +7757,7 @@
                                 "satietyIdx": 175,
                                 "keywords": ["alface", "lettuce"],
                                 "dose": {
-                                    "quantity": 10,
+                                    "quantity": 20,
                                     "unit": "slice",
                                     "calsPerUnit": 0.96,
                                     "stepSize": 1
@@ -7771,7 +7771,7 @@
                                 "satietyIdx": 121,
                                 "keywords": ["seitans"],
                                 "dose": {
-                                    "quantity": 160,
+                                    "quantity": 320,
                                     "unit": "g",
                                     "calsPerUnit": 1.16,
                                     "stepSize": 1
@@ -7789,7 +7789,7 @@
                                     "raw"
                                 ],
                                 "dose": {
-                                    "quantity": 60,
+                                    "quantity": 120,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -7807,7 +7807,7 @@
                                     "raw"
                                 ],
                                 "dose": {
-                                    "quantity": 50,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -7819,7 +7819,7 @@
                                 "satietyIdx": 100,
                                 "keywords": ["cebola", "onion"],
                                 "dose": {
-                                    "quantity": 40,
+                                    "quantity": 60,
                                     "unit": "g",
                                     "calsPerUnit": 0.4,
                                     "stepSize": 1
@@ -7836,7 +7836,7 @@
                                     "cloves"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 5,
                                     "stepSize": 1
@@ -7848,9 +7848,9 @@
                                 "satietyIdx": 50,
                                 "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
-                                    "quantity": 3,
-                                    "unit": "cc",
-                                    "calsPerUnit": 5.5,
+                                    "quantity": 2,
+                                    "unit": "cs",
+                                    "calsPerUnit": 16.5,
                                     "stepSize": 0.5
                                 }
                             },
@@ -7870,9 +7870,9 @@
                                     "oil"
                                 ],
                                 "dose": {
-                                    "quantity": 2,
-                                    "unit": "cc",
-                                    "calsPerUnit": 38.59,
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 115.78,
                                     "stepSize": 0.5
                                 }
                             },
@@ -7889,7 +7889,7 @@
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
-                                    "calsPerUnit": 3.15,
+                                    "calsPerUnit": 2.07,
                                     "stepSize": 1
                                 }
                             },
@@ -7911,7 +7911,18 @@
                                 }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Finely chop the seitan and mushrooms into small, even pieces.",
+                            "Dice the onion and mince the garlic.",
+                            "Heat a non-stick pan over medium heat. Add the sesame oil and the onion. Cook for 2–3 min until softened.",
+                            "Add garlic and cook for 30 sec until fragrant.",
+                            "Add mushrooms. Cook for 3–4 min until they release their moisture and start to brown.",
+                            "Add seitan and stir-fry for 2–3 min until lightly browned.",
+                            "Stir in soy sauce, rice vinegar, and the black pepper.",
+                            "If the mix is too dry, add 2 tbsp of water.",
+                            "Let simmer for 1-2 min so flavor blends.",
+                            "Spoon into crisp lettuce leaves and eat while warm."
+                        ]
                     }
                 ]
             }

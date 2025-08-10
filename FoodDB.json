@@ -5609,6 +5609,12 @@
                 "unit": "cs",
                 "calsPerUnit": 2.07,
                 "stepSize": 1
+            },
+            {
+                "quantity": 3,
+                "unit": "cc",
+                "calsPerUnit": 0.69,
+                "stepSize": 1
             }
         ]
     },
