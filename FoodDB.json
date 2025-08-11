@@ -6256,5 +6256,27 @@
                 "stepSize": 0.5
             }
         ]
+    },
+    {
+        "id": "308",
+        "name": "Pão de Forma",
+        "brand": "Panrico",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": ["pão", "forma", "sliced", "bread"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "slice",
+                "calsPerUnit": 53.55,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 22.5,
+                "unit": "g",
+                "calsPerUnit": 2.38,
+                "stepSize": 1
+            }
+        ]
     }
 ]
