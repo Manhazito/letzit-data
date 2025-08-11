@@ -7927,5 +7927,170 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "71",
+        "name": "Pasta com Seitan e Cogumelos",
+        "servings": 2,
+        "servingUnit": "unit",
+        "keywords": ["pasta", "massa", "cogumelos", "seitan", "mushrooms"],
+        "recipes": [
+            {
+                "id": "71.1",
+                "type": "regular",
+                "parts": [
+                    {
+                        "ingredients": [
+                            {
+                                "id": "187",
+                                "name": "Pasta",
+                                "satietyIdx": 119,
+                                "keywords": ["pastas", "massas", "seca", "dry"],
+                                "dose": {
+                                    "quantity": 120,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.2,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "34",
+                                "name": "Seitan",
+                                "brand": "Shambhala",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 121,
+                                "keywords": ["seitans"],
+                                "dose": {
+                                    "quantity": 160,
+                                    "unit": "g",
+                                    "calsPerUnit": 1.16,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "247",
+                                "name": "Cogumelo Marron",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "marron",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "248",
+                                "name": "Cogumelo Portobello",
+                                "satietyIdx": 145,
+                                "keywords": [
+                                    "cogumelos",
+                                    "portobello",
+                                    "mushroom",
+                                    "cru",
+                                    "raw"
+                                ],
+                                "dose": {
+                                    "quantity": 100,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.22,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "112",
+                                "name": "Cebola",
+                                "satietyIdx": 100,
+                                "keywords": ["cebola", "onion"],
+                                "dose": {
+                                    "quantity": 60,
+                                    "unit": "g",
+                                    "calsPerUnit": 0.4,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "100",
+                                "name": "Alho (dente)",
+                                "satietyIdx": 90,
+                                "keywords": [
+                                    "dente",
+                                    "alhos",
+                                    "garlic",
+                                    "cloves"
+                                ],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "unit",
+                                    "calsPerUnit": 5,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "95",
+                                "name": "Azeite",
+                                "satietyIdx": 50,
+                                "keywords": ["azeites", "olive", "oil"],
+                                "dose": {
+                                    "quantity": 4,
+                                    "unit": "cc",
+                                    "calsPerUnit": 42,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "78",
+                                "name": "Natas Culinária",
+                                "brand": "Alpro",
+                                "isBrandRelevant": false,
+                                "satietyIdx": 50,
+                                "dose": {
+                                    "quantity": 8,
+                                    "unit": "cube",
+                                    "calsPerUnit": 36.6,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "128",
+                                "name": "Sal",
+                                "satietyIdx": 5,
+                                "keywords": ["sal", "salt"],
+                                "dose": {
+                                    "quantity": 2,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
+                            },
+                            {
+                                "id": "127",
+                                "name": "Pimenta preta",
+                                "satietyIdx": 40,
+                                "keywords": [
+                                    "pimenta",
+                                    "preta",
+                                    "black",
+                                    "pepper"
+                                ],
+                                "dose": {
+                                    "quantity": 1,
+                                    "unit": "g",
+                                    "calsPerUnit": 2.5,
+                                    "stepSize": 1
+                                }
+                            }
+                        ],
+                        "steps": []
+                    }
+                ]
+            }
+        ]
     }
 ]
