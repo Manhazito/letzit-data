@@ -8038,9 +8038,9 @@
                                 "satietyIdx": 50,
                                 "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
-                                    "quantity": 4,
-                                    "unit": "cc",
-                                    "calsPerUnit": 42,
+                                    "quantity": 1,
+                                    "unit": "cs",
+                                    "calsPerUnit": 126,
                                     "stepSize": 1
                                 }
                             },
@@ -8051,7 +8051,7 @@
                                 "isBrandRelevant": false,
                                 "satietyIdx": 50,
                                 "dose": {
-                                    "quantity": 8,
+                                    "quantity": 6,
                                     "unit": "cube",
                                     "calsPerUnit": 36.6,
                                     "stepSize": 1
