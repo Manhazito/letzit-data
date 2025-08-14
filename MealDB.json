@@ -8839,9 +8839,31 @@
                                     "calsPerUnit": 4.02,
                                     "stepSize": 1
                                 }
+                            },
+                            {
+                                "id": "163",
+                                "name": "Água",
+                                "satietyIdx": 55,
+                                "keywords": [
+                                    "água",
+                                    "water"
+                                ],
+                                "dose": {
+                                    "quantity": 200,
+                                    "unit": "ml",
+                                    "calsPerUnit": 0,
+                                    "stepSize": 1
+                                }
                             }
                         ],
-                        "steps": []
+                        "steps": [
+                            "Coloque a pasta numa frigideira com tampa. Adicione metade das raspas de limão e o dente de alho, descascado e esmagado, mas inteiro, o azeite, e o sal.",
+                            "Despeje a água a ferver por cima, tape e deixe levantar fervura.",
+                            "Assim que começar a ferver remova a tampa e ferva em lume brando durante 8 min. Vire a pasta de 30 em 30 segundos.",
+                            "Adicione o sumo de limão e as restantes raspas e mantenha no lume por mais 2 min.",
+                            "Retire a pasta do lume, adicione o queijo parmesão e misture bem.",
+                            "Deixe repousar por dois minutos e sirva."
+                        ]
                     }
                 ]
             }
