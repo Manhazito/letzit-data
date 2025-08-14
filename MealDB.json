@@ -5723,7 +5723,7 @@
         ],
         "recipes": [
             {
-                "id": "53.1",
+                "id": "54.1",
                 "type": "regular",
                 "parts": [
                     {
@@ -5739,7 +5739,7 @@
                                     "dry"
                                 ],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 100,
                                     "unit": "g",
                                     "calsPerUnit": 1.2,
                                     "stepSize": 1
@@ -5755,7 +5755,7 @@
                                     "oil"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 0.5,
                                     "unit": "cs",
                                     "calsPerUnit": 130.2,
                                     "stepSize": 1
@@ -5772,7 +5772,7 @@
                                     "cloves"
                                 ],
                                 "dose": {
-                                    "quantity": 3,
+                                    "quantity": 2,
                                     "unit": "unit",
                                     "calsPerUnit": 5,
                                     "stepSize": 1
@@ -5790,7 +5790,7 @@
                                     "chilli"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 0.5,
                                     "unit": "cc",
                                     "calsPerUnit": 2.45,
                                     "stepSize": 1
@@ -5808,7 +5808,7 @@
                                     "white"
                                 ],
                                 "dose": {
-                                    "quantity": 2,
+                                    "quantity": 1,
                                     "unit": "cs",
                                     "calsPerUnit": 28.98,
                                     "stepSize": 1
@@ -5829,7 +5829,7 @@
                                     "crushed"
                                 ],
                                 "dose": {
-                                    "quantity": 400,
+                                    "quantity": 200,
                                     "unit": "g",
                                     "calsPerUnit": 0.25,
                                     "stepSize": 1
@@ -5848,7 +5848,7 @@
                                     "pit"
                                 ],
                                 "dose": {
-                                    "quantity": 50,
+                                    "quantity": 25,
                                     "unit": "g",
                                     "calsPerUnit": 1.84,
                                     "stepSize": 1
@@ -5866,9 +5866,9 @@
                                     "pickles"
                                 ],
                                 "dose": {
-                                    "quantity": 0.5,
-                                    "unit": "cs",
-                                    "calsPerUnit": 2.07,
+                                    "quantity": 1,
+                                    "unit": "cc",
+                                    "calsPerUnit": 0.69,
                                     "stepSize": 1
                                 }
                             },
