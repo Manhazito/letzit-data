@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "Leite (sem açúcar)",
+        "name": "Leite de Soja (sem açúcar)",
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 110,
@@ -30,7 +30,7 @@
     },
     {
         "id": "2",
-        "name": "Iogurte líquido (sem açúcar)",
+        "name": "Iogurte de Soja líquido (sem açúcar)",
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 75,
@@ -844,7 +844,7 @@
     },
     {
         "id": "43",
-        "name": "Leite",
+        "name": "Leite de Soja",
         "brand": "Continente",
         "isBrandRelevant": false,
         "satietyIdx": 40,
@@ -4809,9 +4809,9 @@
         "name": "Coca-Cola Zero",
         "satietyIdx": 45,
         "keywords": [
-            "café",
-            "coffee",
-            "espresso",
+            "coca",
+            "cola",
+            "zero",
             "sem",
             "açúcar",
             "without",
@@ -6275,6 +6275,89 @@
                 "quantity": 22.5,
                 "unit": "g",
                 "calsPerUnit": 2.38,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "309",
+        "name": "Filipinos",
+        "brand": "Artiach",
+        "isBrandRelevant": true,
+        "satietyIdx": 65,
+        "keywords": ["bolachas", "cookies", "filipinos", "chocolate"],
+        "doses": [
+            {
+                "quantity": 1,
+                "unit": "unit",
+                "calsPerUnit": 44.805,
+                "stepSize": 0.5
+            },
+            {
+                "quantity": 8.7,
+                "unit": "g",
+                "calsPerUnit": 5.15,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "310",
+        "name": "GUD (diluído)",
+        "satietyIdx": 55,
+        "keywords": ["sumo", "juice", "concentrado", "concentrated"],
+        "doses": [
+            {
+                "quantity": 260,
+                "unit": "ml",
+                "calsPerUnit": 0.124,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "311",
+        "name": "Glassa di aceto balsamico",
+        "brand": "Ponti",
+        "isBrandRelevant": true,
+        "satietyIdx": 16,
+        "keywords": [
+            "creme",
+            "redução",
+            "glassa",
+            "vinagre",
+            "balsâmico",
+            "balsamic",
+            "vinegar",
+            "glaze"
+        ],
+        "doses": [
+            {
+                "quantity": 19,
+                "unit": "g",
+                "calsPerUnit": 1.95,
+                "stepSize": 1
+            },
+            {
+                "quantity": 1,
+                "unit": "cs",
+                "calsPerUnit": 37.05,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "312",
+        "name": "Leite de Aveia (sem açúcar)",
+        "brand": "Continente",
+        "isBrandRelevant": true,
+        "satietyIdx": 40,
+        "keywords": ["leites", "milks", "bebidas", "drinks", "aveia", "oat"],
+        "doses": [
+            {
+                "quantity": 200,
+                "unit": "ml",
+                "calsPerUnit": 0.41,
                 "stepSize": 1
             }
         ]

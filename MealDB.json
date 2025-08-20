@@ -4,10 +4,7 @@
         "name": "Salada da Carla",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "saladas",
-            "salads"
-        ],
+        "keywords": ["saladas", "salads"],
         "recipes": [
             {
                 "id": "1.1",
@@ -89,13 +86,7 @@
         "name": "Sopa de Legumes",
         "servings": 4,
         "servingUnit": "unit",
-        "keywords": [
-            "sopa",
-            "legumes",
-            "creme",
-            "cream",
-            "soup"
-        ],
+        "keywords": ["sopa", "legumes", "creme", "cream", "soup"],
         "recipes": [
             {
                 "id": "2.1",
@@ -118,11 +109,7 @@
                                 "id": "26",
                                 "name": "Feijão",
                                 "satietyIdx": 168,
-                                "keywords": [
-                                    "feijão",
-                                    "feijões",
-                                    "beans"
-                                ],
+                                "keywords": ["feijão", "feijões", "beans"],
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "g",
@@ -311,10 +298,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -326,10 +310,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 250,
                                     "unit": "ml",
@@ -355,13 +336,7 @@
         "name": "Leite com Aveia",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "leite",
-            "aveia",
-            "oat",
-            "milk",
-            "oatmeal"
-        ],
+        "keywords": ["leite", "aveia", "oat", "milk", "oatmeal"],
         "recipes": [
             {
                 "id": "4.1",
@@ -665,7 +640,7 @@
                             "Numa frigideira grande, refogar o bacon em azeite com os dentes de alho esmagados durante 5min, ou até o bacon ficar tostado. Descartar os dentes de alho e mantenha a frigideira em lume baixo;",
                             "Misture a maior parte do queijo com os ovos mexidos;",
                             "Quando a pasta estiver quase cozida reserve uma gadanha da água de cozedura, e deixe a arrefecer;",
-                            "Assim que a pasta esteja cozida adicionar ao bacon na frigideira usando umas pinças;",
+                            "Assim que a pasta esteja cozida descarte o alho, e adicione a pasta ao bacon na frigideira usando umas pinças;",
                             "Misture a água que reservou à mistura de ovos e queijo;",
                             "Retire a frigideira do lume e despeje por cima a mistura de ovos e queijo. Envolva bem;",
                             "Polvilhe o restante queijo, a pimenta, e o manjericão, por cima da pasta, e sirva de imediato."
@@ -680,12 +655,7 @@
         "name": "Tofu com Broa",
         "servings": 8,
         "servingUnit": "unit",
-        "keywords": [
-            "tofu",
-            "broa",
-            "tofu",
-            "cornbread"
-        ],
+        "keywords": ["tofu", "broa", "tofu", "cornbread"],
         "recipes": [
             {
                 "id": "7.1",
@@ -859,10 +829,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 20,
                                     "unit": "g",
@@ -944,10 +911,7 @@
                                 "id": "158",
                                 "name": "Orégãos",
                                 "satietyIdx": 90,
-                                "keywords": [
-                                    "orégãos",
-                                    "oreganos"
-                                ],
+                                "keywords": ["orégãos", "oreganos"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "g",
@@ -970,10 +934,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "ml",
@@ -1144,14 +1105,7 @@
         "name": "Arroz da Carla",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "arroz",
-            "carla",
-            "branco",
-            "seco",
-            "white",
-            "rice"
-        ],
+        "keywords": ["arroz", "carla", "branco", "seco", "white", "rice"],
         "recipes": [
             {
                 "id": "10.1",
@@ -1204,12 +1158,7 @@
         "name": "Torrada com manteiga (café)",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "torrada",
-            "manteiga",
-            "toast",
-            "butter"
-        ],
+        "keywords": ["torrada", "manteiga", "toast", "butter"],
         "recipes": [
             {
                 "id": "11.1",
@@ -1253,12 +1202,7 @@
         "name": "Omelete de Queijo",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "omelete",
-            "queijo",
-            "cheese",
-            "omelet"
-        ],
+        "keywords": ["omelete", "queijo", "cheese", "omelet"],
         "recipes": [
             {
                 "id": "12.1",
@@ -1313,13 +1257,7 @@
         "name": "Hamburger no pão",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "hamburger",
-            "hambúrguere",
-            "pão",
-            "hamburger",
-            "bread"
-        ],
+        "keywords": ["hamburger", "hambúrguere", "pão", "hamburger", "bread"],
         "recipes": [
             {
                 "id": "13.1",
@@ -1932,11 +1870,7 @@
         "name": "Molho Bechamel",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "molho",
-            "bechamel",
-            "sauce"
-        ],
+        "keywords": ["molho", "bechamel", "sauce"],
         "recipes": [
             {
                 "id": "25.1",
@@ -2040,11 +1974,7 @@
                                 "id": "199",
                                 "name": "Noz-Moscada",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "noz",
-                                    "moscada",
-                                    "nutmeg"
-                                ],
+                                "keywords": ["noz", "moscada", "nutmeg"],
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "g",
@@ -2090,12 +2020,7 @@
                                 "id": "304",
                                 "name": "Massa de Pizza",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "pizza",
-                                    "piza",
-                                    "massa",
-                                    "dough"
-                                ],
+                                "keywords": ["pizza", "piza", "massa", "dough"],
                                 "dose": {
                                     "quantity": 8,
                                     "unit": "slice",
@@ -2146,11 +2071,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 120,
-                                "keywords": [
-                                    "queijo",
-                                    "mozzarella",
-                                    "cheese"
-                                ],
+                                "keywords": ["queijo", "mozzarella", "cheese"],
                                 "dose": {
                                     "quantity": 62.5,
                                     "unit": "g",
@@ -2170,13 +2091,7 @@
         "name": "Risotto de cenoura e cogumelos",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "risotto",
-            "cogumelos",
-            "arroz",
-            "rice",
-            "mushroom"
-        ],
+        "keywords": ["risotto", "cogumelos", "arroz", "rice", "mushroom"],
         "recipes": [
             {
                 "id": "33.1",
@@ -2221,10 +2136,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -2316,12 +2228,7 @@
         "name": "Pizza Ristorante",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": [
-            "pizza",
-            "ristorante",
-            "piza",
-            "oetker"
-        ],
+        "keywords": ["pizza", "ristorante", "piza", "oetker"],
         "recipes": [
             {
                 "id": "28.1",
@@ -2354,10 +2261,7 @@
         "name": "Poke Bowl (sushi rice and soy meat)",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "boke",
-            "bowls"
-        ],
+        "keywords": ["boke", "bowls"],
         "recipes": [
             {
                 "id": "29.1",
@@ -2390,12 +2294,7 @@
         "name": "Batatas Assadas no forno",
         "servings": 8,
         "servingUnit": "unit",
-        "keywords": [
-            "batatas",
-            "assadas",
-            "roasted",
-            "potatoes"
-        ],
+        "keywords": ["batatas", "assadas", "roasted", "potatoes"],
         "recipes": [
             {
                 "id": "30.1",
@@ -2514,13 +2413,7 @@
         "name": "Esparguete da Carla",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "esparguete",
-            "massa",
-            "carla",
-            "tomate",
-            "spaghetti"
-        ],
+        "keywords": ["esparguete", "massa", "carla", "tomate", "spaghetti"],
         "recipes": [
             {
                 "id": "31.1",
@@ -2758,13 +2651,7 @@
         "name": "Risotto de cogumelos",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "risotto",
-            "cogumelos",
-            "arroz",
-            "rice",
-            "mushroom"
-        ],
+        "keywords": ["risotto", "cogumelos", "arroz", "rice", "mushroom"],
         "recipes": [
             {
                 "id": "33.2",
@@ -3089,12 +2976,7 @@
         "name": "Batido de Morango",
         "servings": 1.5,
         "servingUnit": "unit",
-        "keywords": [
-            "batido",
-            "morango",
-            "milkshake",
-            "strawberry"
-        ],
+        "keywords": ["batido", "morango", "milkshake", "strawberry"],
         "recipes": [
             {
                 "id": "36.1",
@@ -3213,14 +3095,7 @@
         "name": "Arroz com ovo e salsicha",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "arroz",
-            "rice",
-            "ovos",
-            "eggs",
-            "salsichas",
-            "sausages"
-        ],
+        "keywords": ["arroz", "rice", "ovos", "eggs", "salsichas", "sausages"],
         "recipes": [
             {
                 "id": "38.1",
@@ -3335,11 +3210,7 @@
                                 "id": "195",
                                 "name": "Chalota",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebolas",
-                                    "shallota",
-                                    "onions"
-                                ],
+                                "keywords": ["cebolas", "shallota", "onions"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
@@ -3351,12 +3222,7 @@
                                 "id": "189",
                                 "name": "Óleo de Sésamo",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "oleo",
-                                    "sesamo",
-                                    "sesame",
-                                    "oil"
-                                ],
+                                "keywords": ["oleo", "sesamo", "sesame", "oil"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -3368,10 +3234,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -3383,11 +3246,7 @@
                                 "id": "190",
                                 "name": "Miso branco",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "miso",
-                                    "branco",
-                                    "white"
-                                ],
+                                "keywords": ["miso", "branco", "white"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -3399,12 +3258,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -3416,10 +3270,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -3573,10 +3424,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
@@ -3688,11 +3536,7 @@
                                 "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
-                                "keywords": [
-                                    "cogumelos",
-                                    "marron",
-                                    "mushroom"
-                                ],
+                                "keywords": ["cogumelos", "marron", "mushroom"],
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
@@ -3721,12 +3565,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -3816,10 +3655,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
@@ -3848,11 +3684,7 @@
                                 "id": "247",
                                 "name": "Cogumelo Marron",
                                 "satietyIdx": 145,
-                                "keywords": [
-                                    "cogumelos",
-                                    "marron",
-                                    "mushroom"
-                                ],
+                                "keywords": ["cogumelos", "marron", "mushroom"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
@@ -3885,11 +3717,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -3965,11 +3793,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "spray",
@@ -3994,11 +3818,7 @@
         "name": "Pizza Margherita",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": [
-            "pizza",
-            "piza",
-            "margherita"
-        ],
+        "keywords": ["pizza", "piza", "margherita"],
         "recipes": [
             {
                 "id": "42.1",
@@ -4010,12 +3830,7 @@
                                 "id": "304",
                                 "name": "Massa de Pizza",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "pizza",
-                                    "piza",
-                                    "massa",
-                                    "dough"
-                                ],
+                                "keywords": ["pizza", "piza", "massa", "dough"],
                                 "dose": {
                                     "quantity": 8,
                                     "unit": "slice",
@@ -4046,11 +3861,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 120,
-                                "keywords": [
-                                    "queijo",
-                                    "mozzarella",
-                                    "cheese"
-                                ],
+                                "keywords": ["queijo", "mozzarella", "cheese"],
                                 "dose": {
                                     "quantity": 125,
                                     "unit": "g",
@@ -4094,10 +3905,7 @@
         "name": "Lasanha",
         "servings": 4,
         "servingUnit": "unit",
-        "keywords": [
-            "lasanha",
-            "lasagna"
-        ],
+        "keywords": ["lasanha", "lasagna"],
         "recipes": [
             {
                 "id": "43.1",
@@ -4109,11 +3917,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "cs",
@@ -4125,10 +3929,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
@@ -4140,10 +3941,7 @@
                                 "id": "252",
                                 "name": "Aipo",
                                 "satietyIdx": 140,
-                                "keywords": [
-                                    "aipo",
-                                    "celery"
-                                ],
+                                "keywords": ["aipo", "celery"],
                                 "dose": {
                                     "quantity": 50,
                                     "unit": "g",
@@ -4155,10 +3953,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
@@ -4224,10 +4019,7 @@
                                 "id": "158",
                                 "name": "Orégãos",
                                 "satietyIdx": 90,
-                                "keywords": [
-                                    "orégãos",
-                                    "oreganos"
-                                ],
+                                "keywords": ["orégãos", "oreganos"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -4322,11 +4114,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 120,
-                                "keywords": [
-                                    "queijo",
-                                    "mozzarella",
-                                    "cheese"
-                                ],
+                                "keywords": ["queijo", "mozzarella", "cheese"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -4338,11 +4126,7 @@
                                 "id": "198",
                                 "name": "Molho Bechamel",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "molho",
-                                    "bechamel",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "bechamel", "sauce"],
                                 "dose": {
                                     "quantity": 500,
                                     "unit": "g",
@@ -4371,11 +4155,7 @@
         "name": "Stroganoff de Cogumelos",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "stroganoff",
-            "cogumelos",
-            "mushrooms"
-        ],
+        "keywords": ["stroganoff", "cogumelos", "mushrooms"],
         "recipes": [
             {
                 "id": "44.1",
@@ -4440,10 +4220,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "unit",
@@ -4472,11 +4249,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -4551,10 +4324,7 @@
                                 "brand": "Paladin",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 35,
-                                "keywords": [
-                                    "mostarda",
-                                    "mustard"
-                                ],
+                                "keywords": ["mostarda", "mustard"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -4566,12 +4336,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
@@ -4583,10 +4348,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -4653,12 +4415,7 @@
                                 "id": "264",
                                 "name": "Couve Roxa",
                                 "satietyIdx": 250,
-                                "keywords": [
-                                    "couve",
-                                    "cabbage",
-                                    "roxa",
-                                    "red"
-                                ],
+                                "keywords": ["couve", "cabbage", "roxa", "red"],
                                 "dose": {
                                     "quantity": 500,
                                     "unit": "g",
@@ -4670,11 +4427,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cs",
@@ -4686,10 +4439,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -4735,10 +4485,7 @@
                                 "id": "265",
                                 "name": "Mel",
                                 "satietyIdx": 80,
-                                "keywords": [
-                                    "mel",
-                                    "honey"
-                                ],
+                                "keywords": ["mel", "honey"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -4752,10 +4499,7 @@
                                 "brand": "Paladin",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 35,
-                                "keywords": [
-                                    "mostarda",
-                                    "mustard"
-                                ],
+                                "keywords": ["mostarda", "mustard"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -4787,12 +4531,7 @@
         "name": "Arroz de Limão",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "arroz",
-            "limão",
-            "lemon",
-            "rice"
-        ],
+        "keywords": ["arroz", "limão", "lemon", "rice"],
         "recipes": [
             {
                 "id": "46.1",
@@ -4823,10 +4562,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 600,
                                     "unit": "ml",
@@ -4838,10 +4574,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -4853,11 +4586,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -4919,12 +4648,7 @@
         "name": "Massa de Rissóis",
         "servings": 35,
         "servingUnit": "unit",
-        "keywords": [
-            "massa",
-            "rissóis",
-            "rissol",
-            "dough"
-        ],
+        "keywords": ["massa", "rissóis", "rissol", "dough"],
         "recipes": [
             {
                 "id": "47.1",
@@ -4954,10 +4678,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 450,
                                     "unit": "ml",
@@ -4969,10 +4690,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -4984,11 +4702,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -5052,10 +4766,7 @@
                                 "brand": "Limiano",
                                 "isBrandRelevant": true,
                                 "satietyIdx": 146,
-                                "keywords": [
-                                    "queijos",
-                                    "cheeses"
-                                ],
+                                "keywords": ["queijos", "cheeses"],
                                 "dose": {
                                     "quantity": 0.25,
                                     "unit": "slice",
@@ -5175,11 +4886,7 @@
                                 "id": "198",
                                 "name": "Molho Bechamel",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "molho",
-                                    "bechamel",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "bechamel", "sauce"],
                                 "dose": {
                                     "quantity": 150,
                                     "unit": "g",
@@ -5212,11 +4919,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -5245,10 +4948,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 5,
                                     "unit": "g",
@@ -5350,10 +5050,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "g",
@@ -5407,11 +5104,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 120,
-                                "keywords": [
-                                    "bolachas",
-                                    "maria",
-                                    "cookies"
-                                ],
+                                "keywords": ["bolachas", "maria", "cookies"],
                                 "dose": {
                                     "quantity": 4,
                                     "unit": "unit",
@@ -5500,11 +5193,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 120,
-                                "keywords": [
-                                    "bolachas",
-                                    "maria",
-                                    "cookies"
-                                ],
+                                "keywords": ["bolachas", "maria", "cookies"],
                                 "dose": {
                                     "quantity": 132,
                                     "unit": "unit",
@@ -5551,9 +5240,7 @@
                                 "brand": "Shambhala",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 121,
-                                "keywords": [
-                                    "seitans"
-                                ],
+                                "keywords": ["seitans"],
                                 "dose": {
                                     "quantity": 300,
                                     "unit": "g",
@@ -5588,11 +5275,7 @@
                                 "satietyIdx": 100,
                                 "brand": "PRÓVida",
                                 "isBrandRelevant": false,
-                                "keywords": [
-                                    "miso",
-                                    "branco",
-                                    "white"
-                                ],
+                                "keywords": ["miso", "branco", "white"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -5622,12 +5305,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -5732,12 +5410,7 @@
                                 "id": "187",
                                 "name": "Pasta",
                                 "satietyIdx": 119,
-                                "keywords": [
-                                    "pastas",
-                                    "massas",
-                                    "seca",
-                                    "dry"
-                                ],
+                                "keywords": ["pastas", "massas", "seca", "dry"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
@@ -5749,11 +5422,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -5802,11 +5471,7 @@
                                 "satietyIdx": 100,
                                 "brand": "PRÓVida",
                                 "isBrandRelevant": false,
-                                "keywords": [
-                                    "miso",
-                                    "branco",
-                                    "white"
-                                ],
+                                "keywords": ["miso", "branco", "white"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -5914,13 +5579,7 @@
         "name": "Caril de Heura",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "caril",
-            "curry",
-            "heura",
-            "frango",
-            "chicken"
-        ],
+        "keywords": ["caril", "curry", "heura", "frango", "chicken"],
         "recipes": [
             {
                 "id": "55.1",
@@ -5932,10 +5591,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 500,
                                     "unit": "ml",
@@ -5969,11 +5625,7 @@
                                 "id": "275",
                                 "name": "Arroz basmati",
                                 "satietyIdx": 125,
-                                "keywords": [
-                                    "arroz",
-                                    "basmati",
-                                    "rice"
-                                ],
+                                "keywords": ["arroz", "basmati", "rice"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
@@ -6006,11 +5658,7 @@
                                 "id": "93",
                                 "name": "Pimento",
                                 "satietyIdx": 175,
-                                "keywords": [
-                                    "pimentos",
-                                    "bell",
-                                    "peppers"
-                                ],
+                                "keywords": ["pimentos", "bell", "peppers"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -6022,10 +5670,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 40,
                                     "unit": "g",
@@ -6037,10 +5682,7 @@
                                 "id": "113",
                                 "name": "Courgette",
                                 "satietyIdx": 150,
-                                "keywords": [
-                                    "courgette",
-                                    "zucchini"
-                                ],
+                                "keywords": ["courgette", "zucchini"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -6090,11 +5732,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
@@ -6106,10 +5744,7 @@
                                 "id": "277",
                                 "name": "Caril",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "caril",
-                                    "curry"
-                                ],
+                                "keywords": ["caril", "curry"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -6123,10 +5758,7 @@
                                 "brand": "Continente",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 90,
-                                "keywords": [
-                                    "caril",
-                                    "curry"
-                                ],
+                                "keywords": ["caril", "curry"],
                                 "dose": {
                                     "quantity": 125,
                                     "unit": "g",
@@ -6138,10 +5770,7 @@
                                 "id": "265",
                                 "name": "Mel",
                                 "satietyIdx": 80,
-                                "keywords": [
-                                    "mel",
-                                    "honey"
-                                ],
+                                "keywords": ["mel", "honey"],
                                 "dose": {
                                     "quantity": 10,
                                     "unit": "g",
@@ -6167,12 +5796,7 @@
         "name": "Sunomono",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "sunomono",
-            "pepino",
-            "cucumber",
-            "salada"
-        ],
+        "keywords": ["sunomono", "pepino", "cucumber", "salada"],
         "recipes": [
             {
                 "id": "56.1",
@@ -6184,10 +5808,7 @@
                                 "id": "92",
                                 "name": "Pepino",
                                 "satietyIdx": 200,
-                                "keywords": [
-                                    "pepinos",
-                                    "cucumbers"
-                                ],
+                                "keywords": ["pepinos", "cucumbers"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
@@ -6227,10 +5848,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cs",
@@ -6242,12 +5860,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cc",
@@ -6275,13 +5888,7 @@
         "name": "Ramen de Tofu",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "noodles",
-            "ramen",
-            "pastas",
-            "massas",
-            "tofu"
-        ],
+        "keywords": ["noodles", "ramen", "pastas", "massas", "tofu"],
         "recipes": [
             {
                 "id": "57.1",
@@ -6313,12 +5920,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "g",
@@ -6338,10 +5940,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 25,
                                     "unit": "g",
@@ -6394,11 +5993,7 @@
                                 "satietyIdx": 100,
                                 "brand": "PRÓVida",
                                 "isBrandRelevant": false,
-                                "keywords": [
-                                    "miso",
-                                    "branco",
-                                    "white"
-                                ],
+                                "keywords": ["miso", "branco", "white"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cc",
@@ -6410,12 +6005,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 1.5,
                                     "unit": "cs",
@@ -6462,9 +6052,7 @@
                                 "brand": "Shambhala",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 115,
-                                "keywords": [
-                                    "tofus"
-                                ],
+                                "keywords": ["tofus"],
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "g",
@@ -6476,12 +6064,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -6585,10 +6168,7 @@
                                 "id": "281",
                                 "name": "Cebolinho",
                                 "satietyIdx": 95,
-                                "keywords": [
-                                    "cebolinho",
-                                    "chives"
-                                ],
+                                "keywords": ["cebolinho", "chives"],
                                 "dose": {
                                     "quantity": 3,
                                     "unit": "g",
@@ -6677,10 +6257,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -6746,12 +6323,7 @@
                                 "id": "126",
                                 "name": "Clara de Ovo",
                                 "satietyIdx": 180,
-                                "keywords": [
-                                    "ovos",
-                                    "clara",
-                                    "white",
-                                    "eggs"
-                                ],
+                                "keywords": ["ovos", "clara", "white", "eggs"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
@@ -6775,14 +6347,7 @@
         "name": "Massa de Pizza rápida",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": [
-            "massa",
-            "pizza",
-            "piza",
-            "dough",
-            "rápida",
-            "quick"
-        ],
+        "keywords": ["massa", "pizza", "piza", "dough", "rápida", "quick"],
         "recipes": [
             {
                 "id": "59.1",
@@ -6794,10 +6359,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 110,
                                     "unit": "ml",
@@ -6809,10 +6371,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cc",
@@ -6860,11 +6419,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 14,
                                     "unit": "g",
@@ -6876,10 +6431,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 0.5,
                                     "unit": "cc",
@@ -6903,12 +6455,7 @@
         "name": "Seitan Estufado",
         "servings": 5,
         "servingUnit": "slice",
-        "keywords": [
-            "seitan",
-            "estufado",
-            "stew",
-            "braised"
-        ],
+        "keywords": ["seitan", "estufado", "stew", "braised"],
         "recipes": [
             {
                 "id": "60.1",
@@ -6920,11 +6467,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "g",
@@ -6970,10 +6513,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 110,
                                     "unit": "g",
@@ -6985,10 +6525,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
@@ -7019,9 +6556,7 @@
                                 "brand": "Shambhala",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 121,
-                                "keywords": [
-                                    "seitans"
-                                ],
+                                "keywords": ["seitans"],
                                 "dose": {
                                     "quantity": 300,
                                     "unit": "g",
@@ -7086,10 +6621,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 75,
                                     "unit": "g",
@@ -7118,10 +6650,7 @@
                                 "id": "113",
                                 "name": "Courgette",
                                 "satietyIdx": 150,
-                                "keywords": [
-                                    "courgette",
-                                    "zucchini"
-                                ],
+                                "keywords": ["courgette", "zucchini"],
                                 "dose": {
                                     "quantity": 1050,
                                     "unit": "g",
@@ -7155,10 +6684,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -7217,13 +6743,7 @@
         "name": "Risotto de limão",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "risotto",
-            "limão",
-            "arroz",
-            "rice",
-            "lemon"
-        ],
+        "keywords": ["risotto", "limão", "arroz", "rice", "lemon"],
         "recipes": [
             {
                 "id": "62.1",
@@ -7359,14 +6879,7 @@
         "name": "Maçã cozida",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "maçã",
-            "cozida",
-            "puré",
-            "baked",
-            "apple",
-            "mashed"
-        ],
+        "keywords": ["maçã", "cozida", "puré", "baked", "apple", "mashed"],
         "recipes": [
             {
                 "id": "63.1",
@@ -7378,12 +6891,7 @@
                                 "id": "297",
                                 "name": "Vinho do Porto",
                                 "satietyIdx": 0.0,
-                                "keywords": [
-                                    "Vinho",
-                                    "Porto",
-                                    "Port",
-                                    "Wine"
-                                ],
+                                "keywords": ["Vinho", "Porto", "Port", "Wine"],
                                 "dose": {
                                     "quantity": 15,
                                     "unit": "ml",
@@ -7420,10 +6928,7 @@
         "name": "Pizza de Fiambre, Chouriço, Cogumelos e Azeitonas",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": [
-            "pizza",
-            "filomena"
-        ],
+        "keywords": ["pizza", "filomena"],
         "recipes": [
             {
                 "id": "64.1",
@@ -7437,12 +6942,7 @@
                                 "brand": "Lidl",
                                 "isBrandRelevant": true,
                                 "satietyIdx": 65,
-                                "keywords": [
-                                    "pizza",
-                                    "piza",
-                                    "massa",
-                                    "dough"
-                                ],
+                                "keywords": ["pizza", "piza", "massa", "dough"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "unit",
@@ -7594,13 +7094,7 @@
         "name": "Legumes salteados",
         "servings": 1,
         "servingUnit": "unit",
-        "keywords": [
-            "legumes",
-            "salteados",
-            "vegetais",
-            "vegetables",
-            "sauté"
-        ],
+        "keywords": ["legumes", "salteados", "vegetais", "vegetables", "sauté"],
         "recipes": [
             {
                 "id": "65.1",
@@ -7612,10 +7106,7 @@
                                 "id": "113",
                                 "name": "Courgette",
                                 "satietyIdx": 150,
-                                "keywords": [
-                                    "courgette",
-                                    "zucchini"
-                                ],
+                                "keywords": ["courgette", "zucchini"],
                                 "dose": {
                                     "quantity": 140,
                                     "unit": "g",
@@ -7627,11 +7118,7 @@
                                 "id": "101",
                                 "name": "Alho francês",
                                 "satietyIdx": 90,
-                                "keywords": [
-                                    "alhos",
-                                    "francês",
-                                    "leeks"
-                                ],
+                                "keywords": ["alhos", "francês", "leeks"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
@@ -7660,9 +7147,7 @@
                                 "id": "303",
                                 "name": "Kale",
                                 "satietyIdx": 190,
-                                "keywords": [
-                                    "kale"
-                                ],
+                                "keywords": ["kale"],
                                 "dose": {
                                     "quantity": 40,
                                     "unit": "g",
@@ -7674,10 +7159,7 @@
                                 "id": "92",
                                 "name": "Pepino",
                                 "satietyIdx": 200,
-                                "keywords": [
-                                    "pepinos",
-                                    "cucumbers"
-                                ],
+                                "keywords": ["pepinos", "cucumbers"],
                                 "dose": {
                                     "quantity": 80,
                                     "unit": "g",
@@ -7689,11 +7171,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "spray",
@@ -7774,12 +7252,7 @@
         "name": "Massa de Pizza",
         "servings": 16,
         "servingUnit": "slice",
-        "keywords": [
-            "pizza",
-            "piza",
-            "massa",
-            "dough"
-        ],
+        "keywords": ["pizza", "piza", "massa", "dough"],
         "recipes": [
             {
                 "id": "66.1",
@@ -7791,10 +7264,7 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
                                     "quantity": 200,
                                     "unit": "ml",
@@ -7806,11 +7276,7 @@
                                 "id": "103",
                                 "name": "Fermento de Padeiro seco",
                                 "satietyIdx": 45,
-                                "keywords": [
-                                    "fermento",
-                                    "padeiro",
-                                    "yeast"
-                                ],
+                                "keywords": ["fermento", "padeiro", "yeast"],
                                 "dose": {
                                     "quantity": 3.5,
                                     "unit": "g",
@@ -7863,12 +7329,7 @@
         "name": "Molho de Tomate",
         "servings": 400,
         "servingUnit": "g",
-        "keywords": [
-            "tomatoes",
-            "sauce",
-            "molho",
-            "tomates"
-        ],
+        "keywords": ["tomatoes", "sauce", "molho", "tomates"],
         "recipes": [
             {
                 "id": "67.1",
@@ -7934,10 +7395,7 @@
                                 "id": "158",
                                 "name": "Orégãos",
                                 "satietyIdx": 90,
-                                "keywords": [
-                                    "orégãos",
-                                    "oreganos"
-                                ],
+                                "keywords": ["orégãos", "oreganos"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "g",
@@ -7960,13 +7418,7 @@
         "name": "Noodles com Ovo e Vegetais",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "vegetais",
-            "vegetables",
-            "ovo",
-            "egg",
-            "noodles"
-        ],
+        "keywords": ["vegetais", "vegetables", "ovo", "egg", "noodles"],
         "recipes": [
             {
                 "id": "68.1",
@@ -8038,10 +7490,7 @@
                                 "id": "138",
                                 "name": "Cenoura",
                                 "satietyIdx": 142,
-                                "keywords": [
-                                    "cenouras",
-                                    "carrots"
-                                ],
+                                "keywords": ["cenouras", "carrots"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -8053,9 +7502,7 @@
                                 "id": "303",
                                 "name": "Kale",
                                 "satietyIdx": 190,
-                                "keywords": [
-                                    "kale"
-                                ],
+                                "keywords": ["kale"],
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "g",
@@ -8067,10 +7514,7 @@
                                 "id": "113",
                                 "name": "Courgette",
                                 "satietyIdx": 150,
-                                "keywords": [
-                                    "courgette",
-                                    "zucchini"
-                                ],
+                                "keywords": ["courgette", "zucchini"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -8082,12 +7526,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cc",
@@ -8116,11 +7555,7 @@
                                 "id": "93",
                                 "name": "Pimento",
                                 "satietyIdx": 175,
-                                "keywords": [
-                                    "pimentos",
-                                    "bell",
-                                    "peppers"
-                                ],
+                                "keywords": ["pimentos", "bell", "peppers"],
                                 "dose": {
                                     "quantity": 30,
                                     "unit": "g",
@@ -8160,14 +7595,7 @@
         "name": "Tarte de Requeijão",
         "servings": 8,
         "servingUnit": "slice",
-        "keywords": [
-            "tarte",
-            "requeijão",
-            "ricotta",
-            "cream",
-            "cheese",
-            "pie"
-        ],
+        "keywords": ["tarte", "requeijão", "ricotta", "cream", "cheese", "pie"],
         "recipes": [
             {
                 "id": "68.1",
@@ -8179,10 +7607,7 @@
                                 "id": "143",
                                 "name": "Açúcar",
                                 "satietyIdx": 60,
-                                "keywords": [
-                                    "açúcar",
-                                    "sugar"
-                                ],
+                                "keywords": ["açúcar", "sugar"],
                                 "dose": {
                                     "quantity": 100,
                                     "unit": "g",
@@ -8297,7 +7722,7 @@
                         ],
                         "steps": [
                             "Preaqueça o forno a 180ºC.",
-                            "Forre com papel vegeta uma forma redonda.",
+                            "Forre com papel vegetal uma forma redonda.",
                             "Coloque no copo o açúcar, a manteiga, o requeijão, os ovos, a farinha, e o fermento. Bata 1 minuti 30 seg/vel 5.",
                             "Deite na forma e leve ao forno a 180ºC durante cerca de 15 min."
                         ]
@@ -8330,10 +7755,7 @@
                                 "id": "149",
                                 "name": "Alface",
                                 "satietyIdx": 175,
-                                "keywords": [
-                                    "alface",
-                                    "lettuce"
-                                ],
+                                "keywords": ["alface", "lettuce"],
                                 "dose": {
                                     "quantity": 20,
                                     "unit": "slice",
@@ -8347,9 +7769,7 @@
                                 "brand": "Shambhala",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 121,
-                                "keywords": [
-                                    "seitans"
-                                ],
+                                "keywords": ["seitans"],
                                 "dose": {
                                     "quantity": 320,
                                     "unit": "g",
@@ -8397,10 +7817,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -8429,12 +7846,7 @@
                                 "id": "191",
                                 "name": "Molho de Soja",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "molho",
-                                    "soja",
-                                    "soy",
-                                    "sauce"
-                                ],
+                                "keywords": ["molho", "soja", "soy", "sauce"],
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cs",
@@ -8521,13 +7933,7 @@
         "name": "Pasta com Seitan e Cogumelos",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "pasta",
-            "massa",
-            "cogumelos",
-            "seitan",
-            "mushrooms"
-        ],
+        "keywords": ["pasta", "massa", "cogumelos", "seitan", "mushrooms"],
         "recipes": [
             {
                 "id": "71.1",
@@ -8539,12 +7945,7 @@
                                 "id": "187",
                                 "name": "Pasta",
                                 "satietyIdx": 119,
-                                "keywords": [
-                                    "pastas",
-                                    "massas",
-                                    "seca",
-                                    "dry"
-                                ],
+                                "keywords": ["pastas", "massas", "seca", "dry"],
                                 "dose": {
                                     "quantity": 120,
                                     "unit": "g",
@@ -8558,9 +7959,7 @@
                                 "brand": "Shambhala",
                                 "isBrandRelevant": false,
                                 "satietyIdx": 121,
-                                "keywords": [
-                                    "seitans"
-                                ],
+                                "keywords": ["seitans"],
                                 "dose": {
                                     "quantity": 160,
                                     "unit": "g",
@@ -8608,10 +8007,7 @@
                                 "id": "112",
                                 "name": "Cebola",
                                 "satietyIdx": 100,
-                                "keywords": [
-                                    "cebola",
-                                    "onion"
-                                ],
+                                "keywords": ["cebola", "onion"],
                                 "dose": {
                                     "quantity": 60,
                                     "unit": "g",
@@ -8640,11 +8036,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cs",
@@ -8669,10 +8061,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cc",
@@ -8709,12 +8098,7 @@
         "name": "Pasta de Limão",
         "servings": 2,
         "servingUnit": "unit",
-        "keywords": [
-            "pasta",
-            "massa",
-            "limão",
-            "lemon"
-        ],
+        "keywords": ["pasta", "massa", "limão", "lemon"],
         "recipes": [
             {
                 "id": "72.1",
@@ -8726,12 +8110,7 @@
                                 "id": "187",
                                 "name": "Pasta",
                                 "satietyIdx": 119,
-                                "keywords": [
-                                    "pastas",
-                                    "massas",
-                                    "seca",
-                                    "dry"
-                                ],
+                                "keywords": ["pastas", "massas", "seca", "dry"],
                                 "dose": {
                                     "quantity": 120,
                                     "unit": "g",
@@ -8751,7 +8130,7 @@
                                     "juice"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 11,
                                     "stepSize": 0.5
@@ -8769,7 +8148,7 @@
                                     "zest"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
+                                    "quantity": 0.5,
                                     "unit": "unit",
                                     "calsPerUnit": 6.58,
                                     "stepSize": 0.5
@@ -8796,11 +8175,7 @@
                                 "id": "95",
                                 "name": "Azeite",
                                 "satietyIdx": 50,
-                                "keywords": [
-                                    "azeites",
-                                    "olive",
-                                    "oil"
-                                ],
+                                "keywords": ["azeites", "olive", "oil"],
                                 "dose": {
                                     "quantity": 2,
                                     "unit": "cc",
@@ -8812,10 +8187,7 @@
                                 "id": "128",
                                 "name": "Sal",
                                 "satietyIdx": 5,
-                                "keywords": [
-                                    "sal",
-                                    "salt"
-                                ],
+                                "keywords": ["sal", "salt"],
                                 "dose": {
                                     "quantity": 1,
                                     "unit": "cc",
@@ -8834,7 +8206,7 @@
                                     "cheese"
                                 ],
                                 "dose": {
-                                    "quantity": 15,
+                                    "quantity": 20,
                                     "unit": "g",
                                     "calsPerUnit": 4.02,
                                     "stepSize": 1
@@ -8844,12 +8216,9 @@
                                 "id": "163",
                                 "name": "Água",
                                 "satietyIdx": 55,
-                                "keywords": [
-                                    "água",
-                                    "water"
-                                ],
+                                "keywords": ["água", "water"],
                                 "dose": {
-                                    "quantity": 150,
+                                    "quantity": 300,
                                     "unit": "ml",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
