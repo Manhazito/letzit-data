@@ -8733,7 +8733,7 @@
                                     "dry"
                                 ],
                                 "dose": {
-                                    "quantity": 160,
+                                    "quantity": 120,
                                     "unit": "g",
                                     "calsPerUnit": 1.2,
                                     "stepSize": 1
@@ -8802,9 +8802,9 @@
                                     "oil"
                                 ],
                                 "dose": {
-                                    "quantity": 1,
-                                    "unit": "cs",
-                                    "calsPerUnit": 126,
+                                    "quantity": 2,
+                                    "unit": "cc",
+                                    "calsPerUnit": 42,
                                     "stepSize": 1
                                 }
                             },
@@ -8849,7 +8849,7 @@
                                     "water"
                                 ],
                                 "dose": {
-                                    "quantity": 200,
+                                    "quantity": 150,
                                     "unit": "ml",
                                     "calsPerUnit": 0,
                                     "stepSize": 1
