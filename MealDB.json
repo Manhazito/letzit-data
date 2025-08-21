@@ -4500,7 +4500,7 @@
                                     "water"
                                 ],
                                 "dose": {
-                                    "quantity": 180,
+                                    "quantity": 125,
                                     "unit": "ml",
                                     "calsPerUnit": 0.035,
                                     "stepSize": 1
@@ -4539,7 +4539,7 @@
                                     "juice"
                                 ],
                                 "dose": {
-                                    "quantity": 5,
+                                    "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 0.22,
                                     "stepSize": 1
@@ -4556,7 +4556,7 @@
                                     "mustard"
                                 ],
                                 "dose": {
-                                    "quantity": 5,
+                                    "quantity": 10,
                                     "unit": "g",
                                     "calsPerUnit": 2.69,
                                     "stepSize": 1
@@ -4573,7 +4573,7 @@
                                     "sauce"
                                 ],
                                 "dose": {
-                                    "quantity": 10,
+                                    "quantity": 15,
                                     "unit": "g",
                                     "calsPerUnit": 1.1,
                                     "stepSize": 1
@@ -4615,11 +4615,10 @@
                         "steps": [
                             "Heat olive oil in a large pan over medium heat. Add the onion and garlic, and sauté for 3-4 minutes until softened.",
                             "Add the mushrooms and cook for 5-7 minutes until they become tender and browned.",
-                            "Stir in the flour (if using), then gradually add the vegetable broth while stirring to combine.",
-                            "Bring to a simmer and cook for 5-7 minutes until the sauce thickens.",
-                            "Stir in the sour cream, Dijon mustard, soy sauce, and season with salt and pepper.",
+                            "Gradually add the vegetable broth while stirring to combine.",
+                            "Stir in the cream, lemon juice, mustard, soy sauce, and season with salt and pepper.",
                             "Simmer for another 2-3 minutes until creamy and heated through.",
-                            "Serve over pasta or rice, garnished with fresh parsley."
+                            "Serve over pasta or rice."
                         ]
                     }
                 ]
