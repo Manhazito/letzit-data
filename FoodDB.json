@@ -7508,5 +7508,47 @@
                 "stepSize": 1
             }
         ]
+    },
+    {
+        "id": "315",
+        "name": "Conchiglie (cozido)",
+        "satietyIdx": 119,
+        "keywords": [
+            "pastas",
+            "massas",
+            "conchiglie",
+            "conchas",
+            "cozidos",
+            "cooked"
+        ],
+        "doses": [
+            {
+                "quantity": 120,
+                "unit": "g",
+                "calsPerUnit": 1.2,
+                "stepSize": 1
+            }
+        ]
+    },
+    {
+        "id": "316",
+        "name": "Conchiglie",
+        "satietyIdx": 119,
+        "keywords": [
+            "pastas",
+            "massas",
+            "conchiglie",
+            "conchas",
+            "seca",
+            "dry"
+        ],
+        "doses": [
+            {
+                "quantity": 50,
+                "unit": "g",
+                "calsPerUnit": 3.59,
+                "stepSize": 1
+            }
+        ]
     }
 ]
