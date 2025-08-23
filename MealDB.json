@@ -1,6 +1,8 @@
 {
-    "varsion": 0.1,
-    "recipes": [
+    "meta": {
+        "version": "0.0.0"
+    },
+    "data": [
         {
             "id": "1",
             "name": "Salada da Carla",
