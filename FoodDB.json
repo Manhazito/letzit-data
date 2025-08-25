@@ -6565,6 +6565,28 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "317",
+            "name": "Pão de Leite",
+            "brand": "Pasquier",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": ["pão", "leite", "brioche", "bread"],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 117.25,
+                    "stepSize": 0.5
+                },
+                {
+                    "quantity": 35,
+                    "unit": "g",
+                    "calsPerUnit": 3.35,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
