@@ -2098,9 +2098,16 @@
         },
         {
             "id": "103",
-            "name": "Fermento de Padeiro seco",
+            "name": "Fermento de Padeiro seco instantâneo",
             "satietyIdx": 45,
-            "keywords": ["fermento", "padeiro", "seco", "dry", "yeast"],
+            "keywords": [
+                "fermento",
+                "padeiro",
+                "seco",
+                "instantâneos",
+                "dry",
+                "yeast"
+            ],
             "doses": [
                 {
                     "quantity": 9,
@@ -6584,6 +6591,39 @@
                     "quantity": 35,
                     "unit": "g",
                     "calsPerUnit": 3.35,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "318",
+            "name": "Fermento de Padeiro seco activo",
+            "satietyIdx": 45,
+            "keywords": [
+                "fermento",
+                "padeiro",
+                "seco",
+                "activo",
+                "dry",
+                "yeast"
+            ],
+            "doses": [
+                {
+                    "quantity": 9,
+                    "unit": "g",
+                    "calsPerUnit": 3.25,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "cs",
+                    "calsPerUnit": 29.25,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 3,
+                    "unit": "cc",
+                    "calsPerUnit": 9.75,
                     "stepSize": 1
                 }
             ]

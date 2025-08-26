@@ -73,12 +73,12 @@
                                 }
                             ],
                             "steps": [
-                                "Corte {57} de tomate cherry em metades;",
-                                "Descasque {92} de pepino, e corte em fatias redondas;",
-                                "Retire as sementes de {93} de pimento, e corte em tiras finas;",
-                                "Corte {94} de rabanetes em fatias;",
+                                "Corte os tomate cherry em metades;",
+                                "Descasque o pepino, e corte em rodelas;",
+                                "Retire as sementes do pimento, e corte em tiras finas;",
+                                "Corte os rabanetes em rodelas finas;",
                                 "Misture tudo numa tijela grande;",
-                                "Adicione {95} de azeite e de vinagre balsâmico e misture de novo."
+                                "Adicione o azeite e o vinagre balsâmico e misture de novo."
                             ]
                         }
                     ]
@@ -324,11 +324,11 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a cebola e triture 5 seg / Vel 5;",
-                                "Adicione o azeite e refogue 5 min / 120ºC / Vel 1;",
-                                "Adicione os cogumelos, natas, tomate, salsichas aos pedaços, o sal e a água. Cozinhe 5 min/ 100ºC / Reverse / Vel 1;",
-                                "Tire a tampa e adicione o esparguete. Cozinhe sem tampa 2 min / 100ºC, ou até o esparguete estar todo dentro do líquido;",
-                                "Coloque a tampa de volta e cozinhe durante o tempo especificado no pacote / 100ºC / Reverse / Vel 1."
+                                "Coloque no copo a cebola e triture [5 seg | vel 5];",
+                                "Adicione o azeite e refogue [5 min | 120ºC | vel 1];",
+                                "Adicione os cogumelos, natas, tomate, salsichas aos pedaços, o sal e a água. Cozinhe [5 min | 100ºC | reverse | vel 1];",
+                                "Tire a tampa e adicione o esparguete. Cozinhe sem tampa [2 min | 100ºC], ou até o esparguete estar todo dentro do líquido;",
+                                "Coloque a tampa de volta e cozinhe durante o tempo especificado no pacote [100ºC | reverse | vel 1]."
                             ]
                         }
                     ]
@@ -399,7 +399,7 @@
                             ],
                             "steps": [
                                 "Adicionar a aveia a uma tijela;",
-                                "Adicionar à aveia a água, de preferência aqucida. Deixe repousar durante 5min;",
+                                "Adicionar à aveia a água, de preferência aquecida. Deixe repousar durante 5 min;",
                                 "Adicione o leite e o adoçante, e mexa bem."
                             ]
                         }
@@ -673,11 +673,11 @@
                             ],
                             "steps": [
                                 "Cozer a pasta em água com sal até ficar al dente;",
-                                "Numa frigideira grande, refogar o bacon em azeite com os dentes de alho esmagados durante 5min, ou até o bacon ficar tostado. Descartar os dentes de alho e mantenha a frigideira em lume baixo;",
+                                "Numa frigideira grande, refogar o bacon em azeite com os dentes de alho esmagados durante 5 min, ou até o bacon ficar tostado;",
                                 "Misture a maior parte do queijo com os ovos mexidos;",
                                 "Quando a pasta estiver quase cozida reserve uma gadanha da água de cozedura, e deixe a arrefecer;",
                                 "Assim que a pasta esteja cozida descarte o alho, e adicione a pasta ao bacon na frigideira usando umas pinças;",
-                                "Misture a água que reservou à mistura de ovos e queijo;",
+                                "Aos poucos, misture a água que reservou à mistura de ovos e queijo. Mexa bem;",
                                 "Retire a frigideira do lume e despeje por cima a mistura de ovos e queijo. Envolva bem;",
                                 "Polvilhe o restante queijo, a pimenta, e o manjericão, por cima da pasta, e sirva de imediato."
                             ]
@@ -981,10 +981,10 @@
                             ],
                             "steps": [
                                 "Cozinhe a pasta conforme instruções da embalagem.",
-                                "Coloque no copo a cebola, o alho, a cenoura, e o azeite. Triture 5 seg/vel 7.",
-                                "Refogue 4 min/120ºC/vel 2.",
-                                "Adicione a carne picada e cozinhe 5 min/120ºC/Reverse/vel 1.",
-                                "Adicione o tomate, os orégãos, o sal, a pimenta, e a água. Cozinhe 10 min/100ªC/Reverse/vel 1.",
+                                "Coloque no copo a cebola, o alho, a cenoura, e o azeite. Triture [5 seg | vel 7].",
+                                "Refogue [4 min | 120ºC | vel 2].",
+                                "Adicione a carne picada e cozinhe [5 min | 120ºC | reverse | vel 1].",
+                                "Adicione o tomate, os orégãos, o sal, a pimenta, e a água. Cozinhe [10 min | 100ºC | reverse | vel 1].",
                                 "Sirva com a pasta, adicionando o queijo no topo."
                             ]
                         }
@@ -2026,10 +2026,10 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a manteiga e derreta 3 min/100ºC/vel 1;",
-                                "Adicione a farinha e envolva 3 min/100ªC/vel 1;",
-                                "Adicione o leite, o sal, a pimenta, e a noz-moscada, envolva bem com a ajuda da espátula, e aqueça 6 min/90ªC/vel 4;",
-                                "Ude conforme necessário."
+                                "Coloque no copo a manteiga e derreta [3 min | 100ºC | vel 1];",
+                                "Adicione a farinha e envolva [3 min | 100ºC | vel 1];",
+                                "Adicione o leite, o sal, a pimenta, e a noz-moscada, envolva bem com a ajuda da espátula, e aqueça [6 min | 90ºC | vel 4];",
+                                "Use conforme necessário."
                             ]
                         }
                     ]
@@ -2263,10 +2263,10 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo o queijo e rale 15 seg/ vel 10. Retire e reserve.",
-                                "Coloque no copo a cebola, o alho e o azeite, pique 5 seg/vel 5 e refogue 5 min/120ºC/vel 1.",
-                                "Adicione a mistura de legumes, os cogumelos e o presunto e salteie 8 min/120°C/Reverse/vel mix.",
-                                "Adicione o caldo, o vinho, e o arroz, envolva bem com a ajuda da espátula e coza 18 min/100°C/Reverse/vel mix.",
+                                "Coloque no copo o queijo e rale [15 seg | vel 10]. Retire e reserve.",
+                                "Coloque no copo a cebola, o alho e o azeite, pique [5 seg | vel 5], e refogue [5 min | 120ºC | vel 1].",
+                                "Adicione a cenoura e os cogumelos e salteie [8 min | 120°C | reverse | vel mix].",
+                                "Adicione o caldo, o vinho, e o arroz, envolva bem com a ajuda da espátula e coza [18 min | 100°C | reverse | vel mix].",
                                 "Adicione o queijo reservado e envolva com a ajuda da espátula. Sirva de seguida."
                             ]
                         }
@@ -2811,14 +2811,14 @@
                                 }
                             ],
                             "steps": [
-                                "Sweat the mushrooms until deeply browned and moisture is gone. Don't crowd the pan. Salt at the end. Set aside.",
-                                "In the same pan, add the the olive oil. Sauté onion gently until translucent, then add garlic for 30 seconds.",
-                                "Add the rice. Stir for 1–2 minutes until slightly translucent.",
-                                "Deglaze with wine. Stir until absorbed.",
-                                "Ladle in hot stock, one ladle at a time, stir frequently. Maintain a gentle simmer. Add more as it absorbs. After ~15 minutes, add the cooked mushrooms back in.",
-                                "Cook until al dente. Should take around 18–20 minutes in total. Add a pinch of salt near the end.",
-                                "Check texture — it should be creamy, not dry or watery. Adjust with a bit more hot stock if needed.",
-                                "Add the Parmesan, and do the mantecatura, for 30-60 seconds."
+                                "Salteie os cogumelos até ficarem dourados e sem humidade. Não encha demasiado a frigideira. Tempere com sal no fim. Reserve.",
+                                "Na mesma frigideira, junte o azeite. Refogue a cebola suavemente até ficar translúcida, depois adicione o alho durante 30 segundos.",
+                                "Adicione o arroz. Mexa até ficar ligeiramente translúcido (cerca de 1 minuto).",
+                                "Deglace com o vinho. Mexa até ser absorvido.",
+                                "Acrescente o caldo quente, uma concha de cada vez, mexendo frequentemente. Mantenha uma fervura suave. Adicione mais caldo à medida que este for sendo absorvido. Passados cerca de 15 minutos, junte novamente os cogumelos salteados.",
+                                "Cozinhe até o arroz ficar al dente. Deve demorar cerca de 18–20 minutos no total. Acrescente uma pitada de sal perto do fim.",
+                                "Verifique a textura. Ajuste com mais um pouco de caldo quente se necessário.",
+                                "Adicione o parmesão e faça a mantecatura, durante 30–60 segundos."
                             ]
                         }
                     ]
@@ -2931,10 +2931,10 @@
                             ],
                             "steps": [
                                 "Coloque os cogumelos numa frigideira com um pouco de sal. Deixe a água evaporar e os cogumelos ficarem um pouco tostados. Reserve.",
-                                "Coloque no copo o queijo parmesão e triture 10 seg/vel 10. Retire e reserve.",
-                                "Coloque no copo a cebola e o alho, e triture 5 seg/vel 5. Adicione o azeite e refogue 5 min/120°C/vel 1.",
-                                "Insira a borboleta. Adicione o arroz, o vinho, os cogumelos, e o caldo. Tempere com o sal e cozinhe 15 min/100°C/Reverse/vel 1.",
-                                "Adicione o queijo parmesão reservado e misture 20 seg/Reverse/vel 2. Retire a borboleta. Ajuste o sal se for necessário e sirva em seguida."
+                                "Coloque no copo o queijo parmesão e triture [10 seg | vel 10]. Retire e reserve.",
+                                "Coloque no copo a cebola e o alho, e triture [5 seg | vel 5]. Adicione o azeite e refogue [5 min | 120°C | vel 1].",
+                                "Insira a borboleta. Adicione o arroz, o vinho, os cogumelos, e o caldo. Tempere com o sal e cozinhe [15 min | 100°C | reverse | vel 1].",
+                                "Adicione o queijo parmesão reservado e misture [20 seg | reverse | vel 2]. Retire a borboleta. Ajuste o sal se for necessário e sirva de seguida."
                             ]
                         }
                     ]
@@ -3426,10 +3426,10 @@
                                 }
                             ],
                             "steps": [
-                                "Add garlic, and shallot to the Thermomix bowl. Chop 5 sec / Speed 5.",
-                                "Scrape down the sides, then add sesame oil. Sauté 3 min / 120°C / Speed 1.",
-                                "Add all other broth ingredients. Mix 5 sec / Reverse / Speed 3.",
-                                "Cook 15 min / 100°C / Reverse / Speed 1."
+                                "Adicione o alho e a chalota ao copo da Thermomix. Pique [5 seg | vel 5].",
+                                "Raspe as laterais do copo, depois adicione o óleo de sésamo. Refogue [3 min | 120°C | vel 1].",
+                                "Adicione todos os outros ingredientes do caldo. Misture [5 seg | reverse | vel 3].",
+                                "Cozinhe [15 min | 100°C | reverse | vel 1]."
                             ]
                         },
                         {
@@ -3524,15 +3524,15 @@
                                 }
                             ],
                             "steps": [
-                                "Place the Thermomix simmering basket inside. Add the egg.",
-                                "Cook 10 min / 100°C / Speed 1.",
-                                "Remove egg, place it in cold water, then peel and halve it.",
-                                "Add ramen noodles directly to the Thermomix bowl. Cook 3-4 min / 100°C / Reverse / Speed Soft (or per package instructions).",
-                                "While cooking, julienne the carrot.",
-                                "Pan-fry the Heura with a little sesame oil and soy sauce.",
-                                "Divide the noodles into bowls.",
-                                "Pour the hot broth over the noodles.",
-                                "Top with shredded Heura, halved egg, carrots, and nori. Enjoy."
+                                "Coloque o cesto de cozedura da Thermomix no interior. Adicione o ovo.",
+                                "Cozinhe [10 min | 100°C | vel 1].",
+                                "Retire o ovo, coloque-o em água fria, depois descasque e corte-o ao meio.",
+                                "Adicione os noodles de ramen diretamente no copo da Thermomix. Cozinhe [3 min | 100°C | reverse | vel mix] (ou conforme instruções da embalagem).",
+                                "Enquanto cozinha, corte a cenoura em juliana.",
+                                "Salteie a Heura numa frigideira com um pouco de óleo de sésamo e molho de soja.",
+                                "Divida os noodles pelas taças.",
+                                "Deite o caldo quente sobre os noodles.",
+                                "Finalize com o Heura, o ovo cortado ao meio, a cenoura e a nori."
                             ]
                         }
                     ]
@@ -3547,6 +3547,7 @@
             "keywords": [
                 "noodles",
                 "chow",
+                "lo",
                 "mein",
                 "pastas",
                 "massas",
@@ -3693,13 +3694,13 @@
                                 }
                             ],
                             "steps": [
-                                "Boil the noodles for 2–3 minutes — undercook slightly, then drain and rinse with cold water. Toss in a little oil to prevent sticking.",
-                                "Slice mushrooms thin so they cook quickly.",
-                                "In a hot pan (wok or large skillet), add a bit of neutral oil. Sear the mushrooms until browned. Don't crowd them — they'll steam.",
-                                "Add garlic and cook 30 seconds more.",
-                                "Toss in the Heura pieces. Let them brown slightly or heat through, depending on their current state.",
-                                "Add your drained noodles. Stir to mix everything — don't baby them, let them sit for a few seconds to crisp.",
-                                "Add soy sauce, and chili flakes if you like heat."
+                                "Cozinhe os noodles durante 3 minutos — deixe-os um pouco mal cozidos, depois escorra e passe por água fria.",
+                                "Corte os cogumelos em fatias finas para que cozinhem rapidamente.",
+                                "Numa frigideira bem quente, sele os cogumelos até ficarem dourados. Não os junte em excesso — senão vão cozer a vapor.",
+                                "Adicione a Heura e cozinhe até ficar ligeiramente dourada.",
+                                "Num canto da frigideira, adicione o óleo de sésamo e o alho e cozinhe 30 segundos. Mexa tudo.",
+                                "Junte os noodles escorridos. Mexa para envolver tudo — deixe-os repousar alguns segundos para ganharem crocância.",
+                                "Adicione molho de soja e, se gostar de picante, flocos de malagueta."
                             ]
                         }
                     ]
@@ -3834,10 +3835,10 @@
                                 }
                             ],
                             "steps": [
-                                "Add onion and garlic to the Thermomix. Chop 5 sec / Speed 5. Scrape down;",
-                                "Add olive oil and mushrooms. Sauté 8 min / 120°C / Speed 1;",
-                                "Add salt, pepper, and cream. Cook 5 min / 90°C / Speed 2;",
-                                "Blend 10 sec / Speed 6."
+                                "Adicione a cebola e o alho à Thermomix. Pique [5 seg | vel 5]. Raspe as laterais;",
+                                "Adicione o azeite e os cogumelos. Refogue [8 min | 120°C | vel 1];",
+                                "Adicione o sal, a pimenta, e as natas. Cozinhe [5 min | 90°C | vel 2];",
+                                "Triture [10 seg | vel 6]."
                             ]
                         },
                         {
@@ -3888,10 +3889,10 @@
                                 }
                             ],
                             "steps": [
-                                "Boil pasta in salted water. Drain, reserving 1/2 cup pasta water.",
-                                "Pan-fry Heura in 4 spray of olive oil until golden.",
-                                "Toss pasta with sauce and Heura, combine using the reserved pasta water;",
-                                "Serve while hot."
+                                "Coza a massa em água com sal. Escorra, reservando meia chávena da água da cozedura.",
+                                "Salteie a Heura com 4 pulverizações de azeite, até ficar dourada.",
+                                "Envolva a massa com o molho e a Heura, combinando com a água da cozedura reservada;",
+                                "Sirva quente."
                             ]
                         }
                     ]
@@ -3982,12 +3983,12 @@
                                 }
                             ],
                             "steps": [
-                                "Preheat the oven to 250°C (480°F) with a pizza stone or baking tray inside;",
-                                "Divide the dough into two balls. Roll one out on a floured surface into a thin round shape;",
-                                "Spread a thin layer of tomato sauce on the dough, leaving a small border;",
-                                "Tear the mozzarella into pieces and distribute it over the pizza;",
-                                "Transfer the pizza onto the hot baking stone or tray and bake for 7–10 minutes, or until the crust is golden and the cheese is bubbly;",
-                                "Top with fresh basil leaves and serve immediately."
+                                "Pré-aqueça o forno a 250°C, com a pedra para pizza ou um tabuleiro de forno no interior;",
+                                "Divida a massa em duas bolas, e estenda uma sobre uma superfície enfarinhada até formar um círculo fino;",
+                                "Espalhe uma camada fina de molho de tomate sobre a massa, deixando uma pequena borda;",
+                                "Rasgue a mozzarella em pedaços, e distribua-os sobre a pizza;",
+                                "Transfira a pizza para a pedra ou tabuleiro já quentes, e leve ao forno durante 7–10 minutos, ou até a base ficar dourada, e o queijo borbulhante;",
+                                "Finalize com folhas de manjericão fresco, e sirva de imediato."
                             ]
                         }
                     ]
@@ -4234,14 +4235,14 @@
                                 }
                             ],
                             "steps": [
-                                "Pré-aqueça o forno a 180 ºC.",
+                                "Pré-aqueça o forno a 180ºC.",
                                 "Num tacho, refogue em azeite a cebola e o alho picados. Junte a carne picada e deixe cozinhar durante 3 minutos em lume médio mexendo sempre;",
-                                "De seguida, refresque com o vinho branco e adicione os orégãos. Tempere com metade do sal e a pimenta;",
-                                "Junte o tomate picado e limpo de pele e grainhas juntamente com a polpa de tomate envolva;",
+                                "De seguida, deglace com o vinho branco e adicione os orégãos. Tempere com metade do sal e a pimenta;",
+                                "Junte o tomate picado e limpo de pele e grainhas juntamente com a polpa de tomate. Envolva;",
                                 "Deixe cozinhar durante 10 minutos em lume médio mexendo de vez em quando até secar um pouco o preparado. Tire do lume e reserve.",
                                 "Num tabuleiro de forno quadrado coloque por camadas: as folhas de lasanha, o preparado da carne e o molho bechamel. Repita o processo, terminando com uma camada de folhas de lasanha.",
-                                "Polvilhe com queijo mozzarella e leve ao forno a 190 ºC durante 25 minutos.",
-                                "Sirva decorado com os raminhos de manjericão."
+                                "Polvilhe com queijo mozzarella e leve ao forno a 190ºC durante 25 minutos.",
+                                "Sirva decorado com manjericão."
                             ]
                         }
                     ]
@@ -4478,12 +4479,12 @@
                                 }
                             ],
                             "steps": [
-                                "Heat olive oil in a large pan over medium heat. Add the onion and garlic, and sauté for 3-4 minutes until softened.",
-                                "Add the mushrooms and cook for 5-7 minutes until they become tender and browned.",
-                                "Gradually add the vegetable broth while stirring to combine.",
-                                "Stir in the cream, lemon juice, mustard, soy sauce, and season with salt and pepper.",
-                                "Simmer for another 2-3 minutes until creamy and heated through.",
-                                "Serve over pasta or rice."
+                                "Aqueça o azeite numa frigideira grande em lume médio. Adicione a cebola e salteie durante 3-4 minutos até amolecer. Adicione o alho e salteie durante 30 seg.",
+                                "Adicione os cogumelos, e cozinhe durante 5-7 minutos até ficarem tenros e dourados.",
+                                "Adicione gradualmente o caldo de legumes, mexendo para combinar.",
+                                "Envolva as natas, o sumo de limão, a mostarda, e o molho de soja. Tempere com sal e pimenta.",
+                                "Deixe cozinhar em lume brando durante mais 2-3 minutos, até ficar cremoso, e bem quente.",
+                                "Sirva sobre pasta, ou arroz."
                             ]
                         }
                     ]
@@ -4616,17 +4617,17 @@
                                 }
                             ],
                             "steps": [
-                                "Preheat oven to 200°C.",
-                                "Cut the cabbage in 4 wedges",
-                                "Mix all the other ingredients",
-                                "Line a baking tray with parchment paper or foil.",
-                                "Rub the all the surfaces of your cabbage with two thirds of the mix.",
-                                "Place the cabbage on the tray.",
-                                "Roast for 20 minutes.",
-                                "Take the cabbage out and flip the wedges",
-                                "Drip the rest of the mix on top of the cabbage.",
-                                "Roast another 15 minutes until the cabbage is nicely caramelized.",
-                                "Let it rest 5 minutes, then serve."
+                                "Pré-aqueça o forno a 200°C.",
+                                "Corte a couve roxa em 4 ou 8 partes, e retire parte do caule, cortando-o em cunha.",
+                                "Misture todos os outros ingredientes.",
+                                "Forre um tabuleiro de forno com papel vegetal.",
+                                "Esfregue todas as superfícies da couve com dois terços da mistura.",
+                                "Coloque a couve no tabuleiro.",
+                                "Asse durante 20 minutos.",
+                                "Retire a couve, e vire os gomos.",
+                                "Deite o resto da mistura por cima da couve.",
+                                "Asse mais 15 minutos, até a couve ficar bem caramelizada.",
+                                "Deixe repousar 5 minutos, e depois sirva."
                             ]
                         }
                     ]
@@ -4739,11 +4740,12 @@
                                 }
                             ],
                             "steps": [
-                                "Put rice in simmering basket. Rinse under running water until clear. Set aside.",
-                                "Pour 600 g water + salt into mixing bowl. Insert simmering basket with rice. Cook: 21 min / Varoma / vel 4",
-                                "Carefully remove simmering basket. Tip rice into a bowl.",
-                                "Stir in the olive oil, lemon zest, and lemon juice.",
-                                "Season with extra salt. Fluff gently."
+                                "Coloque o arroz no cesto de cozedura. Passe por água corrente até a água sair transparente. Reserve.",
+                                "Deite 600 g de água e o sal no copo. Insira o cesto de cozedura com o arroz. Cozinhe a vapor: [21 min | vel 4]",
+                                "Retire cuidadosamente o cesto de cozedura. Deite o arroz numa taça.",
+                                "Envolva no arroz o azeite, a raspa de limão, e o sumo de limão.",
+                                "Tempere com sal.",
+                                "Solte delicadamente com um garfo."
                             ]
                         }
                     ]
@@ -4819,9 +4821,9 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a água e o sal. Aqueça 5 min/100ºC/vel 1.",
-                                "Adicione a farinha e misture 15 seg/vel 6.",
-                                "Adicione o azeite e volte a misturar 15 seg/vel 6.",
+                                "Coloque no copo a água e o sal. Aqueça [5 min | 100ºC | vel 1].",
+                                "Adicione a farinha e misture [15 seg | vel 6].",
+                                "Adicione o azeite e volte a misturar [15 seg | vel 6].",
                                 "Retire e deixe arrefecer."
                             ]
                         }
@@ -5118,12 +5120,12 @@
                                 }
                             ],
                             "steps": [
-                                "Boil the pasta in salted water until al dente. Reserve half a cup of pasta water, then drain.",
-                                "Heat olive oil in a pan over medium-high heat. Add minced garlic. Sauté a few seconds. Add Heura pieces and brown them lightly (usually ~3–5 min). Season with salt and pepper.",
-                                "Lower heat to medium-low. Add béchamel sauce to the pan with the Heura. Stir gently to warm through.",
-                                "If the béchamel is too thick, add small splashes of pasta water until it's a silky sauce.",
-                                "Add cooked pasta to the pan. Toss well until coated. Taste and adjust seasoning (salt and pepper).",
-                                "Serve topping with the lemon juice and zest."
+                                "Coza a massa em água com sal até ficar al dente. Reserve meia chávena da água da cozedura, depois escorra.",
+                                "Aqueça o azeite numa frigideira em lume médio-alto. Adicione o alho picado. Salteie alguns segundos. Junte a Heura em pedaços, e deixe alourar ligeiramente (normalmente 3–5 min). Tempere com sal, e pimenta.",
+                                "Reduza o lume para médio-baixo. Adicione o molho béchamel à frigideira com a Heura. Mexa suavemente para aquecer.",
+                                "Se o béchamel estiver demasiado espesso, adicione pequenos salpicos da água da massa até obter um molho sedoso.",
+                                "Junte a massa cozida à frigideira. Envolva bem até ficar coberta. Prove, e ajuste os temperos (sal, e pimenta).",
+                                "Sirva, finalizando com o sumo e a raspa de limão."
                             ]
                         }
                     ]
@@ -5225,9 +5227,9 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo as bolachas e rale 10 seg/vel 9. Retire e reserve.",
-                                "Coloque no copo o açúcar. Adicione a manteiga e bata 2 min/vel 3.",
-                                "Adicione o café e misture 25 seg/vel 4."
+                                "Coloque no copo as bolachas e rale [10 seg | vel 9]. Retire e reserve.",
+                                "Coloque no copo o açúcar. Adicione a manteiga e bata [2 min | vel 3].",
+                                "Adicione o café e misture [25 seg | vel 4]."
                             ]
                         }
                     ]
@@ -5317,11 +5319,7 @@
                                     }
                                 }
                             ],
-                            "steps": [
-                                "Coloque no copo 4 bolachas e rale 10 seg/vel 9. Retire e reserve.",
-                                "Coloque no copo o açúcar. Adicione a manteiga e bata 2 min/vel 3.",
-                                "Adicione o café e misture 25 seg/vel 4."
-                            ]
+                            "steps": []
                         }
                     ]
                 }
@@ -5492,13 +5490,13 @@
                                 }
                             ],
                             "steps": [
-                                "Slice the seitan into 1–2 cm thick slabs. Lightly pat the pieces dry so the marinade clings better.",
-                                "Whisk all other ingredients together until smooth. Taste and adjust.",
-                                "Rub marinade all over seitan. Let it sit at least 30 minutes — or better, a few hours—in the fridge.",
-                                "Preheat oven to 180°C.",
-                                "Place seitan on a parchment-lined baking sheet or shallow baking dish.",
-                                "Bake for around 10–12 min, flip, baste, then bake for another 8–10 min. Keep an eye on it — the sugars can burn.",
-                                "When light caramelized remove from oven. Let it rest a few minutes — it firms up as it cools."
+                                "Corte o seitan em fatias de 1 cm de espessura. Seque ligeiramente os pedaços para que a marinada adira melhor.",
+                                "Misture bem todos os outros ingredientes até obter um creme homogéneo. Prove, e ajuste.",
+                                "Esfregue a marinada em todo o seitan. Deixe repousar pelo menos 30 minutos — ou de preferência algumas horas — no frigorífico.",
+                                "Pré-aqueça o forno a 180°C.",
+                                "Coloque o seitan num tabuleiro forrado com papel vegetal, ou numa assadeira baixa.",
+                                "Asse cerca de 10–12 min, vire, pincele com a marinada, e depois asse mais 8–10 min. Vigie, porque os açúcares podem queimar.",
+                                "Quando estiver ligeiramente caramelizado, retire do forno. Deixe repousar alguns minutos — vai ficar mais firme ao arrefecer."
                             ]
                         }
                     ]
@@ -5686,13 +5684,13 @@
                                 }
                             ],
                             "steps": [
-                                "Cook pasta in plenty of salted water until al dente. Save about ½ cup of pasta water before draining.",
-                                "Heat olive oil in a large pan over medium heat. Add sliced garlic and paprika. Cook gently until fragrant but not browned.",
-                                "Stir in white miso paste. Let it dissolve slightly into the oil, about 30 seconds.",
-                                "Add the tomatoes. Simmer for ~10 minutes, stirring occasionally.",
-                                "Toss in chopped olives and capers. Cook ~2 more minutes.",
-                                "Taste and season with salt and pepper.",
-                                "Add drained spaghetti to the sauce. Toss to coat, adding reserved pasta water little by little if it's too thick."
+                                "Coza a massa em bastante água com sal até ficar al dente. Guarde cerca de meia chávena da água da cozedura antes de escorrer.",
+                                "Aqueça o azeite numa frigideira grande em lume médio. Adicione o alho fatiado, e o pimentão picante. Cozinhe suavemente até libertar aroma, mas sem deixar alourar.",
+                                "Envolva a pasta de miso branco. Deixe dissolver ligeiramente no azeite, cerca de 30 segundos.",
+                                "Adicione os tomates. Deixe ferver em lume brando durante ~10 minutos, mexendo de vez em quando.",
+                                "Junte as azeitonas picadas e as alcaparras. Cozinhe mais 2 minutos.",
+                                "Prove, e tempere com sal, e pimenta.",
+                                "Adicione o esparguete escorrido ao molho. Envolva bem, acrescentando a água da massa reservada pouco a pouco se estiver demasiado espesso."
                             ]
                         }
                     ]
@@ -5906,9 +5904,9 @@
                             ],
                             "steps": [
                                 "Numa frigideira doure os pedaços de Heura",
-                                "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Coloque o tabuleiro da Varoma com o pimento e a curgete e cozinhe 20 min/Varoma/vel 4. Retire e reserve a Varoma. Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo.",
-                                "Coloque no copo a cebola, o alho, o tomate e o azeite, pique 3 seg/vel 5 e refogue 3 min/120°C/vel 1.",
-                                "Adicione a Heura, o caril, o leite de coco, o mel, 1 c. de chá de sal e 1-2 pitadas de pimenta e cozinhe 10 min/95°C/Reverse/vel 1.",
+                                "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Coloque o tabuleiro da Varoma com o pimento e a curgete e cozinhe a vapor [20 min | vel 4]. Retire e reserve a Varoma. Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo.",
+                                "Coloque no copo a cebola, o alho, o tomate e o azeite, pique [3 seg | vel 5] e refogue [3 min | 120°C | vel 1].",
+                                "Adicione a Heura, o caril, o leite de coco, o mel, 1 c. de chá de sal e 1-2 pitadas de pimenta e cozinhe [10 min | 95°C | reverse | vel 1].",
                                 "Adicione o pimento e a curgete cozidos e envolva com a ajuda da espátula. Retire e sirva com o arroz."
                             ]
                         }
@@ -6000,13 +5998,12 @@
                                 }
                             ],
                             "steps": [
-                                "Slice the cucumber very thin (paper-thin rounds).",
-                                "Sprinkle slices with the salt and gently massage. Let sit ~10 minutes to draw out moisture.",
-                                "Squeeze out excess water with your hands.",
-                                "Mix rice vinegar, sugar, and soy sauce. Stir until sugar dissolves completely.",
-                                "Toss drained cucumber with the dressing.",
-                                "Chill for ~10-15 minutes if you like it extra cold.",
-                                ""
+                                "Corte o pepino em fatias muito finas usando uma mandolina.",
+                                "Polvilhe as fatias com sal, e massaje suavemente. Deixe repousar ~10 minutos para libertar a água.",
+                                "Esprema o excesso de água com as mãos.",
+                                "Numa taça, misture o vinagre de arroz, o açúcar, e o molho de soja. Mexa até o açúcar dissolver completamente.",
+                                "Envolva o pepino escorrido com o molho.",
+                                "Leve ao frio durante ~10-15 minutos, se preferir bem fresco."
                             ]
                         }
                     ]
@@ -6177,9 +6174,9 @@
                                 }
                             ],
                             "steps": [
-                                "No copo da Bimby, coloque a cenoura e o alho. Pique 3 seg/vel 7.",
-                                "Adicione a água, caldo, pasta de miso, molho de soja e óleo de sésamo.",
-                                "Cozinhe 30 min/100°C/vel colher inversa.",
+                                "No copo da Bimby, coloque a cenoura e o alho. Pique [3 seg | vel 7].",
+                                "Adicione a água, o caldo, a pasta de miso, o molho de soja, e óleo de sésamo.",
+                                "Cozinhe [30 min | 100°C | reverse | vel mix.",
                                 "Filtre o caldo com coador fino e reserve."
                             ]
                         },
@@ -6241,7 +6238,6 @@
                                 }
                             ],
                             "steps": [
-                                "Se desejar, envolva os cubos de tofu em amido de milho.",
                                 "Aqueça uma frigideira com o óleo de sésamo, adicione o tofu e doure bem de todos os lados (5–8 minutos).",
                                 "Adicione o molho de soja no final e envolva. Reserve."
                             ]
@@ -6361,11 +6357,11 @@
                             ],
                             "steps": [
                                 "No copo limpo, adicione os cogumelos e o óleo de sésamo.",
-                                "Cozinhe 3 min/120°C/vel colher inversa sem o copo de medida. Reserve.",
-                                "Cozinhar os noodles conforme as instruções da embalagem. Escorrer.",
+                                "Cozinhe [3 min | 120°C | reverse | vel mix]. Reserve.",
+                                "Cozinhar os noodles conforme as instruções da embalagem. Escorra.",
                                 "Divida os noodles em 2 taças.",
                                 "Regue com o caldo quente.",
-                                "Junte o tofu salteado, meio ovo por porção, os cogumelos salteados, cebolinha, tiras de alga nori e sementes de sésamo.",
+                                "Junte o tofu salteado, meio ovo por taça, os cogumelos salteados, cebolinho, tiras de alga nori, e sementes de sésamo.",
                                 "Servir imediatamente."
                             ]
                         }
@@ -6483,9 +6479,9 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo o açúcar e pulverize 15 seg/vel 10.",
-                                "Adicione os frutos silvestres congelados, e o sumo de limão. Pique 40 seg/vel 9.",
-                                "Insira a borboleta. Adicione a clara e bata 3 min/vel 3.5. Sirva de seguida."
+                                "Coloque no copo o açúcar e pulverize [15 seg | vel 10].",
+                                "Adicione os frutos silvestres congelados, e o sumo de limão. Pique [40 seg | vel 9].",
+                                "Insira a borboleta. Adicione a clara e bata [3 min | vel 3.5]. Sirva de seguida."
                             ]
                         }
                     ]
@@ -6591,9 +6587,10 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a água, o açúcar, e o fermento, e misture 20 seg/vel 2.",
-                                "Adicione a farinha, o azeite, e o sal. Inicie o modo Amassar/2 min.",
-                                "Coloque a massa num recipiente polvilhado com farinha, ou borrifado com azeite. Cubra com película aderente e deixe levedar até dobrar de volume (1 hora aprox.). Use a massa de pizza conforme necessário."
+                                "Coloque no copo a água, o açúcar, e o fermento, e misture [20 seg | vel 2].",
+                                "Adicione a farinha, o azeite, e o sal. Inicie o modo amassar [2 min].",
+                                "Coloque a massa num recipiente polvilhado com farinha ou borrifado com azeite. Cubra com película aderente ou um pano molhado, e deixe levedar 30 min.",
+                                "Use a massa de pizza conforme necessário."
                             ]
                         }
                     ]
@@ -6736,11 +6733,7 @@
                                     }
                                 }
                             ],
-                            "steps": [
-                                "Coloque no copo a água, o açúcar, e o fermento, e misture 20 seg/vel 2.",
-                                "Adicione a farinha, o azeite, e o sal. Inicie o modo Amassar/2 min.",
-                                "Coloque a massa num recipiente polvilhado com farinha, ou borrifado com azeite. Cubra com película aderente e deixe levedar até dobrar de volume (1 hora aprox.). Use a massa de pizza conforme necessário."
-                            ]
+                            "steps": []
                         }
                     ]
                 }
@@ -6878,10 +6871,10 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a cebola e o alho e pique 4 seg/vel 5. Baixe com a ajuda da espátula o que ficou na parede do copo.",
-                                "Adicione a curgete e pique 5 seg/vel 5.",
-                                "Adicione o caldo de legumes, o sal e a pimenta e coza 18 min/100°C/vel 1.",
-                                "Adicione o queijo e triture 1 min/vel 5-7 aumentando progressivamente a velocidade. Sirva de seguida."
+                                "Coloque no copo a cebola e o alho e pique [4 seg | vel 5]. Baixe com a ajuda da espátula o que ficou na parede do copo.",
+                                "Adicione a curgete e pique [5 seg | vel 5].",
+                                "Adicione o caldo de legumes, o sal e a pimenta e coza [18 min | 100°C | vel 1].",
+                                "Adicione o queijo e triture [1 min | vel 5-7] aumentando progressivamente a velocidade. Sirva de seguida."
                             ]
                         }
                     ]
@@ -7009,12 +7002,12 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque o parmesão no copo e rale 10 seg/velocidade 10. Transfira para uma taça e reserve.",
-                                "Coloque as cascas de limão no copo e rale 10 seg/velocidade 10. Raspe as laterais com a espátula.",
-                                "Adicione a cebola, o alho, e o azeite. Refogue 3 min/100°C/velocidade 1. De seguida pique 3 seg/velocidade 5. Raspe as laterais com a espátula.",
-                                "Adicione o arroz e refogue 3 min/120°C/velocidade 1.",
-                                "Adicione o vinho e cozinhe 1 min/100°C/velocidade 1.",
-                                "Adicione 200 g de água, o cubo de caldo e o sal. Raspe o fundo do copo com a espátula. Cozinhe 14 min/100°C/velocidade 1, adicionando gradualmente o restante da água pela tampa para garantir que o arroz cozinha de forma uniforme.",
+                                "Coloque o parmesão no copo e rale [10 seg | vel 10]. Transfira para uma taça e reserve.",
+                                "Coloque as cascas de limão no copo e rale [10 seg | vel 10]. Raspe as laterais com a espátula.",
+                                "Adicione a cebola, o alho, e o azeite. Refogue [3 min | 100°C | vel 1]. De seguida pique [3 seg | vel 5]. Raspe as laterais com a espátula.",
+                                "Adicione o arroz e refogue [3 min | 120°C | vel 1.",
+                                "Adicione o vinho e cozinhe [1 min | 100°C | vel 1].",
+                                "Adicione 200 g de água, o cubo de caldo e o sal. Raspe o fundo do copo com a espátula. Cozinhe [14 min | 100°C | vel 1], adicionando gradualmente o restante da água pela tampa para garantir que o arroz cozinha de forma uniforme.",
                                 "Deixe repousar no copo durante 1 minuto.",
                                 "Retire para uma taça, misture o parmesão reservado.",
                                 "Faça a mantecatura durante um ou dois minutos. Sirva imediatamente."
@@ -7399,14 +7392,13 @@
                                 }
                             ],
                             "steps": [
-                                "Pan: Use a nonstick pan. Heat over medium.",
-                                "Oil: Add a small amount of olive oil (or spray).",
-                                "Sauté aromatics: Add spring onion and cook for ~1 minute. Add garlic if using (not listed but still a good addition).",
-                                "Cook zucchini: Add sliced zucchini. Sauté for 5 minutes, stirring occasionally, until just golden on edges and tender.",
-                                "Add tomato: Stir in the tomato and a pinch of salt. Let it soften and release juices, ~3 minutes.",
-                                "Add kale: Stir in kale, plus a small splash of water (2 tbsp). Cook until kale wilts and everything is soft but not mushy — ~2 minutes.",
-                                "Season: Add black pepper, or lemon juice to taste.",
-                                "Cool slightly (optional): Let the cooked veg cool for 5 to 10 minutes before adding cucumber if serving warm/cool together."
+                                "Aqueça uma frigideira antiaderente em lume médio.",
+                                "Adicione o azeite e salteie o alho francês e o alho.",
+                                "Adicione a courgette em rodelas. Salteie durante 5 minutos, mexendo de vez em quando, até ficar ligeiramente dourada nas extremidades, e macia.",
+                                "Envolva o tomate, e uma pitada de sal. Deixe amolecer e libertar os sucos, ~3 minutos.",
+                                "Envolva a kale, mais um pequeno salpico de água (2 c. sopa). Cozinhe até a kale murchar, e tudo ficar macio mas não empapado — ~2 minutos.",
+                                "Adicione pimenta preta e sumo de limão a gosto.",
+                                "Deixe os legumes cozinhados arrefecer 5 a 10 minutos antes de adicionar o pepino."
                             ]
                         }
                     ]
@@ -7440,19 +7432,43 @@
                                 },
                                 {
                                     "id": "103",
-                                    "name": "Fermento de Padeiro seco",
+                                    "name": "Fermento de Padeiro seco instantâneo",
                                     "satietyIdx": 45,
                                     "keywords": [
                                         "fermento",
                                         "padeiro",
+                                        "seco",
+                                        "instantâneos",
+                                        "dry",
                                         "yeast"
                                     ],
                                     "dose": {
-                                        "quantity": 3.5,
+                                        "quantity": 2.6,
                                         "unit": "g",
                                         "calsPerUnit": 3.25,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "alternatives": [
+                                        {
+                                            "id": "318",
+                                            "name": "Fermento de Padeiro seco activo",
+                                            "satietyIdx": 45,
+                                            "keywords": [
+                                                "fermento",
+                                                "padeiro",
+                                                "seco",
+                                                "activo",
+                                                "dry",
+                                                "yeast"
+                                            ],
+                                            "dose": {
+                                                "quantity": 3.5,
+                                                "unit": "g",
+                                                "calsPerUnit": 3.25,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "id": "196",
@@ -7485,9 +7501,10 @@
                                 }
                             ],
                             "steps": [
-                                "Add water and yeast to the Thermomix bowl. Warm 2 min / 37°C / Speed 2 to activate the yeast;",
-                                "Add flour and salt. Mix 10 sec / Speed 6, then knead 2 min / Dough Mode;",
-                                "Transfer the dough to a lightly floured bowl, cover with a damp cloth, and let it rise for 1.5 to 2 hours, or until doubled in size."
+                                "Adicione a água e o fermento ao copo da Thermomix;",
+                                "Se usar fermento activo aqueça [2 min | 37°C | vel 2] para ativar o fermento;",
+                                "Adicione a farinha, e o sal. Misture [10 seg | vel 6], depois amasse [2 min];",
+                                "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe levedar durante 1,5 a 2 horas, ou até duplicar de volume."
                             ]
                         }
                     ]
@@ -7575,8 +7592,8 @@
                                 }
                             ],
                             "steps": [
-                                "Add the canned tomatoes, chilli flakes, and salt to the Thermomix bowl. Blend 20 sec / Speed 5;",
-                                "Transfer to a bowl and set aside."
+                                "Adicione os tomates enlatados, os flocos de malagueta, e o sal ao copo da Thermomix. Triture [20 seg | vel 5];",
+                                "Transfira para uma taça, e reserve."
                             ]
                         }
                     ]
@@ -7632,7 +7649,8 @@
                                         "unit": "unit",
                                         "calsPerUnit": 80,
                                         "stepSize": 0.5
-                                    }
+                                    },
+                                    "notes": "Batidos"
                                 },
                                 {
                                     "id": "208",
@@ -7666,7 +7684,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.41,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Aos cubos"
                                 },
                                 {
                                     "id": "303",
@@ -7678,7 +7697,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.35,
                                         "stepSize": 0.5
-                                    }
+                                    },
+                                    "notes": "Em chiffonade"
                                 },
                                 {
                                     "id": "113",
@@ -7690,7 +7710,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.17,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Em meias-luas"
                                 },
                                 {
                                     "id": "191",
@@ -7724,7 +7745,8 @@
                                         "unit": "unit",
                                         "calsPerUnit": 5,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picado"
                                 },
                                 {
                                     "id": "93",
@@ -7736,7 +7758,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.2,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Em juliana"
                                 },
                                 {
                                     "id": "128",
@@ -7751,9 +7774,9 @@
                                 }
                             ],
                             "steps": [
-                                "Cozinhe os noodles de acordo com as instruções; escorra e reserve.",
+                                "Cozinhe os noodles de acordo com as instruções; escorra, passe por água fria, e reserve.",
                                 "Aqueça o óleo de sésamo numa frigideira grande.",
-                                "Adicione a cenoura aos cubos e deixe cozinhar por dois minutos",
+                                "Adicione a cenoura e deixe cozinhar por dois minutos",
                                 "Adicione a courgete e deixe saltear por mais dois minutos",
                                 "Adicione o sal e os restantes vegetais, e deixe cozinhar por mais alguns minutos.",
                                 "Adicione os ovos e misture tudo até estarem cozinhados.",
@@ -7905,7 +7928,7 @@
                             "steps": [
                                 "Preaqueça o forno a 180ºC.",
                                 "Forre com papel vegetal uma forma redonda.",
-                                "Coloque no copo o açúcar, a manteiga, o requeijão, os ovos, a farinha, e o fermento. Bata 1 minuti 30 seg/vel 5.",
+                                "Coloque no copo da Thermomix o açúcar, a manteiga, o requeijão, os ovos, a farinha, e o fermento. Bata [1.5 min | vel 5].",
                                 "Deite na forma e leve ao forno a 180ºC durante cerca de 15 min."
                             ]
                         }
@@ -7957,7 +7980,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 1.16,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picado finamente"
                                 },
                                 {
                                     "id": "247",
@@ -7975,7 +7999,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picado finamente"
                                 },
                                 {
                                     "id": "248",
@@ -7993,7 +8018,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picado finamente"
                                 },
                                 {
                                     "id": "112",
@@ -8005,7 +8031,8 @@
                                         "unit": "g",
                                         "calsPerUnit": 0.4,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picada"
                                 },
                                 {
                                     "id": "100",
@@ -8022,7 +8049,8 @@
                                         "unit": "unit",
                                         "calsPerUnit": 5,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "notes": "Picado"
                                 },
                                 {
                                     "id": "191",
@@ -8099,16 +8127,15 @@
                                 }
                             ],
                             "steps": [
-                                "Finely chop the seitan and mushrooms into small, even pieces.",
-                                "Dice the onion and mince the garlic.",
-                                "Heat a non-stick pan over medium heat. Add the sesame oil and the onion. Cook for 2–3 min until softened.",
-                                "Add garlic and cook for 30 sec until fragrant.",
-                                "Add mushrooms. Cook for 3–4 min until they release their moisture and start to brown.",
-                                "Add seitan and stir-fry for 2–3 min until lightly browned.",
-                                "Stir in soy sauce, rice vinegar, and the black pepper.",
-                                "If the mix is too dry, add 2 tbsp of water.",
-                                "Let simmer for 1-2 min so flavor blends.",
-                                "Spoon into crisp lettuce leaves and eat while warm."
+                                "Aqueça uma frigideira antiaderente em lume médio.",
+                                "Adicione os cogumelos o salteie a seco até ficarem dourados. Reserve.",
+                                "Adicione o óleo de sésamo, e a cebola. Cozinhe 2–3 min até amolecer.",
+                                "Junte o alho, e cozinhe durante 30 seg até libertar aroma.",
+                                "Adicione os cogumelos e o seitan, e salteie 2–3 min até o seitan ficar ligeiramente dourado.",
+                                "Envolva o molho de soja, o vinagre de arroz, e a pimenta preta.",
+                                "Se a mistura estiver demasiado seca, adicione 2 c. sopa de água.",
+                                "Deixe ferver em lume brando 1–2 min para os sabores se fundirem.",
+                                "Sirva em folhas de alface crocantes, e coma ainda quente."
                             ]
                         }
                     ]
@@ -8423,6 +8450,7 @@
                                 }
                             ],
                             "steps": [
+                                "Ferva a água.",
                                 "Coloque a pasta numa frigideira com tampa. Adicione metade das raspas de limão e o dente de alho, descascado e esmagado, mas inteiro, o azeite, e o sal.",
                                 "Despeje a água a ferver por cima, tape e deixe levantar fervura.",
                                 "Assim que começar a ferver remova a tampa e ferva em lume brando durante 8 min. Vire a pasta de 30 em 30 segundos.",
