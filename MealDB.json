@@ -6853,21 +6853,43 @@
                                 },
                                 {
                                     "id": "103",
-                                    "name": "Fermento de Padeiro seco",
+                                    "name": "Fermento de Padeiro seco instantâneo",
                                     "satietyIdx": 45,
                                     "keywords": [
                                         "fermento",
                                         "padeiro",
                                         "seco",
+                                        "instantâneos",
                                         "dry",
                                         "yeast"
                                     ],
                                     "dose": {
-                                        "quantity": 1,
-                                        "unit": "cc",
-                                        "calsPerUnit": 9.75,
+                                        "quantity": 2.3,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.25,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "alternatives": [
+                                        {
+                                            "id": "318",
+                                            "name": "Fermento de Padeiro seco activo",
+                                            "satietyIdx": 45,
+                                            "keywords": [
+                                                "fermento",
+                                                "padeiro",
+                                                "seco",
+                                                "activo",
+                                                "dry",
+                                                "yeast"
+                                            ],
+                                            "dose": {
+                                                "quantity": 3,
+                                                "unit": "g",
+                                                "calsPerUnit": 3.25,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "id": "42",
@@ -9037,6 +9059,148 @@
                                         "quantity": 1000,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "name": "Pasta com Vuna",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "vuna",
+                "atum",
+                "tuna"
+            ],
+            "recipes": [
+                {
+                    "id": "74.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 800,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "319",
+                                    "name": "Vuna",
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "vuna",
+                                        "atum",
+                                        "tuna"
+                                    ],
+                                    "dose": {
+                                        "quantity": 85,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.79,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "261",
+                                    "name": "Sumo de limão",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "limão",
+                                        "limões",
+                                        "lemons",
+                                        "sumo",
+                                        "juice"
+                                    ],
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "63",
+                                    "name": "Maionese",
+                                    "brand": "Calvé",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "maionese",
+                                        "mayonnaise"
+                                    ],
+                                    "dose": {
+                                        "quantity": 20,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.2,
                                         "stepSize": 1
                                     }
                                 }
