@@ -9218,7 +9218,7 @@
                                         "tomatoes"
                                     ],
                                     "dose": {
-                                        "quantity": 12,
+                                        "quantity": 20,
                                         "unit": "unit",
                                         "calsPerUnit": 4,
                                         "stepSize": 1
