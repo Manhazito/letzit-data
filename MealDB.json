@@ -9071,11 +9071,12 @@
         },
         {
             "id": "74",
-            "name": "Pasta com Vuna",
+            "name": "Salada de Massa e Vuna",
             "servings": 2,
             "servingUnit": "unit",
             "keywords": [
                 "pasta",
+                "massa",
                 "vuna",
                 "atum",
                 "tuna"
@@ -9201,6 +9202,25 @@
                                         "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 1.2,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "57",
+                                    "name": "Tomate Cherry",
+                                    "satietyIdx": 210,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "tomates",
+                                        "cherry",
+                                        "cereja",
+                                        "tomatoes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 12,
+                                        "unit": "unit",
+                                        "calsPerUnit": 4,
                                         "stepSize": 1
                                     }
                                 }
