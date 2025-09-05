@@ -9233,15 +9233,19 @@
         },
         {
             "id": "75",
-            "name": "Pasta com Bolonhesa de Lentilhas",
+            "name": "Pasta Bolognese de Lentilhas",
             "servings": 2,
             "servingUnit": "unit",
             "keywords": [
                 "pasta",
                 "massa",
-                "vuna",
-                "atum",
-                "tuna"
+                "bolognese",
+                "esparguete",
+                "bolonhesa",
+                "tagliatelle",
+                "spaghetti",
+                "lentilhas",
+                "lentils"
             ],
             "recipes": [
                 {
@@ -9278,6 +9282,21 @@
                                     "dose": {
                                         "quantity": 800,
                                         "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
                                     }
@@ -9378,7 +9397,7 @@
                                         "crushed"
                                     ],
                                     "dose": {
-                                        "quantity": 200,
+                                        "quantity": 250,
                                         "unit": "g",
                                         "calsPerUnit": 0.25,
                                         "stepSize": 1
@@ -9444,7 +9463,15 @@
                                     }
                                 }
                             ],
-                            "steps": []
+                            "steps": [
+                                "Coza a pasta conforme indicado no pacote. Escorra e reserve.",
+                                "Coloque no copo as 50g de cebola, o dente de alho, as 90g de cenoura, e as 60g de cogumelos. Pique [4s | vel 7].",
+                                "Baixe com a espátula o que ficou na parede do copo.",
+                                "Adicione as 10g de azeite e salteie [5 min | 100º | vel 1].",
+                                "Adicione as 250g de tomate, meio cubo de caldo de legumes, 60g de lentilhas, e 0.5 cs de molho de soja.",
+                                "Cozinhe [20 min | 100ºC | vel 1].",
+                                "Coloque a pasta num recipiente de servir, e deite por cima a bolonheza."
+                            ]
                         }
                     ]
                 }
