@@ -567,7 +567,7 @@
                                     "name": "Queijo Parmesão",
                                     "satietyIdx": 100,
                                     "dose": {
-                                        "quantity": 25,
+                                        "quantity": 20,
                                         "unit": "g",
                                         "calsPerUnit": 4.02,
                                         "stepSize": 1
@@ -654,7 +654,7 @@
                                         "panceta"
                                     ],
                                     "dose": {
-                                        "quantity": 5,
+                                        "quantity": 4,
                                         "unit": "slice",
                                         "calsPerUnit": 66.6,
                                         "stepSize": 0.5
@@ -675,7 +675,7 @@
                                                 "panceta"
                                             ],
                                             "dose": {
-                                                "quantity": 4,
+                                                "quantity": 3,
                                                 "unit": "slice",
                                                 "calsPerUnit": 118,
                                                 "stepSize": 0.5
@@ -937,7 +937,7 @@
                                     "name": "Pasta",
                                     "satietyIdx": 119,
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -8630,7 +8630,7 @@
                                         "dry"
                                     ],
                                     "dose": {
-                                        "quantity": 120,
+                                        "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -8646,7 +8646,7 @@
                                         "seitans"
                                     ],
                                     "dose": {
-                                        "quantity": 160,
+                                        "quantity": 125,
                                         "unit": "g",
                                         "calsPerUnit": 1.16,
                                         "stepSize": 1
@@ -8664,7 +8664,7 @@
                                         "raw"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
@@ -8682,7 +8682,7 @@
                                         "raw"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
@@ -8697,7 +8697,7 @@
                                         "onion"
                                     ],
                                     "dose": {
-                                        "quantity": 60,
+                                        "quantity": 50,
                                         "unit": "g",
                                         "calsPerUnit": 0.4,
                                         "stepSize": 1
@@ -8743,7 +8743,7 @@
                                     "isBrandRelevant": false,
                                     "satietyIdx": 50,
                                     "dose": {
-                                        "quantity": 6,
+                                        "quantity": 5,
                                         "unit": "cube",
                                         "calsPerUnit": 36.6,
                                         "stepSize": 1
@@ -9099,7 +9099,7 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 50,
+                                        "quantity": 40,
                                         "unit": "g",
                                         "calsPerUnit": 4.02,
                                         "stepSize": 1
@@ -9199,7 +9199,7 @@
                                         "dry"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -9265,7 +9265,7 @@
                                         "dry"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -9397,7 +9397,7 @@
                                         "crushed"
                                     ],
                                     "dose": {
-                                        "quantity": 250,
+                                        "quantity": 200,
                                         "unit": "g",
                                         "calsPerUnit": 0.25,
                                         "stepSize": 1
@@ -9468,7 +9468,7 @@
                                 "Coloque no copo as 50g de cebola, o dente de alho, as 90g de cenoura, e as 60g de cogumelos. Pique [4s | vel 7].",
                                 "Baixe com a espátula o que ficou na parede do copo.",
                                 "Adicione as 10g de azeite e salteie [5 min | 100º | vel 1].",
-                                "Adicione as 250g de tomate, meio cubo de caldo de legumes, 60g de lentilhas, e 0.5 cs de molho de soja.",
+                                "Adicione as 200g de tomate, meio cubo de caldo de legumes, 60g de lentilhas, e 0.5 cs de molho de soja.",
                                 "Cozinhe [20 min | 100ºC | vel 1].",
                                 "Coloque a pasta num recipiente de servir, e deite por cima a bolonheza."
                             ]
