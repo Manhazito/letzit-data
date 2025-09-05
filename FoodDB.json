@@ -7633,6 +7633,129 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "320",
+            "name": "Figo",
+            "satietyIdx": 125,
+            "keywords": [
+                "figos",
+                "figs"
+            ],
+            "doses": [
+                {
+                    "quantity": 50,
+                    "unit": "g",
+                    "calsPerUnit": 0.74,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 37,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "321",
+            "name": "Figo seco",
+            "satietyIdx": 65,
+            "keywords": [
+                "figos",
+                "figs",
+                "secos",
+                "dried",
+                "dry"
+            ],
+            "doses": [
+                {
+                    "quantity": 9,
+                    "unit": "g",
+                    "calsPerUnit": 2.5,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 22.5,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "322",
+            "name": "Caldo de Vegetais (cubos)",
+            "satietyIdx": 2.5,
+            "keywords": [
+                "caldo",
+                "vegetal",
+                "vegetais",
+                "vegetable",
+                "stock",
+                "cube",
+                "dried",
+                "cubos",
+                "seco"
+            ],
+            "doses": [
+                {
+                    "quantity": 10,
+                    "unit": "g",
+                    "calsPerUnit": 3,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 30,
+                    "stepSize": 0.1
+                }
+            ]
+        },
+        {
+            "id": "323",
+            "name": "Lentilhas Vermelhas",
+            "satietyIdx": 135,
+            "keywords": [
+                "lentilhas",
+                "vermelhas",
+                "red",
+                "lentils",
+                "sem",
+                "casca",
+                "hulled"
+            ],
+            "doses": [
+                {
+                    "quantity": 60,
+                    "unit": "g",
+                    "calsPerUnit": 3.5,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "324",
+            "name": "Lentilhas Verdes",
+            "satietyIdx": 155,
+            "keywords": [
+                "lentilhas",
+                "verdes",
+                "green",
+                "lentils",
+                "com",
+                "casca",
+                "whole"
+            ],
+            "doses": [
+                {
+                    "quantity": 60,
+                    "unit": "g",
+                    "calsPerUnit": 3.4,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
