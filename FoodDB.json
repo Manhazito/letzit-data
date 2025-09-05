@@ -3013,7 +3013,7 @@
                 },
                 {
                     "quantity": 1,
-                    "unit": "cc",
+                    "unit": "cs",
                     "calsPerUnit": 0,
                     "stepSize": 1
                 },
@@ -4434,7 +4434,7 @@
                 {
                     "quantity": 100,
                     "unit": "g",
-                    "calsPerUnit": 1.2,
+                    "calsPerUnit": 3.59,
                     "stepSize": 1
                 }
             ]
@@ -7753,6 +7753,25 @@
                     "quantity": 60,
                     "unit": "g",
                     "calsPerUnit": 3.4,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "325",
+            "name": "Pasta (cozida",
+            "satietyIdx": 119,
+            "keywords": [
+                "pastas",
+                "massas",
+                "seca",
+                "dry"
+            ],
+            "doses": [
+                {
+                    "quantity": 300,
+                    "unit": "g",
+                    "calsPerUnit": 1.2,
                     "stepSize": 1
                 }
             ]

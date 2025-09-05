@@ -5774,7 +5774,7 @@
                                     "dose": {
                                         "quantity": 100,
                                         "unit": "g",
-                                        "calsPerUnit": 1.2,
+                                        "calsPerUnit": 3.59,
                                         "stepSize": 1
                                     }
                                 },
@@ -8632,7 +8632,7 @@
                                     "dose": {
                                         "quantity": 120,
                                         "unit": "g",
-                                        "calsPerUnit": 1.2,
+                                        "calsPerUnit": 3.59,
                                         "stepSize": 1
                                     }
                                 },
@@ -8819,7 +8819,7 @@
                                     "dose": {
                                         "quantity": 120,
                                         "unit": "g",
-                                        "calsPerUnit": 1.2,
+                                        "calsPerUnit": 3.59,
                                         "stepSize": 1
                                     }
                                 },
@@ -9201,7 +9201,7 @@
                                     "dose": {
                                         "quantity": 100,
                                         "unit": "g",
-                                        "calsPerUnit": 1.2,
+                                        "calsPerUnit": 3.59,
                                         "stepSize": 1
                                     }
                                 },
@@ -9267,7 +9267,7 @@
                                     "dose": {
                                         "quantity": 100,
                                         "unit": "g",
-                                        "calsPerUnit": 1.2,
+                                        "calsPerUnit": 3.59,
                                         "stepSize": 1
                                     }
                                 },
