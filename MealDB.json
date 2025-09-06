@@ -5772,7 +5772,7 @@
                                         "dry"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 120,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
