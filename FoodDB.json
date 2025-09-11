@@ -7759,7 +7759,7 @@
         },
         {
             "id": "325",
-            "name": "Pasta (cozida",
+            "name": "Pasta (cozida)",
             "satietyIdx": 119,
             "keywords": [
                 "pastas",
@@ -7772,6 +7772,34 @@
                     "quantity": 300,
                     "unit": "g",
                     "calsPerUnit": 1.2,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "326",
+            "name": "Pão de Leite com Chocolate",
+            "brand": "Pasquier",
+            "isBrandRelevant": true,
+            "satietyIdx": 65,
+            "keywords": [
+                "pão",
+                "leite",
+                "chocolate",
+                "brioche",
+                "bread"
+            ],
+            "doses": [
+                {
+                    "quantity": 35,
+                    "unit": "g",
+                    "calsPerUnit": 3.69,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 129,
                     "stepSize": 1
                 }
             ]
