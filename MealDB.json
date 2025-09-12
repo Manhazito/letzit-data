@@ -1083,7 +1083,7 @@
                                     "isBrandRelevant": true,
                                     "satietyIdx": 220,
                                     "dose": {
-                                        "quantity": 180,
+                                        "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 1.36,
                                         "stepSize": 1
@@ -1162,7 +1162,7 @@
                                     "isBrandRelevant": false,
                                     "satietyIdx": 50,
                                     "dose": {
-                                        "quantity": 2,
+                                        "quantity": 5,
                                         "unit": "cube",
                                         "calsPerUnit": 36.6,
                                         "stepSize": 1
@@ -9471,6 +9471,208 @@
                                 "Adicione as 200g de tomate, meio cubo de caldo de legumes, 60g de lentilhas, e 0.5 cs de molho de soja.",
                                 "Cozinhe [20 min | 100ºC | vel 1].",
                                 "Coloque a pasta num recipiente de servir, e deite por cima a bolonheza."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "name": "Salada Grega",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "grega",
+                "greek",
+                "salada"
+            ],
+            "recipes": [
+                {
+                    "id": "76.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "245",
+                                    "name": "Fusilli",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "fusilli",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 300,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "97",
+                                    "name": "Vinagre de Maçã",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "vinagre",
+                                        "cidra",
+                                        "maçã",
+                                        "apple",
+                                        "vinegar",
+                                        "cider"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.333333,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "57",
+                                    "name": "Tomate Cherry",
+                                    "satietyIdx": 210,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "tomates",
+                                        "cherry",
+                                        "cereja",
+                                        "tomatoes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 16,
+                                        "unit": "unit",
+                                        "calsPerUnit": 4,
+                                        "stepSize": 1
+                                    },
+                                    "notes": "Partidos ao meio."
+                                },
+                                {
+                                    "id": "327",
+                                    "name": "Queijo Feta",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 75,
+                                    "keywords": [
+                                        "feta",
+                                        "queijo",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.85,
+                                        "stepSize": 1
+                                    },
+                                    "notes": "Partido em cubos pequenos."
+                                },
+                                {
+                                    "id": "104",
+                                    "name": "Azeitona pequena",
+                                    "brand": "Continente",
+                                    "satietyIdx": 65,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "azeitonas",
+                                        "olives"
+                                    ],
+                                    "dose": {
+                                        "quantity": 4,
+                                        "unit": "unit",
+                                        "calsPerUnit": 3.73,
+                                        "stepSize": 1
+                                    },
+                                    "notes": "Descaroçadas e partidas ao meio."
+                                },
+                                {
+                                    "id": "158",
+                                    "name": "Orégãos",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "orégãos",
+                                        "oreganos"
+                                    ],
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.72,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 15,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coza a pasta conforme indicado no pacote. Escorra e deixe arrefecer.",
+                                "Misture a pasta com os restantes ingredientes, e sirva."
                             ]
                         }
                     ]

@@ -25,7 +25,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 200,
+                    "quantity": 100,
                     "unit": "ml",
                     "calsPerUnit": 0.25,
                     "stepSize": 1
@@ -1020,7 +1020,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 200,
+                    "quantity": 100,
                     "unit": "ml",
                     "calsPerUnit": 0.46,
                     "stepSize": 1
@@ -7800,6 +7800,26 @@
                     "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 129,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "327",
+            "name": "Queijo Feta",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "feta",
+                "queijo",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 50,
+                    "unit": "g",
+                    "calsPerUnit": 2.85,
                     "stepSize": 1
                 }
             ]
