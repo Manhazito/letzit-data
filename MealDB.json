@@ -9678,6 +9678,123 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "77",
+            "name": "Pizza de Cogumelos",
+            "servings": 8,
+            "servingUnit": "slice",
+            "keywords": [
+                "pizza",
+                "piza",
+                "cogumelos",
+                "mushroom",
+                "mozzarella",
+                "parmesão",
+                "parmigiano",
+                "queijo",
+                "cheese"
+            ],
+            "recipes": [
+                {
+                    "id": "77.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "304",
+                                    "name": "Massa de Pizza",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "pizza",
+                                        "piza",
+                                        "massa",
+                                        "dough"
+                                    ],
+                                    "dose": {
+                                        "quantity": 8,
+                                        "unit": "slice",
+                                        "calsPerUnit": 76.92,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "305",
+                                    "name": "Molho de Tomate",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "tomatoes",
+                                        "sauce",
+                                        "molho",
+                                        "tomate"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.24,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 20,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "80",
+                                    "name": "Queijo Mozzarella",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 60,
+                                    "keywords": [
+                                        "queijo",
+                                        "mozzarella",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 62.5,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.25,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
