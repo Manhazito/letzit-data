@@ -9783,7 +9783,7 @@
                                         "raw"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 200,
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
