@@ -7850,6 +7850,33 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "327",
+            "name": "Bolachas Digestivas com chocolate",
+            "brand": "Vieira",
+            "isBrandRelevant": true,
+            "satietyIdx": 65,
+            "keywords": [
+                "bolachas",
+                "cookies",
+                "digestiva",
+                "digestive"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 51.3,
+                    "stepSize": 0.5
+                },
+                {
+                    "quantity": 11.25,
+                    "unit": "g",
+                    "calsPerUnit": 4.56,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
