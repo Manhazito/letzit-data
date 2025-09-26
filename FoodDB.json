@@ -1398,7 +1398,7 @@
             "id": "60",
             "name": "Alheira",
             "brand": "Eurofumeiro",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 120,
             "keywords": [
                 "alheiras"
@@ -7876,6 +7876,54 @@
                     "unit": "g",
                     "calsPerUnit": 4.56,
                     "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "330",
+            "name": "Alheira",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "alheiras"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 1.31,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 262,
+                    "stepSize": 0.5
+                }
+            ]
+        },
+        {
+            "id": "331",
+            "name": "Alheira",
+            "brand": "Vegin",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "alheiras"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 1.50,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 300,
+                    "stepSize": 0.5
                 }
             ]
         }
