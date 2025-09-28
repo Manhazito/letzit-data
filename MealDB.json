@@ -913,7 +913,7 @@
                                     "isBrandRelevant": true,
                                     "satietyIdx": 225,
                                     "dose": {
-                                        "quantity": 180,
+                                        "quantity": 130,
                                         "unit": "g",
                                         "calsPerUnit": 1.69,
                                         "stepSize": 1
@@ -937,7 +937,7 @@
                                     "name": "Pasta",
                                     "satietyIdx": 119,
                                     "dose": {
-                                        "quantity": 80,
+                                        "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -959,7 +959,7 @@
                                     "name": "Sal",
                                     "satietyIdx": 5,
                                     "dose": {
-                                        "quantity": 5,
+                                        "quantity": 3,
                                         "unit": "g",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -1207,6 +1207,21 @@
                                     "satietyIdx": 138
                                 },
                                 {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 230,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
                                     "id": "95",
                                     "name": "Azeite",
                                     "satietyIdx": 50,
@@ -1229,7 +1244,9 @@
                                     "satietyIdx": 145
                                 }
                             ],
-                            "steps": []
+                            "steps": [
+                                "Cook the rice for 15 min."
+                            ]
                         }
                     ]
                 }
