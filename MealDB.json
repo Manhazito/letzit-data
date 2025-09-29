@@ -9812,6 +9812,99 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "78",
+            "name": "Massa de Pizza rápida (v2)",
+            "servings": 8,
+            "servingUnit": "slice",
+            "keywords": [
+                "pizza",
+                "piza",
+                "pasta",
+                "massa"
+            ],
+            "recipes": [
+                {
+                    "id": "78.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "161",
+                                    "name": "Farinha de trigo com fermento",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "fermento",
+                                        "branca",
+                                        "neve",
+                                        "self",
+                                        "rising",
+                                        "flour",
+                                        "wheat"
+                                    ],
+                                    "dose": {
+                                        "quantity": 220,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.65,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 15,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 125,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
