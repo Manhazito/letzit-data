@@ -9815,7 +9815,7 @@
         },
         {
             "id": "78",
-            "name": "Massa de Pizza rápida (v2)",
+            "name": "Massa de Tarte",
             "servings": 8,
             "servingUnit": "slice",
             "keywords": [
@@ -9901,6 +9901,117 @@
                                 }
                             ],
                             "steps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Massa de Pizza rápida v2",
+            "servings": 16,
+            "servingUnit": "slice",
+            "keywords": [
+                "pizza",
+                "piza",
+                "massa",
+                "dough"
+            ],
+            "recipes": [
+                {
+                    "id": "79.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 300,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    },
+                                    "notes": "Deve estar morna."
+                                },
+                                {
+                                    "id": "103",
+                                    "name": "Fermento de Padeiro seco instantâneo",
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "fermento",
+                                        "padeiro",
+                                        "seco",
+                                        "instantâneos",
+                                        "dry",
+                                        "yeast"
+                                    ],
+                                    "dose": {
+                                        "quantity": 7,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.25,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "196",
+                                    "name": "Farinha de Trigo tipo 00",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "wheat",
+                                        "flour",
+                                        "00"
+                                    ],
+                                    "dose": {
+                                        "quantity": 480,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "143",
+                                    "name": "Açúcar",
+                                    "satietyIdx": 60,
+                                    "keywords": [
+                                        "açúcar",
+                                        "sugar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 4,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.87,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Adicione os 300 ml de água, os 4 g de açúcar, e os 7 g de fermento ao copo da Thermomix.",
+                                "Se usar água fria aqueça [2 min | 37°C | vel 2].",
+                                "Misture [20 seg | vel 2].",
+                                "Adicione os 480 g de farinha, e os 10 g sal.",
+                                "Amasse [2 min].",
+                                "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe levedar durante 1 hora, ou até duplicar de volume."
+                            ]
                         }
                     ]
                 }
