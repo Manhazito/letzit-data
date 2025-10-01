@@ -10167,15 +10167,30 @@
                                         "calsPerUnit": 8.27,
                                         "stepSize": 1
                                     }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
                                 }
                             ],
                             "steps": [
                                 "Cozinhe os noodles de acordo com as instruções — deixe-os um pouco mal cozidos, depois escorra e passe por água fria.",
                                 "Corte os cogumelos e a cenoura em pedaços.",
                                 "Adicione o dente de alho ao copo da Thermomix. Pique [5 seg | vel 5]. Junte com a espátula o alho no fundo do copo.",
-                                "Adicione as 5g de óleo de sésamo e salteie [1 min | 100º | vel 1].",
-                                "Adicione os 60g de cenoura e os 160g de cogumelos salteie [3 min | 100º | reverse | vel 1].",
-                                "Adicione 100g de calde de vegetais, meia cs de pimentão picante, e uma cs de molho de soja molho de soja e.",
+                                "Adicione as 5g de óleo de sésamo e salteie [1 min | 120º | vel 1].",
+                                "Adicione os 60g de cenoura e os 160g de cogumelos salteie [3 min | 120º | reverse | vel 1].",
+                                "Adicione 100g de água, meia cs de pimentão picante, e uma cs de molho de soja molho de soja e.",
                                 "Cozinhe [3 min | 100°C | reverse | vel mix].",
                                 "Misture o conteúdo da taça com os noodles reservados, e divida em 2 taças."
                             ]
