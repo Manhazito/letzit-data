@@ -10057,7 +10057,7 @@
                                         "instantaneos"
                                     ],
                                     "dose": {
-                                        "quantity": 110,
+                                        "quantity": 80,
                                         "unit": "g",
                                         "calsPerUnit": 4.88,
                                         "stepSize": 1
@@ -10076,7 +10076,7 @@
                                         "mushrooms"
                                     ],
                                     "dose": {
-                                        "quantity": 160,
+                                        "quantity": 150,
                                         "unit": "g",
                                         "calsPerUnit": 2.5,
                                         "stepSize": 1
@@ -10091,7 +10091,7 @@
                                         "carrots"
                                     ],
                                     "dose": {
-                                        "quantity": 60,
+                                        "quantity": 50,
                                         "unit": "g",
                                         "calsPerUnit": 0.41,
                                         "stepSize": 1
