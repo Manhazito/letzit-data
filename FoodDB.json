@@ -8040,6 +8040,121 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "136",
+            "name": "Iogurte Grego de Morango",
+            "brand": "Mimosa",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "grego",
+                "greek",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 110,
+                    "unit": "g",
+                    "calsPerUnit": 1.28,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 140.8,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "137",
+            "name": "Iogurte de Pêssego",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "pêssego",
+                "peach",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.67,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 83.75,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "138",
+            "name": "Iogurte de Ananás e Maracujá",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "ananás",
+                "maracujá",
+                "pineapples",
+                "passion",
+                "fruit",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.76,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 95,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "139",
+            "name": "Iogurte de soja proteico de Framboesa e Groselha",
+            "brand": "Sojasun",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "framboesa",
+                "groselha",
+                "soja",
+                "soy",
+                "raspberry",
+                "redcurrant",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 150,
+                    "unit": "g",
+                    "calsPerUnit": 0.83,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 124.5,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
