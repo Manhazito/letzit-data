@@ -6498,7 +6498,7 @@
                             "steps": [
                                 "No copo da Bimby, coloque a cenoura e o alho. Pique [3 seg | vel 7].",
                                 "Adicione a água, o caldo, a pasta de miso, o molho de soja, e óleo de sésamo.",
-                                "Cozinhe [30 min | 100°C | reverse | vel mix.",
+                                "Cozinhe [30 min | 100°C | reverse | vel mix].",
                                 "Filtre o caldo com coador fino e reserve."
                             ]
                         },
@@ -10011,6 +10011,173 @@
                                 "Adicione os 480 g de farinha, e os 10 g sal.",
                                 "Amasse [2 min].",
                                 "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe levedar durante 1 hora, ou até duplicar de volume."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Chow Mein de Cogumelos Silvestres",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "noodles",
+                "chow",
+                "lo",
+                "mein",
+                "pastas",
+                "massas",
+                "cogumelos",
+                "mushrooms",
+                "wild",
+                "silvestres",
+                "selvagem"
+            ],
+            "recipes": [
+                {
+                    "id": "80.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "188",
+                                    "name": "Noodles Instantâneos",
+                                    "satietyIdx": 120,
+                                    "brand": "Koka",
+                                    "isBrandRelevant": true,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry",
+                                        "noodles",
+                                        "instantaneos"
+                                    ],
+                                    "dose": {
+                                        "quantity": 110,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.88,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "135",
+                                    "name": "Tortulhos (Santieiros)",
+                                    "satietyIdx": 175,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "tortulhos",
+                                        "santieiros",
+                                        "macrolepiota",
+                                        "procera",
+                                        "mushrooms"
+                                    ],
+                                    "dose": {
+                                        "quantity": 160,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "138",
+                                    "name": "Cenoura",
+                                    "satietyIdx": 142,
+                                    "keywords": [
+                                        "cenouras",
+                                        "carrots"
+                                    ],
+                                    "dose": {
+                                        "quantity": 60,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.41,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "191",
+                                    "name": "Molho de Soja",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "molho",
+                                        "soja",
+                                        "soy",
+                                        "sauce"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 16.5,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "192",
+                                    "name": "Pimentão Picante",
+                                    "satietyIdx": 85,
+                                    "keywords": [
+                                        "pimentão",
+                                        "picante",
+                                        "hot",
+                                        "paprika"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cs",
+                                        "calsPerUnit": 7.36,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "197",
+                                    "name": "Óleo de Sésamo torrado",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "oleo",
+                                        "sesamo",
+                                        "torrado",
+                                        "tostado",
+                                        "toasted",
+                                        "sesame",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 8.27,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Cozinhe os noodles de acordo com as instruções — deixe-os um pouco mal cozidos, depois escorra e passe por água fria.",
+                                "Corte os cogumelos e a cenoura em pedaços.",
+                                "Adicione o dente de alho ao copo da Thermomix. Pique [5 seg | vel 5]. Junte com a espátula o alho no fundo do copo.",
+                                "Adicione as 5g de óleo de sésamo e salteie [1 min | 100º | vel 1].",
+                                "Adicione os 60g de cenoura e os 160g de cogumelos salteie [3 min | 100º | reverse | vel 1].",
+                                "Adicione 100g de calde de vegetais, meia cs de pimentão picante, e uma cs de molho de soja molho de soja e.",
+                                "Cozinhe [3 min | 100°C | reverse | vel mix].",
+                                "Misture o conteúdo da taça com os noodles reservados, e divida em 2 taças."
                             ]
                         }
                     ]

@@ -8019,6 +8019,27 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "135",
+            "name": "Tortulhos (Santieiros)",
+            "satietyIdx": 175,
+            "keywords": [
+                "cogumelos",
+                "tortulhos",
+                "santieiros",
+                "macrolepiota",
+                "procera",
+                "mushrooms"
+            ],
+            "doses": [
+                {
+                    "quantity": 180,
+                    "unit": "g",
+                    "calsPerUnit": 2.5,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
