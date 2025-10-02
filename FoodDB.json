@@ -815,7 +815,7 @@
                     "quantity": 2,
                     "unit": "unit",
                     "calsPerUnit": 70,
-                    "stepSize": 1
+                    "stepSize": 0.5
                 }
             ]
         },
