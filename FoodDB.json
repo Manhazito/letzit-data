@@ -7972,7 +7972,7 @@
             ]
         },
         {
-            "id": "133",
+            "id": "333",
             "name": "Fiambre",
             "brand": "Viodeli",
             "isBrandRelevant": true,
@@ -7994,7 +7994,7 @@
             ]
         },
         {
-            "id": "134",
+            "id": "334",
             "name": "Bolo Rei",
             "brand": "Continente",
             "isBrandRelevant": true,
@@ -8021,7 +8021,7 @@
             ]
         },
         {
-            "id": "135",
+            "id": "335",
             "name": "Tortulhos (Santieiros)",
             "satietyIdx": 175,
             "keywords": [
@@ -8042,7 +8042,7 @@
             ]
         },
         {
-            "id": "136",
+            "id": "336",
             "name": "Iogurte Grego de Morango",
             "brand": "Mimosa",
             "isBrandRelevant": true,
@@ -8069,7 +8069,7 @@
             ]
         },
         {
-            "id": "137",
+            "id": "337",
             "name": "Iogurte de Pêssego",
             "brand": "Alpro",
             "isBrandRelevant": true,
@@ -8096,7 +8096,7 @@
             ]
         },
         {
-            "id": "138",
+            "id": "338",
             "name": "Iogurte de Ananás e Maracujá",
             "brand": "Alpro",
             "isBrandRelevant": true,
@@ -8126,7 +8126,7 @@
             ]
         },
         {
-            "id": "139",
+            "id": "339",
             "name": "Iogurte de soja proteico de Framboesa e Groselha",
             "brand": "Sojasun",
             "isBrandRelevant": true,
@@ -8152,6 +8152,32 @@
                     "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 124.5,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "340",
+            "name": "Oreo",
+            "brand": "Mondelez",
+            "isBrandRelevant": true,
+            "satietyIdx": 65,
+            "keywords": [
+                "bolachas",
+                "cookies",
+                "oreo"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 51.92,
+                    "stepSize": 0.5
+                },
+                {
+                    "quantity": 11,
+                    "unit": "g",
+                    "calsPerUnit": 4.72,
                     "stepSize": 1
                 }
             ]
