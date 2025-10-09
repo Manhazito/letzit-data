@@ -8181,6 +8181,35 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "341",
+            "name": "Leite de Amêndoa (sem açúcar)",
+            "brand": "Continente",
+            "isBrandRelevant": false,
+            "satietyIdx": 110,
+            "keywords": [
+                "leite",
+                "amêndoa",
+                "almond",
+                "milk",
+                "bebida",
+                "drink",
+                "sem",
+                "açúcar",
+                "magro",
+                "light",
+                "sugar",
+                "free"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "ml",
+                    "calsPerUnit": 0.19,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
