@@ -10198,6 +10198,143 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "81",
+            "name": "Fritata de Batata Doce",
+            "servings": 4,
+            "servingUnit": "unit",
+            "keywords": [
+                "fritata",
+                "frittata",
+                "batatas",
+                "doces",
+                "sweet",
+                "potatoes"
+            ],
+            "recipes": [
+                {
+                    "id": "81.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "249",
+                                    "name": "Espinafres",
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "espinafres",
+                                        "spinach"
+                                    ],
+                                    "dose": {
+                                        "quantity": 350,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "113",
+                                    "name": "Courgette",
+                                    "satietyIdx": 150,
+                                    "keywords": [
+                                        "courgette",
+                                        "zucchini"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.17,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "343",
+                                    "name": "Batata Doce",
+                                    "satietyIdx": 235,
+                                    "keywords": [
+                                        "batatas",
+                                        "doces",
+                                        "sweet",
+                                        "potatoes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 350,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.86,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 35,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "344",
+                                    "name": "Queijo de Cabra (macio)",
+                                    "satietyIdx": 165,
+                                    "keywords": [
+                                        "queijos",
+                                        "cabra",
+                                        "goat",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.70,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

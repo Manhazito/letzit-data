@@ -8236,6 +8236,25 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "343",
+            "name": "Batata Doce",
+            "satietyIdx": 235,
+            "keywords": [
+                "batatas",
+                "doces",
+                "sweet",
+                "potatoes"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 0.86,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
