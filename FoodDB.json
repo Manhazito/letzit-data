@@ -8210,6 +8210,32 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "342",
+            "name": "Salsichas tipo Frankfurt",
+            "brand": "Better Balance",
+            "isBrandRelevant": true,
+            "satietyIdx": 122,
+            "keywords": [
+                "salsichas",
+                "frankfurt",
+                "sausages"
+            ],
+            "doses": [
+                {
+                    "quantity": 40,
+                    "unit": "g",
+                    "calsPerUnit": 1.68,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 67.2,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
