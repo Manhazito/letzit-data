@@ -1073,11 +1073,13 @@
         },
         {
             "id": "46",
-            "name": "Castanhas",
+            "name": "Castanhas assadas",
             "satietyIdx": 155,
             "keywords": [
                 "fruta",
                 "fruit",
+                "assadas",
+                "baked",
                 "castanhas",
                 "chestnuts"
             ],
@@ -1085,7 +1087,7 @@
                 {
                     "quantity": 10,
                     "unit": "unit",
-                    "calsPerUnit": 20,
+                    "calsPerUnit": 10,
                     "stepSize": 1
                 }
             ]
@@ -8252,6 +8254,44 @@
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 0.86,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "344",
+            "name": "Queijo de Cabra (macio)",
+            "satietyIdx": 165,
+            "keywords": [
+                "queijos",
+                "cabra",
+                "goat",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 2.70,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "345",
+            "name": "Queijo de Cabra (curado)",
+            "satietyIdx": 130,
+            "keywords": [
+                "queijos",
+                "cabra",
+                "goat",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 3.80,
                     "stepSize": 1
                 }
             ]
