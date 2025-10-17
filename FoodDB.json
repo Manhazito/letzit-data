@@ -8295,6 +8295,32 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "346",
+            "name": "Chocolate branco",
+            "brand": "Nestlé",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "chocolates",
+                "branco",
+                "white"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.55,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 37,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
