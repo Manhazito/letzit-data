@@ -4208,6 +4208,9 @@
             "satietyIdx": 70,
             "keywords": [
                 "eclaires",
+                "eclairs",
+                "ovo",
+                "egg",
                 "mini",
                 "miniaturas"
             ],
@@ -8339,6 +8342,31 @@
                     "quantity": 3,
                     "unit": "unit",
                     "calsPerUnit": 77.44,
+                    "stepSize": 0.5
+                }
+            ]
+        },
+        {
+            "id": "348",
+            "name": "Eclair",
+            "satietyIdx": 60,
+            "keywords": [
+                "eclaires",
+                "eclairs",
+                "ovo",
+                "egg"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 235.2,
+                    "stepSize": 0.5
+                },
+                {
+                    "quantity": 80,
+                    "unit": "g",
+                    "calsPerUnit": 2.94,
                     "stepSize": 0.5
                 }
             ]
