@@ -8321,6 +8321,27 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "347",
+            "name": "Fingers",
+            "brand": "Nobre",
+            "isBrandRelevant": true,
+            "satietyIdx": 116,
+            "keywords": [
+                "fingers",
+                "soja",
+                "soy",
+                "vegalia"
+            ],
+            "doses": [
+                {
+                    "quantity": 3,
+                    "unit": "unit",
+                    "calsPerUnit": 77.44,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
