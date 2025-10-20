@@ -8370,6 +8370,25 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "349",
+            "name": "Legendary Burger",
+            "brand": "The Vegetarian Butcher",
+            "isBrandRelevant": true,
+            "satietyIdx": 225,
+            "keywords": [
+                "hambúrgueres",
+                "hamburgers"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 213,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
