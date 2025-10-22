@@ -10647,7 +10647,7 @@
                                         "vinegar"
                                     ],
                                     "dose": {
-                                        "quantity": 10,
+                                        "quantity": 5,
                                         "unit": "ml",
                                         "calsPerUnit": 1,
                                         "stepSize": 1
