@@ -10606,6 +10606,21 @@
                                     }
                                 },
                                 {
+                                    "id": "158",
+                                    "name": "Orégãos",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "orégãos",
+                                        "oreganos"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2.5,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.72,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
                                     "id": "95",
                                     "name": "Azeite",
                                     "satietyIdx": 50,
@@ -10618,6 +10633,38 @@
                                         "quantity": 6,
                                         "unit": "spray",
                                         "calsPerUnit": 0.1,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "96",
+                                    "name": "Vinagre Balsâmico",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "vinagre",
+                                        "balsâmicos",
+                                        "balsamic",
+                                        "vinegar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "ml",
+                                        "calsPerUnit": 1,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
                                         "stepSize": 1
                                     }
                                 }
