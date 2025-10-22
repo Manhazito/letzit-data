@@ -10499,6 +10499,134 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "83",
+            "name": "Salada de Massa e Burrata",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "burrata"
+            ],
+            "recipes": [
+                {
+                    "id": "83.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "83",
+                                    "name": "Queijo Burrata",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "burrata",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.38,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "249",
+                                    "name": "Espinafres",
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "espinafres",
+                                        "spinach"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "56",
+                                    "name": "Tomate",
+                                    "satietyIdx": 210,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "tomates",
+                                        "tomatoes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 300,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.18,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "244",
+                                    "name": "Cotovelos",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "cotovelos",
+                                        "cotovelinhos",
+                                        "elbow",
+                                        "macaroni",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 6,
+                                        "unit": "spray",
+                                        "calsPerUnit": 0.1,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
