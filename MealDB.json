@@ -10852,6 +10852,61 @@
                                         "calsPerUnit": 0,
                                         "stepSize": 1
                                     }
+                                },
+                                {
+                                    "id": "96",
+                                    "name": "Vinagre Balsâmico",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "vinagre",
+                                        "balsâmicos",
+                                        "balsamic",
+                                        "vinegar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "ml",
+                                        "calsPerUnit": 1,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 30,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "244",
+                                    "name": "Cotovelos",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "cotovelos",
+                                        "cotovelinhos",
+                                        "elbow",
+                                        "macaroni",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
                                 }
                             ],
                             "steps": []
