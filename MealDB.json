@@ -10055,14 +10055,14 @@
                     ]
                 },
                 {
-                    "id": "82",
+                    "id": "84",
                     "name": "Salada de Couve Roxa",
                     "servings": 2,
                     "servingUnit": "unit",
                     "keywords": ["saladas", "couve", "roxa", "red", "cabbage"],
                     "recipes": [
                         {
-                            "id": "82.1",
+                            "id": "84.1",
                             "type": "regular",
                             "parts": [
                                 {
