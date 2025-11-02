@@ -8389,6 +8389,31 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "350",
+            "name": "Bolachas Húngaras",
+            "brand": "O Rabelo",
+            "isBrandRelevant": true,
+            "satietyIdx": 80,
+            "keywords": [
+                "hambúrgueres",
+                "hamburgers"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 177.6,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 37,
+                    "unit": "g",
+                    "calsPerUnit": 4.8,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
