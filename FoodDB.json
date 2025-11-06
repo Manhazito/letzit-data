@@ -8414,6 +8414,26 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "351",
+            "name": "Queijo Ricotta",
+            "brand": "Continente",
+            "isBrandRelevant": false,
+            "satietyIdx": 100,
+            "keywords": [
+                "queijo",
+                "ricotta",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.64,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
