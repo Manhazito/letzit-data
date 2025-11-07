@@ -10914,6 +10914,233 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "85",
+            "name": "Esparguete com Vuna",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "esparguete",
+                "vuna",
+                "tuna",
+                "spaghetti"
+            ],
+            "recipes": [
+                {
+                    "id": "85.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "242",
+                                    "name": "Esparguete",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "esparguete",
+                                        "spaghetti",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "93",
+                                    "name": "Pimento",
+                                    "satietyIdx": 175,
+                                    "keywords": [
+                                        "pimentos",
+                                        "bell",
+                                        "peppers"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.2,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 30,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.25,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "322",
+                                    "name": "Caldo de Vegetais (cubos)",
+                                    "satietyIdx": 2.5,
+                                    "keywords": [
+                                        "caldo",
+                                        "vegetal",
+                                        "vegetais",
+                                        "vegetable",
+                                        "stock",
+                                        "cube",
+                                        "dried",
+                                        "cubos",
+                                        "seco"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.25,
+                                        "unit": "unit",
+                                        "calsPerUnit": 30,
+                                        "stepSize": 0.1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "192",
+                                    "name": "Pimentão Picante",
+                                    "satietyIdx": 85,
+                                    "keywords": [
+                                        "pimentão",
+                                        "picante",
+                                        "hot",
+                                        "paprika",
+                                        "chilli"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.2,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "319",
+                                    "name": "Vuna",
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "vuna",
+                                        "atum",
+                                        "tuna"
+                                    ],
+                                    "dose": {
+                                        "quantity": 85,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.79,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coza a massa em bastante água com sal.",
+                                "Coloque no copo o alho, a cebola, o pimento, e o azeite",
+                                "Pique [5 seg | vel 5].",
+                                "Refogue [5 min | 120ºC | vel 1].",
+                                "Adicione o tomate, o caldo de legumes, a pimenta, o pimentão, e o sal.",
+                                "Cozinhe [12 min | 100°C | vel mix].",
+                                "Adicione o vuna e envolva com a espátula.",
+                                "Sirva por cima do esparguete."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
