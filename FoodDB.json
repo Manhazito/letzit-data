@@ -34,9 +34,9 @@
         },
         {
             "id": "2",
-            "name": "Iogurte de Soja líquido (sem açúcar)",
+            "name": "Iogurte de Soja líquido Frutos Vermelhos (sem açúcar)",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 75,
             "keywords": [
                 "iogurtes",
@@ -48,7 +48,11 @@
                 "magro",
                 "light",
                 "sugar",
-                "free"
+                "free",
+                "red",
+                "fruits",
+                "frutos",
+                "vermelhos"
             ],
             "doses": [
                 {
@@ -8467,6 +8471,63 @@
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 0.81,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "354",
+            "name": "Bolacha coberta com Chocolate de Leite",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 100,
+            "keywords": [
+                "bolachas",
+                "chocolates",
+                "leite",
+                "milk",
+                "cookies"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 61,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 4.91,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "355",
+            "name": "Iogurte de Soja líquido Morango (sem açúcar)",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "soja",
+                "liquidos",
+                "liquid",
+                "soy",
+                "yogurts",
+                "magro",
+                "light",
+                "sugar",
+                "free",
+                "morangos",
+                "strawberries"
+            ],
+            "doses": [
+                {
+                    "quantity": 155,
+                    "unit": "ml",
+                    "calsPerUnit": 0.329,
                     "stepSize": 1
                 }
             ]
