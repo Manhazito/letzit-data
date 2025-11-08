@@ -5695,7 +5695,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 50,
+                    "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 3.51,
                     "stepSize": 1
@@ -8431,6 +8431,42 @@
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 1.64,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "352",
+            "name": "Abóbora Butternut",
+            "satietyIdx": 140,
+            "keywords": [
+                "abóbora",
+                "butternut",
+                "squash"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 0.45,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "353",
+            "name": "Ervilhas",
+            "satietyIdx": 150,
+            "keywords": [
+                "abóbora",
+                "butternut",
+                "squash"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 0.81,
                     "stepSize": 1
                 }
             ]
