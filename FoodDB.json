@@ -8079,27 +8079,21 @@
         },
         {
             "id": "337",
-            "name": "Iogurte de Pêssego",
+            "name": "Iogurte de soja de Pêssego",
             "brand": "Alpro",
             "isBrandRelevant": true,
             "satietyIdx": 75,
             "keywords": [
                 "iogurtes",
-                "pêssego",
-                "peach",
+                "pêssegos",
+                "peaches",
                 "yogurts"
             ],
             "doses": [
                 {
                     "quantity": 125,
                     "unit": "g",
-                    "calsPerUnit": 0.67,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 83.75,
+                    "calsPerUnit": 0.69,
                     "stepSize": 1
                 }
             ]
@@ -8142,12 +8136,13 @@
             "satietyIdx": 75,
             "keywords": [
                 "iogurtes",
-                "framboesa",
-                "groselha",
+                "framboesas",
+                "groselhas",
                 "soja",
                 "soy",
                 "raspberry",
-                "redcurrant",
+                "raspberries",
+                "redcurrants",
                 "yogurts"
             ],
             "doses": [
@@ -8521,13 +8516,141 @@
                 "sugar",
                 "free",
                 "morangos",
-                "strawberries"
+                "strawberries",
+                "strawberry"
             ],
             "doses": [
                 {
                     "quantity": 155,
                     "unit": "ml",
                     "calsPerUnit": 0.329,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "356",
+            "name": "Nutella Biscuits",
+            "brand": "Nutella",
+            "isBrandRelevant": false,
+            "satietyIdx": 100,
+            "keywords": [
+                "bolachas",
+                "chocolates",
+                "leite",
+                "milk",
+                "cookies"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 71,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.15,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "357",
+            "name": "Iogurte de soja de Morango",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "morangos",
+                "soja",
+                "soy",
+                "strawberries",
+                "strawberry",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.68,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "358",
+            "name": "Iogurte de soja de Mirtilo",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "mirtilos",
+                "soja",
+                "soy",
+                "blueberries",
+                "blueberry",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.69,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "359",
+            "name": "Iogurte de soja de Amora",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "amoras",
+                "soja",
+                "soy",
+                "blackberries",
+                "blackberry",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.76,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "360",
+            "name": "Iogurte de soja de Framboesa e Arando",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "framboesas",
+                "arando",
+                "soja",
+                "soy",
+                "raspberry",
+                "raspberries",
+                "cranberry",
+                "cranberries",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 0.76,
                     "stepSize": 1
                 }
             ]
