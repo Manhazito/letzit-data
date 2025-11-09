@@ -10791,7 +10791,7 @@
                                         "spreads"
                                     ],
                                     "dose": {
-                                        "quantity": 70,
+                                        "quantity": 50,
                                         "unit": "g",
                                         "calsPerUnit": 7.13,
                                         "stepSize": 1
@@ -10895,7 +10895,7 @@
                                         "creams"
                                     ],
                                     "dose": {
-                                        "quantity": 60,
+                                        "quantity": 50,
                                         "unit": "ml",
                                         "calsPerUnit": 0.61,
                                         "stepSize": 1
