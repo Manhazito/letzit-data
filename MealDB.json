@@ -9520,7 +9520,7 @@
                                     "dose": {
                                         "quantity": 150,
                                         "unit": "g",
-                                        "calsPerUnit": 2.5,
+                                        "calsPerUnit": 0.25,
                                         "stepSize": 1
                                     }
                                 },
@@ -10943,9 +10943,9 @@
                                         "mushrooms"
                                     ],
                                     "dose": {
-                                        "quantity": 500,
+                                        "quantity": 350,
                                         "unit": "g",
-                                        "calsPerUnit": 2.5,
+                                        "calsPerUnit": 0.25,
                                         "stepSize": 1
                                     }
                                 },

@@ -7032,7 +7032,7 @@
                 {
                     "quantity": 180,
                     "unit": "g",
-                    "calsPerUnit": 2.5,
+                    "calsPerUnit": 0.25,
                     "stepSize": 1
                 }
             ]
