@@ -2195,7 +2195,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella",
+                                    "name": "Queijo Mozzarella (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -2207,7 +2207,7 @@
                                     "dose": {
                                         "quantity": 62.5,
                                         "unit": "g",
-                                        "calsPerUnit": 2.25,
+                                        "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
                                 }
@@ -4096,7 +4096,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella",
+                                    "name": "Queijo Mozzarella (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -4108,7 +4108,7 @@
                                     "dose": {
                                         "quantity": 125,
                                         "unit": "g",
-                                        "calsPerUnit": 2.25,
+                                        "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
                                 },
@@ -4372,7 +4372,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella",
+                                    "name": "Queijo Mozzarella (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -4384,7 +4384,7 @@
                                     "dose": {
                                         "quantity": 60,
                                         "unit": "g",
-                                        "calsPerUnit": 2.25,
+                                        "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
                                 },
@@ -9772,7 +9772,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella",
+                                    "name": "Queijo Mozzarella (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 60,
@@ -9784,7 +9784,7 @@
                                     "dose": {
                                         "quantity": 62.5,
                                         "unit": "g",
-                                        "calsPerUnit": 2.25,
+                                        "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
                                 },
@@ -11828,7 +11828,7 @@
                                         "raw"
                                     ],
                                     "dose": {
-                                        "quantity": 200,
+                                        "quantity": 150,
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
@@ -12018,7 +12018,7 @@
                                         "sheet"
                                     ],
                                     "dose": {
-                                        "quantity": 2,
+                                        "quantity": 4,
                                         "unit": "unit",
                                         "calsPerUnit": 83.18,
                                         "stepSize": 1
@@ -12026,7 +12026,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella",
+                                    "name": "Queijo Mozzarella (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -12036,9 +12036,9 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 15,
                                         "unit": "g",
-                                        "calsPerUnit": 2.25,
+                                        "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
                                 },
