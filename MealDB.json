@@ -12004,25 +12004,45 @@
                                     }
                                 },
                                 {
-                                    "id": "197",
-                                    "name": "Lasanha com Ovo (folha)",
+                                    "id": "364",
+                                    "name": "Cannelloni",
                                     "brand": "Milaneza",
-                                    "isBrandRelevant": true,
-                                    "satietyIdx": 115,
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 119,
                                     "keywords": [
-                                        "lasanha",
-                                        "ovo",
-                                        "lasagna",
-                                        "egg",
-                                        "folha",
-                                        "sheet"
+                                        "pasta",
+                                        "canelones",
+                                        "cannelloni"
                                     ],
                                     "dose": {
-                                        "quantity": 4,
+                                        "quantity": 8,
                                         "unit": "unit",
-                                        "calsPerUnit": 83.18,
+                                        "calsPerUnit": 38.7,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "alternatives": [
+                                        {
+                                            "id": "197",
+                                            "name": "Lasanha com Ovo (folha)",
+                                            "brand": "Milaneza",
+                                            "isBrandRelevant": true,
+                                            "satietyIdx": 115,
+                                            "keywords": [
+                                                "lasanha",
+                                                "ovo",
+                                                "lasagna",
+                                                "egg",
+                                                "folha",
+                                                "sheet"
+                                            ],
+                                            "dose": {
+                                                "quantity": 4,
+                                                "unit": "unit",
+                                                "calsPerUnit": 83.18,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "id": "80",

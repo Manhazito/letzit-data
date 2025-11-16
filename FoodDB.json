@@ -6201,7 +6201,7 @@
                 {
                     "quantity": 1,
                     "unit": "unit",
-                    "calsPerUnit": 82.8,
+                    "calsPerUnit": 90.8,
                     "stepSize": 1
                 }
             ]
@@ -8722,6 +8722,32 @@
                     "quantity": 125,
                     "unit": "g",
                     "calsPerUnit": 2.95,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "364",
+            "name": "Cannelloni",
+            "brand": "Milaneza",
+            "isBrandRelevant": true,
+            "satietyIdx": 119,
+            "keywords": [
+                "pasta",
+                "canelones",
+                "cannelloni"
+            ],
+            "doses": [
+                {
+                    "quantity": 4,
+                    "unit": "unit",
+                    "calsPerUnit": 38.7,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 43.48,
+                    "unit": "g",
+                    "calsPerUnit": 3.56,
                     "stepSize": 1
                 }
             ]
