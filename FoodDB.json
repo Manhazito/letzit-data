@@ -8751,6 +8751,33 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "365",
+            "name": "Queijo (magro)",
+            "brand": "Limiano",
+            "isBrandRelevant": true,
+            "satietyIdx": 146,
+            "keywords": [
+                "queijos",
+                "cheeses",
+                "magro",
+                "light"
+            ],
+            "doses": [
+                {
+                    "quantity": 20,
+                    "unit": "g",
+                    "calsPerUnit": 2.35,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 47,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
