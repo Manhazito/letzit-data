@@ -8778,6 +8778,33 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "366",
+            "name": "Iogurte de café",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 75,
+            "keywords": [
+                "iogurtes",
+                "café",
+                "coffee",
+                "yogurts"
+            ],
+            "doses": [
+                {
+                    "quantity": 280,
+                    "unit": "g",
+                    "calsPerUnit": 0.5,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 140,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
