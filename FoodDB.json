@@ -8420,7 +8420,7 @@
             "id": "351",
             "name": "Queijo Ricotta",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 100,
             "keywords": [
                 "queijo",
@@ -8803,6 +8803,26 @@
                     "unit": "unit",
                     "calsPerUnit": 140,
                     "stepSize": 0.5
+                }
+            ]
+        },
+        {
+            "id": "367",
+            "name": "Queijo Ricotta",
+            "brand": "Galbani",
+            "isBrandRelevant": true,
+            "satietyIdx": 100,
+            "keywords": [
+                "queijo",
+                "ricotta",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.64,
+                    "stepSize": 1
                 }
             ]
         }
