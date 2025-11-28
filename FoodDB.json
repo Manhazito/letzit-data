@@ -8825,6 +8825,26 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "368",
+            "name": "Molho de Francesinha",
+            "brand": "Dom Duarte",
+            "isBrandRelevant": true,
+            "satietyIdx": 52,
+            "keywords": [
+                "molho",
+                "sauce",
+                "francesinha"
+            ],
+            "doses": [
+                {
+                    "quantity": 250,
+                    "unit": "g",
+                    "calsPerUnit": 0.27,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
