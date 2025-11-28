@@ -12275,6 +12275,192 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "91",
+            "name": "Pasta com Cogumelos alla Francesinha",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "esparguete",
+                "tagliatelle",
+                "spaghetti",
+                "cogumelos",
+                "molho",
+                "sauce",
+                "francesinha",
+                "cannelloni",
+                "mushrooms",
+                "canelones"
+            ],
+            "recipes": [
+                {
+                    "id": "91.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "368",
+                                    "name": "Molho de Francesinha",
+                                    "brand": "Dom Duarte",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 52,
+                                    "keywords": [
+                                        "molho",
+                                        "sauce",
+                                        "francesinha"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cube",
+                                        "calsPerUnit": 3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "78",
+                                    "name": "Natas Culinária",
+                                    "brand": "Alpro",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "natas",
+                                        "culinária",
+                                        "soja",
+                                        "soy",
+                                        "cooking",
+                                        "creams"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cube",
+                                        "calsPerUnit": 9.15,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "316",
+                                    "name": "Conchiglie",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "conchiglie",
+                                        "conchas",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coza a massa em água com sal. Escorra, reservando uma chávena da água da cozedura.",
+                                "Salteie os cogumelos até ficarem dourados e sem humidade. Não encha demasiado a frigideira. Reserve.",
+                                "Aqueça o molho de francesinha com o tomate, em lume médio.",
+                                "Adicione as natas e mexa até engrossar um pouco (aprox. 2min).",
+                                "Adicione os cogumelos e a pasta. Misture água da cozedura conforme necessário.",
+                                "Adicione o parmesão, misture bem, e sirva com um pouco de pimenta preta."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
