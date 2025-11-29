@@ -12459,6 +12459,215 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "92",
+            "name": "Arroz com Cogumelos alla Francesinha",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "arroz",
+                "rice",
+                "cogumelos",
+                "molho",
+                "sauce",
+                "francesinha",
+                "mushrooms"
+            ],
+            "recipes": [
+                {
+                    "id": "92.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "226",
+                                    "name": "Chalota",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebolas",
+                                        "shallota",
+                                        "onions"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 25.2,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "368",
+                                    "name": "Molho de Francesinha",
+                                    "brand": "Dom Duarte",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 52,
+                                    "keywords": [
+                                        "molho",
+                                        "sauce",
+                                        "francesinha"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cube",
+                                        "calsPerUnit": 3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "180",
+                                    "name": "Caldo de Vegetais (líquido)",
+                                    "satietyIdx": 25,
+                                    "keywords": [
+                                        "caldo",
+                                        "vegetal",
+                                        "vegetais",
+                                        "vegetable",
+                                        "stock",
+                                        "líquido",
+                                        "liquid",
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.035,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "236",
+                                    "name": "Arroz",
+                                    "satietyIdx": 138,
+                                    "keywords": [
+                                        "arroz",
+                                        "rice",
+                                        "branco",
+                                        "white",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.45,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "261",
+                                    "name": "Sumo de limão",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "limão",
+                                        "limões",
+                                        "lemons",
+                                        "sumo",
+                                        "juice"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
