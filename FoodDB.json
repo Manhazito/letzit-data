@@ -3905,7 +3905,7 @@
                 {
                     "quantity": 1,
                     "unit": "g",
-                    "calsPerUnit": 0,
+                    "calsPerUnit": 0.04,
                     "stepSize": 1
                 }
             ]
@@ -8842,6 +8842,28 @@
                     "quantity": 250,
                     "unit": "g",
                     "calsPerUnit": 0.27,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "369",
+            "name": "Molho de Francesinha (light)",
+            "brand": "Dom Duarte",
+            "isBrandRelevant": true,
+            "satietyIdx": 52,
+            "keywords": [
+                "molho",
+                "light",
+                "magro",
+                "sauce",
+                "francesinha"
+            ],
+            "doses": [
+                {
+                    "quantity": 250,
+                    "unit": "g",
+                    "calsPerUnit": 0.15,
                     "stepSize": 1
                 }
             ]
