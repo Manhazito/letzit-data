@@ -12674,6 +12674,380 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "93",
+            "name": "Meatloaf de Lentilhas",
+            "servings": 4,
+            "servingUnit": "unit",
+            "keywords": [
+                "meatloaf",
+                "rolo",
+                "carne",
+                "lentilhas",
+                "lentils"
+            ],
+            "recipes": [
+                {
+                    "id": "93.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "324",
+                                    "name": "Lentilhas Verdes",
+                                    "satietyIdx": 155,
+                                    "keywords": [
+                                        "lentilhas",
+                                        "verdes",
+                                        "green",
+                                        "lentils",
+                                        "com",
+                                        "casca",
+                                        "whole"
+                                    ],
+                                    "dose": {
+                                        "quantity": 120,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "27",
+                                    "name": "Grão-de-Bico cozido",
+                                    "satietyIdx": 131,
+                                    "keywords": [
+                                        "grão",
+                                        "grãos",
+                                        "bico",
+                                        "chickpeas",
+                                        "cozido",
+                                        "baked"
+                                    ],
+                                    "dose": {
+                                        "quantity": 170,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "7",
+                                    "name": "Aveia",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 209,
+                                    "keywords": [
+                                        "aveia",
+                                        "oats",
+                                        "oatmeal",
+                                        "cereais",
+                                        "cereals"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.83,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "91",
+                                    "name": "Ovo",
+                                    "satietyIdx": 150,
+                                    "keywords": [
+                                        "ovos",
+                                        "eggs",
+                                        "cozidos",
+                                        "boiled",
+                                        "estrelados",
+                                        "fried"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "unit",
+                                        "calsPerUnit": 80,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 52,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "138",
+                                    "name": "Cenoura",
+                                    "satietyIdx": 142,
+                                    "keywords": [
+                                        "cenouras",
+                                        "carrots"
+                                    ],
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.41,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 200,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "221",
+                                    "name": "Miso Branco",
+                                    "satietyIdx": 100,
+                                    "brand": "PRÓVida",
+                                    "isBrandRelevant": false,
+                                    "keywords": [
+                                        "miso",
+                                        "branco",
+                                        "white"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 9.66,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "191",
+                                    "name": "Molho de Soja",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "molho",
+                                        "soja",
+                                        "soy",
+                                        "sauce"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 5.5,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "98",
+                                    "name": "Vinagre de Vinho Branco",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "vinagre",
+                                        "vinho",
+                                        "wine",
+                                        "vinegar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.2,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cube",
+                                        "calsPerUnit": 3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "159",
+                                    "name": "Pimentão Doce",
+                                    "satietyIdx": 85,
+                                    "keywords": [
+                                        "pimentão",
+                                        "doce",
+                                        "sweet",
+                                        "paprika",
+                                        "chilli"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 6.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 126,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "61",
+                                    "name": "Ketchup",
+                                    "brand": "Calvé",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "ketchup"
+                                    ],
+                                    "dose": {
+                                        "quantity": 45,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.86,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "370",
+                                    "name": "Açúcar Mascavado",
+                                    "satietyIdx": 20,
+                                    "keywords": [
+                                        "açúcar",
+                                        "mascavado",
+                                        "brown",
+                                        "sugar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 45.6,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "64",
+                                    "name": "Mostarda",
+                                    "brand": "Paladin",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 35,
+                                    "keywords": [
+                                        "mostarda",
+                                        "mustard"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 13.45,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coza as lentilhas. Depois escorra e reserve.",
+                                "Adicione a cebola, o alho, e os cogumelos ao copo da Thermomix.",
+                                "Pique [5 seg | vel 5]. Raspe as paredes para o fundo do copo com a ajuda da espátula.",
+                                "Adicione o azeite.",
+                                "Salteie [10 min | 120°C | vel 1].",
+                                "Adicione o miso, o molho de soja, o vinagre, o tomate, e o pimentão doce.",
+                                "Misture [10 seg | vel 3].",
+                                "Adicione as lentilhas, o grão-de-bico, a aveia, e os ovos.",
+                                "Misture [8 seg | reverse | vel 4].",
+                                "Caso a misture esteja demasiado húmida, adicione mais aveia. Caso esteja demasiado seca adicione um pouco de água.",
+                                "Num recipiente misture o ketchup, o açúcar, e a mostarda.",
+                                "Despeje o conteúdo do copo numa forma revestida com papel vegetal. Pressione bem.",
+                                "Espalhe a mistura do ketchup por cima.",
+                                "Leve ao forno [50 min | 180°C]",
+                                "Deixe arrefecer durante 15min antes de desenformar e cortar."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

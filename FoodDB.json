@@ -3357,7 +3357,7 @@
         {
             "id": "143",
             "name": "Açúcar",
-            "satietyIdx": 60,
+            "satietyIdx": 20,
             "keywords": [
                 "açúcar",
                 "sugar"
@@ -8864,6 +8864,37 @@
                     "quantity": 250,
                     "unit": "g",
                     "calsPerUnit": 0.15,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "370",
+            "name": "Açúcar Mascavado",
+            "satietyIdx": 20,
+            "keywords": [
+                "açúcar",
+                "mascavado",
+                "brown",
+                "sugar"
+            ],
+            "doses": [
+                {
+                    "quantity": 12,
+                    "unit": "g",
+                    "calsPerUnit": 3.8,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "cs",
+                    "calsPerUnit": 45.6,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 3,
+                    "unit": "cc",
+                    "calsPerUnit": 15.2,
                     "stepSize": 1
                 }
             ]
