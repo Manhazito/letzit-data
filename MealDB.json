@@ -13167,6 +13167,122 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "95",
+            "name": "Pasta",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "esparguete",
+                "tagliatelle",
+                "tagliatelle"
+            ],
+            "recipes": [
+                {
+                    "id": "95.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "unit",
+                                        "calsPerUnit": 52,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 60.3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cs",
+                                        "calsPerUnit": 126,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "78",
+                                    "name": "Natas Culinária",
+                                    "brand": "Alpro",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 50,
+                                    "dose": {
+                                        "quantity": 4,
+                                        "unit": "cube",
+                                        "calsPerUnit": 36.6,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
