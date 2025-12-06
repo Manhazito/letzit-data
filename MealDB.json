@@ -13214,7 +13214,7 @@
                                     "name": "Pasta",
                                     "satietyIdx": 119,
                                     "dose": {
-                                        "quantity": 80,
+                                        "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 3.59,
                                         "stepSize": 1
@@ -13225,7 +13225,7 @@
                                     "name": "Queijo Parmesão",
                                     "satietyIdx": 100,
                                     "dose": {
-                                        "quantity": 2,
+                                        "quantity": 1,
                                         "unit": "cs",
                                         "calsPerUnit": 60.3,
                                         "stepSize": 1
