@@ -13225,7 +13225,7 @@
                                     "name": "Queijo Parmesão",
                                     "satietyIdx": 100,
                                     "dose": {
-                                        "quantity": 1,
+                                        "quantity": 2,
                                         "unit": "cs",
                                         "calsPerUnit": 60.3,
                                         "stepSize": 1
