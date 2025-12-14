@@ -8900,6 +8900,121 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "371",
+            "name": "Chocolate com amêndoas",
+            "brand": "Regina",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "chocolates",
+                "amêndoas",
+                "lindt",
+                "almonds"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.5,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 33,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "372",
+            "name": "Amendoins (sem casca)",
+            "satietyIdx": 84,
+            "keywords": [
+                "amendoins",
+                "descascados",
+                "without",
+                "shell",
+                "peanuts"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.65,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "373",
+            "name": "Amendoins (com casca)",
+            "satietyIdx": 84,
+            "keywords": [
+                "amendoins",
+                "casca",
+                "shell",
+                "peanuts"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 5.65,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Amendoins com sal e mel",
+            "brand": "Alesto",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "amendoins",
+                "mel",
+                "sal",
+                "salt",
+                "honey",
+                "peanuts"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.94,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "375",
+            "name": "Mix de Frutos Secos",
+            "brand": "Alesto",
+            "isBrandRelevant": true,
+            "satietyIdx": 60,
+            "keywords": [
+                "amendoins",
+                "amêndoas",
+                "sultanas",
+                "passas",
+                "arandos",
+                "peanuts",
+                "almonds",
+                "raisins",
+                "cranberries"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.04,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
