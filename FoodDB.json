@@ -3845,7 +3845,7 @@
             "id": "162",
             "name": "Tomate triturado com Manjerição e Oregãos",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 125,
             "keywords": [
                 "tomates",
@@ -3864,13 +3864,13 @@
                 {
                     "quantity": 48,
                     "unit": "g",
-                    "calsPerUnit": 0.15,
+                    "calsPerUnit": 0.23,
                     "stepSize": 1
                 },
                 {
                     "quantity": 4,
                     "unit": "cube",
-                    "calsPerUnit": 1.8,
+                    "calsPerUnit": 2.76,
                     "stepSize": 1
                 }
             ]
