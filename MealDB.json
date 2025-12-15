@@ -13473,7 +13473,7 @@
         },
         {
             "id": "97",
-            "name": "Caril de Lentilhas e Tomate",
+            "name": "Caril de Lentilhas",
             "servings": 2,
             "servingUnit": "unit",
             "keywords": [
@@ -13532,10 +13532,14 @@
                                         "stepSize": 1
                                     }
                                 }
+                            ],
+                            "steps": [
+                                "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Cozinhe a vapor [20 min | vel 4].",
+                                "Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo."
                             ]
                         },
                         {
-                            "title": "Rice",
+                            "title": "Curry",
                             "ingredients": [
                                 {
                                     "id": "163",
@@ -13674,8 +13678,6 @@
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Cozinhe a vapor [20 min | vel 4].",
-                                "Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo.",
                                 "Coloque no copo a cebola, o alho, o tomate e o azeite, pique [3 seg | vel 5] e refogue [3 min | 120°C | vel 1].",
                                 "Adicione os 200g de água, as lentilhas, o caril, 1 c. de chá de sal, e 1-2 pitadas de pimenta. Cozinhe [15 min | 95°C | reverse | vel 1].",
                                 "Retire e sirva com o arroz."
