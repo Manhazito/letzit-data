@@ -13488,6 +13488,7 @@
                     "type": "thermomix",
                     "parts": [
                         {
+                            "title": "Rice",
                             "ingredients": [
                                 {
                                     "id": "163",
@@ -13516,17 +13517,6 @@
                                     }
                                 },
                                 {
-                                    "id": "127",
-                                    "name": "Pimenta preta",
-                                    "satietyIdx": 40,
-                                    "dose": {
-                                        "quantity": 1,
-                                        "unit": "cc",
-                                        "calsPerUnit": 5.75,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
                                     "id": "275",
                                     "name": "Arroz basmati",
                                     "satietyIdx": 125,
@@ -13539,6 +13529,37 @@
                                         "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 3.57,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Rice",
+                            "ingredients": [
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 5.75,
                                         "stepSize": 1
                                     }
                                 },
@@ -13656,7 +13677,7 @@
                                 "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Cozinhe a vapor [20 min | vel 4].",
                                 "Coloque o arroz num recipiente e mantenha quente. Descarte a água do copo.",
                                 "Coloque no copo a cebola, o alho, o tomate e o azeite, pique [3 seg | vel 5] e refogue [3 min | 120°C | vel 1].",
-                                "Adicione as lentilhas, o caril, 1 c. de chá de sal, e 1-2 pitadas de pimenta. Cozinhe [15 min | 95°C | reverse | vel 1].",
+                                "Adicione os 100g de água, as lentilhas, o caril, 1 c. de chá de sal, e 1-2 pitadas de pimenta. Cozinhe [15 min | 95°C | reverse | vel 1].",
                                 "Retire e sirva com o arroz."
                             ]
                         }
