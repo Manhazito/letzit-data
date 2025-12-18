@@ -9015,6 +9015,34 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "376",
+            "name": "Pocket Coffee",
+            "brand": "Ferrero",
+            "isBrandRelevant": true,
+            "satietyIdx": 60,
+            "keywords": [
+                "rebuçados",
+                "café",
+                "espresso",
+                "coffee",
+                "candy"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 54.625,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 4.37,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
