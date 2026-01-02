@@ -2754,7 +2754,7 @@
             "keywords": [
                 "cogumelos",
                 "marron",
-                "mushroom",
+                "mushrooms",
                 "salteados",
                 "seco",
                 "dry",
@@ -2782,7 +2782,7 @@
             "keywords": [
                 "cogumelos",
                 "portobello",
-                "mushroom",
+                "mushrooms",
                 "salteados",
                 "seco",
                 "dry",
@@ -4606,7 +4606,7 @@
                 "cogumelos",
                 "shitake",
                 "shiitake",
-                "mushroom"
+                "mushrooms"
             ],
             "doses": [
                 {
@@ -5942,7 +5942,7 @@
             "keywords": [
                 "cogumelos",
                 "marron",
-                "mushroom",
+                "mushrooms",
                 "cru",
                 "raw"
             ],
@@ -5968,7 +5968,7 @@
             "keywords": [
                 "cogumelos",
                 "portobello",
-                "mushroom",
+                "mushrooms",
                 "cru",
                 "raw"
             ],
@@ -6237,7 +6237,7 @@
                 "cogumelos",
                 "shitake",
                 "shiitake",
-                "mushroom"
+                "mushrooms"
             ],
             "doses": [
                 {
@@ -9061,6 +9061,26 @@
                     "quantity": 100,
                     "unit": "ml",
                     "calsPerUnit": 0.48,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "378",
+            "name": "Rissol de tortulhos",
+            "satietyIdx": 70,
+            "keywords": [
+                "rissol",
+                "rissóis",
+                "tortulhos",
+                "santieiros",
+                "mushrooms"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 80,
                     "stepSize": 1
                 }
             ]
