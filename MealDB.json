@@ -13684,105 +13684,105 @@
                             ]
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "98",
+            "name": "Recheio de Rissóis de Tortulhos",
+            "servings": 36,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "esparguete",
+                "tagliatelle",
+                "tagliatelle"
+            ],
+            "recipes": [
                 {
-                    "id": "98",
-                    "name": "Recheio de Rissóis de Tortulhos",
-                    "servings": 36,
-                    "servingUnit": "unit",
-                    "keywords": [
-                        "pasta",
-                        "massa",
-                        "esparguete",
-                        "tagliatelle",
-                        "tagliatelle"
-                    ],
-                    "recipes": [
+                    "id": "98.1",
+                    "type": "regular",
+                    "parts": [
                         {
-                            "id": "98.1",
-                            "type": "regular",
-                            "parts": [
+                            "ingredients": [
                                 {
-                                    "ingredients": [
-                                        {
-                                            "id": "76",
-                                            "name": "Manteiga",
-                                            "brand": "Mimosa",
-                                            "isBrandRelevant": true,
-                                            "satietyIdx": 40,
-                                            "keywords": [
-                                                "manteigas",
-                                                "butters",
-                                                "margarinas",
-                                                "margarines",
-                                                "spreads"
-                                            ],
-                                            "dose": {
-                                                "quantity": 70,
-                                                "unit": "g",
-                                                "calsPerUnit": 7.43,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "377",
-                                            "name": "Leite Meio Gordo",
-                                            "brand": "Mimosa",
-                                            "isBrandRelevant": true,
-                                            "satietyIdx": 40,
-                                            "keywords": [
-                                                "leites",
-                                                "milks",
-                                                "bebidas",
-                                                "drinks"
-                                            ],
-                                            "dose": {
-                                                "quantity": 100,
-                                                "unit": "ml",
-                                                "calsPerUnit": 0.48,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "99",
-                                            "name": "Farinha de Trigo",
-                                            "satietyIdx": 55,
-                                            "keywords": [
-                                                "farinha",
-                                                "trigo",
-                                                "wheat",
-                                                "flour"
-                                            ],
-                                            "dose": {
-                                                "quantity": 250,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.64,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "335",
-                                            "name": "Tortulhos (Santieiros)",
-                                            "satietyIdx": 175,
-                                            "keywords": [
-                                                "cogumelos",
-                                                "tortulhos",
-                                                "santieiros",
-                                                "macrolepiota",
-                                                "procera",
-                                                "mushrooms"
-                                            ],
-                                            "dose": {
-                                                "quantity": 180,
-                                                "unit": "g",
-                                                "calsPerUnit": 0.25,
-                                                "stepSize": 1
-                                            }
-                                        }
+                                    "id": "76",
+                                    "name": "Manteiga",
+                                    "brand": "Mimosa",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "manteigas",
+                                        "butters",
+                                        "margarinas",
+                                        "margarines",
+                                        "spreads"
                                     ],
-                                    "steps": []
+                                    "dose": {
+                                        "quantity": 70,
+                                        "unit": "g",
+                                        "calsPerUnit": 7.43,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "377",
+                                    "name": "Leite Meio Gordo",
+                                    "brand": "Mimosa",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "leites",
+                                        "milks",
+                                        "bebidas",
+                                        "drinks"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.48,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "99",
+                                    "name": "Farinha de Trigo",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "wheat",
+                                        "flour"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "335",
+                                    "name": "Tortulhos (Santieiros)",
+                                    "satietyIdx": 175,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "tortulhos",
+                                        "santieiros",
+                                        "macrolepiota",
+                                        "procera",
+                                        "mushrooms"
+                                    ],
+                                    "dose": {
+                                        "quantity": 180,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.25,
+                                        "stepSize": 1
+                                    }
                                 }
-                            ]
+                            ],
+                            "steps": []
                         }
                     ]
                 }
