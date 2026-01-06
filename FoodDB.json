@@ -6195,7 +6195,7 @@
                 {
                     "quantity": 120,
                     "unit": "g",
-                    "calsPerUnit": 0.69,
+                    "calsPerUnit": 0.757,
                     "stepSize": 1
                 },
                 {
@@ -9081,6 +9081,26 @@
                     "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 80,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "name": "Queijo Camembert",
+            "brand": "Continente",
+            "isBrandRelevant": false,
+            "satietyIdx": 65,
+            "keywords": [
+                "queijo",
+                "camembert",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 50,
+                    "unit": "g",
+                    "calsPerUnit": 2.54,
                     "stepSize": 1
                 }
             ]
