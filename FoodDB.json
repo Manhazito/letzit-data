@@ -7,7 +7,7 @@
             "id": "1",
             "name": "Leite de Soja (sem açúcar)",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 110,
             "keywords": [
                 "leite",
@@ -9101,6 +9101,35 @@
                     "quantity": 50,
                     "unit": "g",
                     "calsPerUnit": 2.54,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "380",
+            "name": "Leite de Soja (sem açúcar)",
+            "brand": "Alpro",
+            "isBrandRelevant": true,
+            "satietyIdx": 110,
+            "keywords": [
+                "leite",
+                "soja",
+                "soy",
+                "milk",
+                "bebida",
+                "drink",
+                "sem",
+                "açúcar",
+                "magro",
+                "light",
+                "sugar",
+                "free"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "ml",
+                    "calsPerUnit": 0.33,
                     "stepSize": 1
                 }
             ]
