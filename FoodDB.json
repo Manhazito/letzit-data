@@ -9133,6 +9133,84 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "381",
+            "name": "Tostas Extrafinas",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 100,
+            "keywords": [
+                "mini",
+                "tostas",
+                "toasts",
+                "pão",
+                "pães",
+                "bread",
+                "trigo",
+                "wheat",
+                "extra",
+                "finas",
+                "thin"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 3.84,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 6,
+                    "unit": "unit",
+                    "calsPerUnit": 76.8,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "382",
+            "name": "Fogaça da Feira",
+            "satietyIdx": 90,
+            "keywords": [
+                "fogaça",
+                "santa",
+                "maria",
+                "feira"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 2.9,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "name": "Cordon Bleu",
+            "brand": "My Vay",
+            "isBrandRelevant": true,
+            "satietyIdx": 130,
+            "keywords": [
+                "cordon",
+                "bleu"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 2.29,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 344,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
