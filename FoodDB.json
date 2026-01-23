@@ -9163,7 +9163,7 @@
                 {
                     "quantity": 6,
                     "unit": "unit",
-                    "calsPerUnit": 76.8,
+                    "calsPerUnit": 12.8,
                     "stepSize": 1
                 }
             ]
@@ -9188,7 +9188,7 @@
             ]
         },
         {
-            "id": "33",
+            "id": "383",
             "name": "Cordon Bleu",
             "brand": "My Vay",
             "isBrandRelevant": true,
@@ -9208,6 +9208,26 @@
                     "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 344,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "384",
+            "name": "Sandes de Queijo",
+            "satietyIdx": 130,
+            "keywords": [
+                "sandes",
+                "pão",
+                "queijo",
+                "sandwich",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 198,
                     "stepSize": 1
                 }
             ]
