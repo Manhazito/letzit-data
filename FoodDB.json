@@ -9231,6 +9231,27 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "385",
+            "name": "Atum em lata (em azeite)",
+            "brand": "Bom Petisco",
+            "isBrandRelevant": true,
+            "satietyIdx": 200,
+            "keywords": [
+                "canned",
+                "atum",
+                "tuna",
+                "enlatados"
+            ],
+            "doses": [
+                {
+                    "quantity": 78,
+                    "unit": "g",
+                    "calsPerUnit": 2.05,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
