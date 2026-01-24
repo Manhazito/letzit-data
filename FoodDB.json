@@ -9252,6 +9252,26 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "386",
+            "name": "Belgas",
+            "brand": "Saborosa",
+            "isBrandRelevant": false,
+            "satietyIdx": 70,
+            "keywords": [
+                "bolachas",
+                "belgas",
+                "cookies"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 42,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
