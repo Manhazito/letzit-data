@@ -9272,6 +9272,27 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "387",
+            "name": "Bolachas de Avelã",
+            "brand": "Grisbì",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "bolachas",
+                "avelã",
+                "cookies",
+                "hazelnut"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 81,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
