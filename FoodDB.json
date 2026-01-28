@@ -9293,6 +9293,57 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "388",
+            "name": "Ferrero Rocher",
+            "brand": "Ferrero",
+            "isBrandRelevant": true,
+            "satietyIdx": 25,
+            "keywords": [
+                "ferrero",
+                "rocher"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 75,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 600,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "388",
+            "name": "Mon Cherri",
+            "brand": "Ferrero",
+            "isBrandRelevant": true,
+            "satietyIdx": 25,
+            "keywords": [
+                "mon",
+                "cherri",
+                "bombons"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 47,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 455,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
