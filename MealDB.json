@@ -11150,6 +11150,7 @@
             "keywords": [
                 "risotto",
                 "abóbora",
+                "butternut",
                 "bacon",
                 "pumpkin"
             ],
@@ -11241,22 +11242,6 @@
                                     }
                                 },
                                 {
-                                    "id": "95",
-                                    "name": "Azeite",
-                                    "satietyIdx": 50,
-                                    "keywords": [
-                                        "azeites",
-                                        "olive",
-                                        "oil"
-                                    ],
-                                    "dose": {
-                                        "quantity": 10,
-                                        "unit": "spray",
-                                        "calsPerUnit": 0.1,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
                                     "id": "352",
                                     "name": "Abóbora Butternut",
                                     "brand": "Continente",
@@ -11311,21 +11296,6 @@
                                         "unit": "g",
                                         "calsPerUnit": 2.5,
                                         "stepSize": 1
-                                    }
-                                },
-                                {
-                                    "id": "128",
-                                    "name": "Sal",
-                                    "satietyIdx": 5,
-                                    "keywords": [
-                                        "sal",
-                                        "salt"
-                                    ],
-                                    "dose": {
-                                        "quantity": 0.5,
-                                        "unit": "cc",
-                                        "calsPerUnit": 0,
-                                        "stepSize": 0.5
                                     }
                                 },
                                 {
@@ -11396,22 +11366,6 @@
                                         "quantity": 30,
                                         "unit": "ml",
                                         "calsPerUnit": 1.3,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
-                                    "id": "353",
-                                    "name": "Ervilhas",
-                                    "satietyIdx": 150,
-                                    "keywords": [
-                                        "abóbora",
-                                        "butternut",
-                                        "squash"
-                                    ],
-                                    "dose": {
-                                        "quantity": 100,
-                                        "unit": "g",
-                                        "calsPerUnit": 0.81,
                                         "stepSize": 1
                                     }
                                 }
