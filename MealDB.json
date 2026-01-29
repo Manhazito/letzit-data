@@ -11172,7 +11172,7 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 15,
+                                        "quantity": 20,
                                         "unit": "g",
                                         "calsPerUnit": 4.02,
                                         "stepSize": 1
