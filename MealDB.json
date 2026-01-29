@@ -11179,21 +11179,6 @@
                                     }
                                 },
                                 {
-                                    "id": "163",
-                                    "name": "Água",
-                                    "satietyIdx": 55,
-                                    "keywords": [
-                                        "água",
-                                        "water"
-                                    ],
-                                    "dose": {
-                                        "quantity": 500,
-                                        "unit": "ml",
-                                        "calsPerUnit": 0,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
                                     "id": "112",
                                     "name": "Cebola",
                                     "satietyIdx": 100,
