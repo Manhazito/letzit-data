@@ -9344,6 +9344,28 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "390",
+            "name": "Sandes de Manteiga de Amendoim",
+            "satietyIdx": 130,
+            "keywords": [
+                "sandes",
+                "pão",
+                "manteiga",
+                "amendoim",
+                "sandwich",
+                "peanut",
+                "butter"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 217.65,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
