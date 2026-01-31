@@ -271,7 +271,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 100,
+                    "quantity": 140,
                     "unit": "g",
                     "calsPerUnit": 0.5,
                     "stepSize": 1
@@ -279,7 +279,7 @@
                 {
                     "quantity": 1,
                     "unit": "unit",
-                    "calsPerUnit": 50,
+                    "calsPerUnit": 70,
                     "stepSize": 0.5
                 }
             ]
@@ -296,7 +296,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 100,
+                    "quantity": 240,
                     "unit": "g",
                     "calsPerUnit": 0.5,
                     "stepSize": 1
@@ -304,7 +304,7 @@
                 {
                     "quantity": 1,
                     "unit": "unit",
-                    "calsPerUnit": 50,
+                    "calsPerUnit": 120,
                     "stepSize": 0.5
                 }
             ]
@@ -498,7 +498,7 @@
             ],
             "doses": [
                 {
-                    "quantity": 55,
+                    "quantity": 140,
                     "unit": "g",
                     "calsPerUnit": 0.89,
                     "stepSize": 1
@@ -506,7 +506,7 @@
                 {
                     "quantity": 0.5,
                     "unit": "unit",
-                    "calsPerUnit": 97.9,
+                    "calsPerUnit": 124.6,
                     "stepSize": 0.5
                 }
             ]
