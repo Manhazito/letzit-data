@@ -1584,9 +1584,9 @@
             ],
             "doses": [
                 {
-                    "quantity": 200,
-                    "unit": "ml",
-                    "calsPerUnit": 0.69,
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 400,
                     "stepSize": 1
                 }
             ]
@@ -1606,9 +1606,9 @@
             ],
             "doses": [
                 {
-                    "quantity": 175,
-                    "unit": "ml",
-                    "calsPerUnit": 0.18,
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 126,
                     "stepSize": 1
                 }
             ]
