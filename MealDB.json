@@ -11760,8 +11760,11 @@
                 "cogumelos",
                 "ricotta",
                 "cannelloni",
+                "cannellone",
                 "mushrooms",
-                "canelones"
+                "canelones",
+                "espinafres",
+                "spinach"
             ],
             "recipes": [
                 {
@@ -11875,7 +11878,7 @@
                                         "salt"
                                     ],
                                     "dose": {
-                                        "quantity": 1,
+                                        "quantity": 2,
                                         "unit": "cc",
                                         "calsPerUnit": 0,
                                         "stepSize": 0.5
@@ -11893,7 +11896,7 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 100,
+                                        "quantity": 125,
                                         "unit": "g",
                                         "calsPerUnit": 1.64,
                                         "stepSize": 1
@@ -12010,31 +12013,32 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 15,
+                                        "quantity": 20,
                                         "unit": "g",
                                         "calsPerUnit": 2.37,
                                         "stepSize": 1
                                     }
-                                },
-                                {
-                                    "id": "132",
-                                    "name": "Manjericão fresco",
-                                    "satietyIdx": 70,
-                                    "keywords": [
-                                        "manjericão",
-                                        "fresco",
-                                        "fresh",
-                                        "basil"
-                                    ],
-                                    "dose": {
-                                        "quantity": 2.5,
-                                        "unit": "g",
-                                        "calsPerUnit": 0.23,
-                                        "stepSize": 1
-                                    }
                                 }
                             ],
-                            "steps": []
+                            "steps": [
+                                "Coloque os cogumelos 5 metade do sal no copo. Pique [3 s | vel 5].",
+                                "Cozinhe [5 min | 120°C | reverse | vel 1].",
+                                "Reserve.",
+                                "Coloque os espinafres no copo. Pique [8 s | vel 6]. Repita, se necessário, até os espinafres ficarem todos picados",
+                                "Adicione a cebola, o alho, os regãos, o restante azeite, e o restante sal.",
+                                "Cozinhe [5 min | 90°C | vel 1].",
+                                "Adicione o ricota. Misture [6 s | reverse | vel 4].",
+                                "Reserve.",
+                                "Adicione ao copo os tomates, o caldo, e os cogumelos reservados.",
+                                "Misture [5 s | reverse | vel 3].",
+                                "Preaqueça o forno a 200ºC.",
+                                "Unte um pirex com um pouco de azeite.",
+                                "Preencha os cannelloni com a pasta de espinafres e coloque-os sobre o pirex.",
+                                "Despeje por cima a pasta de tomate e cogumelos. Deite o queijo mozzarella por cima.",
+                                "Cubra o pirex com papel de alumínio aluminio e coloque no forno.",
+                                "Cozinhe por 40 min.",
+                                "Retire o papel de alumínio e cozinhe até o queijo ficar dourado (cerca de 5 min)."
+                            ]
                         }
                     ]
                 }
