@@ -12013,7 +12013,7 @@
                                         "cheese"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 15,
                                         "unit": "g",
                                         "calsPerUnit": 2.37,
                                         "stepSize": 1
