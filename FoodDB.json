@@ -9366,6 +9366,29 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "391",
+            "name": "Amido de Milho",
+            "brand": "Maizena",
+            "isBrandRelevant": true,
+            "satietyIdx": 55,
+            "keywords": [
+                "farinha",
+                "amido",
+                "milho",
+                "maise",
+                "starch",
+                "flour"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 3.55,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
