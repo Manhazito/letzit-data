@@ -2907,7 +2907,7 @@
                                     "name": "Caldo de Vegetais (líquido)",
                                     "satietyIdx": 25,
                                     "dose": {
-                                        "quantity": 500,
+                                        "quantity": 350,
                                         "unit": "ml",
                                         "calsPerUnit": 0.035,
                                         "stepSize": 1
