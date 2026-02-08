@@ -13644,6 +13644,180 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "98",
+            "name": "Salada de Rabanete e Burrata",
+            "servings": 1,
+            "servingUnit": "unit",
+            "keywords": [
+                "pizza",
+                "piza",
+                "margherita"
+            ],
+            "recipes": [
+                {
+                    "id": "42.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "83",
+                                    "name": "Queijo Burrata",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "burrata",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.38,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "94",
+                                    "name": "Rabanete",
+                                    "satietyIdx": 175,
+                                    "keywords": [
+                                        "rabanetes",
+                                        "radishes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 80,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.15,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "261",
+                                    "name": "Sumo de limão",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "limão",
+                                        "limões",
+                                        "lemons",
+                                        "sumo",
+                                        "juice"
+                                    ],
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
