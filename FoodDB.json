@@ -9406,6 +9406,59 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "393",
+            "name": "Chocolate com amêndoas",
+            "brand": "Lindt",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "chocolates",
+                "amêndoas",
+                "lindt",
+                "almonds"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.54,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 18.47,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "393",
+            "name": "Chocolate de leite",
+            "brand": "Nestlé",
+            "isBrandRelevant": true,
+            "satietyIdx": 70,
+            "keywords": [
+                "chocolates",
+                "leite",
+                "milk"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 5.38,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 19.21,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
