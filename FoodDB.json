@@ -9459,6 +9459,26 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "394",
+            "name": "Proteína de Chocolate",
+            "brand": "V-Protein",
+            "isBrandRelevant": true,
+            "satietyIdx": 175,
+            "keywords": [
+                "chocolates",
+                "proteína",
+                "protein"
+            ],
+            "doses": [
+                {
+                    "quantity": 24,
+                    "unit": "g",
+                    "calsPerUnit": 3.92,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }

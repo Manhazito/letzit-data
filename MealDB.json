@@ -13658,7 +13658,7 @@
             ],
             "recipes": [
                 {
-                    "id": "42.1",
+                    "id": "98.1",
                     "type": "thermomix",
                     "parts": [
                         {
@@ -13810,6 +13810,79 @@
                                         "quantity": 1,
                                         "unit": "g",
                                         "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Batido de leite com proteína de chocolate",
+            "servings": 1,
+            "servingUnit": "unit",
+            "keywords": [
+                "chocolates",
+                "proteína",
+                "protein",
+                "leite",
+                "milk",
+                "batido",
+                "shake"
+            ],
+            "recipes": [
+                {
+                    "id": "99.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "394",
+                                    "name": "Proteína de Chocolate",
+                                    "brand": "V-Protein",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 175,
+                                    "keywords": [
+                                        "chocolates",
+                                        "proteína",
+                                        "protein"
+                                    ],
+                                    "dose": {
+                                        "quantity": 24,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.92,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "341",
+                                    "name": "Leite de Amêndoa (sem açúcar)",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 110,
+                                    "keywords": [
+                                        "leite",
+                                        "amêndoa",
+                                        "almond",
+                                        "milk",
+                                        "bebida",
+                                        "drink",
+                                        "sem",
+                                        "açúcar",
+                                        "magro",
+                                        "light",
+                                        "sugar",
+                                        "free"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.19,
                                         "stepSize": 1
                                     }
                                 }
