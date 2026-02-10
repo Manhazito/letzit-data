@@ -13890,6 +13890,140 @@
                             "steps": []
                         }
                     ]
+                },
+                {
+                    "id": "100",
+                    "name": "Pasta",
+                    "servings": 2,
+                    "servingUnit": "unit",
+                    "keywords": [
+                        "pasta",
+                        "massa",
+                        "base"
+                    ],
+                    "recipes": [
+                        {
+                            "id": "100.1",
+                            "type": "regular",
+                            "parts": [
+                                {
+                                    "ingredients": [
+                                        {
+                                            "id": "187",
+                                            "name": "Pasta",
+                                            "satietyIdx": 119,
+                                            "keywords": [
+                                                "pastas",
+                                                "massas",
+                                                "seca",
+                                                "dry"
+                                            ],
+                                            "dose": {
+                                                "quantity": 100,
+                                                "unit": "g",
+                                                "calsPerUnit": 3.59,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "112",
+                                            "name": "Cebola",
+                                            "satietyIdx": 100,
+                                            "keywords": [
+                                                "cebola",
+                                                "onion"
+                                            ],
+                                            "dose": {
+                                                "quantity": 50,
+                                                "unit": "g",
+                                                "calsPerUnit": 0.4,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "100",
+                                            "name": "Alho (dente)",
+                                            "satietyIdx": 90,
+                                            "keywords": [
+                                                "dente",
+                                                "alhos",
+                                                "garlic",
+                                                "cloves"
+                                            ],
+                                            "dose": {
+                                                "quantity": 2,
+                                                "unit": "unit",
+                                                "calsPerUnit": 5,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "95",
+                                            "name": "Azeite",
+                                            "satietyIdx": 50,
+                                            "keywords": [
+                                                "azeites",
+                                                "olive",
+                                                "oil"
+                                            ],
+                                            "dose": {
+                                                "quantity": 1,
+                                                "unit": "cs",
+                                                "calsPerUnit": 126,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "78",
+                                            "name": "Natas Culinária",
+                                            "brand": "Alpro",
+                                            "isBrandRelevant": false,
+                                            "satietyIdx": 50,
+                                            "dose": {
+                                                "quantity": 5,
+                                                "unit": "cube",
+                                                "calsPerUnit": 36.6,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "128",
+                                            "name": "Sal",
+                                            "satietyIdx": 5,
+                                            "keywords": [
+                                                "sal",
+                                                "salt"
+                                            ],
+                                            "dose": {
+                                                "quantity": 2,
+                                                "unit": "cc",
+                                                "calsPerUnit": 0,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "127",
+                                            "name": "Pimenta preta",
+                                            "satietyIdx": 40,
+                                            "keywords": [
+                                                "pimenta",
+                                                "preta",
+                                                "black",
+                                                "pepper"
+                                            ],
+                                            "dose": {
+                                                "quantity": 1,
+                                                "unit": "g",
+                                                "calsPerUnit": 2.5,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ],
+                                    "steps": []
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
