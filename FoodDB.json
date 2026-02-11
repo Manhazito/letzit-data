@@ -9479,6 +9479,28 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "395",
+            "name": "Tofu Marinho",
+            "brand": "Shambhala",
+            "isBrandRelevant": false,
+            "satietyIdx": 115,
+            "keywords": [
+                "tofus",
+                "algas",
+                "nigari",
+                "aramé",
+                "wakamé"
+            ],
+            "doses": [
+                {
+                    "quantity": 250,
+                    "unit": "g",
+                    "calsPerUnit": 1.09,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }

@@ -14024,6 +14024,133 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": "101",
+                    "name": "Cubos de Tofu Crocantes",
+                    "servings": 2,
+                    "servingUnit": "unit",
+                    "keywords": [
+                        "tofu",
+                        "assado",
+                        "grelhado",
+                        "crocante",
+                        "baked",
+                        "toasted",
+                        "crunchy"
+                    ],
+                    "recipes": [
+                        {
+                            "id": "100.1",
+                            "type": "regular",
+                            "parts": [
+                                {
+                                    "ingredients": [
+                                        {
+                                            "id": "35",
+                                            "name": "Tofu",
+                                            "brand": "Shambhala",
+                                            "isBrandRelevant": false,
+                                            "satietyIdx": 115,
+                                            "keywords": [
+                                                "tofus"
+                                            ],
+                                            "dose": {
+                                                "quantity": 250,
+                                                "unit": "g",
+                                                "calsPerUnit": 1.34,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "95",
+                                            "name": "Azeite",
+                                            "satietyIdx": 50,
+                                            "keywords": [
+                                                "azeites",
+                                                "olive",
+                                                "oil"
+                                            ],
+                                            "dose": {
+                                                "quantity": 10,
+                                                "unit": "g",
+                                                "calsPerUnit": 9,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "191",
+                                            "name": "Molho de Soja",
+                                            "satietyIdx": 50,
+                                            "keywords": [
+                                                "molho",
+                                                "soja",
+                                                "soy",
+                                                "sauce"
+                                            ],
+                                            "dose": {
+                                                "quantity": 10,
+                                                "unit": "g",
+                                                "calsPerUnit": 1.1,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "391",
+                                            "name": "Amido de Milho",
+                                            "brand": "Maizena",
+                                            "isBrandRelevant": true,
+                                            "satietyIdx": 55,
+                                            "keywords": [
+                                                "farinha",
+                                                "amido",
+                                                "milho",
+                                                "maise",
+                                                "starch",
+                                                "flour"
+                                            ],
+                                            "dose": {
+                                                "quantity": 2,
+                                                "unit": "g",
+                                                "calsPerUnit": 3.55,
+                                                "stepSize": 1
+                                            }
+                                        },
+                                        {
+                                            "id": "192",
+                                            "name": "Pimentão Picante",
+                                            "satietyIdx": 85,
+                                            "keywords": [
+                                                "pimentão",
+                                                "picante",
+                                                "hot",
+                                                "paprika",
+                                                "chilli"
+                                            ],
+                                            "dose": {
+                                                "quantity": 2,
+                                                "unit": "g",
+                                                "calsPerUnit": 3.2,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ],
+                                    "steps": [
+                                        "Pressione o tofu durante 30 min para remover a maior parte da água.",
+                                        "Preaqueça o forno a 200ºC.",
+                                        "Seque o tofu com papel de cozinha.",
+                                        "Parta o tofu em cubos pequenos.",
+                                        "Misture numa taça grande o azeite, o molho de soja, o pimentao picante, e o amido de milho.",
+                                        "Misture os cubos de tofu na taça o misture bem, mas gentilmente.",
+                                        "Coloque sobre o tabuleiro papel vegetal, e disponha os cubos por cima, bem separados.",
+                                        "Cozinhe durante 15 min.",
+                                        "Retire o tabuleiro do forno e vire os cubos.",
+                                        "Cozinhe por mais 10 min."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
