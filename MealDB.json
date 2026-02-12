@@ -14254,6 +14254,13 @@
                                         "stepSize": 1
                                     }
                                 }
+                            ],
+                            "steps": [
+                                "Salteie os cogumelos até ficarem dourados e sem humidade. Não encha demasiado a frigideira. Reserve.",
+                                "Adicione o alho ao copo da Thermomix. Pique [5 seg | vel 5].",
+                                "Raspe as laterais do copo, depois adicione o óleo de sésamo. Refogue [3 min | 120°C | vel 1].",
+                                "Adicione todos os outros ingredientes do caldo. Misture [5 seg | reverse | vel 3].",
+                                "Cozinhe [15 min | 100°C | reverse | vel 1]."
                             ]
                         },
                         {
@@ -14342,7 +14349,16 @@
                                     }
                                 }
                             ],
-                            "steps": []
+                            "steps": [
+                                "Coloque o cesto de cozedura da Thermomix no interior. Adicione o ovo.",
+                                "Cozinhe [10 min | 100°C | vel 1].",
+                                "Retire o ovo, coloque-o em água fria, depois descasque e corte-o ao meio.",
+                                "Coza os noodles de ramen conforme instruções da embalagem.",
+                                "Enquanto cozinha, corte a cenoura e o cebolinho em juliana.",
+                                "Divida os noodles pelas taças.",
+                                "Deite o caldo quente sobre os noodles.",
+                                "Finalize com o ovo cortado ao meio, a cenoura, o cebolinho, e os espinafres."
+                            ]
                         }
                     ]
                 }
