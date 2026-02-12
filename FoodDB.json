@@ -9580,6 +9580,27 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "366",
+            "name": "Farinha de Trigo integral",
+            "satietyIdx": 55,
+            "keywords": [
+                "farinha",
+                "trigo",
+                "wheat",
+                "flour",
+                "integral",
+                "wholemeal"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 3.64,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }

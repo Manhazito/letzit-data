@@ -14524,6 +14524,163 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "105",
+            "name": "Pão se Sementes",
+            "servings": 15,
+            "servingUnit": "slice",
+            "keywords": [
+                "pão",
+                "bread",
+                "sementes",
+                "seeds",
+                "multiseeds"
+            ],
+            "recipes": [
+                {
+                    "id": "105.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "42",
+                                    "name": "Farinha de Trigo tipo 65",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "wheat",
+                                        "flour",
+                                        "65"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "366",
+                                    "name": "Farinha de Trigo integral",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "wheat",
+                                        "flour",
+                                        "integral",
+                                        "wholemeal"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cs",
+                                        "calsPerUnit": 126,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 300,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "103",
+                                    "name": "Fermento de Padeiro seco instantâneo",
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "fermento",
+                                        "padeiro",
+                                        "seco",
+                                        "instantâneos",
+                                        "dry",
+                                        "yeast"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.25,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 6,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "367",
+                                    "name": "Mistura de Sementes",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 120,
+                                    "keywords": [
+                                        "sementes",
+                                        "mistura",
+                                        "mix",
+                                        "seeds"
+                                    ],
+                                    "dose": {
+                                        "quantity": 40,
+                                        "unit": "g",
+                                        "calsPerUnit": 6.20,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Unte com azeite e polvilhe com farinha uma forma de bolo inglês",
+                                "Coloque no copo a água e o fermento.",
+                                "Misture [1 min | 37°C | vel 1].",
+                                "Adicione os restantes ingredientes.",
+                                "Amasse [1 min].",
+                                "Deite na forma e deixe levedar cerca de 30 minutos.",
+                                "Preaqueça o forno a 200°C durante 20 minutos.",
+                                "Leve a forma ao forno durante cerca de 45 minutos.",
+                                "Retire cuidadosamente o pão da forma e deixe arrefecer sobre uma rede antes de servir."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
