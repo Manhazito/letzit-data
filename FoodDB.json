@@ -1873,7 +1873,7 @@
         },
         {
             "id": "80",
-            "name": "Queijo Mozzarella (magro)",
+            "name": "Queijo Mozzarella ralado (magro)",
             "brand": "Continente",
             "isBrandRelevant": false,
             "satietyIdx": 120,
@@ -8723,7 +8723,7 @@
                 {
                     "quantity": 125,
                     "unit": "g",
-                    "calsPerUnit": 2.95,
+                    "calsPerUnit": 2.248,
                     "stepSize": 1
                 }
             ]
@@ -9469,7 +9469,8 @@
             "keywords": [
                 "chocolates",
                 "proteína",
-                "protein"
+                "protein",
+                "prota"
             ],
             "doses": [
                 {
@@ -9513,9 +9514,29 @@
             ],
             "doses": [
                 {
-                    "quantity": 20,
+                    "quantity": 15,
                     "unit": "g",
                     "calsPerUnit": 6.63,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "363",
+            "name": "Queijo Mozzarella ralado",
+            "brand": "Continente",
+            "isBrandRelevant": false,
+            "satietyIdx": 120,
+            "keywords": [
+                "queijo",
+                "mozzarella",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 2.95,
                     "stepSize": 1
                 }
             ]

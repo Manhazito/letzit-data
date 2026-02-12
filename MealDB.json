@@ -2195,7 +2195,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella (magro)",
+                                    "name": "Queijo Mozzarella ralado (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -4051,7 +4051,8 @@
             "keywords": [
                 "pizza",
                 "piza",
-                "margherita"
+                "margherita",
+                "margerita"
             ],
             "recipes": [
                 {
@@ -4096,7 +4097,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella (magro)",
+                                    "name": "Queijo Mozzarella ralado (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -4110,7 +4111,27 @@
                                         "unit": "g",
                                         "calsPerUnit": 2.37,
                                         "stepSize": 1
-                                    }
+                                    },
+                                    "alternatives": [
+                                        {
+                                            "id": "363",
+                                            "name": "Queijo Mozzarella ralado",
+                                            "brand": "Continente",
+                                            "isBrandRelevant": false,
+                                            "satietyIdx": 120,
+                                            "keywords": [
+                                                "queijo",
+                                                "mozzarella",
+                                                "cheese"
+                                            ],
+                                            "dose": {
+                                                "quantity": 100,
+                                                "unit": "g",
+                                                "calsPerUnit": 2.95,
+                                                "stepSize": 1
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "id": "132",
@@ -4372,7 +4393,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella (magro)",
+                                    "name": "Queijo Mozzarella ralado (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -9772,7 +9793,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella (magro)",
+                                    "name": "Queijo Mozzarella ralado (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 60,
@@ -12001,7 +12022,7 @@
                                 },
                                 {
                                     "id": "80",
-                                    "name": "Queijo Mozzarella (magro)",
+                                    "name": "Queijo Mozzarella ralado (magro)",
                                     "brand": "Continente",
                                     "isBrandRelevant": false,
                                     "satietyIdx": 120,
@@ -14397,6 +14418,107 @@
                                 "Divida os noodles pelas taças.",
                                 "Deite o caldo quente sobre os noodles.",
                                 "Finalize com o ovo cortado ao meio, a cenoura, o cebolinho, e os espinafres."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "103",
+            "name": "Pizza Margherita",
+            "servings": 8,
+            "servingUnit": "slice",
+            "keywords": [
+                "pizza",
+                "piza",
+                "margherita",
+                "margerita"
+            ],
+            "recipes": [
+                {
+                    "id": "103.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "304",
+                                    "name": "Massa de Pizza",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "pizza",
+                                        "piza",
+                                        "massa",
+                                        "dough"
+                                    ],
+                                    "dose": {
+                                        "quantity": 8,
+                                        "unit": "slice",
+                                        "calsPerUnit": 76.92,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "305",
+                                    "name": "Molho de Tomate",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "tomatoes",
+                                        "sauce",
+                                        "molho",
+                                        "tomate"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.24,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "363",
+                                    "name": "Queijo Mozzarella",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 120,
+                                    "keywords": [
+                                        "queijo",
+                                        "mozzarella",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 125,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.248,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "132",
+                                    "name": "Manjericão fresco",
+                                    "satietyIdx": 70,
+                                    "keywords": [
+                                        "manjericão",
+                                        "fresco",
+                                        "fresh",
+                                        "basil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2.5,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.23,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Pré-aqueça o forno a 250°C, com a pedra para pizza ou um tabuleiro de forno no interior;",
+                                "Divida a massa em duas bolas, e estenda uma sobre uma superfície enfarinhada até formar um círculo fino;",
+                                "Espalhe uma camada fina de molho de tomate sobre a massa, deixando uma pequena borda;",
+                                "Rasgue a mozzarella em pedaços, e distribua-os sobre a pizza;",
+                                "Transfira a pizza para a pedra ou tabuleiro já quentes, e leve ao forno durante 7–10 minutos, ou até a base ficar dourada, e o queijo borbulhante;",
+                                "Finalize com folhas de manjericão fresco, e sirva de imediato."
                             ]
                         }
                     ]
