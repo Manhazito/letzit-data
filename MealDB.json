@@ -14197,7 +14197,7 @@
                                         "raw"
                                     ],
                                     "dose": {
-                                        "quantity": 90,
+                                        "quantity": 100,
                                         "unit": "g",
                                         "calsPerUnit": 0.22,
                                         "stepSize": 1
@@ -14248,7 +14248,7 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 6,
+                                        "quantity": 5,
                                         "unit": "g",
                                         "calsPerUnit": 9,
                                         "stepSize": 1
@@ -14266,9 +14266,25 @@
                                         "white"
                                     ],
                                     "dose": {
-                                        "quantity": 15,
+                                        "quantity": 30,
                                         "unit": "g",
                                         "calsPerUnit": 1.61,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "396",
+                                    "name": "Tahini",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "tahini"
+                                    ],
+                                    "dose": {
+                                        "quantity": 15,
+                                        "unit": "g",
+                                        "calsPerUnit": 6.63,
                                         "stepSize": 1
                                     }
                                 }
@@ -14279,10 +14295,10 @@
                                 "Pique [5 seg | vel 5].",
                                 "Raspe as laterais do copo, depois adicione o óleo de sésamo.",
                                 "Refogue [3 min | 120°C | vel 1].",
-                                "Adicione todos os outros ingredientes do caldo excepto o miso.",
-                                "Misture [5 seg | reverse | vel 3].",
+                                "Adicione a água.",
                                 "Cozinhe [15 min | 100°C | reverse | vel 1].",
-                                "Retire um pouco de caldo para uma tijela e dilua lá o miso. Misture co copo.",
+                                "Retire um pouco de caldo para uma tijela e dilua lá todos os outros ingredientes do caldo.",
+                                "Volte a colocar no copo da Thermomix.",
                                 "Misture [5 seg | reverse | vel 3]."
                             ]
                         },

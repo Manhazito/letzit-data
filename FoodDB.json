@@ -9501,6 +9501,24 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "396",
+            "name": "Tahini",
+            "brand": "Continente",
+            "isBrandRelevant": false,
+            "satietyIdx": 50,
+            "keywords": [
+                "tahini"
+            ],
+            "doses": [
+                {
+                    "quantity": 20,
+                    "unit": "g",
+                    "calsPerUnit": 6.63,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
