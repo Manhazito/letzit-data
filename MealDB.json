@@ -10917,7 +10917,7 @@
         },
         {
             "id": "85",
-            "name": "Esparguete com Vuna",
+            "name": "Pasta com Vuna",
             "servings": 2,
             "servingUnit": "unit",
             "keywords": [
@@ -10935,14 +10935,12 @@
                         {
                             "ingredients": [
                                 {
-                                    "id": "242",
-                                    "name": "Esparguete",
+                                    "id": "187",
+                                    "name": "Pasta",
                                     "satietyIdx": 119,
                                     "keywords": [
                                         "pastas",
                                         "massas",
-                                        "esparguete",
-                                        "spaghetti",
                                         "seca",
                                         "dry"
                                     ],
@@ -13890,265 +13888,461 @@
                             "steps": []
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Pasta",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "base"
+            ],
+            "recipes": [
                 {
-                    "id": "100",
-                    "name": "Pasta",
-                    "servings": 2,
-                    "servingUnit": "unit",
-                    "keywords": [
-                        "pasta",
-                        "massa",
-                        "base"
-                    ],
-                    "recipes": [
+                    "id": "100.1",
+                    "type": "regular",
+                    "parts": [
                         {
-                            "id": "100.1",
-                            "type": "regular",
-                            "parts": [
+                            "ingredients": [
                                 {
-                                    "ingredients": [
-                                        {
-                                            "id": "187",
-                                            "name": "Pasta",
-                                            "satietyIdx": 119,
-                                            "keywords": [
-                                                "pastas",
-                                                "massas",
-                                                "seca",
-                                                "dry"
-                                            ],
-                                            "dose": {
-                                                "quantity": 100,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.59,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "112",
-                                            "name": "Cebola",
-                                            "satietyIdx": 100,
-                                            "keywords": [
-                                                "cebola",
-                                                "onion"
-                                            ],
-                                            "dose": {
-                                                "quantity": 50,
-                                                "unit": "g",
-                                                "calsPerUnit": 0.4,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "100",
-                                            "name": "Alho (dente)",
-                                            "satietyIdx": 90,
-                                            "keywords": [
-                                                "dente",
-                                                "alhos",
-                                                "garlic",
-                                                "cloves"
-                                            ],
-                                            "dose": {
-                                                "quantity": 2,
-                                                "unit": "unit",
-                                                "calsPerUnit": 5,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "95",
-                                            "name": "Azeite",
-                                            "satietyIdx": 50,
-                                            "keywords": [
-                                                "azeites",
-                                                "olive",
-                                                "oil"
-                                            ],
-                                            "dose": {
-                                                "quantity": 1,
-                                                "unit": "cs",
-                                                "calsPerUnit": 126,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "78",
-                                            "name": "Natas Culinária",
-                                            "brand": "Alpro",
-                                            "isBrandRelevant": false,
-                                            "satietyIdx": 50,
-                                            "dose": {
-                                                "quantity": 5,
-                                                "unit": "cube",
-                                                "calsPerUnit": 36.6,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "128",
-                                            "name": "Sal",
-                                            "satietyIdx": 5,
-                                            "keywords": [
-                                                "sal",
-                                                "salt"
-                                            ],
-                                            "dose": {
-                                                "quantity": 2,
-                                                "unit": "cc",
-                                                "calsPerUnit": 0,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "127",
-                                            "name": "Pimenta preta",
-                                            "satietyIdx": 40,
-                                            "keywords": [
-                                                "pimenta",
-                                                "preta",
-                                                "black",
-                                                "pepper"
-                                            ],
-                                            "dose": {
-                                                "quantity": 1,
-                                                "unit": "g",
-                                                "calsPerUnit": 2.5,
-                                                "stepSize": 1
-                                            }
-                                        }
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry"
                                     ],
-                                    "steps": []
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 126,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "78",
+                                    "name": "Natas Culinária",
+                                    "brand": "Alpro",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 50,
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "cube",
+                                        "calsPerUnit": 36.6,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
                                 }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "name": "Cubos de Tofu Crocantes",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "tofu",
+                "assado",
+                "grelhado",
+                "crocante",
+                "baked",
+                "toasted",
+                "crunchy"
+            ],
+            "recipes": [
+                {
+                    "id": "101.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "35",
+                                    "name": "Tofu",
+                                    "brand": "Shambhala",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 115,
+                                    "keywords": [
+                                        "tofus"
+                                    ],
+                                    "dose": {
+                                        "quantity": 250,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.34,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "191",
+                                    "name": "Molho de Soja",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "molho",
+                                        "soja",
+                                        "soy",
+                                        "sauce"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.1,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "391",
+                                    "name": "Amido de Milho",
+                                    "brand": "Maizena",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "amido",
+                                        "milho",
+                                        "maise",
+                                        "starch",
+                                        "flour"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.55,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "192",
+                                    "name": "Pimentão Picante",
+                                    "satietyIdx": 85,
+                                    "keywords": [
+                                        "pimentão",
+                                        "picante",
+                                        "hot",
+                                        "paprika",
+                                        "chilli"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.2,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Pressione o tofu durante 30 min para remover a maior parte da água.",
+                                "Preaqueça o forno a 200ºC.",
+                                "Seque o tofu com papel de cozinha.",
+                                "Parta o tofu em cubos pequenos.",
+                                "Misture numa taça grande o azeite, o molho de soja, o pimentao picante, e o amido de milho.",
+                                "Misture os cubos de tofu na taça o misture bem, mas gentilmente.",
+                                "Coloque sobre o tabuleiro papel vegetal, e disponha os cubos por cima, bem separados.",
+                                "Cozinhe durante 15 min.",
+                                "Retire o tabuleiro do forno e vire os cubos.",
+                                "Cozinhe por mais 10 min."
                             ]
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "name": "Ramen",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "ramen",
+                "noodles",
+                "base"
+            ],
+            "recipes": [
                 {
-                    "id": "101",
-                    "name": "Cubos de Tofu Crocantes",
-                    "servings": 2,
-                    "servingUnit": "unit",
-                    "keywords": [
-                        "tofu",
-                        "assado",
-                        "grelhado",
-                        "crocante",
-                        "baked",
-                        "toasted",
-                        "crunchy"
-                    ],
-                    "recipes": [
+                    "id": "102.1",
+                    "type": "thermomix",
+                    "parts": [
                         {
-                            "id": "100.1",
-                            "type": "regular",
-                            "parts": [
+                            "title": "Broth",
+                            "ingredients": [
                                 {
-                                    "ingredients": [
-                                        {
-                                            "id": "35",
-                                            "name": "Tofu",
-                                            "brand": "Shambhala",
-                                            "isBrandRelevant": false,
-                                            "satietyIdx": 115,
-                                            "keywords": [
-                                                "tofus"
-                                            ],
-                                            "dose": {
-                                                "quantity": 250,
-                                                "unit": "g",
-                                                "calsPerUnit": 1.34,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "95",
-                                            "name": "Azeite",
-                                            "satietyIdx": 50,
-                                            "keywords": [
-                                                "azeites",
-                                                "olive",
-                                                "oil"
-                                            ],
-                                            "dose": {
-                                                "quantity": 10,
-                                                "unit": "g",
-                                                "calsPerUnit": 9,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "191",
-                                            "name": "Molho de Soja",
-                                            "satietyIdx": 50,
-                                            "keywords": [
-                                                "molho",
-                                                "soja",
-                                                "soy",
-                                                "sauce"
-                                            ],
-                                            "dose": {
-                                                "quantity": 10,
-                                                "unit": "g",
-                                                "calsPerUnit": 1.1,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "391",
-                                            "name": "Amido de Milho",
-                                            "brand": "Maizena",
-                                            "isBrandRelevant": true,
-                                            "satietyIdx": 55,
-                                            "keywords": [
-                                                "farinha",
-                                                "amido",
-                                                "milho",
-                                                "maise",
-                                                "starch",
-                                                "flour"
-                                            ],
-                                            "dose": {
-                                                "quantity": 2,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.55,
-                                                "stepSize": 1
-                                            }
-                                        },
-                                        {
-                                            "id": "192",
-                                            "name": "Pimentão Picante",
-                                            "satietyIdx": 85,
-                                            "keywords": [
-                                                "pimentão",
-                                                "picante",
-                                                "hot",
-                                                "paprika",
-                                                "chilli"
-                                            ],
-                                            "dose": {
-                                                "quantity": 2,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.2,
-                                                "stepSize": 1
-                                            }
-                                        }
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
                                     ],
-                                    "steps": [
-                                        "Pressione o tofu durante 30 min para remover a maior parte da água.",
-                                        "Preaqueça o forno a 200ºC.",
-                                        "Seque o tofu com papel de cozinha.",
-                                        "Parta o tofu em cubos pequenos.",
-                                        "Misture numa taça grande o azeite, o molho de soja, o pimentao picante, e o amido de milho.",
-                                        "Misture os cubos de tofu na taça o misture bem, mas gentilmente.",
-                                        "Coloque sobre o tabuleiro papel vegetal, e disponha os cubos por cima, bem separados.",
-                                        "Cozinhe durante 15 min.",
-                                        "Retire o tabuleiro do forno e vire os cubos.",
-                                        "Cozinhe por mais 10 min."
-                                    ]
+                                    "dose": {
+                                        "quantity": 700,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "248",
+                                    "name": "Cogumelo Portobello",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "portobello",
+                                        "mushrooms",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 90,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "191",
+                                    "name": "Molho de Soja",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "molho",
+                                        "soja",
+                                        "soy",
+                                        "sauce"
+                                    ],
+                                    "dose": {
+                                        "quantity": 20,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.1,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "250",
+                                    "name": "Óleo de Sésamo",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "oleo",
+                                        "sesamo",
+                                        "sesame",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 6,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
                                 }
                             ]
+                        },
+                        {
+                            "title": "Topping & Noodles",
+                            "ingredients": [
+                                {
+                                    "id": "196",
+                                    "name": "Noodles",
+                                    "satietyIdx": 120,
+                                    "brand": "Milaneza",
+                                    "isBrandRelevant": true,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry",
+                                        "noodles"
+                                    ],
+                                    "dose": {
+                                        "quantity": 75,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "91",
+                                    "name": "Ovo",
+                                    "satietyIdx": 150,
+                                    "keywords": [
+                                        "ovos",
+                                        "eggs",
+                                        "cozidos",
+                                        "boiled"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 80,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "138",
+                                    "name": "Cenoura",
+                                    "satietyIdx": 142,
+                                    "keywords": [
+                                        "cenouras",
+                                        "carrots"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "unit",
+                                        "calsPerUnit": 32.8,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "281",
+                                    "name": "Cebolinho",
+                                    "satietyIdx": 95,
+                                    "keywords": [
+                                        "cebolinho",
+                                        "chives"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "249",
+                                    "name": "Espinafres",
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "espinafres",
+                                        "spinach"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
                         }
                     ]
                 }
