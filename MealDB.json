@@ -14231,7 +14231,7 @@
                                         "sauce"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 5,
                                         "unit": "g",
                                         "calsPerUnit": 1.1,
                                         "stepSize": 1
@@ -14251,6 +14251,24 @@
                                         "quantity": 6,
                                         "unit": "g",
                                         "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "221",
+                                    "name": "Miso Branco",
+                                    "satietyIdx": 100,
+                                    "brand": "PRÓVida",
+                                    "isBrandRelevant": false,
+                                    "keywords": [
+                                        "miso",
+                                        "branco",
+                                        "white"
+                                    ],
+                                    "dose": {
+                                        "quantity": 15,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.61,
                                         "stepSize": 1
                                     }
                                 }
