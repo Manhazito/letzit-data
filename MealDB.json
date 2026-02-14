@@ -14372,10 +14372,10 @@
                                         "carrots"
                                     ],
                                     "dose": {
-                                        "quantity": 0.5,
-                                        "unit": "unit",
-                                        "calsPerUnit": 32.8,
-                                        "stepSize": 0.5
+                                        "quantity": 40,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.41,
+                                        "stepSize": 1
                                     }
                                 },
                                 {

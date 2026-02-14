@@ -9601,6 +9601,27 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "367",
+            "name": "Mistura de Sementes",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "sementes",
+                "mistura",
+                "mix",
+                "seeds"
+            ],
+            "doses": [
+                {
+                    "quantity": 40,
+                    "unit": "g",
+                    "calsPerUnit": 6.20,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
