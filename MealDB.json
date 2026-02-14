@@ -14340,7 +14340,7 @@
                                         "noodles"
                                     ],
                                     "dose": {
-                                        "quantity": 75,
+                                        "quantity": 65,
                                         "unit": "g",
                                         "calsPerUnit": 3.64,
                                         "stepSize": 1
