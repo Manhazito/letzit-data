@@ -14303,9 +14303,24 @@
                                         "tahini"
                                     ],
                                     "dose": {
-                                        "quantity": 15,
+                                        "quantity": 10,
                                         "unit": "g",
                                         "calsPerUnit": 6.63,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
                                         "stepSize": 1
                                     }
                                 }
@@ -14316,7 +14331,7 @@
                                 "Pique [5 seg | vel 5].",
                                 "Raspe as laterais do copo, depois adicione o óleo de sésamo.",
                                 "Refogue [3 min | 120°C | vel 1].",
-                                "Adicione a água.",
+                                "Adicione a água, o sal, e os cogumelos.",
                                 "Cozinhe [15 min | 100°C | reverse | vel 1].",
                                 "Retire um pouco de caldo para uma tijela e dilua lá todos os outros ingredientes do caldo.",
                                 "Volte a colocar no copo da Thermomix.",
@@ -14411,9 +14426,9 @@
                             ],
                             "steps": [
                                 "Coloque o cesto de cozedura da Thermomix no interior. Adicione o ovo.",
-                                "Cozinhe [10 min | 100°C | vel 1].",
+                                "Cozinhe [13 min | 100°C | vel 1].",
                                 "Retire o ovo, coloque-o em água fria, depois descasque e corte-o ao meio.",
-                                "Coza os noodles de ramen conforme instruções da embalagem.",
+                                "Coza os noodles de ramen em água fervente, com sal, durante 5 min.",
                                 "Enquanto cozinha, corte a cenoura e o cebolinho em juliana.",
                                 "Divida os noodles pelas taças.",
                                 "Deite o caldo quente sobre os noodles.",
