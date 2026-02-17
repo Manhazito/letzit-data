@@ -13263,7 +13263,7 @@
         },
         {
             "id": "96",
-            "name": "One Pot Pasta",
+            "name": "Coconut One Pot Pasta",
             "servings": 2,
             "servingUnit": "unit",
             "keywords": [
@@ -14691,6 +14691,181 @@
                                 "Preaqueça o forno a 200°C durante 20 minutos.",
                                 "Leve a forma ao forno durante cerca de 45 minutos.",
                                 "Retire cuidadosamente o pão da forma e deixe arrefecer sobre uma rede antes de servir."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "106",
+            "name": "Tomato One Pot Pasta",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pasta",
+                "massa",
+                "esparguete",
+                "tagliatelle",
+                "tagliatelle"
+            ],
+            "recipes": [
+                {
+                    "id": "106.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom",
+                                        "cru",
+                                        "raw"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 200,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.25,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Queijo Parmesão",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "queijo",
+                                        "parmesão",
+                                        "parmigiano",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 15,
+                                        "unit": "g",
+                                        "calsPerUnit": 4.02,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "180",
+                                    "name": "Caldo de Vegetais (líquido)",
+                                    "satietyIdx": 25,
+                                    "keywords": [
+                                        "caldo",
+                                        "vegetal",
+                                        "vegetais",
+                                        "vegetable",
+                                        "stock",
+                                        "líquido",
+                                        "liquid",
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 300,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0.035,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "249",
+                                    "name": "Espinafres",
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "espinafres",
+                                        "spinach"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "104",
+                                    "name": "Azeitona pequena",
+                                    "brand": "Continente",
+                                    "satietyIdx": 65,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "azeitonas",
+                                        "olives"
+                                    ],
+                                    "dose": {
+                                        "quantity": 12,
+                                        "unit": "unit",
+                                        "calsPerUnit": 3.73,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Adicione todos os ingredientes num tacho, excepto as azeitonas e o queijo.",
+                                "Deixe levantar fervura.",
+                                "Cozinhe em lume brando durante 10 min.",
+                                "Cubra com o queijo e com as azeitonas."
                             ]
                         }
                     ]
