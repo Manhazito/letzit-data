@@ -6665,7 +6665,7 @@
             "id": "278",
             "name": "Leite de Côco",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 90,
             "keywords": [
                 "leites",
@@ -9619,6 +9619,27 @@
                     "quantity": 40,
                     "unit": "g",
                     "calsPerUnit": 6.20,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "368",
+            "name": "Leite de Côco (light)",
+            "brand": "Freshona",
+            "isBrandRelevant": true,
+            "satietyIdx": 90,
+            "keywords": [
+                "leites",
+                "côco",
+                "coconuts",
+                "milks"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 1.28,
                     "stepSize": 1
                 }
             ]
