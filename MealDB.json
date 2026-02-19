@@ -15051,6 +15051,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "108",
+            "name": "Arroz Basmati",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "arroz",
+                "rice",
+                "basmati"
+            ],
+            "recipes": [
+                {
+                    "id": "108.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 500,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "275",
+                                    "name": "Arroz basmati",
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "arroz",
+                                        "basmati",
+                                        "rice"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.57,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque no copo 500 ml de água, 1 c. de chá de sal, e o cesto com o arroz. Cozinhe a vapor [20 min | vel 4]."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
