@@ -14093,7 +14093,7 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 10,
+                                        "quantity": 4,
                                         "unit": "g",
                                         "calsPerUnit": 9,
                                         "stepSize": 1
