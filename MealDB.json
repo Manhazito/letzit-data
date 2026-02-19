@@ -14871,6 +14871,186 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "107",
+            "name": "Caril",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "caril",
+                "curry",
+                "base"
+            ],
+            "recipes": [
+                {
+                    "id": "107.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 500,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 5.75,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 40,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate triturado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "picados",
+                                        "triturados",
+                                        "chopped",
+                                        "tomatoes",
+                                        "crushed"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cube",
+                                        "calsPerUnit": 3,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "277",
+                                    "name": "Caril",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "caril",
+                                        "curry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "cs",
+                                        "calsPerUnit": 20.58,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "278",
+                                    "name": "Leite de Côco",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "caril",
+                                        "curry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 125,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.7,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "265",
+                                    "name": "Mel",
+                                    "satietyIdx": 80,
+                                    "keywords": [
+                                        "mel",
+                                        "honey"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.04,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque no copo a cebola, o alho, o tomate e o azeite, pique [3 seg | vel 5] e refogue [3 min | 120°C | vel 1].",
+                                "Adicione o caril, o leite de coco, o mel, 1 c. de chá de sal e 1-2 pitadas de pimenta e cozinhe [10 min | 95°C | reverse | vel 1]."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
