@@ -15236,6 +15236,23 @@
                                     }
                                 },
                                 {
+                                    "id": "11",
+                                    "name": "Maçã",
+                                    "satietyIdx": 197,
+                                    "keywords": [
+                                        "fruta",
+                                        "fruit",
+                                        "maçãs",
+                                        "apples"
+                                    ],
+                                    "dose": {
+                                        "quantity": 140,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
                                     "id": "322",
                                     "name": "Caldo de Vegetais (cubos)",
                                     "satietyIdx": 2.5,
@@ -15275,7 +15292,19 @@
                                     }
                                 }
                             ],
-                            "steps": []
+                            "steps": [
+                                "Coloque no copo a cebola e o alho.",
+                                "Pique [4 seg | vel 5].",
+                                "Baixe com a ajuda da espátula o que ficou na parede do copo.",
+                                "Salteie [3 min | 120°C | vel 1].",
+                                "Adicione a abóbora, a maçã, e a cenoura.",
+                                "Pique [10 seg | vel 9].",
+                                "Verifique a concistência e caso necessário pique mais [4 seg | vel 5].",
+                                "Adicione a água, e o caldo de vegetais.",
+                                "Cozinhe [20 min | 100°C | vel 2].",
+                                "Adicione a pimenta.",
+                                "Pique [2 min | vel 10]."
+                            ]
                         }
                     ]
                 }
