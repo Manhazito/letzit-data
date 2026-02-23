@@ -15256,23 +15256,6 @@
                                         "calsPerUnit": 30,
                                         "stepSize": 0.1
                                     }
-                                },
-                                {
-                                    "id": "120",
-                                    "name": "Queijo Parmesão",
-                                    "satietyIdx": 100,
-                                    "keywords": [
-                                        "queijo",
-                                        "parmesão",
-                                        "parmigiano",
-                                        "cheese"
-                                    ],
-                                    "dose": {
-                                        "quantity": 60,
-                                        "unit": "g",
-                                        "calsPerUnit": 4.02,
-                                        "stepSize": 1
-                                    }
                                 }
                             ],
                             "steps": []
