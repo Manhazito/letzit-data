@@ -15172,24 +15172,6 @@
                                     }
                                 },
                                 {
-                                    "id": "352",
-                                    "name": "Abóbora Butternut",
-                                    "brand": "Continente",
-                                    "isBrandRelevant": false,
-                                    "satietyIdx": 140,
-                                    "keywords": [
-                                        "abóbora",
-                                        "butternut",
-                                        "squash"
-                                    ],
-                                    "dose": {
-                                        "quantity": 650,
-                                        "unit": "g",
-                                        "calsPerUnit": 0.45,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
                                     "id": "95",
                                     "name": "Azeite",
                                     "satietyIdx": 50,
@@ -15217,6 +15199,24 @@
                                         "quantity": 700,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "352",
+                                    "name": "Abóbora Butternut",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "abóbora",
+                                        "butternut",
+                                        "squash"
+                                    ],
+                                    "dose": {
+                                        "quantity": 650,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.45,
                                         "stepSize": 1
                                     }
                                 },
@@ -15255,6 +15255,23 @@
                                         "unit": "unit",
                                         "calsPerUnit": 30,
                                         "stepSize": 0.1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
                                     }
                                 }
                             ],
