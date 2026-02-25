@@ -15122,7 +15122,7 @@
         },
         {
             "id": "109",
-            "name": "Sopa de Abóbora Butternut",
+            "name": "Creme de Abóbora Butternut",
             "servings": 4,
             "servingUnit": "unit",
             "keywords": [
@@ -15134,7 +15134,7 @@
             ],
             "recipes": [
                 {
-                    "id": "87.1",
+                    "id": "109.1",
                     "type": "thermomix",
                     "parts": [
                         {
@@ -15304,6 +15304,204 @@
                                 "Cozinhe [20 min | 100°C | vel 2].",
                                 "Adicione a pimenta.",
                                 "Pique [2 min | vel 10]."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Creme de Batata",
+            "servings": 4,
+            "servingUnit": "unit",
+            "keywords": [
+                "sopa",
+                "legumes",
+                "creme",
+                "cream",
+                "soup"
+            ],
+            "recipes": [
+                {
+                    "id": "110.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "101",
+                                    "name": "Alho francês",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "alhos",
+                                        "francês",
+                                        "leeks"
+                                    ],
+                                    "dose": {
+                                        "quantity": 200,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.61,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 20,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 700,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "239",
+                                    "name": "Batatas",
+                                    "satietyIdx": 323,
+                                    "keywords": [
+                                        "batatas",
+                                        "potatoes"
+                                    ],
+                                    "dose": {
+                                        "quantity": 500,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "138",
+                                    "name": "Cenoura",
+                                    "satietyIdx": 142,
+                                    "keywords": [
+                                        "cenouras",
+                                        "carrots"
+                                    ],
+                                    "dose": {
+                                        "quantity": 200,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.41,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "322",
+                                    "name": "Caldo de Vegetais (cubos)",
+                                    "satietyIdx": 2.5,
+                                    "keywords": [
+                                        "caldo",
+                                        "vegetal",
+                                        "vegetais",
+                                        "vegetable",
+                                        "stock",
+                                        "cube",
+                                        "dried",
+                                        "cubos",
+                                        "seco"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 30,
+                                        "stepSize": 0.1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 700,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "pimenta",
+                                        "preta",
+                                        "black",
+                                        "pepper"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "199",
+                                    "name": "Noz-Moscada",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "noz",
+                                        "moscada",
+                                        "nutmeg"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.375,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque no copo o alho francês e a cenoura.",
+                                "Pique [8 seg | vel 4].",
+                                "Baixe com a ajuda da espátula o que ficou na parede do copo.",
+                                "Adicione o azeite.",
+                                "Salteie [5 min | 120°C | vel 1].",
+                                "Adicione a batata, o caldo de vegetais, a água, o sal, e a pimenta.",
+                                "Cozinhe [22 min | 100°C | vel 2].",
+                                "Adicione a noz-moscada.",
+                                "Pique [1 min 30 seg | vel 8]."
                             ]
                         }
                     ]
