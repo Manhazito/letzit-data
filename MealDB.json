@@ -15437,7 +15437,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 700,
+                                        "quantity": 850,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
