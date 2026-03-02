@@ -15685,7 +15685,7 @@
         {
             "id": "112",
             "name": "Creme Verde",
-            "servings": 3,
+            "servings": 4,
             "servingUnit": "unit",
             "keywords": [
                 "sopa",
@@ -15696,7 +15696,8 @@
                 "cream",
                 "soup",
                 "green",
-                "leaves"
+                "leaves",
+                "couves"
             ],
             "recipes": [
                 {
@@ -15714,7 +15715,7 @@
                                         "cabbage"
                                     ],
                                     "dose": {
-                                        "quantity": 250,
+                                        "quantity": 350,
                                         "unit": "g",
                                         "calsPerUnit": 0.25,
                                         "stepSize": 1
@@ -15729,7 +15730,7 @@
                                         "potatoes"
                                     ],
                                     "dose": {
-                                        "quantity": 250,
+                                        "quantity": 350,
                                         "unit": "g",
                                         "calsPerUnit": 0.9,
                                         "stepSize": 1
@@ -15792,7 +15793,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 750,
+                                        "quantity": 1000,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -15807,7 +15808,7 @@
                                         "zucchini"
                                     ],
                                     "dose": {
-                                        "quantity": 150,
+                                        "quantity": 200,
                                         "unit": "g",
                                         "calsPerUnit": 0.17,
                                         "stepSize": 1
@@ -15861,7 +15862,7 @@
                                         "salt"
                                     ],
                                     "dose": {
-                                        "quantity": 3,
+                                        "quantity": 4,
                                         "unit": "g",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
