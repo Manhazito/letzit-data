@@ -15181,7 +15181,7 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 10,
                                         "unit": "g",
                                         "calsPerUnit": 9,
                                         "stepSize": 1
@@ -15355,7 +15355,7 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 10,
                                         "unit": "g",
                                         "calsPerUnit": 9,
                                         "stepSize": 1
@@ -15496,7 +15496,7 @@
         {
             "id": "111",
             "name": "Creme de Couve-Flor",
-            "servings": 4,
+            "servings": 3,
             "servingUnit": "unit",
             "keywords": [
                 "sopa",
@@ -15540,7 +15540,7 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 20,
+                                        "quantity": 10,
                                         "unit": "g",
                                         "calsPerUnit": 9,
                                         "stepSize": 1
