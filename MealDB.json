@@ -15496,7 +15496,7 @@
         {
             "id": "111",
             "name": "Creme de Couve-Flor",
-            "servings": 3,
+            "servings": 4,
             "servingUnit": "unit",
             "keywords": [
                 "sopa",
@@ -15524,7 +15524,7 @@
                                         "florets"
                                     ],
                                     "dose": {
-                                        "quantity": 400,
+                                        "quantity": 500,
                                         "unit": "g",
                                         "calsPerUnit": 0.25,
                                         "stepSize": 1
@@ -15587,7 +15587,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 600,
+                                        "quantity": 800,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -15606,7 +15606,7 @@
                                         "baked"
                                     ],
                                     "dose": {
-                                        "quantity": 240,
+                                        "quantity": 320,
                                         "unit": "g",
                                         "calsPerUnit": 1.64,
                                         "stepSize": 1
@@ -15628,7 +15628,7 @@
                                         "seco"
                                     ],
                                     "dose": {
-                                        "quantity": 0.5,
+                                        "quantity": 0.66,
                                         "unit": "unit",
                                         "calsPerUnit": 30,
                                         "stepSize": 0.1
