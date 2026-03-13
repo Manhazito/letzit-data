@@ -9669,6 +9669,42 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "370",
+            "name": "Couve-Flor (floretes)",
+            "satietyIdx": 215,
+            "keywords": [
+                "couve",
+                "flor",
+                "cauliflower",
+                "florets"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 0.25,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "371",
+            "name": "Alheira da Mena",
+            "satietyIdx": 120,
+            "keywords": [
+                "vegetarianos",
+                "vegetarianas"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 223,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
