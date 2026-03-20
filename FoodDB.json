@@ -9705,6 +9705,24 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "372",
+            "name": "Grelos",
+            "satietyIdx": 200,
+            "keywords": [
+                "grelos",
+                "turnip",
+                "greens"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 0.22,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
