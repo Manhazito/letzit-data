@@ -9723,6 +9723,25 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "373",
+            "name": "Doce de Abóbora",
+            "satietyIdx": 80,
+            "keywords": [
+                "doces",
+                "abóboras",
+                "pumpkin",
+                "jam"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 2.44,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }

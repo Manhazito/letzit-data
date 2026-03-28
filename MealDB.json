@@ -14767,20 +14767,26 @@
                                     }
                                 },
                                 {
-                                    "id": "120",
-                                    "name": "Queijo Parmesão",
-                                    "satietyIdx": 100,
+                                    "id": "78",
+                                    "name": "Natas Culinária",
+                                    "brand": "Alpro",
+                                    "isBrandRelevant": false,
+                                    "satietyIdx": 50,
                                     "keywords": [
-                                        "queijo",
-                                        "parmesão",
-                                        "parmigiano",
-                                        "cheese"
+                                        "natas",
+                                        "culinária",
+                                        "soja",
+                                        "soy",
+                                        "cooking",
+                                        "creams"
                                     ],
                                     "dose": {
-                                        "quantity": 15,
-                                        "unit": "g",
-                                        "calsPerUnit": 4.02,
-                                        "stepSize": 1
+                                        {
+                                            "quantity": 45,
+                                            "unit": "ml",
+                                            "calsPerUnit": 0.61,
+                                            "stepSize": 1
+                                        },
                                     }
                                 },
                                 {
@@ -15196,7 +15202,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 700,
+                                        "quantity": 800,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
