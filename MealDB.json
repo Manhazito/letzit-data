@@ -16669,10 +16669,10 @@
                                         "onion"
                                     ],
                                     "dose": {
-                                        "quantity": 0.5,
-                                        "unit": "unit",
-                                        "calsPerUnit": 52,
-                                        "stepSize": 0.5
+                                        "quantity": 30,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
                                     }
                                 },
                                 {
@@ -16733,9 +16733,9 @@
                                         "oil"
                                     ],
                                     "dose": {
-                                        "quantity": 1,
-                                        "unit": "cs",
-                                        "calsPerUnit": 126,
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
                                         "stepSize": 1
                                     }
                                 },
