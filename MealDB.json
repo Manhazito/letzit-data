@@ -16633,6 +16633,207 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "117",
+            "name": "Pasta de Cogumelos e Mascarpone",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "pastas",
+                "massas",
+                "cogumelos",
+                "mushrooms",
+                "molho",
+                "sauce",
+                "tagliatelle",
+                "fettuccine",
+                "mascarpone",
+                "limão",
+                "lemons"
+            ],
+            "recipes": [
+                {
+                    "id": "117.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "title": "Sauce",
+                            "ingredients": [
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 0.5,
+                                        "unit": "unit",
+                                        "calsPerUnit": 52,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "249",
+                                    "name": "Espinafres",
+                                    "satietyIdx": 140,
+                                    "keywords": [
+                                        "espinafres",
+                                        "spinach"
+                                    ],
+                                    "dose": {
+                                        "quantity": 50,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.27,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "253",
+                                    "name": "Mascarpone",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "mascarpone",
+                                        "queijo",
+                                        "cheese"
+                                    ],
+                                    "dose": {
+                                        "quantity": 83,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.6,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 126,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "261",
+                                    "name": "Sumo de limão",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "limão",
+                                        "limões",
+                                        "lemons",
+                                        "sumo",
+                                        "juice"
+                                    ],
+                                    "dose": {
+                                        "quantity": 10,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Pimenta preta",
+                                    "satietyIdx": 40,
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "g",
+                                        "calsPerUnit": 2.5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "dose": {
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Adicione a cebola e o alho à Thermomix. Pique [5 seg | vel 5]. Raspe as laterais;",
+                                "Adicione o azeite. Refogue [8 min | 120°C | vel 1];",
+                                "Adicione o sal, a pimenta, e o mascarpone. Cozinhe [5 min | 90°C | vel 2];",
+                                "Triture [10 seg | vel 6]."
+                            ]
+                        },
+                        {
+                            "title": "Pasta",
+                            "ingredients": [
+                                {
+                                    "id": "247",
+                                    "name": "Cogumelo Marron",
+                                    "satietyIdx": 145,
+                                    "keywords": [
+                                        "cogumelos",
+                                        "marron",
+                                        "mushroom"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.22,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "187",
+                                    "name": "Pasta",
+                                    "satietyIdx": 119,
+                                    "keywords": [
+                                        "pastas",
+                                        "massas",
+                                        "seca",
+                                        "dry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 100,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.59,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coza a massa em água com sal. Escorra, reservando meia chávena da água da cozedura.",
+                                "Salteie os cogumelos em seco, até ficarem dourados.",
+                                "Envolva a massa com o molho e os cogumelos, combinando com a água da cozedura reservada;",
+                                "Sirva quente."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
