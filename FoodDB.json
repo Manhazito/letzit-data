@@ -9776,6 +9776,27 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "375",
+            "name": "Cogumelos de Caramelo",
+            "satietyIdx": 80,
+            "brand": "Licores & Companhia",
+            "isBrandRelevant": true,
+            "keywords": [
+                "cogumelos",
+                "mushrooms",
+                "caramelo",
+                "chocolate"
+            ],
+            "doses": [
+                {
+                    "quantity": 4,
+                    "unit": "unit",
+                    "calsPerUnit": 19,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
