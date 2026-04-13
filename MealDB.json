@@ -6842,7 +6842,7 @@
         {
             "id": "59",
             "name": "Massa de Pizza rápida",
-            "servings": 8,
+            "servings": 16,
             "servingUnit": "slice",
             "keywords": [
                 "massa",
@@ -6868,7 +6868,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 110,
+                                        "quantity": 300,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -6883,9 +6883,9 @@
                                         "sugar"
                                     ],
                                     "dose": {
-                                        "quantity": 0.5,
-                                        "unit": "cc",
-                                        "calsPerUnit": 15.48,
+                                        "quantity": 5,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.87,
                                         "stepSize": 1
                                     }
                                 },
@@ -6902,7 +6902,7 @@
                                         "yeast"
                                     ],
                                     "dose": {
-                                        "quantity": 2.3,
+                                        "quantity": 3.5,
                                         "unit": "g",
                                         "calsPerUnit": 3.25,
                                         "stepSize": 1
@@ -6941,25 +6941,9 @@
                                         "65"
                                     ],
                                     "dose": {
-                                        "quantity": 200,
+                                        "quantity": 480,
                                         "unit": "g",
                                         "calsPerUnit": 3.64,
-                                        "stepSize": 1
-                                    }
-                                },
-                                {
-                                    "id": "95",
-                                    "name": "Azeite",
-                                    "satietyIdx": 50,
-                                    "keywords": [
-                                        "azeites",
-                                        "olive",
-                                        "oil"
-                                    ],
-                                    "dose": {
-                                        "quantity": 14,
-                                        "unit": "g",
-                                        "calsPerUnit": 9,
                                         "stepSize": 1
                                     }
                                 },
@@ -6972,18 +6956,20 @@
                                         "salt"
                                     ],
                                     "dose": {
-                                        "quantity": 0.5,
-                                        "unit": "cc",
+                                        "quantity": 10,
+                                        "unit": "g",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
                                     }
                                 }
                             ],
                             "steps": [
-                                "Coloque no copo a água, o açúcar, e o fermento, e misture [20 seg | vel 2].",
-                                "Adicione a farinha, o azeite, e o sal. Inicie o modo amassar [2 min].",
-                                "Coloque a massa num recipiente polvilhado com farinha ou borrifado com azeite. Cubra com película aderente ou um pano molhado, e deixe levedar 30 min.",
-                                "Use a massa de pizza conforme necessário."
+                                "Adicione os 300 ml de água, os 5 g de açúcar, e os 3.5 g de fermento ao copo da Thermomix.",
+                                "Se usar água fria aqueça [2 min | 37°C | vel 2].",
+                                "Misture [20 seg | vel 2].",
+                                "Adicione os 480 g de farinha, e os 10 g sal.",
+                                "Amasse [2 min].",
+                                "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe levedar durante 1 hora, ou até duplicar de volume."
                             ]
                         }
                     ]
@@ -7858,7 +7844,7 @@
         },
         {
             "id": "66",
-            "name": "Massa de Pizza",
+            "name": "Massa de Pizza lenta",
             "servings": 16,
             "servingUnit": "slice",
             "keywords": [
@@ -7883,7 +7869,7 @@
                                         "water"
                                     ],
                                     "dose": {
-                                        "quantity": 200,
+                                        "quantity": 300,
                                         "unit": "ml",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -7902,7 +7888,7 @@
                                         "yeast"
                                     ],
                                     "dose": {
-                                        "quantity": 2.6,
+                                        "quantity": 0.5,
                                         "unit": "g",
                                         "calsPerUnit": 3.25,
                                         "stepSize": 1
@@ -7941,7 +7927,7 @@
                                         "00"
                                     ],
                                     "dose": {
-                                        "quantity": 335,
+                                        "quantity": 480,
                                         "unit": "g",
                                         "calsPerUnit": 3.64,
                                         "stepSize": 1
@@ -7952,7 +7938,7 @@
                                     "name": "Sal",
                                     "satietyIdx": 5,
                                     "dose": {
-                                        "quantity": 6.5,
+                                        "quantity": 10,
                                         "unit": "g",
                                         "calsPerUnit": 0,
                                         "stepSize": 1
@@ -7960,10 +7946,13 @@
                                 }
                             ],
                             "steps": [
-                                "Adicione a água e o fermento ao copo da Thermomix;",
-                                "Se usar fermento activo aqueça [2 min | 37°C | vel 2] para ativar o fermento;",
-                                "Adicione a farinha, e o sal. Misture [10 seg | vel 6], depois amasse [2 min];",
-                                "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe levedar durante 1,5 a 2 horas, ou até duplicar de volume."
+                                "Adicione os 300 ml de água e os 0.5 g de fermento ao copo da Thermomix.",
+                                "Se usar água fria aqueça [2 min | 37°C | vel 2].",
+                                "Misture [20 seg | vel 2].",
+                                "Adicione os 480 g de farinha, e os 10 g sal.",
+                                "Amasse [2 min].",
+                                "Transfira a massa para uma taça ligeiramente enfarinhada ou coberta com uma fina camada de azeite, cubra com um pano húmido, e deixe descansar durante 15 min.",
+                                "Transfira para o frigorífico e deixe levedar durante 24 horas."
                             ]
                         }
                     ]
@@ -9929,7 +9918,7 @@
         },
         {
             "id": "79",
-            "name": "Massa de Pizza rápida v2",
+            "name": "Massa de Pizza rápida (antiga)",
             "servings": 16,
             "servingUnit": "slice",
             "keywords": [
