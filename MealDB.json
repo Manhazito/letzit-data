@@ -6906,28 +6906,7 @@
                                         "unit": "g",
                                         "calsPerUnit": 3.25,
                                         "stepSize": 1
-                                    },
-                                    "alternatives": [
-                                        {
-                                            "id": "318",
-                                            "name": "Fermento de Padeiro seco activo",
-                                            "satietyIdx": 45,
-                                            "keywords": [
-                                                "fermento",
-                                                "padeiro",
-                                                "seco",
-                                                "activo",
-                                                "dry",
-                                                "yeast"
-                                            ],
-                                            "dose": {
-                                                "quantity": 3,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.25,
-                                                "stepSize": 1
-                                            }
-                                        }
-                                    ]
+                                    }
                                 },
                                 {
                                     "id": "42",
@@ -7892,28 +7871,7 @@
                                         "unit": "g",
                                         "calsPerUnit": 3.25,
                                         "stepSize": 1
-                                    },
-                                    "alternatives": [
-                                        {
-                                            "id": "318",
-                                            "name": "Fermento de Padeiro seco activo",
-                                            "satietyIdx": 45,
-                                            "keywords": [
-                                                "fermento",
-                                                "padeiro",
-                                                "seco",
-                                                "activo",
-                                                "dry",
-                                                "yeast"
-                                            ],
-                                            "dose": {
-                                                "quantity": 3.5,
-                                                "unit": "g",
-                                                "calsPerUnit": 3.25,
-                                                "stepSize": 1
-                                            }
-                                        }
-                                    ]
+                                    }
                                 },
                                 {
                                     "id": "196",
