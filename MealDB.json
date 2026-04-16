@@ -16781,6 +16781,96 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "118",
+            "name": "Caril de Grão",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "caril",
+                "grão",
+                "bico",
+                "curry",
+                "chickpeas"
+            ],
+            "recipes": [
+                {
+                    "id": "118.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "376",
+                                    "name": "Caril de Grão",
+                                    "satietyIdx": 145,
+                                    "brand": "Compal",
+                                    "isBrandRelevant": true,
+                                    "keywords": [
+                                        "caril",
+                                        "grão",
+                                        "bico",
+                                        "curry",
+                                        "chickpeas"
+                                    ],
+                                    "dose": {
+                                        "quantity": 360,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.31,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "119",
+            "name": "Bolonhesa de Lentilhas",
+            "servings": 2,
+            "servingUnit": "unit",
+            "keywords": [
+                "bolonhesa",
+                "lentilhas",
+                "bolognese",
+                "lentils"
+            ],
+            "recipes": [
+                {
+                    "id": "119.1",
+                    "type": "regular",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "377",
+                                    "name": "Bolonhesa de Lentilhas",
+                                    "satietyIdx": 145,
+                                    "brand": "Compal",
+                                    "isBrandRelevant": true,
+                                    "keywords": [
+                                        "bolonhesa",
+                                        "lentilhas",
+                                        "bolognese",
+                                        "lentils"
+                                    ],
+                                    "dose": {
+                                        "quantity": 360,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.05,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

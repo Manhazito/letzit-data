@@ -8910,7 +8910,7 @@
             "keywords": [
                 "chocolates",
                 "amêndoas",
-                "lindt",
+                "regina",
                 "almonds"
             ],
             "doses": [
@@ -9794,6 +9794,49 @@
                     "quantity": 4,
                     "unit": "unit",
                     "calsPerUnit": 19,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "376",
+            "name": "Caril de Grão",
+            "satietyIdx": 145,
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "keywords": [
+                "caril",
+                "grão",
+                "bico",
+                "curry",
+                "chickpeas"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.31,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "377",
+            "name": "Bolonhesa de Lentilhas",
+            "satietyIdx": 145,
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "keywords": [
+                "bolonhesa",
+                "lentilhas",
+                "bolognese",
+                "lentils"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.05,
                     "stepSize": 1
                 }
             ]
