@@ -9840,6 +9840,33 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "378",
+            "name": "Queijo (magro)",
+            "brand": "Agros",
+            "isBrandRelevant": true,
+            "satietyIdx": 146,
+            "keywords": [
+                "queijos",
+                "cheeses",
+                "magro",
+                "light"
+            ],
+            "doses": [
+                {
+                    "quantity": 17,
+                    "unit": "g",
+                    "calsPerUnit": 2.52,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 43,
+                    "stepSize": 0.5
+                }
+            ]
         }
     ]
 }
