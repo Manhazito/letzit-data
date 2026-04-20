@@ -16871,6 +16871,143 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "120",
+            "name": "Massa de Pizza lenta v2",
+            "servings": 16,
+            "servingUnit": "slice",
+            "keywords": [
+                "massa",
+                "pizza",
+                "T65",
+                "bolhas",
+                "bubbles",
+                "levedação",
+                "lenta",
+                "slow",
+                "ferment"
+            ],
+            "recipes": [
+                {
+                    "id": "120.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water",
+                                        "fria"
+                                    ],
+                                    "dose": {
+                                        "quantity": 206,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    },
+                                    "notes": "Fria do frigorífico."
+                                },
+                                {
+                                    "id": "143",
+                                    "name": "Açúcar",
+                                    "satietyIdx": 20,
+                                    "keywords": [
+                                        "açúcar",
+                                        "sugar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.87,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "103",
+                                    "name": "Fermento de Padeiro seco instantâneo",
+                                    "satietyIdx": 45,
+                                    "keywords": [
+                                        "fermento",
+                                        "padeiro",
+                                        "seco",
+                                        "instantâneos",
+                                        "dry",
+                                        "yeast"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1.5,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.25,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "42",
+                                    "name": "Farinha de Trigo tipo 65",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "farinha",
+                                        "trigo",
+                                        "wheat",
+                                        "flour",
+                                        "65"
+                                    ],
+                                    "dose": {
+                                        "quantity": 333,
+                                        "unit": "g",
+                                        "calsPerUnit": 3.64,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 8,
+                                        "unit": "g",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "110",
+                                    "name": "Azeite",
+                                    "satietyIdx": 40,
+                                    "keywords": [
+                                        "azeite",
+                                        "olive oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 7,
+                                        "unit": "g",
+                                        "calsPerUnit": 8.84,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque no copo os 206 g de água fria, os 3 g de açúcar e os 1.5 g de fermento. Misture [20 seg | vel 2].",
+                                "Adicione os 333 g de farinha T65, os 8 g de sal e os 7 g de azeite.",
+                                "Amasse [3 min | modo espiga].",
+                                "Retire a massa para uma bancada, forme uma bola e deixe descansar 15 min coberta com o copo.",
+                                "Realize 3 dobras de reforço (stretch and fold) e coloque num recipiente untado com um pouco de azeite.",
+                                "Leve ao frigorífico para uma levedação lenta de 24 a 72 horas para obter bolhas maiores.",
+                                "Retire do frio 2 horas antes de usar. Divida em duas bolas de ~280g. Estenda à mão, pressionando do centro para as bordas para preservar o ar no rebordo."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
