@@ -9867,6 +9867,54 @@
                     "stepSize": 0.5
                 }
             ]
+        },
+        {
+            "id": "122",
+            "name": "Tomate pelado",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 125,
+            "keywords": [
+                "tomates",
+                "pelado",
+                "tomatoes",
+                "skined"
+            ],
+            "doses": [
+                {
+                    "quantity": 48,
+                    "unit": "g",
+                    "calsPerUnit": 0.19,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 4,
+                    "unit": "cube",
+                    "calsPerUnit": 2.28,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Concentrado de tomate",
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "satietyIdx": 125,
+            "keywords": [
+                "tomates",
+                "concentrado",
+                "tomatoes",
+                "paste"
+            ],
+            "doses": [
+                {
+                    "quantity": 40,
+                    "unit": "g",
+                    "calsPerUnit": 0.76,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }

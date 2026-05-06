@@ -7919,7 +7919,7 @@
         },
         {
             "id": "67",
-            "name": "Molho de Tomate",
+            "name": "Molho de Tomate (old)",
             "servings": 400,
             "servingUnit": "g",
             "keywords": [
@@ -17003,6 +17003,170 @@
                                 "Realize 3 dobras de reforço (stretch and fold) e coloque num recipiente untado com um pouco de azeite.",
                                 "Leve ao frigorífico para uma levedação lenta de 24 a 72 horas para obter bolhas maiores.",
                                 "Retire do frio 2 horas antes de usar. Divida em duas bolas de ~280g. Estenda à mão, pressionando do centro para as bordas para preservar o ar no rebordo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "121",
+            "name": "Molho de Tomate (920g)",
+            "servings": 10,
+            "servingUnit": "unit",
+            "keywords": [
+                "molho",
+                "tomate",
+                "tomatoes",
+                "sauce"
+            ],
+            "recipes": [
+                {
+                    "id": "121.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 150,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    },
+                                    "satietyIdx": 100
+                                },
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 20,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "122",
+                                    "name": "Tomate pelado",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "pelado",
+                                        "tomatoes",
+                                        "skined"
+                                    ],
+                                    "dose": {
+                                        "quantity": 800,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.19,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "123",
+                                    "name": "Concentrado de tomate",
+                                    "brand": "Compal",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 125,
+                                    "keywords": [
+                                        "tomates",
+                                        "concentrado",
+                                        "tomatoes",
+                                        "paste"
+                                    ],
+                                    "dose": {
+                                        "quantity": 40,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.76,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "158",
+                                    "name": "Orégãos",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "orégãos",
+                                        "oreganos"
+                                    ],
+                                    "dose": {
+                                        "quantity": 2,
+                                        "unit": "cs",
+                                        "calsPerUnit": 6.8,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "370",
+                                    "name": "Açúcar Mascavado",
+                                    "satietyIdx": 20,
+                                    "keywords": [
+                                        "açúcar",
+                                        "mascavado",
+                                        "brown",
+                                        "sugar"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cs",
+                                        "calsPerUnit": 45.6,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque a cebola e os dentes de alho no copo e triture [5 seg | vel 5];",
+                                "Adicione o azeite e refogue [5 min | 120ºC | vel 1];",
+                                "Adicione o tomate pelado, o concentrado de tomate, o açúcar mascavado, os orégãos, e o sal;",
+                                "Cozinhe [30 min | 100ºC | vel 1];",
+                                "Triture o molho [30 seg | vel 7]."
                             ]
                         }
                     ]
