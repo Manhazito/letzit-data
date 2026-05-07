@@ -9707,7 +9707,7 @@
                 {
                     "quantity": 1,
                     "unit": "unit",
-                    "calsPerUnit": 223,
+                    "calsPerUnit": 130,
                     "stepSize": 0.5
                 }
             ]
