@@ -9945,6 +9945,33 @@
                     "stepSize": 1
                 }
             ]
+        },
+        {
+            "id": "426",
+            "name": "Leite de Côco (light)",
+            "brand": "Koala",
+            "isBrandRelevant": true,
+            "satietyIdx": 90,
+            "keywords": [
+                "leites",
+                "côco",
+                "coconuts",
+                "milks"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 0.59,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 200,
+                    "unit": "ml",
+                    "calsPerUnit": 0.59,
+                    "stepSize": 1
+                }
+            ]
         }
     ]
 }
