@@ -2858,7 +2858,7 @@
             ]
         },
         {
-            "id": "122",
+            "id": "399",
             "name": "Tomate triturado",
             "brand": "Continente",
             "isBrandRelevant": false,
@@ -2887,7 +2887,34 @@
             ]
         },
         {
-            "id": "123",
+            "id": "122",
+            "name": "Tomate pelado",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 125,
+            "keywords": [
+                "tomates",
+                "pelado",
+                "tomatoes",
+                "skined"
+            ],
+            "doses": [
+                {
+                    "quantity": 48,
+                    "unit": "g",
+                    "calsPerUnit": 0.19,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 4,
+                    "unit": "cube",
+                    "calsPerUnit": 2.28,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "401",
             "name": "Cerejas",
             "satietyIdx": 145,
             "keywords": [
@@ -2908,6 +2935,27 @@
                     "quantity": 30,
                     "unit": "unit",
                     "calsPerUnit": 4.47,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Concentrado de tomate",
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "satietyIdx": 125,
+            "keywords": [
+                "tomates",
+                "concentrado",
+                "tomatoes",
+                "paste"
+            ],
+            "doses": [
+                {
+                    "quantity": 40,
+                    "unit": "g",
+                    "calsPerUnit": 0.76,
                     "stepSize": 1
                 }
             ]
@@ -8729,6 +8777,26 @@
             ]
         },
         {
+            "id": "403",
+            "name": "Queijo Mozzarella ralado",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "queijo",
+                "mozzarella",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 125,
+                    "unit": "g",
+                    "calsPerUnit": 2.95,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
             "id": "364",
             "name": "Cannelloni",
             "brand": "Milaneza",
@@ -8750,6 +8818,26 @@
                     "quantity": 43.48,
                     "unit": "g",
                     "calsPerUnit": 3.56,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "404",
+            "name": "Queijo Ralado 3 Queijos",
+            "brand": "Campainha",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "queijo",
+                "mozzarella",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 80,
+                    "unit": "g",
+                    "calsPerUnit": 3.7,
                     "stepSize": 1
                 }
             ]
@@ -8782,7 +8870,27 @@
             ]
         },
         {
-            "id": "366",
+            "id": "405",
+            "name": "Queijo Mozzarella ralado",
+            "brand": "Campainha",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "queijo",
+                "mozzarella",
+                "cheese"
+            ],
+            "doses": [
+                {
+                    "quantity": 90,
+                    "unit": "g",
+                    "calsPerUnit": 3.18,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "406",
             "name": "Iogurte de café",
             "brand": "Continente",
             "isBrandRelevant": true,
@@ -8809,7 +8917,28 @@
             ]
         },
         {
-            "id": "367",
+            "id": "366",
+            "name": "Farinha de Trigo integral",
+            "satietyIdx": 55,
+            "keywords": [
+                "farinha",
+                "trigo",
+                "wheat",
+                "flour",
+                "integral",
+                "wholemeal"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 3.64,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "408",
             "name": "Queijo Ricotta",
             "brand": "Galbani",
             "isBrandRelevant": true,
@@ -8829,7 +8958,28 @@
             ]
         },
         {
-            "id": "368",
+            "id": "367",
+            "name": "Mistura de Sementes",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 120,
+            "keywords": [
+                "sementes",
+                "mistura",
+                "mix",
+                "seeds"
+            ],
+            "doses": [
+                {
+                    "quantity": 40,
+                    "unit": "g",
+                    "calsPerUnit": 6.2,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "410",
             "name": "Molho de Francesinha",
             "brand": "Dom Duarte",
             "isBrandRelevant": true,
@@ -8844,6 +8994,27 @@
                     "quantity": 250,
                     "unit": "g",
                     "calsPerUnit": 0.27,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "368",
+            "name": "Leite de Côco (light)",
+            "brand": "Freshona",
+            "isBrandRelevant": true,
+            "satietyIdx": 90,
+            "keywords": [
+                "leites",
+                "côco",
+                "coconuts",
+                "milks"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 1.28,
                     "stepSize": 1
                 }
             ]
@@ -8867,6 +9038,32 @@
                     "unit": "g",
                     "calsPerUnit": 0.15,
                     "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "412",
+            "name": "Kiwi",
+            "satietyIdx": 150,
+            "keywords": [
+                "fruta",
+                "fruit",
+                "kiwi",
+                "quiuí",
+                "quivi"
+            ],
+            "doses": [
+                {
+                    "quantity": 75,
+                    "unit": "g",
+                    "calsPerUnit": 0.6,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 45,
+                    "stepSize": 0.5
                 }
             ]
         },
@@ -8902,6 +9099,25 @@
             ]
         },
         {
+            "id": "413",
+            "name": "Couve-Flor (floretes)",
+            "satietyIdx": 215,
+            "keywords": [
+                "couve",
+                "flor",
+                "cauliflower",
+                "florets"
+            ],
+            "doses": [
+                {
+                    "quantity": 200,
+                    "unit": "g",
+                    "calsPerUnit": 0.25,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
             "id": "371",
             "name": "Chocolate com amêndoas",
             "brand": "Regina",
@@ -8929,7 +9145,24 @@
             ]
         },
         {
-            "id": "372",
+            "id": "414",
+            "name": "Alheira da Mena",
+            "satietyIdx": 120,
+            "keywords": [
+                "vegetarianos",
+                "vegetarianas"
+            ],
+            "doses": [
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 130,
+                    "stepSize": 0.5
+                }
+            ]
+        },
+        {
+            "id": "415",
             "name": "Amendoins (sem casca)",
             "satietyIdx": 84,
             "keywords": [
@@ -8944,6 +9177,24 @@
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 5.65,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "372",
+            "name": "Grelos",
+            "satietyIdx": 200,
+            "keywords": [
+                "grelos",
+                "turnip",
+                "greens"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 0.22,
                     "stepSize": 1
                 }
             ]
@@ -8968,7 +9219,26 @@
             ]
         },
         {
-            "id": "374",
+            "id": "417",
+            "name": "Doce de Abóbora",
+            "satietyIdx": 80,
+            "keywords": [
+                "doces",
+                "abóboras",
+                "pumpkin",
+                "jam"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 2.44,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "418",
             "name": "Amendoins com sal e mel",
             "brand": "Alesto",
             "isBrandRelevant": true,
@@ -8986,6 +9256,34 @@
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 5.94,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "374",
+            "name": "Cogumelo Shitake (seco)",
+            "satietyIdx": 80,
+            "keywords": [
+                "cogumelos",
+                "shitake",
+                "shiitake",
+                "mushrooms",
+                "secos",
+                "dried",
+                "dry"
+            ],
+            "doses": [
+                {
+                    "quantity": 11.33,
+                    "unit": "g",
+                    "calsPerUnit": 2.23,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 4,
+                    "unit": "unit",
+                    "calsPerUnit": 25.27,
                     "stepSize": 1
                 }
             ]
@@ -9017,7 +9315,28 @@
             ]
         },
         {
-            "id": "376",
+            "id": "420",
+            "name": "Cogumelos de Caramelo",
+            "satietyIdx": 80,
+            "brand": "Licores & Companhia",
+            "isBrandRelevant": true,
+            "keywords": [
+                "cogumelos",
+                "mushrooms",
+                "caramelo",
+                "chocolate"
+            ],
+            "doses": [
+                {
+                    "quantity": 4,
+                    "unit": "unit",
+                    "calsPerUnit": 19,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "421",
             "name": "Pocket Coffee",
             "brand": "Ferrero",
             "isBrandRelevant": true,
@@ -9045,7 +9364,29 @@
             ]
         },
         {
-            "id": "377",
+            "id": "376",
+            "name": "Caril de Grão",
+            "satietyIdx": 145,
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "keywords": [
+                "caril",
+                "grão",
+                "bico",
+                "curry",
+                "chickpeas"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.31,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "423",
             "name": "Leite Meio Gordo",
             "brand": "Mimosa",
             "isBrandRelevant": true,
@@ -9061,6 +9402,27 @@
                     "quantity": 100,
                     "unit": "ml",
                     "calsPerUnit": 0.48,
+                    "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "377",
+            "name": "Bolonhesa de Lentilhas",
+            "satietyIdx": 145,
+            "brand": "Compal",
+            "isBrandRelevant": true,
+            "keywords": [
+                "bolonhesa",
+                "lentilhas",
+                "bolognese",
+                "lentils"
+            ],
+            "doses": [
+                {
+                    "quantity": 100,
+                    "unit": "g",
+                    "calsPerUnit": 1.05,
                     "stepSize": 1
                 }
             ]
@@ -9082,6 +9444,33 @@
                     "unit": "unit",
                     "calsPerUnit": 80,
                     "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "425",
+            "name": "Queijo (magro)",
+            "brand": "Agros",
+            "isBrandRelevant": true,
+            "satietyIdx": 146,
+            "keywords": [
+                "queijos",
+                "cheeses",
+                "magro",
+                "light"
+            ],
+            "doses": [
+                {
+                    "quantity": 17,
+                    "unit": "g",
+                    "calsPerUnit": 2.52,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 43,
+                    "stepSize": 0.5
                 }
             ]
         },
@@ -9435,32 +9824,6 @@
             ]
         },
         {
-            "id": "393",
-            "name": "Chocolate de leite",
-            "brand": "Nestlé",
-            "isBrandRelevant": true,
-            "satietyIdx": 70,
-            "keywords": [
-                "chocolates",
-                "leite",
-                "milk"
-            ],
-            "doses": [
-                {
-                    "quantity": 3.57,
-                    "unit": "g",
-                    "calsPerUnit": 5.38,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "slice",
-                    "calsPerUnit": 19.21,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
             "id": "394",
             "name": "Proteína de Chocolate",
             "brand": "V-Protein",
@@ -9528,390 +9891,57 @@
             ]
         },
         {
-            "id": "363",
-            "name": "Queijo Mozzarella ralado",
-            "brand": "Continente",
-            "isBrandRelevant": true,
-            "satietyIdx": 120,
-            "keywords": [
-                "queijo",
-                "mozzarella",
-                "cheese"
-            ],
-            "doses": [
-                {
-                    "quantity": 125,
-                    "unit": "g",
-                    "calsPerUnit": 2.95,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "364",
-            "name": "Queijo Ralado 3 Queijos",
-            "brand": "Campainha",
-            "isBrandRelevant": true,
-            "satietyIdx": 120,
-            "keywords": [
-                "queijo",
-                "mozzarella",
-                "cheese"
-            ],
-            "doses": [
-                {
-                    "quantity": 80,
-                    "unit": "g",
-                    "calsPerUnit": 3.7,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "365",
-            "name": "Queijo Mozzarella ralado",
-            "brand": "Campainha",
-            "isBrandRelevant": true,
-            "satietyIdx": 120,
-            "keywords": [
-                "queijo",
-                "mozzarella",
-                "cheese"
-            ],
-            "doses": [
-                {
-                    "quantity": 90,
-                    "unit": "g",
-                    "calsPerUnit": 3.18,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "366",
-            "name": "Farinha de Trigo integral",
+            "id": "397",
+            "name": "Cominhos em pó",
             "satietyIdx": 55,
             "keywords": [
-                "farinha",
-                "trigo",
-                "wheat",
-                "flour",
-                "integral",
-                "wholemeal"
+                "cominhos",
+                "cumin",
+                "cominho"
             ],
             "doses": [
                 {
-                    "quantity": 200,
+                    "quantity": 6,
                     "unit": "g",
-                    "calsPerUnit": 3.64,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "367",
-            "name": "Mistura de Sementes",
-            "brand": "Continente",
-            "isBrandRelevant": true,
-            "satietyIdx": 120,
-            "keywords": [
-                "sementes",
-                "mistura",
-                "mix",
-                "seeds"
-            ],
-            "doses": [
-                {
-                    "quantity": 40,
-                    "unit": "g",
-                    "calsPerUnit": 6.2,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "368",
-            "name": "Leite de Côco (light)",
-            "brand": "Freshona",
-            "isBrandRelevant": true,
-            "satietyIdx": 90,
-            "keywords": [
-                "leites",
-                "côco",
-                "coconuts",
-                "milks"
-            ],
-            "doses": [
-                {
-                    "quantity": 200,
-                    "unit": "g",
-                    "calsPerUnit": 1.28,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "369",
-            "name": "Kiwi",
-            "satietyIdx": 150,
-            "keywords": [
-                "fruta",
-                "fruit",
-                "kiwi",
-                "quiuí",
-                "quivi"
-            ],
-            "doses": [
-                {
-                    "quantity": 75,
-                    "unit": "g",
-                    "calsPerUnit": 0.6,
+                    "calsPerUnit": 3.75,
                     "stepSize": 1
                 },
                 {
                     "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 45,
-                    "stepSize": 0.5
-                }
-            ]
-        },
-        {
-            "id": "370",
-            "name": "Couve-Flor (floretes)",
-            "satietyIdx": 215,
-            "keywords": [
-                "couve",
-                "flor",
-                "cauliflower",
-                "florets"
-            ],
-            "doses": [
-                {
-                    "quantity": 200,
-                    "unit": "g",
-                    "calsPerUnit": 0.25,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "371",
-            "name": "Alheira da Mena",
-            "satietyIdx": 120,
-            "keywords": [
-                "vegetarianos",
-                "vegetarianas"
-            ],
-            "doses": [
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 130,
-                    "stepSize": 0.5
-                }
-            ]
-        },
-        {
-            "id": "372",
-            "name": "Grelos",
-            "satietyIdx": 200,
-            "keywords": [
-                "grelos",
-                "turnip",
-                "greens"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.22,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "373",
-            "name": "Doce de Abóbora",
-            "satietyIdx": 80,
-            "keywords": [
-                "doces",
-                "abóboras",
-                "pumpkin",
-                "jam"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 2.44,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "374",
-            "name": "Cogumelo Shitake (seco)",
-            "satietyIdx": 80,
-            "keywords": [
-                "cogumelos",
-                "shitake",
-                "shiitake",
-                "mushrooms",
-                "secos",
-                "dried",
-                "dry"
-            ],
-            "doses": [
-                {
-                    "quantity": 11.33,
-                    "unit": "g",
-                    "calsPerUnit": 2.23,
+                    "unit": "cs",
+                    "calsPerUnit": 22.5,
                     "stepSize": 1
                 },
                 {
-                    "quantity": 4,
-                    "unit": "unit",
-                    "calsPerUnit": 25.27,
+                    "quantity": 3,
+                    "unit": "cc",
+                    "calsPerUnit": 7.5,
                     "stepSize": 1
                 }
             ]
         },
         {
-            "id": "375",
-            "name": "Cogumelos de Caramelo",
-            "satietyIdx": 80,
-            "brand": "Licores & Companhia",
+            "id": "398",
+            "name": "Chocolate de leite",
+            "brand": "Nestlé",
             "isBrandRelevant": true,
+            "satietyIdx": 70,
             "keywords": [
-                "cogumelos",
-                "mushrooms",
-                "caramelo",
-                "chocolate"
+                "chocolates",
+                "leite",
+                "milk"
             ],
             "doses": [
                 {
-                    "quantity": 4,
-                    "unit": "unit",
-                    "calsPerUnit": 19,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "376",
-            "name": "Caril de Grão",
-            "satietyIdx": 145,
-            "brand": "Compal",
-            "isBrandRelevant": true,
-            "keywords": [
-                "caril",
-                "grão",
-                "bico",
-                "curry",
-                "chickpeas"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
+                    "quantity": 3.57,
                     "unit": "g",
-                    "calsPerUnit": 1.31,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "377",
-            "name": "Bolonhesa de Lentilhas",
-            "satietyIdx": 145,
-            "brand": "Compal",
-            "isBrandRelevant": true,
-            "keywords": [
-                "bolonhesa",
-                "lentilhas",
-                "bolognese",
-                "lentils"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 1.05,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "378",
-            "name": "Queijo (magro)",
-            "brand": "Agros",
-            "isBrandRelevant": true,
-            "satietyIdx": 146,
-            "keywords": [
-                "queijos",
-                "cheeses",
-                "magro",
-                "light"
-            ],
-            "doses": [
-                {
-                    "quantity": 17,
-                    "unit": "g",
-                    "calsPerUnit": 2.52,
+                    "calsPerUnit": 5.38,
                     "stepSize": 1
                 },
                 {
                     "quantity": 1,
                     "unit": "slice",
-                    "calsPerUnit": 43,
-                    "stepSize": 0.5
-                }
-            ]
-        },
-        {
-            "id": "122",
-            "name": "Tomate pelado",
-            "brand": "Continente",
-            "isBrandRelevant": true,
-            "satietyIdx": 125,
-            "keywords": [
-                "tomates",
-                "pelado",
-                "tomatoes",
-                "skined"
-            ],
-            "doses": [
-                {
-                    "quantity": 48,
-                    "unit": "g",
-                    "calsPerUnit": 0.19,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 4,
-                    "unit": "cube",
-                    "calsPerUnit": 2.28,
-                    "stepSize": 1
-                }
-            ]
-        },
-        {
-            "id": "123",
-            "name": "Concentrado de tomate",
-            "brand": "Compal",
-            "isBrandRelevant": true,
-            "satietyIdx": 125,
-            "keywords": [
-                "tomates",
-                "concentrado",
-                "tomatoes",
-                "paste"
-            ],
-            "doses": [
-                {
-                    "quantity": 40,
-                    "unit": "g",
-                    "calsPerUnit": 0.76,
+                    "calsPerUnit": 19.21,
                     "stepSize": 1
                 }
             ]
