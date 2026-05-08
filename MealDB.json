@@ -17172,6 +17172,175 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "122",
+            "name": "Creme de Cenoura e Caril",
+            "servings": 4,
+            "servingUnit": "unit",
+            "keywords": [
+                "sopa",
+                "legumes",
+                "creme",
+                "cream",
+                "soup",
+                "caril",
+                "curry",
+                "cenoura",
+                "carrot"
+            ],
+            "recipes": [
+                {
+                    "id": "122.1",
+                    "type": "thermomix",
+                    "parts": [
+                        {
+                            "ingredients": [
+                                {
+                                    "id": "100",
+                                    "name": "Alho (dente)",
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "dente",
+                                        "alhos",
+                                        "garlic",
+                                        "cloves"
+                                    ],
+                                    "dose": {
+                                        "quantity": 4,
+                                        "unit": "unit",
+                                        "calsPerUnit": 5,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Cebola",
+                                    "satietyIdx": 100,
+                                    "keywords": [
+                                        "cebola",
+                                        "onion"
+                                    ],
+                                    "dose": {
+                                        "quantity": 160,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.4,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "277",
+                                    "name": "Caril",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "caril",
+                                        "curry"
+                                    ],
+                                    "dose": {
+                                        "quantity": 3.0,
+                                        "unit": "cc",
+                                        "calsPerUnit": 6.86,
+                                        "stepSize": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "name": "Azeite",
+                                    "satietyIdx": 50,
+                                    "keywords": [
+                                        "azeites",
+                                        "olive",
+                                        "oil"
+                                    ],
+                                    "dose": {
+                                        "quantity": 30,
+                                        "unit": "g",
+                                        "calsPerUnit": 9,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "138",
+                                    "name": "Cenoura",
+                                    "satietyIdx": 142,
+                                    "keywords": [
+                                        "cenouras",
+                                        "carrots"
+                                    ],
+                                    "dose": {
+                                        "quantity": 700,
+                                        "unit": "g",
+                                        "calsPerUnit": 0.41,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "163",
+                                    "name": "Água",
+                                    "satietyIdx": 55,
+                                    "keywords": [
+                                        "água",
+                                        "water"
+                                    ],
+                                    "dose": {
+                                        "quantity": 800,
+                                        "unit": "ml",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 1
+                                    }
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "Sal",
+                                    "satietyIdx": 5,
+                                    "keywords": [
+                                        "sal",
+                                        "salt"
+                                    ],
+                                    "dose": {
+                                        "quantity": 1.0,
+                                        "unit": "cc",
+                                        "calsPerUnit": 0,
+                                        "stepSize": 0.25
+                                    }
+                                },
+                                {
+                                    "id": "278",
+                                    "name": "Leite de Côco",
+                                    "brand": "Continente",
+                                    "isBrandRelevant": true,
+                                    "satietyIdx": 90,
+                                    "keywords": [
+                                        "leites",
+                                        "côco",
+                                        "coconuts",
+                                        "milks"
+                                    ],
+                                    "dose": {
+                                        "quantity": 200,
+                                        "unit": "g",
+                                        "calsPerUnit": 1.7,
+                                        "stepSize": 1
+                                    }
+                                }
+                            ],
+                            "steps": [
+                                "Coloque no copo o azeite, a cebola e o alho.",
+                                "Pique [4 seg | vel 5].",
+                                "Baixe com a ajuda da espátula o que ficou na parede do copo.",
+                                "Salteie [3 min | 120°C | vel 1].",
+                                "Adicione a cenoura e o caril.",
+                                "Pique [10 seg | vel 9].",
+                                "Verifique a consistência e caso necessário pique mais [4 seg | vel 5].",
+                                "Adicione a água e o sal.",
+                                "Cozinhe [20 min | 100°C | vel 2].",
+                                "Adicione o leite de coco.",
+                                "Pique [2 min | vel 10]."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
