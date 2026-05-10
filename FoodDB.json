@@ -1848,6 +1848,12 @@
                     "unit": "cube",
                     "calsPerUnit": 11.833333333333,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "ml",
+                    "calsPerUnit": 1.42,
+                    "stepSize": 1
                 }
             ]
         },
@@ -1931,6 +1937,12 @@
                     "unit": "slice",
                     "calsPerUnit": 26,
                     "stepSize": 0.5
+                },
+                {
+                    "quantity": 20,
+                    "unit": "g",
+                    "calsPerUnit": 1.3,
+                    "stepSize": 1
                 }
             ]
         },
@@ -3055,6 +3067,18 @@
                     "unit": "g",
                     "calsPerUnit": 2.5,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 3,
+                    "unit": "cc",
+                    "calsPerUnit": 5.833333333333,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "cs",
+                    "calsPerUnit": 17.5,
+                    "stepSize": 1
                 }
             ]
         },
@@ -3843,6 +3867,12 @@
                     "unit": "cs",
                     "calsPerUnit": 6.5,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 3,
+                    "unit": "cc",
+                    "calsPerUnit": 2.166666666667,
+                    "stepSize": 1
                 }
             ]
         },
@@ -4349,6 +4379,12 @@
                 {
                     "quantity": 100,
                     "unit": "ml",
+                    "calsPerUnit": 0.035,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 100,
+                    "unit": "g",
                     "calsPerUnit": 0.035,
                     "stepSize": 1
                 }
@@ -6349,6 +6385,12 @@
                     "unit": "unit",
                     "calsPerUnit": 11,
                     "stepSize": 0.5
+                },
+                {
+                    "quantity": 50,
+                    "unit": "ml",
+                    "calsPerUnit": 0.22,
+                    "stepSize": 1
                 }
             ]
         },
@@ -6439,7 +6481,7 @@
                 },
                 {
                     "quantity": 3,
-                    "unit": "cs",
+                    "unit": "cc",
                     "calsPerUnit": 21.28,
                     "stepSize": 1
                 }
