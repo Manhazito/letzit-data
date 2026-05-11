@@ -5,6 +5,10 @@ xcuserdata/
 # Xcode build data
 DerivedData/
 
+# Xcode user-specific state
+*.xcuserstate
+xcuserdata/
+
 # Swift/Obj-C specific
 *.hmap
 
