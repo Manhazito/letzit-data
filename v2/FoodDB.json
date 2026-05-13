@@ -713,7 +713,7 @@
             "id": "29",
             "name": "Queijo fresco",
             "brand": "Continente",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 88,
             "keywords": [
                 "queijos",
@@ -723,13 +723,13 @@
             ],
             "doses": [
                 {
-                    "quantity": 30,
+                    "quantity": 60,
                     "unit": "g",
                     "calsPerUnit": 1.88,
                     "stepSize": 1
                 },
                 {
-                    "quantity": 0.5,
+                    "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 113,
                     "stepSize": 0.5
@@ -9964,6 +9964,33 @@
                     "unit": "ml",
                     "calsPerUnit": 0.59,
                     "stepSize": 1
+                }
+            ]
+        },
+        {
+            "id": "427",
+            "name": "Queijo fresco (meio gordo)",
+            "brand": "Amanhecer",
+            "isBrandRelevant": true,
+            "satietyIdx": 88,
+            "keywords": [
+                "queijos",
+                "frescos",
+                "fresh",
+                "cheeses"
+            ],
+            "doses": [
+                {
+                    "quantity": 62.5,
+                    "unit": "g",
+                    "calsPerUnit": 1.52,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 95,
+                    "stepSize": 0.5
                 }
             ]
         }
