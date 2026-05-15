@@ -125,7 +125,7 @@
             "id": "5",
             "name": "Bolachas de água e sal",
             "brand": "Vieira",
-            "isBrandRelevant": false,
+            "isBrandRelevant": true,
             "satietyIdx": 127,
             "keywords": [
                 "bolachas",
@@ -9990,6 +9990,29 @@
                     "quantity": 1,
                     "unit": "unit",
                     "calsPerUnit": 95,
+                    "stepSize": 0.5
+                }
+            ]
+        },
+        {
+            "id": "428",
+            "name": "Bolachas de água e sal",
+            "brand": "Continente",
+            "isBrandRelevant": true,
+            "satietyIdx": 127,
+            "keywords": [
+                "bolachas",
+                "água",
+                "sal",
+                "water",
+                "salt",
+                "cookies"
+            ],
+            "doses": [
+                {
+                    "quantity": 4,
+                    "unit": "unit",
+                    "calsPerUnit": 13.56,
                     "stepSize": 0.5
                 }
             ]
