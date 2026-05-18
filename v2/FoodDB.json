@@ -23627,7 +23627,7 @@
         },
         {
             "id": "24285ecd-fb91-58b4-8d70-2ce1fce08afc",
-            "name": "Água mineral natural gaseificada, \"Água Castello\"",
+            "name": "Água mineral natural gaseificada",
             "brand": "Água Castello",
             "isBrandRelevant": true,
             "keywords": [],
@@ -23880,7 +23880,7 @@
         },
         {
             "id": "89cdd83e-2246-5925-840b-23e6562cdc1e",
-            "name": "Água mineral natural gaseificada, \"Vimeiro\"",
+            "name": "Água mineral natural gaseificada",
             "brand": "Vimeiro",
             "isBrandRelevant": true,
             "keywords": [],
@@ -24133,7 +24133,7 @@
         },
         {
             "id": "e003dd2d-a704-55ca-a3e9-bcffefe5ab1f",
-            "name": "Água mineral natural gasocarbónica, \"Pedras Salgadas\"",
+            "name": "Água mineral natural gasocarbónica",
             "brand": "Pedras Salgadas",
             "isBrandRelevant": true,
             "keywords": [],
@@ -24386,7 +24386,7 @@
         },
         {
             "id": "248d5b16-bd10-52f9-b78a-384ddce584a2",
-            "name": "Água mineral natural, \"Luso\"",
+            "name": "Água mineral natural",
             "brand": "Luso",
             "isBrandRelevant": true,
             "keywords": [],
@@ -61944,7 +61944,7 @@
         },
         {
             "id": "761bc397-b6f5-54ed-b912-44df06fa84d1",
-            "name": "Bolacha \"Belga\"",
+            "name": "Bolacha Belga",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -62197,7 +62197,7 @@
         },
         {
             "id": "07dea562-18b1-54f3-bab0-f506a543ccb9",
-            "name": "Bolacha \"Cream cracker\"",
+            "name": "Bolacha Cream Cracker",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -62450,7 +62450,7 @@
         },
         {
             "id": "76cefde1-e642-5423-baef-7199de16e302",
-            "name": "Bolacha \"waffer\" baunilha",
+            "name": "Bolacha waffer baunilha",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -85346,7 +85346,7 @@
         },
         {
             "id": "04eaed85-7ca2-5f1c-9044-8cde536d3232",
-            "name": "Cereal de pequeno almoço à base de farelo de trigo (tipo \"All-Bran\")",
+            "name": "Cereal de pequeno almoço à base de farelo de trigo",
             "brand": "All-Bran",
             "isBrandRelevant": true,
             "keywords": [],
@@ -85605,7 +85605,7 @@
         },
         {
             "id": "84be6db0-2352-5ffc-ac27-7d1f3f58f006",
-            "name": "Cereal de pequeno almoço de trigo integral tipo \"Weetabix\"",
+            "name": "Cereal de pequeno almoço de trigo integral",
             "brand": "Weetabix",
             "isBrandRelevant": true,
             "keywords": [],
@@ -139174,7 +139174,7 @@
         },
         {
             "id": "6ee2d079-ee81-54c6-920b-f3a38872e481",
-            "name": "Farinha láctea 5 frutos tipo \"Cerelac\" (com farinha de trigo)",
+            "name": "Farinha láctea 5 frutos com farinha de trigo",
             "brand": "Cerelac",
             "isBrandRelevant": true,
             "keywords": [],
@@ -139427,7 +139427,7 @@
         },
         {
             "id": "b36ba578-0ccf-5f69-b9b2-fe64aef1b425",
-            "name": "Farinha láctea maçãs tipo \"Cerelac\" (com farinha de trigo)",
+            "name": "Farinha láctea maçãs com farinha de trigo",
             "brand": "Cerelac",
             "isBrandRelevant": true,
             "keywords": [],
@@ -139680,7 +139680,7 @@
         },
         {
             "id": "a9dc7d72-e77f-52f3-8f35-7cfdefd21fd1",
-            "name": "Farinha láctea tipo \"Cerelac\" (com farinha de trigo)",
+            "name": "Farinha láctea com farinha de trigo",
             "brand": "Cerelac",
             "isBrandRelevant": true,
             "keywords": [],
@@ -152751,7 +152751,7 @@
         },
         {
             "id": "ee211746-f1b6-56e7-965c-e8259432432e",
-            "name": "Flocos de cereais e frutos secos tipo \"Muesli\"",
+            "name": "Flocos de cereais e frutos secos tipo Muesli",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -153269,9 +153269,9 @@
         },
         {
             "id": "5a017ca5-cdd2-5c8a-ae38-884965094e1c",
-            "name": "Flocos de milho tipo \"Corn Flakes\"",
-            "brand": null,
-            "isBrandRelevant": false,
+            "name": "Flocos de milho",
+            "brand": "Corn Flakes",
+            "isBrandRelevant": true,
             "keywords": [],
             "doses": [
                 {
@@ -153787,7 +153787,7 @@
         },
         {
             "id": "14550d32-64c3-5068-95cb-24550b676c3c",
-            "name": "Flocos de trigo com figos tipo \"Nestum\"",
+            "name": "Flocos de trigo com figos",
             "brand": "Nestum",
             "isBrandRelevant": true,
             "keywords": [],
@@ -154040,7 +154040,7 @@
         },
         {
             "id": "7f21b5a6-b099-5e6f-bc7e-301d76914139",
-            "name": "Flocos de trigo com mel tipo \"Nestum\"",
+            "name": "Flocos de trigo com mel",
             "brand": "Nestum",
             "isBrandRelevant": true,
             "keywords": [],
@@ -154552,7 +154552,7 @@
         },
         {
             "id": "274b1ce4-be31-52be-a3a5-8aafba5459df",
-            "name": "Flocos de trigo integral tipo \"All-Bran Flakes\"",
+            "name": "Flocos de trigo integral",
             "brand": "All-Bran",
             "isBrandRelevant": true,
             "keywords": [],
@@ -221547,7 +221547,7 @@
         },
         {
             "id": "59e437cd-91dd-5285-8b35-78b97bcfe491",
-            "name": "Molho \"Béchamel\" com manteiga",
+            "name": "Molho Béchamel com manteiga",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -221800,7 +221800,7 @@
         },
         {
             "id": "311b43c5-bcfb-5d5f-912e-df62590cf8db",
-            "name": "Molho \"Béchamel\" com margarina",
+            "name": "Molho Béchamel com margarina",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -225848,7 +225848,7 @@
         },
         {
             "id": "38e722d6-0b6f-5728-b271-5dcdf66281df",
-            "name": "Molho de tomate, \"ketchup\"",
+            "name": "Molho de tomate, ketchup",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -230908,7 +230908,7 @@
         },
         {
             "id": "8186c19b-2733-5273-80af-95cb824ba9db",
-            "name": "Néctar de \"tutti - frutti\"",
+            "name": "Néctar de tutti-frutti",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -232191,7 +232191,7 @@
         },
         {
             "id": "e45ed58f-9a79-5211-b268-1267d09446bf",
-            "name": "Néctar de maçã, \"light\"",
+            "name": "Néctar de maçã, light",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -232962,7 +232962,7 @@
         },
         {
             "id": "adc7230a-be39-5c4e-a3cb-56fc8b24fc34",
-            "name": "Néctar de pêssego, \"light\"",
+            "name": "Néctar de pêssego, light",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -234757,7 +234757,7 @@
         },
         {
             "id": "118e2da1-797d-5828-936f-5e654ce19a80",
-            "name": "Óleo \"Becel\"",
+            "name": "Óleo",
             "brand": "Becel",
             "isBrandRelevant": true,
             "keywords": [],
@@ -289723,7 +289723,7 @@
         },
         {
             "id": "d5bcbf42-dba5-5063-9a12-ffd285b02051",
-            "name": "Queijo de cabra \"Pure chèvre\"",
+            "name": "Queijo de cabra",
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [],
@@ -300620,10 +300620,12 @@
         },
         {
             "id": "9e5d6d7c-85ee-5b7d-bed3-08030219f8b8",
-            "name": "Quivi, \"Kiwi\"",
+            "name": "Kiwi",
             "brand": null,
             "isBrandRelevant": false,
-            "keywords": [],
+            "keywords": [
+                "Quivi"
+            ],
             "doses": [
                 {
                     "quantity": 100,
@@ -300879,10 +300881,12 @@
         },
         {
             "id": "4548f976-2629-561e-8c04-e2bccd6f4d23",
-            "name": "Quivi, \"Kiwi\" desidratado",
+            "name": "Kiwi desidratado",
             "brand": null,
             "isBrandRelevant": false,
-            "keywords": [],
+            "keywords": [
+                "Quivi"
+            ],
             "doses": [
                 {
                     "quantity": 100,
