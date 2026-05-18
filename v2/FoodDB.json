@@ -2032,271 +2032,6 @@
             ]
         },
         {
-            "id": "f79cc20d-976c-5687-84c2-1b511d34589c",
-            "name": "Esparguete (cozido)",
-            "keywords": [
-                "pastas",
-                "massas",
-                "esparguete",
-                "spaghetti",
-                "cooked",
-                "cozido",
-                "cozida",
-                "boiled"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 1.02,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 102,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 19.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 0.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 19,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 1.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 3.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 75.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.01,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 1.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.03,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 7,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 240,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 31,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 45,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 1,
-                        "unit": "µg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "358c47bd-db86-5a15-9037-dee66951303e",
             "name": "Grão-de-Bico cozido",
             "keywords": [
@@ -6982,45 +6717,6 @@
             ]
         },
         {
-            "id": "3bd69f32-3baa-5897-8546-917dc0273af4",
-            "name": "Pimenta preta",
-            "keywords": [
-                "pimenta",
-                "preta",
-                "black",
-                "pepper"
-            ],
-            "doses": [
-                {
-                    "quantity": 1,
-                    "unit": "g",
-                    "calsPerUnit": 2.5,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 3,
-                    "unit": "tsp",
-                    "calsPerUnit": 5.833333333333,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "tbsp",
-                    "calsPerUnit": 17.5,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 250,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
             "id": "8e2a0f00-e230-5610-bd2d-2456bc23d12f",
             "name": "Sal",
             "keywords": [
@@ -7387,34 +7083,6 @@
             ]
         },
         {
-            "id": "67cffb05-6073-5ece-99a3-4c311424ee06",
-            "name": "Manjericão fresco",
-            "keywords": [
-                "manjericão",
-                "fresco",
-                "fresh",
-                "basil",
-                "manjericao"
-            ],
-            "doses": [
-                {
-                    "quantity": 2.5,
-                    "unit": "g",
-                    "calsPerUnit": 0.23,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 23,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
             "id": "361ebc3b-4088-5dc3-9843-949ac97fecb3",
             "name": "Pizza de Quatro Queijos Ristorante",
             "brand": "Dr. Oetker",
@@ -7484,34 +7152,6 @@
                 {
                     "energy": {
                         "value": 443,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "3b63f091-e24e-5c9a-9570-a531f8cffb12",
-            "name": "Donut",
-            "keywords": [
-                "donuts",
-                "clássicos",
-                "classic",
-                "doughnuts",
-                "donut"
-            ],
-            "doses": [
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 197.5,
-                    "stepSize": 0.5
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 395,
                         "unit": "kcal"
                     }
                 }
@@ -8597,40 +8237,6 @@
             ]
         },
         {
-            "id": "8f17e67f-e783-5fa0-9627-739523892aef",
-            "name": "Bolo de Chocolate",
-            "keywords": [
-                "bolos",
-                "chocolate",
-                "cakes",
-                "bolo",
-                "cake"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 4.25,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "slice",
-                    "calsPerUnit": 425,
-                    "stepSize": 0.5
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 425,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
             "id": "637a8bb7-5a0f-5d30-9b0c-89705c25aa18",
             "name": "Bolo de Manteiga (mini)",
             "keywords": [
@@ -9315,41 +8921,6 @@
                 {
                     "energy": {
                         "value": 170,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "6c79876b-8f56-54d5-aa2b-a272cf9271fb",
-            "name": "Rissol de camarão",
-            "keywords": [
-                "rissol",
-                "rissóis",
-                "camarão",
-                "shrimp",
-                "camarao",
-                "prawn"
-            ],
-            "doses": [
-                {
-                    "quantity": 60,
-                    "unit": "g",
-                    "calsPerUnit": 1.38,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 82.8,
-                    "stepSize": 0.5
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 138,
                         "unit": "kcal"
                     }
                 }
@@ -10110,6 +9681,234 @@
                         "value": 110,
                         "unit": "kcal"
                     }
+                },
+                {
+                    "lipids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "saturatedFattyAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "monounsaturatedFattyAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "polyunsaturatedFattyAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "linoleicAcid": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "transFattyAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "carbohydrates": {
+                        "value": 17.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "sugars": {
+                        "value": 15.9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "oligosaccharides": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "starch": {
+                        "value": 1.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "fiber": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "proteins": {
+                        "value": 4.7,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "salt": {
+                        "value": 14,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "alcohol": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "water": {
+                        "value": 68.1,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "organicAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "cholesterol": {
+                        "value": 0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminA": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "carotene": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "vitaminD": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "alphaTocopherol": {
+                        "value": 0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "thiamine": {
+                        "value": 0.04,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "riboflavin": {
+                        "value": 0.15,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "niacin": {
+                        "value": 2.8,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "niacinEquivalents": {
+                        "value": 4.25,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "tryptophan60": {
+                        "value": 1.45,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminB6": {
+                        "value": 0.15,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminB12": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "vitaminC": {
+                        "value": 0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "folates": {
+                        "value": 12.5,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "ash": {
+                        "value": 15.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "sodium": {
+                        "value": 5570,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "potassium": {
+                        "value": 200,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "calcium": {
+                        "value": 18,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "phosphorus": {
+                        "value": 86,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "magnesium": {
+                        "value": 40,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "iron": {
+                        "value": 2.2,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "zinc": {
+                        "value": 0.4,
+                        "unit": "mg"
+                    }
                 }
             ]
         },
@@ -10352,40 +10151,6 @@
                 {
                     "energy": {
                         "value": 100,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "0ce6c16d-22b1-5ddd-aa40-c0edd5fb6ca2",
-            "name": "Noz-Moscada",
-            "keywords": [
-                "noz",
-                "moscada",
-                "nutmeg",
-                "nut",
-                "walnut"
-            ],
-            "doses": [
-                {
-                    "quantity": 6,
-                    "unit": "g",
-                    "calsPerUnit": 1.375,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "tbsp",
-                    "calsPerUnit": 8.25,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 137.5,
                         "unit": "kcal"
                     }
                 }
@@ -15112,35 +14877,6 @@
             ]
         },
         {
-            "id": "960de49b-82b4-5faf-ba1d-7a46083e87e3",
-            "name": "Sementes de Sésamo",
-            "keywords": [
-                "sementes",
-                "sésamo",
-                "sesame",
-                "seeds",
-                "semente",
-                "sesamo"
-            ],
-            "doses": [
-                {
-                    "quantity": 3,
-                    "unit": "g",
-                    "calsPerUnit": 5.85,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 585,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
             "id": "d8a37019-0859-5e2b-8e2d-ae585f173af2",
             "name": "Cebolinho",
             "keywords": [
@@ -16181,7 +15917,7 @@
         },
         {
             "id": "c26ffb4e-53ff-5f5d-9d69-f5f8b241225c",
-            "name": "Molho de Tomate",
+            "name": "Molho de tomate caseiro",
             "keywords": [
                 "tomatoes",
                 "sauce",
@@ -16719,43 +16455,6 @@
                 {
                     "energy": {
                         "value": 74,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "3ddcaee1-45a1-549c-906b-1e35cbf2e435",
-            "name": "Figo seco",
-            "keywords": [
-                "figos",
-                "figs",
-                "secos",
-                "dried",
-                "dry",
-                "figo",
-                "fig",
-                "seco"
-            ],
-            "doses": [
-                {
-                    "quantity": 9,
-                    "unit": "g",
-                    "calsPerUnit": 2.5,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 22.5,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 250,
                         "unit": "kcal"
                     }
                 }
@@ -17593,35 +17292,6 @@
                 {
                     "energy": {
                         "value": 270,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "83519824-370f-5a18-9d4a-78cadb518079",
-            "name": "Queijo de Cabra (curado)",
-            "keywords": [
-                "queijos",
-                "cabra",
-                "goat",
-                "cheese",
-                "queijo",
-                "curado"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 3.8,
-                    "stepSize": 1
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 380,
                         "unit": "kcal"
                     }
                 }
@@ -18491,6 +18161,234 @@
                         "value": 364,
                         "unit": "kcal"
                     }
+                },
+                {
+                    "lipids": {
+                        "value": 2.4,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "saturatedFattyAcids": {
+                        "value": 0.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "monounsaturatedFattyAcids": {
+                        "value": 0.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "polyunsaturatedFattyAcids": {
+                        "value": 0.9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "linoleicAcid": {
+                        "value": 0.8,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "transFattyAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "carbohydrates": {
+                        "value": 65.2,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "sugars": {
+                        "value": 2.3,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "oligosaccharides": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "starch": {
+                        "value": 62.9,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "fiber": {
+                        "value": 8.6,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "proteins": {
+                        "value": 9.6,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "salt": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "alcohol": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "water": {
+                        "value": 12.6,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "organicAcids": {
+                        "value": 0,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "cholesterol": {
+                        "value": 0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminA": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "carotene": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "vitaminD": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "alphaTocopherol": {
+                        "value": 1.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "thiamine": {
+                        "value": 0.37,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "riboflavin": {
+                        "value": 0.09,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "niacin": {
+                        "value": 5.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "niacinEquivalents": {
+                        "value": 7.4,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "tryptophan60": {
+                        "value": 2,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminB6": {
+                        "value": 0.43,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "vitaminB12": {
+                        "value": 0,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "vitaminC": {
+                        "value": 0,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "folates": {
+                        "value": 43,
+                        "unit": "µg"
+                    }
+                },
+                {
+                    "ash": {
+                        "value": 1.58,
+                        "unit": "g"
+                    }
+                },
+                {
+                    "sodium": {
+                        "value": 3,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "potassium": {
+                        "value": 370,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "calcium": {
+                        "value": 45,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "phosphorus": {
+                        "value": 430,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "magnesium": {
+                        "value": 140,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "iron": {
+                        "value": 4.3,
+                        "unit": "mg"
+                    }
+                },
+                {
+                    "zinc": {
+                        "value": 3,
+                        "unit": "mg"
+                    }
                 }
             ]
         },
@@ -18646,42 +18544,6 @@
                 {
                     "energy": {
                         "value": 15,
-                        "unit": "kcal"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "37987902-2816-513d-85cf-7fcc23313a7e",
-            "name": "Kiwi",
-            "keywords": [
-                "fruta",
-                "fruit",
-                "kiwi",
-                "quiuí",
-                "quivi",
-                "kiwis",
-                "quiwis"
-            ],
-            "doses": [
-                {
-                    "quantity": 75,
-                    "unit": "g",
-                    "calsPerUnit": 0.6,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 45,
-                    "stepSize": 0.5
-                }
-            ],
-            "isPublic": false,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 60,
                         "unit": "kcal"
                     }
                 }
@@ -27806,268 +27668,6 @@
             ]
         },
         {
-            "id": "8f1daf68-3896-5140-a1e2-c124102ef433",
-            "name": "Alface",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "alface",
-                "lettuce"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.15,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 15,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 1.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 1.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 95.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 115,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 688,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.06,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.02,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 55,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.65,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 310,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 70,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 46,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 22,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 1.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 2.2,
-                        "unit": "µg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "3d191817-6b2d-5ed1-85d7-80d4a44966fa",
             "name": "Alface roxa",
             "brand": null,
@@ -34379,270 +33979,6 @@
                 {
                     "iodine": {
                         "value": 0.4,
-                        "unit": "µg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "2ee9960f-6456-5474-bd92-9f6a61b130b6",
-            "name": "Ananás ",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "ananás",
-                "ananas",
-                "ananá",
-                "pineapple"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.47,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 47,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 9.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 9.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 1.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 87.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 1.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 3,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 20,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.03,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.09,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 16,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 5,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 160,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 18,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 13,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 3.7,
                         "unit": "µg"
                     }
                 }
@@ -49958,276 +49294,6 @@
                     "zinc": {
                         "value": 1.1,
                         "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "8acc320e-f30c-572d-b6f7-a3ec8dcce378",
-            "name": "Banana",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "banana",
-                "bananas",
-                "fruta",
-                "fruit"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 1.04,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 145.6,
-                    "stepSize": 0.5
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 104,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 21.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 19.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 2.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 3.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 1.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 72.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 4,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 21,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.27,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.06,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.07,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.29,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 10,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 14,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.89,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 430,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 8,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 25,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 28,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 3.8,
-                        "unit": "µg"
                     }
                 }
             ]
@@ -67284,7 +66350,9 @@
             "keywords": [
                 "bolo",
                 "cake",
-                "chocolate"
+                "chocolate",
+                "bolos",
+                "cakes"
             ],
             "doses": [
                 {
@@ -67292,6 +66360,12 @@
                     "unit": "g",
                     "calsPerUnit": 4.63,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "slice",
+                    "calsPerUnit": 463,
+                    "stepSize": 0.5
                 }
             ],
             "satietyIdx": 100,
@@ -122650,267 +121724,6 @@
             ]
         },
         {
-            "id": "5360d195-08af-542b-9234-07c87b5531a4",
-            "name": "Croissant",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "croissant"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 4.16,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 416,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 23.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 10.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 2.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 2.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 1.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 42.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 0.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 41.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 2.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 7.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 1.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 22.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 52,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 21,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0.1,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.06,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.14,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 3.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 1.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.08,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0.01,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 73,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 1.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 440,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 120,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 45,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 120,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 30,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 1.8,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.8,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 5,
-                        "unit": "µg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "0e821804-73fe-59a2-9da4-845f49e89fc5",
             "name": "Croquete",
             "brand": null,
@@ -127569,7 +126382,11 @@
             "brand": null,
             "isBrandRelevant": false,
             "keywords": [
-                "donut"
+                "donut",
+                "donuts",
+                "clássicos",
+                "classic",
+                "doughnuts"
             ],
             "doses": [
                 {
@@ -127577,6 +126394,12 @@
                     "unit": "g",
                     "calsPerUnit": 4,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 200,
+                    "stepSize": 0.5
                 }
             ],
             "satietyIdx": 100,
@@ -137268,7 +136091,11 @@
                 "esparguete",
                 "cozido",
                 "cooked",
-                "boiled"
+                "boiled",
+                "pastas",
+                "massas",
+                "spaghetti",
+                "cozida"
             ],
             "doses": [
                 {
@@ -142715,267 +141542,6 @@
                 {
                     "zinc": {
                         "value": 0.8,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "50a7bd27-efb1-5aca-b4cd-2754f15753e8",
-            "name": "Farinha de trigo integral",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "farinha",
-                "flour",
-                "trigo",
-                "wheat",
-                "integral",
-                "wholegrain",
-                "wholemeal"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 3.38,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 338,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 2.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 65.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 2.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 62.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 8.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 9.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 12.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 1.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.37,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.09,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 5.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 7.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.43,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 43,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 1.58,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 370,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 45,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 430,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 140,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 4.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 3,
                         "unit": "mg"
                     }
                 }
@@ -155899,13 +154465,23 @@
                 "figo",
                 "fig",
                 "seco",
-                "dried"
+                "dried",
+                "figos",
+                "figs",
+                "secos",
+                "dry"
             ],
             "doses": [
                 {
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 2.7,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 24.3,
                     "stepSize": 1
                 }
             ],
@@ -201755,277 +200331,6 @@
             ]
         },
         {
-            "id": "84134f54-ef97-536e-94fd-7c860804f6b0",
-            "name": "Limão",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "limão",
-                "limões",
-                "limao",
-                "limoes",
-                "lemon",
-                "lemons",
-                "citrino",
-                "citrinos",
-                "citrus",
-                "fruta",
-                "fruit"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.31,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 17.98,
-                    "stepSize": 0.5
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 31,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 1.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 1.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 2.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 90.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 4.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 2,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 11,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.02,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.07,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 55,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 9,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.42,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 140,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 26,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 16,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "62da94fd-04c9-5269-805e-ee193254716a",
             "name": "Língua de porco crua",
             "brand": null,
@@ -216759,272 +215064,6 @@
             ]
         },
         {
-            "id": "21f966ab-cf46-5b17-b7ed-dae74f0dd99c",
-            "name": "Manga",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "manga",
-                "mangas",
-                "mango",
-                "mangos",
-                "fruta",
-                "fruit"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.59,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 118,
-                    "stepSize": 0.5
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 59,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 11.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 11.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 2.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 83.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 300,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 1800,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.05,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.13,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 23,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 36,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 14,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 120,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 10,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 13,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "86f354c6-7362-57b5-8343-eb85f4530a0e",
             "name": "Manga desidratada",
             "brand": null,
@@ -217267,7 +215306,9 @@
             "keywords": [
                 "manjericão",
                 "manjericao",
-                "fresco"
+                "fresco",
+                "fresh",
+                "basil"
             ],
             "doses": [
                 {
@@ -224007,262 +222048,6 @@
             ]
         },
         {
-            "id": "9fc3f905-380e-5512-826b-4ece9b9f360d",
-            "name": "Mel",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "mel",
-                "honey"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 3.14,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 314,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 78,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 78,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 18.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.01,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.16,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 12,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 51,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 10,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.9,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "77a12f84-e276-566b-b438-39f3f97e1b4e",
             "name": "Mel de cana",
             "brand": null,
@@ -224776,268 +222561,6 @@
                 {
                     "iodine": {
                         "value": 0,
-                        "unit": "µg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "25e50455-f30b-5644-8fc4-73c84555b9ae",
-            "name": "Melancia",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "melancia",
-                "watermelon"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.26,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 26,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 5.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 5.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 93.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 50,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 300,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.02,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.01,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.14,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 2,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.29,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 100,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 10,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 12,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iodine": {
-                        "value": 0.3,
                         "unit": "µg"
                     }
                 }
@@ -232399,264 +229922,6 @@
                 {
                     "zinc": {
                         "value": 0.3,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "505fad76-9fca-52dd-9ed5-e193a6f2b3f0",
-            "name": "Molho de soja",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "molho",
-                "sauce",
-                "soja",
-                "soy"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.89,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 89,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 17.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 15.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 1.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 4.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 14,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 68.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.15,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 2.8,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 4.25,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 1.45,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.15,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 12.5,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 15.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 5570,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 200,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 18,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 86,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 40,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 2.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.4,
                         "unit": "mg"
                     }
                 }
@@ -241791,13 +239056,20 @@
                 "noz",
                 "nut",
                 "walnut",
-                "moscada"
+                "moscada",
+                "nutmeg"
             ],
             "doses": [
                 {
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 5.06,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "calsPerUnit": 30.36,
                     "stepSize": 1
                 }
             ],
@@ -259301,262 +256573,6 @@
                 {
                     "zinc": {
                         "value": 0.8,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "525773c6-ffd5-5ced-a55b-c081ce467a23",
-            "name": "Pastel de nata",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "pastel",
-                "nata"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 2.99,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 299,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 10.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 4.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 2.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 1.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 1.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0.3,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 48.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 28,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 20.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 2.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0.4,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 36.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 72,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 98,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 4,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0.2,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.07,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 1.3,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0.9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.05,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0.15,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 6.4,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.6,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 140,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 100,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 26,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 51,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 7,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.2,
                         "unit": "mg"
                     }
                 }
@@ -289836,13 +286852,27 @@
             "isBrandRelevant": false,
             "keywords": [
                 "pimenta",
-                "preta"
+                "preta",
+                "black",
+                "pepper"
             ],
             "doses": [
                 {
                     "quantity": 100,
                     "unit": "g",
                     "calsPerUnit": 3.02,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 3,
+                    "unit": "tsp",
+                    "calsPerUnit": 7.0467,
+                    "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "calsPerUnit": 21.14,
                     "stepSize": 1
                 }
             ],
@@ -299479,7 +296509,9 @@
                 "queijo",
                 "cheese",
                 "cabra",
-                "curado"
+                "curado",
+                "queijos",
+                "goat"
             ],
             "doses": [
                 {
@@ -305943,264 +302975,6 @@
             ]
         },
         {
-            "id": "86e13c84-0057-53fd-8d14-4dcdaa2db8a7",
-            "name": "Queijo Parmesão",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "queijo",
-                "cheese",
-                "parmesão",
-                "parmesao"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 4.06,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 406,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 27.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 14.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 7.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 1.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 1.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 37.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 1.9,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 28.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 1.5,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 90,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 248,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 135,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0.3,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.6,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.02,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 9.4,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 1.5,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 20,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 4.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 770,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 150,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 1300,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 900,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 51,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 1.1,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 4,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
             "id": "3a8b932b-495c-546c-b29a-3c32653e4346",
             "name": "Queijo Quark açucarado magro com sabor a fruta",
             "brand": null,
@@ -309845,7 +306619,8 @@
                 "kiwis",
                 "quiwis",
                 "fruta",
-                "fruit"
+                "fruit",
+                "quiuí"
             ],
             "doses": [
                 {
@@ -315840,7 +312615,8 @@
                 "camarão",
                 "camarao",
                 "shrimp",
-                "prawn"
+                "prawn",
+                "rissóis"
             ],
             "doses": [
                 {
@@ -315848,6 +312624,12 @@
                     "unit": "g",
                     "calsPerUnit": 2.11,
                     "stepSize": 1
+                },
+                {
+                    "quantity": 1,
+                    "unit": "unit",
+                    "calsPerUnit": 126.6,
+                    "stepSize": 0.5
                 }
             ],
             "satietyIdx": 100,
@@ -318941,262 +315723,6 @@
                 {
                     "zinc": {
                         "value": 1.1,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "4d91a008-e2c0-5c60-9921-e801edb09fbc",
-            "name": "Sal",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "sal",
-                "salt"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0,
-                    "stepSize": 1
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 0,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 100,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 98,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 40000,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 300,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0,
                         "unit": "mg"
                     }
                 }
@@ -331053,7 +327579,8 @@
                 "semente",
                 "seeds",
                 "sésamo",
-                "sesamo"
+                "sesamo",
+                "sesame"
             ],
             "doses": [
                 {
@@ -348993,278 +345520,6 @@
                 {
                     "iron": {
                         "value": 0.5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "zinc": {
-                        "value": 0.1,
-                        "unit": "mg"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "c6229477-3ddd-5472-9770-d4046034fd40",
-            "name": "Tangerina",
-            "brand": null,
-            "isBrandRelevant": false,
-            "keywords": [
-                "tangerina",
-                "tangerinas",
-                "tangerine",
-                "tangerines",
-                "mandarina",
-                "mandarinas",
-                "mandarin",
-                "citrino",
-                "citrinos",
-                "citrus",
-                "fruta",
-                "fruit"
-            ],
-            "doses": [
-                {
-                    "quantity": 100,
-                    "unit": "g",
-                    "calsPerUnit": 0.44,
-                    "stepSize": 1
-                },
-                {
-                    "quantity": 1,
-                    "unit": "unit",
-                    "calsPerUnit": 44,
-                    "stepSize": 0.5
-                }
-            ],
-            "satietyIdx": 100,
-            "isPublic": true,
-            "nutritionalValues": [
-                {
-                    "energy": {
-                        "value": 44,
-                        "unit": "kcal"
-                    }
-                },
-                {
-                    "lipids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "saturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "monounsaturatedFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "polyunsaturatedFattyAcids": {
-                        "value": 0.1,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "linoleicAcid": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "transFattyAcids": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "carbohydrates": {
-                        "value": 8.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sugars": {
-                        "value": 8.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "oligosaccharides": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "starch": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "fiber": {
-                        "value": 1.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "proteins": {
-                        "value": 0.7,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "salt": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "alcohol": {
-                        "value": 0,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "water": {
-                        "value": 88.2,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "organicAcids": {
-                        "value": 0.8,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "cholesterol": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminA": {
-                        "value": 33,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "carotene": {
-                        "value": 200,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminD": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "alphaTocopherol": {
-                        "value": 0.24,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "thiamine": {
-                        "value": 0.08,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "riboflavin": {
-                        "value": 0.04,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacin": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "niacinEquivalents": {
-                        "value": 0.2,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "tryptophan60": {
-                        "value": 0,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB6": {
-                        "value": 0.07,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "vitaminB12": {
-                        "value": 0,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "vitaminC": {
-                        "value": 32,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "folates": {
-                        "value": 21,
-                        "unit": "µg"
-                    }
-                },
-                {
-                    "ash": {
-                        "value": 0.43,
-                        "unit": "g"
-                    }
-                },
-                {
-                    "sodium": {
-                        "value": 5,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "potassium": {
-                        "value": 240,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "calcium": {
-                        "value": 30,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "phosphorus": {
-                        "value": 16,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "magnesium": {
-                        "value": 9,
-                        "unit": "mg"
-                    }
-                },
-                {
-                    "iron": {
-                        "value": 0.3,
                         "unit": "mg"
                     }
                 },

@@ -144,8 +144,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 646.8,
-                            "perServing": 161.7,
+                            "total": 1277.8,
+                            "perServing": 319.5,
                             "unit": "kcal"
                         }
                     }
@@ -271,8 +271,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 819.2,
-                            "perServing": 409.6,
+                            "total": 769.7,
+                            "perServing": 384.9,
                             "unit": "kcal"
                         }
                     }
@@ -514,8 +514,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 805.2,
-                            "perServing": 402.6,
+                            "total": 755.7,
+                            "perServing": 377.9,
                             "unit": "kcal"
                         }
                     }
@@ -634,8 +634,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 732.7,
-                            "perServing": 366.4,
+                            "total": 733.8,
+                            "perServing": 366.9,
                             "unit": "kcal"
                         }
                     }
@@ -702,8 +702,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -734,8 +734,8 @@
                                     "notes": "Para ornamentar no final.",
                                     "quantity": 2.5,
                                     "unit": "g",
-                                    "ingredientId": "67cffb05-6073-5ece-99a3-4c311424ee06",
-                                    "calsPerUnit": 0.23,
+                                    "ingredientId": "cd1dfbc5-c69f-5091-81c0-bf7a98921c28",
+                                    "calsPerUnit": 0.48,
                                     "stepSize": 1
                                 }
                             ],
@@ -787,8 +787,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 2666.2,
-                            "perServing": 333.3,
+                            "total": 2741.4,
+                            "perServing": 342.7,
                             "unit": "kcal"
                         }
                     }
@@ -928,8 +928,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 879.4,
-                            "perServing": 439.7,
+                            "total": 881.5,
+                            "perServing": 440.8,
                             "unit": "kcal"
                         }
                     }
@@ -1018,8 +1018,8 @@
                                 {
                                     "quantity": 4,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -1090,8 +1090,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 810.1,
-                            "perServing": 405.1,
+                            "total": 688.3,
+                            "perServing": 344.2,
                             "unit": "kcal"
                         }
                     }
@@ -1175,8 +1175,8 @@
                                 {
                                     "quantity": 4,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -1613,8 +1613,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 659.8,
-                            "perServing": 329.9,
+                            "total": 610.2,
+                            "perServing": 305.1,
                             "unit": "kcal"
                         }
                     }
@@ -1740,8 +1740,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 489.6,
-                            "perServing": 489.6,
+                            "total": 501.2,
+                            "perServing": 501.2,
                             "unit": "kcal"
                         }
                     }
@@ -1798,15 +1798,15 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
                                     "quantity": 3,
                                     "unit": "g",
-                                    "ingredientId": "0ce6c16d-22b1-5ddd-aa40-c0edd5fb6ca2",
-                                    "calsPerUnit": 1.375,
+                                    "ingredientId": "69242363-c705-506b-a1cc-63996d4fc108",
+                                    "calsPerUnit": 5.06,
                                     "stepSize": 1
                                 }
                             ],
@@ -2102,8 +2102,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 3179.8,
-                            "perServing": 397.5,
+                            "total": 3543.4,
+                            "perServing": 442.9,
                             "unit": "kcal"
                         }
                     }
@@ -2168,8 +2168,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "tbsp",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 17.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 21.14,
                                     "stepSize": 1
                                 },
                                 {
@@ -2234,8 +2234,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 599.2,
-                            "perServing": 299.6,
+                            "total": 549.7,
+                            "perServing": 274.9,
                             "unit": "kcal"
                         }
                     }
@@ -2346,8 +2346,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 2338.5,
-                            "perServing": 194.9,
+                            "total": 2217.3,
+                            "perServing": 184.8,
                             "unit": "kcal"
                         }
                     }
@@ -2417,8 +2417,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "tsp",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 5.833333333333,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 7.0467,
                                     "stepSize": 1
                                 },
                                 {
@@ -2494,7 +2494,7 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 698.5,
+                            "total": 698.6,
                             "perServing": 349.3,
                             "unit": "kcal"
                         }
@@ -2831,8 +2831,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 790.6,
-                            "perServing": 395.3,
+                            "total": 782.6,
+                            "perServing": 391.3,
                             "unit": "kcal"
                         }
                     }
@@ -2932,8 +2932,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 807,
-                            "perServing": 403.5,
+                            "total": 820,
+                            "perServing": 410,
                             "unit": "kcal"
                         }
                     }
@@ -3040,8 +3040,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 765.6,
-                            "perServing": 382.8,
+                            "total": 769.2,
+                            "perServing": 384.6,
                             "unit": "kcal"
                         }
                     }
@@ -3249,8 +3249,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 770.5,
-                            "perServing": 385.3,
+                            "total": 470.2,
+                            "perServing": 235.1,
                             "unit": "kcal"
                         }
                     }
@@ -3384,8 +3384,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 786,
-                            "perServing": 393,
+                            "total": 737,
+                            "perServing": 368.5,
                             "unit": "kcal"
                         }
                     }
@@ -3458,8 +3458,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -3548,8 +3548,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 936.2,
-                            "perServing": 117,
+                            "total": 936.8,
+                            "perServing": 117.1,
                             "unit": "kcal"
                         }
                     }
@@ -3610,8 +3610,8 @@
                                 {
                                     "quantity": 2.5,
                                     "unit": "g",
-                                    "ingredientId": "67cffb05-6073-5ece-99a3-4c311424ee06",
-                                    "calsPerUnit": 0.23,
+                                    "ingredientId": "cd1dfbc5-c69f-5091-81c0-bf7a98921c28",
+                                    "calsPerUnit": 0.48,
                                     "stepSize": 1
                                 }
                             ],
@@ -3661,8 +3661,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 2453.9,
-                            "perServing": 613.5,
+                            "total": 2308.5,
+                            "perServing": 577.1,
                             "unit": "kcal"
                         }
                     }
@@ -3753,8 +3753,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -3842,8 +3842,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 268.5,
-                            "perServing": 134.3,
+                            "total": 333.8,
+                            "perServing": 166.9,
                             "unit": "kcal"
                         }
                     }
@@ -3956,8 +3956,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -4007,8 +4007,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 459.2,
-                            "perServing": 229.6,
+                            "total": 459.7,
+                            "perServing": 229.9,
                             "unit": "kcal"
                         }
                     }
@@ -4064,8 +4064,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -4470,8 +4470,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 735.5,
-                            "perServing": 367.8,
+                            "total": 741.7,
+                            "perServing": 370.9,
                             "unit": "kcal"
                         }
                     }
@@ -4547,8 +4547,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -4955,8 +4955,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 635.3,
-                            "perServing": 317.7,
+                            "total": 633.7,
+                            "perServing": 316.9,
                             "unit": "kcal"
                         }
                     }
@@ -5045,8 +5045,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -5107,8 +5107,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 834,
-                            "perServing": 417,
+                            "total": 835.3,
+                            "perServing": 417.7,
                             "unit": "kcal"
                         }
                     }
@@ -5153,8 +5153,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "tsp",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 5.833333333333,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 7.0467,
                                     "stepSize": 1
                                 },
                                 {
@@ -5393,8 +5393,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 840.6,
-                            "perServing": 420.3,
+                            "total": 841.7,
+                            "perServing": 420.9,
                             "unit": "kcal"
                         }
                     }
@@ -5566,8 +5566,8 @@
                                 {
                                     "quantity": 3,
                                     "unit": "g",
-                                    "ingredientId": "960de49b-82b4-5faf-ba1d-7a46083e87e3",
-                                    "calsPerUnit": 5.85,
+                                    "ingredientId": "6a079162-b156-580d-9974-d53a06308e08",
+                                    "calsPerUnit": 6.2,
                                     "stepSize": 1
                                 }
                             ],
@@ -5848,8 +5848,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 917,
-                            "perServing": 183.4,
+                            "total": 911.6,
+                            "perServing": 182.3,
                             "unit": "kcal"
                         }
                     }
@@ -5975,8 +5975,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 762.2,
-                            "perServing": 190.6,
+                            "total": 489,
+                            "perServing": 122.3,
                             "unit": "kcal"
                         }
                     }
@@ -6044,8 +6044,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -6330,8 +6330,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 1478,
-                            "perServing": 184.8,
+                            "total": 1388.4,
+                            "perServing": 173.6,
                             "unit": "kcal"
                         }
                     }
@@ -6454,8 +6454,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 153.8,
-                            "perServing": 153.8,
+                            "total": 154.3,
+                            "perServing": 154.3,
                             "unit": "kcal"
                         }
                     }
@@ -6535,8 +6535,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -7079,8 +7079,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 626.1,
-                            "perServing": 313.1,
+                            "total": 627.7,
+                            "perServing": 313.9,
                             "unit": "kcal"
                         }
                     }
@@ -7180,8 +7180,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -7235,8 +7235,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 880.7,
-                            "perServing": 440.4,
+                            "total": 757.4,
+                            "perServing": 378.7,
                             "unit": "kcal"
                         }
                     }
@@ -7330,8 +7330,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -7510,8 +7510,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 618.5,
-                            "perServing": 154.6,
+                            "total": 690.5,
+                            "perServing": 172.6,
                             "unit": "kcal"
                         }
                     }
@@ -7630,8 +7630,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 821.5,
-                            "perServing": 410.8,
+                            "total": 822.1,
+                            "perServing": 411.1,
                             "unit": "kcal"
                         }
                     }
@@ -7690,8 +7690,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -7758,7 +7758,7 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 735.5,
+                            "total": 735.6,
                             "perServing": 367.8,
                             "unit": "kcal"
                         }
@@ -7924,8 +7924,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 805.3,
-                            "perServing": 402.7,
+                            "total": 891.3,
+                            "perServing": 445.7,
                             "unit": "kcal"
                         }
                     }
@@ -8392,8 +8392,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 514.9,
-                            "perServing": 257.5,
+                            "total": 296.5,
+                            "perServing": 148.3,
                             "unit": "kcal"
                         }
                     }
@@ -8785,8 +8785,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 692.9,
-                            "perServing": 346.5,
+                            "total": 693.4,
+                            "perServing": 346.7,
                             "unit": "kcal"
                         }
                     }
@@ -8843,8 +8843,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -8916,8 +8916,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 778.2,
-                            "perServing": 389.1,
+                            "total": 778.7,
+                            "perServing": 389.4,
                             "unit": "kcal"
                         }
                     }
@@ -8997,8 +8997,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -9078,8 +9078,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 749.5,
-                            "perServing": 374.8,
+                            "total": 750.1,
+                            "perServing": 375.1,
                             "unit": "kcal"
                         }
                     }
@@ -9159,8 +9159,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -9235,8 +9235,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 789,
-                            "perServing": 394.5,
+                            "total": 789.5,
+                            "perServing": 394.8,
                             "unit": "kcal"
                         }
                     }
@@ -9316,8 +9316,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -9389,8 +9389,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 894.4,
-                            "perServing": 178.9,
+                            "total": 934.9,
+                            "perServing": 187,
                             "unit": "kcal"
                         }
                     }
@@ -9524,8 +9524,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 537,
-                            "perServing": 89.5,
+                            "total": 563.8,
+                            "perServing": 94,
                             "unit": "kcal"
                         }
                     }
@@ -9852,8 +9852,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 623.8,
-                            "perServing": 311.9,
+                            "total": 624.3,
+                            "perServing": 312.2,
                             "unit": "kcal"
                         }
                     }
@@ -9936,8 +9936,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -9995,8 +9995,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 603.8,
-                            "perServing": 301.9,
+                            "total": 607,
+                            "perServing": 303.5,
                             "unit": "kcal"
                         }
                     }
@@ -10074,8 +10074,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -10133,8 +10133,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 487.1,
-                            "perServing": 243.6,
+                            "total": 487.7,
+                            "perServing": 243.9,
                             "unit": "kcal"
                         }
                     }
@@ -10223,8 +10223,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -10283,8 +10283,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 1420.5,
-                            "perServing": 355.1,
+                            "total": 1421,
+                            "perServing": 355.3,
                             "unit": "kcal"
                         }
                     }
@@ -10414,8 +10414,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -10634,8 +10634,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 662.2,
-                            "perServing": 331.1,
+                            "total": 563.7,
+                            "perServing": 281.9,
                             "unit": "kcal"
                         }
                     }
@@ -10701,8 +10701,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -10760,8 +10760,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 567.1,
-                            "perServing": 283.6,
+                            "total": 565.5,
+                            "perServing": 282.8,
                             "unit": "kcal"
                         }
                     }
@@ -10848,8 +10848,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -10905,8 +10905,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 849,
-                            "perServing": 424.5,
+                            "total": 850.3,
+                            "perServing": 425.2,
                             "unit": "kcal"
                         }
                     }
@@ -10974,8 +10974,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "tsp",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 5.833333333333,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 7.0467,
                                     "stepSize": 1
                                 },
                                 {
@@ -11065,8 +11065,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 866.8,
-                            "perServing": 433.4,
+                            "total": 867.3,
+                            "perServing": 433.7,
                             "unit": "kcal"
                         }
                     }
@@ -11152,8 +11152,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -11283,8 +11283,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 700.5,
-                            "perServing": 350.3,
+                            "total": 577.2,
+                            "perServing": 288.6,
                             "unit": "kcal"
                         }
                     }
@@ -11355,8 +11355,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -11521,8 +11521,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 541.6,
-                            "perServing": 270.8,
+                            "total": 532.3,
+                            "perServing": 266.2,
                             "unit": "kcal"
                         }
                     }
@@ -11708,8 +11708,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 920.9,
-                            "perServing": 115.1,
+                            "total": 921.6,
+                            "perServing": 115.2,
                             "unit": "kcal"
                         }
                     }
@@ -11760,8 +11760,8 @@
                                 {
                                     "quantity": 2.5,
                                     "unit": "g",
-                                    "ingredientId": "67cffb05-6073-5ece-99a3-4c311424ee06",
-                                    "calsPerUnit": 0.23,
+                                    "ingredientId": "cd1dfbc5-c69f-5091-81c0-bf7a98921c28",
+                                    "calsPerUnit": 0.48,
                                     "stepSize": 1
                                 }
                             ],
@@ -11942,8 +11942,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 540.7,
-                            "perServing": 270.4,
+                            "total": 577.7,
+                            "perServing": 288.9,
                             "unit": "kcal"
                         }
                     }
@@ -12030,8 +12030,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -12081,8 +12081,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 237.2,
-                            "perServing": 118.6,
+                            "total": 238.5,
+                            "perServing": 119.3,
                             "unit": "kcal"
                         }
                     }
@@ -12125,8 +12125,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "tsp",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 5.833333333333,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 7.0467,
                                     "stepSize": 1
                                 },
                                 {
@@ -12315,8 +12315,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 674.7,
-                            "perServing": 168.7,
+                            "total": 675.7,
+                            "perServing": 168.9,
                             "unit": "kcal"
                         }
                     }
@@ -12403,8 +12403,8 @@
                                 {
                                     "quantity": 2,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -12461,8 +12461,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 783.1,
-                            "perServing": 195.8,
+                            "total": 795.2,
+                            "perServing": 198.8,
                             "unit": "kcal"
                         }
                     }
@@ -12535,8 +12535,8 @@
                                 {
                                     "quantity": 2,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -12549,8 +12549,8 @@
                                 {
                                     "quantity": 3,
                                     "unit": "g",
-                                    "ingredientId": "0ce6c16d-22b1-5ddd-aa40-c0edd5fb6ca2",
-                                    "calsPerUnit": 1.375,
+                                    "ingredientId": "69242363-c705-506b-a1cc-63996d4fc108",
+                                    "calsPerUnit": 5.06,
                                     "stepSize": 1
                                 }
                             ],
@@ -12605,8 +12605,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 781.6,
-                            "perServing": 195.4,
+                            "total": 782.6,
+                            "perServing": 195.7,
                             "unit": "kcal"
                         }
                     }
@@ -12687,8 +12687,8 @@
                                 {
                                     "quantity": 2,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -12749,8 +12749,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 533.5,
-                            "perServing": 133.4,
+                            "total": 534.5,
+                            "perServing": 133.6,
                             "unit": "kcal"
                         }
                     }
@@ -12842,8 +12842,8 @@
                                 {
                                     "quantity": 2,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -12906,8 +12906,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 476.5,
-                            "perServing": 238.3,
+                            "total": 477,
+                            "perServing": 238.5,
                             "unit": "kcal"
                         }
                     }
@@ -12980,8 +12980,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -13042,8 +13042,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 485.8,
-                            "perServing": 121.5,
+                            "total": 651.3,
+                            "perServing": 162.8,
                             "unit": "kcal"
                         }
                     }
@@ -13149,8 +13149,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 }
                             ],
@@ -13208,8 +13208,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 778.8,
-                            "perServing": 389.4,
+                            "total": 478.5,
+                            "perServing": 239.3,
                             "unit": "kcal"
                         }
                     }
@@ -13344,8 +13344,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 523.2,
-                            "perServing": 261.6,
+                            "total": 304.8,
+                            "perServing": 152.4,
                             "unit": "kcal"
                         }
                     }
@@ -13487,8 +13487,8 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 805,
-                            "perServing": 402.5,
+                            "total": 805.5,
+                            "perServing": 402.8,
                             "unit": "kcal"
                         }
                     }
@@ -13568,8 +13568,8 @@
                                 {
                                     "quantity": 1,
                                     "unit": "g",
-                                    "ingredientId": "3bd69f32-3baa-5897-8546-917dc0273af4",
-                                    "calsPerUnit": 2.5,
+                                    "ingredientId": "bcf964d3-9606-5c2c-8093-8688156451cf",
+                                    "calsPerUnit": 3.02,
                                     "stepSize": 1
                                 },
                                 {
@@ -13651,7 +13651,7 @@
                 "byRecipe": [
                     {
                         "calories": {
-                            "total": 1290.5,
+                            "total": 1291.6,
                             "perServing": 80.7,
                             "unit": "kcal"
                         }
