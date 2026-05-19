@@ -40,7 +40,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6929c6a3-63c6-58dd-a523-6a5d0e5c4a32",
@@ -88,7 +89,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "cb3c00db-4207-5202-ba61-c018cabc3e96",
@@ -117,7 +119,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -157,7 +159,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -434,7 +436,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "149359f3-8d6b-5144-93bb-0757a8794bd1",
@@ -469,7 +472,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "629cb100-c0ac-5c3c-a2d1-f0b6e572c979",
@@ -506,7 +510,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f1b265a4-ee9b-5b3d-90c4-7b0d92614ef6",
@@ -538,7 +543,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "fb6a6261-4244-58b4-a302-f8c87d99612c",
@@ -573,7 +579,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c08127f3-3f40-5490-9bfe-0af29ee5668a",
@@ -603,7 +610,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b55c1009-e7fe-5776-b57e-5976d9e1e72a",
@@ -631,7 +639,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -666,7 +674,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -702,7 +710,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -738,7 +746,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -773,7 +781,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1043,7 +1051,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1084,7 +1092,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1350,7 +1358,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1619,7 +1627,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1652,7 +1660,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1919,7 +1927,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -1960,7 +1968,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "83bd4e14-661a-506c-b444-f581e2747b36",
@@ -1984,7 +1993,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2021,7 +2030,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2060,7 +2069,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2104,7 +2113,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "62812451-9d79-5c05-9b2e-9917a1335d8b",
@@ -2143,7 +2153,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b0620b0f-734b-58aa-85a2-d33e5b153f94",
@@ -2176,7 +2187,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "eb7c037a-8652-5b5b-9bfb-97f027b33738",
@@ -2206,7 +2218,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "abf7b0c3-bcb5-506f-8cc1-39310284c116",
@@ -2236,7 +2249,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ed3fdd3f-d8f6-5e0d-be88-26166319f6c0",
@@ -2269,7 +2283,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "141d9bbe-b70f-5df2-9eb6-94e2f1fe78f2",
@@ -2297,7 +2312,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b639b72c-7dc5-56c6-b41b-28227ab04357",
@@ -2325,7 +2341,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d6179383-fc46-54b6-98d6-1cd7a5a1b205",
@@ -2355,7 +2372,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b1fa2a51-ac85-5694-8d1d-399b52ea398e",
@@ -2384,7 +2402,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3f4f163e-3c7d-51b8-a269-d3fc6f1371a7",
@@ -2423,7 +2442,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "8d70c02c-20fd-536c-811d-268d8b631bf5",
@@ -2454,7 +2474,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "dbed10de-9a90-5845-af7a-32ce82feaeab",
@@ -2477,7 +2498,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2523,7 +2544,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f3c33c81-ea6d-5139-9895-fa6208418457",
@@ -2542,7 +2564,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2584,7 +2606,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4d039efd-b824-5b1c-a262-b195802415d9",
@@ -2612,7 +2635,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "117cdd26-7298-5d74-82de-1761def24f76",
@@ -2631,7 +2655,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2662,7 +2686,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2694,7 +2718,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0a8cf285-b726-5ef1-90aa-545311eccfa0",
@@ -2718,7 +2743,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "729e90b4-2c4e-59e2-92c5-18524927d4bb",
@@ -2742,7 +2768,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "80805f93-395f-56dd-b5a5-886858d562eb",
@@ -2766,7 +2793,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e9ef3f4b-67ea-5b96-a598-a2b2ef0bdc21",
@@ -2796,7 +2824,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7ba67249-933b-5dff-b2b8-a15d177eae41",
@@ -2820,7 +2849,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1847bb0a-b1d6-5613-a969-0d4f25a763b5",
@@ -2851,7 +2881,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "fb20ebc7-4cc0-5520-8dec-2ac98d2fe95a",
@@ -2888,7 +2919,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f5359660-7bcd-5966-ac41-3b7ab585a6f4",
@@ -2923,7 +2955,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5c2c1c80-1414-5d92-9d5c-00c5d96f6bb8",
@@ -2950,7 +2983,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -2981,7 +3014,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3022,7 +3055,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "91811c6c-1642-5d1e-9472-a5457980cb52",
@@ -3049,7 +3083,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "db008888-0934-5382-a388-0131c4ac0b0d",
@@ -3084,7 +3119,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d201906f-62e0-5b8a-ba11-40c773e6eb6c",
@@ -3112,7 +3148,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a7ccfa86-429b-5adf-aa19-07ca5fc0a178",
@@ -3145,7 +3182,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6c9ea9c2-01ad-56be-9be1-ed7e041def1d",
@@ -3174,7 +3212,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "de6ad1b7-da1e-5ffa-b654-49e275c7d9aa",
@@ -3214,7 +3253,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f3328954-dd8e-525f-b3c8-bd634bcbe61b",
@@ -3239,7 +3279,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3273,7 +3313,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3312,7 +3352,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "63c0c259-b928-54bd-a63e-c42d595ea1f7",
@@ -3349,7 +3390,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1fc2a8e2-a555-59f8-abef-b7ac3e7c7095",
@@ -3367,7 +3409,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3417,7 +3459,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5116fbc2-30f1-5acf-b677-97fce9db8096",
@@ -3457,7 +3500,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7d673ae1-dcc2-5f43-aa6e-36766a76ac34",
@@ -3491,7 +3535,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2be814bb-27d3-52a6-8000-889e483ebaee",
@@ -3525,7 +3570,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b0b67d65-0346-58a8-bf47-4eba4e4ad68b",
@@ -3561,7 +3607,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "099fba4b-1d3e-5a77-ab5b-45ce58e5c15e",
@@ -3597,7 +3644,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3238bebc-a2dd-5d75-837a-5392e4730e38",
@@ -3630,7 +3678,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "37390069-c7a7-56db-a7cd-c927a1026ae3",
@@ -3648,7 +3697,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3696,7 +3745,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0cbbde7a-4abb-5e27-ad1b-798e224daf05",
@@ -3716,7 +3766,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3757,7 +3807,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "cf2c48c8-5fb0-5402-a0df-289b5a491f50",
@@ -3780,7 +3831,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -3826,7 +3877,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c46e7a46-9d1e-5dee-8f12-11c195de296b",
@@ -3855,7 +3907,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f3fc1ad8-37de-5cdf-89e2-e9e23ac480c8",
@@ -3880,7 +3933,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "279a0f11-8be3-5438-a9e9-eef0b25ec804",
@@ -3906,7 +3960,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0c97650e-1e5e-5486-a4b3-7ffeb9b949c9",
@@ -3934,7 +3989,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b8ea784a-c00f-5e27-b298-b42c0458b0da",
@@ -3961,7 +4017,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0db57d27-85e7-5a38-925f-c4dc0661322f",
@@ -3986,7 +4043,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f79a8915-b0d8-5afa-8096-d83adc349637",
@@ -4016,7 +4074,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "10f76fa7-946b-55ba-bf4b-7b2603963326",
@@ -4048,7 +4107,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a31c4fd7-01b2-5e3e-a48c-854ed362feba",
@@ -4077,7 +4137,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4338,7 +4398,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4372,7 +4432,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4405,7 +4465,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4678,7 +4738,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4941,7 +5001,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -4977,7 +5037,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5012,7 +5072,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5039,7 +5099,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5073,7 +5133,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5110,7 +5170,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5147,7 +5207,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c667d8d9-b171-5acd-909c-de36199c8021",
@@ -5183,7 +5244,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5229,7 +5290,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "97ffb627-951a-5c86-838c-36e40963a5b7",
@@ -5256,7 +5318,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5528,7 +5590,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7cce1de8-40db-5a79-8d03-fa35c7ae8388",
@@ -5551,7 +5614,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5583,7 +5646,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5615,7 +5678,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5642,7 +5705,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5668,7 +5731,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5927,7 +5990,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5958,7 +6021,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -5995,7 +6058,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "dbeb7d62-333a-5663-b889-10031f95feb9",
@@ -6029,7 +6093,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "579fd42c-a8e3-5ffa-91b3-cbc028754c86",
@@ -6059,7 +6124,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f0b1d03b-6342-59fc-b80b-956134a6370e",
@@ -6090,7 +6156,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "10db505f-093f-59e5-9bec-b61fa16e0c7a",
@@ -6130,7 +6197,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b67c5920-8dd3-5cc0-be53-0793710d61e0",
@@ -6170,7 +6238,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "00b99c72-aaeb-54a0-8346-b7e4438c50b8",
@@ -6196,7 +6265,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6463,7 +6532,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6506,7 +6575,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ad6768ec-7fde-573e-aafa-912c0da70b69",
@@ -6538,7 +6608,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "685715c5-3d51-5976-913e-797bb362b2a9",
@@ -6565,7 +6636,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6605,7 +6676,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b5d4c333-2d68-5129-b8e0-899ef3ede63a",
@@ -6636,7 +6708,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6671,7 +6743,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6706,7 +6778,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -6743,7 +6815,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7013,7 +7085,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ed1c5f9a-dffc-5d0b-90ab-79ff12f867b2",
@@ -7051,7 +7124,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4db88c61-2649-5f4c-8c43-da13ab360ce7",
@@ -7080,7 +7154,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "361ebc3b-4088-5dc3-9843-949ac97fecb3",
@@ -7119,7 +7194,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6822e8be-f7ce-5805-b105-5fa5c4f93fe3",
@@ -7155,7 +7231,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5ccea1ec-56ba-5888-9523-52541370629b",
@@ -7176,7 +7253,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7216,7 +7293,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7dfe893e-453e-5c95-b886-15d67c343579",
@@ -7241,7 +7319,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7275,7 +7353,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7311,7 +7389,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7567,7 +7645,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7594,7 +7672,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7632,7 +7710,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7667,7 +7745,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a9957928-04f2-52ce-8cd3-387b3213d507",
@@ -7706,7 +7785,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "9e70294b-3aea-5949-b20b-d6258e872f86",
@@ -7745,7 +7825,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c90d8aa5-0f14-5132-8c13-ac7c86dc2156",
@@ -7775,7 +7856,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7816,7 +7897,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -7847,7 +7928,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8124,7 +8205,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1e529a05-2063-522e-b199-c818f0cec48b",
@@ -8149,7 +8231,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8196,7 +8278,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a795d194-eeb7-5d9d-963d-2bead23696f5",
@@ -8234,7 +8317,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "637a8bb7-5a0f-5d30-9b0c-89705c25aa18",
@@ -8271,7 +8355,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "cbbf1e91-30d7-5ac0-ae17-41bc49f6f61d",
@@ -8299,7 +8384,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8335,7 +8420,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8368,7 +8453,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8409,7 +8494,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8438,7 +8523,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8470,7 +8555,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8523,7 +8608,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f3c058ab-0802-5920-90c8-26beb9e38aed",
@@ -8541,7 +8627,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8567,7 +8653,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8593,7 +8679,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8635,7 +8721,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "621413d8-e437-5971-9ae2-8e97e9dfb8e0",
@@ -8660,7 +8747,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8704,7 +8791,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "8ad3fe3c-c866-50ae-9ccd-642ee263ddc0",
@@ -8734,7 +8822,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8786,7 +8874,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bd4d82bd-ec10-5361-9761-a3dcf1bcd0bd",
@@ -8823,7 +8912,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b7962dbe-7451-5be1-9212-069098fedd0b",
@@ -8855,7 +8945,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "19be5a9f-2cd3-5d38-bc3d-3abfb5e98e94",
@@ -8887,7 +8978,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1e0d8fd8-f7e5-595c-a277-4a9dae4261f7",
@@ -8924,7 +9016,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5ee5b81b-87bf-5d10-a06d-7f78264c5abf",
@@ -8950,7 +9043,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -8987,7 +9080,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9017,7 +9110,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9284,7 +9377,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9332,7 +9425,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bd47b5eb-2f27-5e7c-8eb1-70b049c24a2c",
@@ -9365,7 +9459,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "8fe01cbe-f026-5d30-b39e-329a455d1953",
@@ -9395,7 +9490,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e3844407-7d67-5f3c-9cdc-56c7d51cf2ea",
@@ -9418,7 +9514,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9461,7 +9557,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a9fc5383-8984-589b-8d1d-e20b8779f6d1",
@@ -9498,7 +9595,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4156a02a-037a-5ba2-906f-7fd7386d4ad1",
@@ -9519,7 +9617,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9547,7 +9645,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9580,7 +9678,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ebaf7d26-ce70-5918-94ab-c9b80093f18d",
@@ -9606,7 +9705,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "49cee606-7fee-527a-8c94-7e418fbc5ac7",
@@ -9635,7 +9735,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9674,7 +9774,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9943,7 +10043,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -9978,7 +10078,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10024,7 +10124,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "04e28722-aca6-5e92-b35a-e0325424dfd4",
@@ -10050,7 +10151,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10082,7 +10183,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10120,7 +10221,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10146,7 +10247,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10194,7 +10295,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bf2f8dc2-f85d-5758-aeaf-6bc6cd823e76",
@@ -10236,7 +10338,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d75163a6-0152-5faa-8e2a-57b9858a0449",
@@ -10275,7 +10378,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4e0ba6a8-c9a2-5c6e-8256-4c7255b68760",
@@ -10316,7 +10420,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ee73f71d-9b08-59a8-8ea3-ec66ffdd8e24",
@@ -10336,7 +10441,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "fddf13c6-9280-566e-a6bf-8b56db841009",
@@ -10359,7 +10465,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10390,7 +10496,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10422,7 +10528,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10477,7 +10583,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2e23fbda-f791-5a34-9680-ffecab0dc040",
@@ -10510,7 +10617,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0e2640a4-793b-5ffe-ba71-706ece2e021d",
@@ -10547,7 +10655,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4e3f41c8-35b7-5c85-95aa-7f800966cd4f",
@@ -10582,7 +10691,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "54889840-6e33-5b2e-b4ff-dc98198d5ba2",
@@ -10617,7 +10727,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "467c356d-d735-55c4-81bd-7c48f413736f",
@@ -10646,7 +10757,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10682,7 +10793,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10719,7 +10830,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10762,7 +10873,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2d4ed20c-0740-51ca-a8e1-ad6dfd5bd029",
@@ -10796,7 +10908,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e54dfe4e-6e4e-5ee3-adf5-a5813177d1c7",
@@ -10832,7 +10945,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d5fbfe82-aab8-5ecf-8496-b76637039dd2",
@@ -10857,7 +10971,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": []
         },
         {
@@ -10892,7 +11006,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "06521337-4d0f-5448-bbb0-c450a9281fb8",
@@ -10934,7 +11049,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a5ab778b-ee52-5f27-8008-36f1eace8c3c",
@@ -10962,7 +11078,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -10999,7 +11115,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11046,7 +11162,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "72f9682a-8faa-5ccd-91b1-485e600ab464",
@@ -11081,7 +11198,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "13b415ff-22d6-50d3-8651-201fe245d6a0",
@@ -11106,7 +11224,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11133,7 +11251,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11173,7 +11291,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11220,7 +11338,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "82e4b9d4-1c67-5ac6-b280-ac4f266538db",
@@ -11260,7 +11379,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "81eca528-90a0-573c-b395-2a363f1f8674",
@@ -11290,7 +11410,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11326,7 +11446,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11360,7 +11480,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11396,7 +11516,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11425,7 +11545,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11454,7 +11574,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11485,7 +11605,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11739,7 +11859,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -11786,7 +11906,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b78bd32c-240a-5ec2-95ee-5f36dfe15e28",
@@ -11815,7 +11936,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12072,7 +12193,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12328,7 +12449,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12360,7 +12481,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12388,7 +12509,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12418,7 +12539,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12454,7 +12575,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12490,7 +12611,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12516,7 +12637,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12779,7 +12900,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -12824,7 +12945,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "05e08c1c-3814-52c3-82d1-414239eb2638",
@@ -12841,7 +12963,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13095,7 +13217,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13140,7 +13262,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "9f9b3c13-f147-59c0-a785-267d1cf46c87",
@@ -13178,7 +13301,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6b41ae0c-8b97-5125-981b-1fd17f7b83f8",
@@ -13216,7 +13340,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "650f6b06-2526-5aa2-aec7-60ffebbdf735",
@@ -13256,7 +13381,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2026f6ab-8a34-53e0-b905-0e43c5917732",
@@ -13287,7 +13413,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2d64dd42-5ccd-5db7-90ca-adf4ef3d8c28",
@@ -13326,7 +13453,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2152a6ba-25a9-52db-b132-42424da7e9d7",
@@ -13358,7 +13486,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13628,7 +13756,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13659,7 +13787,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13691,7 +13819,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13720,7 +13848,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -13985,7 +14113,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14250,7 +14378,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14280,7 +14408,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": []
         },
         {
@@ -14312,11 +14440,12 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5a8d1d75-6c2e-580d-9106-7fb9593a9ddc",
-            "name": "Rissóis de Queijo e Fiambre",
+            "name": "Rissol de Queijo e Fiambre",
             "keywords": [
                 "rissóis",
                 "rissol",
@@ -14336,7 +14465,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": []
         },
         {
@@ -14370,7 +14499,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b82e9766-df55-5229-9f66-1badf4cab888",
@@ -14410,7 +14540,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "26939b3b-fad2-5aef-8d9c-d52bef3e6fe9",
@@ -14433,7 +14564,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14475,7 +14606,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14501,7 +14632,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14534,7 +14665,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14571,7 +14702,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14833,7 +14964,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14866,7 +14997,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14891,7 +15022,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14925,7 +15056,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -14972,7 +15103,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2f9347ee-ef37-5813-8ae4-cb9435926885",
@@ -15005,7 +15137,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "45ea2404-e98f-5657-b4ed-f0405d243e4c",
@@ -15038,7 +15171,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a2e95471-d58b-5cc3-9559-c97a9310c04d",
@@ -15060,7 +15194,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15106,7 +15240,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "05907d15-06fa-5ffa-a0e6-21d0f536f3f1",
@@ -15136,7 +15271,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "45abfac1-5273-5d47-b940-15a02cd37076",
@@ -15179,7 +15315,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3346e76a-1c36-5cc6-bab4-168510bd5d21",
@@ -15216,7 +15353,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ae1e3d29-3b05-5937-a870-db79a398e1cb",
@@ -15254,7 +15392,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e648f7aa-5dce-52c1-86dd-6d0232a0f02b",
@@ -15285,7 +15424,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a96fee7f-4131-58f8-af3b-36ae80fd3704",
@@ -15324,7 +15464,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bdc6f54a-4547-54fa-98d8-d02af8fd7460",
@@ -15353,7 +15494,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15398,7 +15539,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "ea1759d7-f482-5874-ab7d-f9e062aa96c3",
@@ -15420,7 +15562,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15681,7 +15823,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15726,7 +15868,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "9cb04f31-f49d-5f9b-9269-01a0050f3673",
@@ -15765,7 +15908,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "907772fb-237a-5639-b8a2-285d3e0b1de0",
@@ -15804,7 +15948,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "aade78d9-8e36-5ee8-a5a0-45d2f2545ae8",
@@ -15842,7 +15987,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1151a82f-dbfd-5ddf-bb41-0a46d8aef79d",
@@ -15860,7 +16006,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15884,7 +16030,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -15913,7 +16059,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c26ffb4e-53ff-5f5d-9d69-f5f8b241225c",
@@ -15941,7 +16088,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f4e9f4b5-6164-597e-91e8-d74de3401b62",
@@ -15965,7 +16113,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6847bcce-9686-56f4-b4ae-aa48f48fc56a",
@@ -16003,7 +16152,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16048,7 +16197,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "00a476f6-646b-52cb-838c-a802c7dc0bf4",
@@ -16085,7 +16235,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "db46e1e2-ec05-5f4f-9d63-642d2b64c170",
@@ -16115,7 +16266,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6c9033ea-78da-5ee4-bd87-b18c00cdcc9c",
@@ -16157,7 +16309,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b4d3517b-bcfa-5376-b922-78cb71e03ab2",
@@ -16194,7 +16347,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3d561927-ad50-5a65-870b-15178e09cf5d",
@@ -16231,7 +16385,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "900991ac-38f0-5bd6-aa31-9aa7c3818f39",
@@ -16251,7 +16406,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16282,7 +16437,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16311,7 +16466,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16357,7 +16512,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "33e5beb6-b97a-571a-bb44-2a7cbb1f9b8b",
@@ -16391,7 +16547,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16425,7 +16581,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "213f3e5a-6457-5400-899e-83e936123b07",
@@ -16450,7 +16607,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16498,7 +16655,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c7007a27-1e3e-5b7f-a9f2-129b1d2dc20c",
@@ -16522,7 +16680,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16554,7 +16712,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16585,7 +16743,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16632,7 +16790,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c254b388-00ca-56e9-93ca-60c6beb30370",
@@ -16661,7 +16820,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "5eee4bc2-dca3-56a1-9f19-3775fc1c0d0a",
@@ -16692,7 +16852,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16732,7 +16892,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16775,7 +16935,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7b5a282a-120f-50f2-a061-4720a60a8669",
@@ -16810,7 +16971,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "02098903-91dc-5887-9630-a7024ba6f57a",
@@ -16849,7 +17011,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3af61d02-5ca9-5d01-a7b2-4787a80c35d3",
@@ -16881,7 +17044,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "383a3213-21f8-5198-a041-dabae8de33b6",
@@ -16909,7 +17073,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16940,7 +17104,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -16988,7 +17152,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "1a0b5cd6-292f-54c6-ad11-981d0a6a41d1",
@@ -17025,7 +17190,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "cc904072-88cb-5f6b-96b1-174cb7ad298e",
@@ -17070,7 +17236,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d00ba999-e64c-53af-9752-9db2d7e16c0f",
@@ -17116,7 +17283,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "9f7c2c1f-a9f2-5a76-a540-3b864501a23a",
@@ -17151,7 +17319,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "7d6836fd-f00d-5b20-b332-85964aa10bb0",
@@ -17191,7 +17360,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d94fea24-42bc-56ea-ae96-c5da8adb9765",
@@ -17228,7 +17398,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c026b0c4-e8ca-5a5d-ab95-f95b2d9a2348",
@@ -17258,7 +17429,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17287,7 +17458,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17332,7 +17503,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "be67dd89-f028-540f-9358-15c2d8e4b64f",
@@ -17363,7 +17535,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4ffc6626-5cf7-5b78-aab5-4c2c1cc3ff73",
@@ -17389,7 +17562,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17429,7 +17602,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "8509ca0c-727e-5b13-ad09-1556f198e003",
@@ -17470,7 +17644,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f5b0a089-b7f8-5d1e-a75e-9c018e3295eb",
@@ -17499,7 +17674,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "53d4bcaf-e25f-5118-8b36-f812e6089ae4",
@@ -17519,7 +17695,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17548,7 +17724,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17598,7 +17774,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "62d31adb-cc80-5a58-b1cd-3d4275d76231",
@@ -17644,7 +17821,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "672c37d7-0894-5826-931f-e71da53c2d61",
@@ -17683,7 +17861,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "db46cbe6-cf13-50ae-aa9a-595e97b36341",
@@ -17719,7 +17898,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "220900d7-37c1-5244-b06f-6aab976e1fbc",
@@ -17755,7 +17935,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3939e702-b849-515c-bc53-4f879beb124d",
@@ -17791,7 +17972,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a327044c-f826-5f63-8413-eeccae76845e",
@@ -17830,7 +18012,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0eb57c08-2be7-5016-bb9f-880414000767",
@@ -17854,7 +18037,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17891,7 +18074,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17920,7 +18103,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17950,7 +18133,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -17985,7 +18168,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18024,7 +18207,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "6b5a9d77-a64d-5013-becf-3085757260c6",
@@ -18063,7 +18247,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bb361dea-1c2e-5407-9746-e04286daa0f6",
@@ -18093,7 +18278,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e3bd61fb-9f8d-567c-a3e4-289cd308feba",
@@ -18132,7 +18318,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "12305e24-f165-581e-bcad-ecae92927f8b",
@@ -18154,7 +18341,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18411,7 +18598,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18450,7 +18637,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "63fd170a-acd1-590f-abed-4b42a7fe1bb3",
@@ -18472,7 +18660,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18515,7 +18703,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "fd0bcc4c-a3ff-5239-94cc-1712559a7601",
@@ -18539,7 +18728,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18579,7 +18768,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18611,7 +18800,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18657,7 +18846,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f8ea0ff3-244f-5415-a56c-7305bb8ec29f",
@@ -18678,7 +18868,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "e757b60b-46e6-5d39-b83c-c575e7cade53",
@@ -18700,7 +18891,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18727,7 +18918,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -18989,7 +19180,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19021,7 +19212,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19062,7 +19253,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bda08faf-c7eb-5f00-8130-0dc4979037be",
@@ -19093,7 +19285,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19141,7 +19333,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "40e46047-59ec-51e6-8b00-617f43a1812b",
@@ -19167,7 +19360,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "2549b9cf-b030-5bab-8ed7-311419bc5f21",
@@ -19205,7 +19399,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "3e9bb7b6-ebeb-5262-9c3f-8d2e7cb556ae",
@@ -19238,7 +19433,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "c5382887-4491-517b-b9cf-43153fb6f0a1",
@@ -19265,7 +19461,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19304,7 +19500,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b00043ac-910e-561b-91b3-34bc7f32fb58",
@@ -19326,7 +19523,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a962fa3a-c2f8-563e-b3ce-b6a487740864",
@@ -19366,7 +19564,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4e108803-f554-5797-aa61-7f4945424132",
@@ -19387,7 +19586,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19434,7 +19633,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "aae00152-1e3e-5070-be32-a8f0f561556a",
@@ -19472,7 +19672,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19508,7 +19708,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "bdac093f-e49a-59fc-8ae7-5af93fa499de",
@@ -19542,7 +19743,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f8c20d7b-323c-5b4e-ba43-e82f61846f46",
@@ -19564,7 +19766,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "d396892b-f1b8-5120-a7ac-4b13e9c69b6b",
@@ -19591,7 +19794,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19629,7 +19832,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f23cb55a-fb5c-54fb-9915-c19e61c9d22e",
@@ -19663,7 +19867,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "04704df0-226a-5ee3-9448-57232d294ae4",
@@ -19696,7 +19901,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "4f189582-84ba-58ec-ab06-f1482865580e",
@@ -19731,7 +19937,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "eacde447-d661-5da2-8b28-ff0a278d3218",
@@ -19755,7 +19962,8 @@
                 }
             ],
             "isPublic": false,
-            "nutritionalValues": []
+            "nutritionalValues": [],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "a40d5457-a4c7-52ee-b82e-dc25a5571700",
@@ -19781,7 +19989,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -19816,7 +20024,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -20096,7 +20304,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "42bc5ac6-c19e-56a6-8bdd-48e8e89ea999",
@@ -20127,7 +20336,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "8c5ed7ec-b80f-5209-931a-793d31f15294",
@@ -20160,7 +20370,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "f4536079-caae-51dd-a60c-5e47442a8950",
@@ -20193,7 +20404,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "0a605212-a17d-5b76-ab4f-ac3bad69b430",
@@ -20223,7 +20435,7 @@
                     "stepSize": 1
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -20268,7 +20480,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "cddbf1b0-0004-5162-b561-287053b328be",
@@ -20309,7 +20522,8 @@
                         "unit": "kcal"
                     }
                 }
-            ]
+            ],
+            "ownerId": "8a69e671-49f0-4a42-b114-431224c738e6"
         },
         {
             "id": "b5d4e4f8-5bb5-5bf3-b8e9-977fa520bb59",
@@ -20343,7 +20557,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
@@ -20378,7 +20592,7 @@
                     "stepSize": 0.5
                 }
             ],
-            "isPublic": false,
+            "isPublic": true,
             "nutritionalValues": [
                 {
                     "energy": {
