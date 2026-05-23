@@ -385,6 +385,15 @@ def correct(pt_source, english):
     r = r.replace('Bacalhau A Bras',   'Salt Cod à Brás')
     r = re.sub(r'\bBacalhau\b',        'Salt Cod',      r)
 
+    # Pão de Forma = Sliced Bread — specific compounds before generic
+    r = r.replace('Bread Forma Wheat Passas', 'Wheat Sliced Bread with Raisins')
+    r = r.replace('Bread Forma Wheat',        'Wheat Sliced Bread')
+    r = r.replace('Bread Forma',              'Sliced Bread')
+    r = r.replace('Bread Wheat Passas',       'Wholegrain Wheat Bread with Raisins')
+    r = re.sub(r'\bForma\b',                  'Sliced',        r)
+    # Passas = Raisins (also fixes "(passas)" parentheticals)
+    r = re.sub(r'\bPassas?\b',                'Raisins',       r, flags=re.IGNORECASE)
+
     # Broa (cornbread), Canja (chicken broth soup)
     r = re.sub(r'\bBroa\b',            'Cornbread',     r)
     r = re.sub(r'\bCanja\b',           'Chicken Broth Soup', r)
